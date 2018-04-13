@@ -137,6 +137,16 @@ public class wekaFunctions {
             eval.crossValidateModel(cls, data, 10, random);
             return eval.pctCorrect();
 	}
+        
+    public static double selfCVEval(Instances data) throws Exception
+	{
+            data.setClassIndex((data.numAttributes()-1));
+
+            FilteredClassifier cls = getFilteredClassifier();
+            Evaluation eval = new Evaluation(data);
+            eval.crossValidateModel(cls, data, 10, new Random(1));
+            return eval.pctCorrect();
+	}
 	
 	public static double eval(FilteredClassifier fc, Instances train, Instances test)  throws Exception
 	{

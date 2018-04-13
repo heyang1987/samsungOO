@@ -79,13 +79,13 @@ public class Samsung {
         System.out.println(multiInstanceArray.size());
         System.out.println("===========================================");
         System.out.println("");
-        for (int i = 0; i < 10; i++) {
+        for (int i = 0; i < 20; i++) {
+            System.out.println("");
+            System.out.println("/*****************************************/");
+            System.out.println("/*                REPEAT "+(i+1)+"               */");
+            System.out.println("/*****************************************/");
+            System.out.println("");
             merge(434);
-            System.out.println("/*****************************************/");
-            System.out.println("/*             REPEAT "+(i+1)+"                              /");
-            System.out.println("/*****************************************/");
-            System.out.println("");
-            System.out.println("");
         }
     }
     
@@ -144,22 +144,37 @@ public class Samsung {
 
             instancesArray.set(maxIndexLeftHand, maxPairInstance);
             instancesArray.remove(maxIndexRightHand);
+            System.out.println("Clusters size: " + instancesArray.size());
+            System.out.println(maxIndexLeftHand + "," + maxIndexRightHand + ": " + maxAccuracyDiff);
             
             if (ROUNDS - round < 4) {
-                System.out.println();
-                System.out.println( (ROUNDS-round+1) + "-Cluster:");
+                System.out.println();                
                 int totalTreeSize = 0;
                 double totalAccuracy=0;
                 for (int j = 0; j < instancesArray.size(); j++) {
-                    //System.out.print( "Classifier " + (j+1) +" for:     ");
-                    //System.out.println(instancesArray.get(j));
+                	System.out.println( "===========================");
+                	System.out.println( "Cluster:" + (j+1));
+                	System.out.println( "===========================");
+                	// Output userid in each cluster
+                	for (int i = 0; i < instancesArray.get(j).numInstances(); i = i + 12) {
+                        System.out.print( (int)instancesArray.get(j).instance(i).value(0) + ", ");
+                	}
+                	System.out.println();
+                	// number of users in the cluster
                     int numUsers = instancesArray.get(j).numInstances()/12;
+                    
+                    // classifier and tree size
                     FilteredClassifier cls = wekaFunctions.train(instancesArray.get(j));
                     String clsString = cls.getClassifier().toString();
                     System.out.println(clsString);
                     String str = clsString.substring(clsString.length()-4, clsString.length()-1).replaceAll(".*[^\\d](?=(\\d+))","");           
-                    int treeSize = Integer.parseInt(str);  
-                    double acc = wekaFunctions.eval(cls, instancesArray.get(j), instancesArray.get(j));
+                    int treeSize = Integer.parseInt(str);
+                    
+                    // cluster accuracy
+                    //double acc = wekaFunctions.eval(cls, instancesArray.get(j), instancesArray.get(j));
+                    // Cross Validation
+                    double acc = wekaFunctions.selfCVEval(instancesArray.get(j));
+                    
                     System.out.println("numUsers: " + numUsers);
                     System.out.println("treeSize: " + treeSize); 
                     System.out.println("Accuracy: " + acc);
@@ -173,9 +188,7 @@ public class Samsung {
                 System.out.println("Total Accuracy: " + totalAccuracy);
                 System.out.println("Avrge Accuracy: " + totalAccuracy/436);
                 System.out.println("Total    Value: " + totalAccuracy/totalTreeSize);
-            }
-            System.out.println("Clusters  size: " + instancesArray.size());
-            System.out.println(maxIndexLeftHand + "," + maxIndexRightHand + ": " + maxAccuracyDiff);
+            }            
             System.out.println("=======================================");
             System.out.println();
         }
