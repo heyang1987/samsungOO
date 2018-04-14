@@ -1,0 +1,12 @@
+498,secu,alert,cotv,remserv,reco,1
+498,wash,alert,cam,share,insight,0
+498,refr,preshouse,coalarm,remserv,nothing,0
+498,light,opauto,cohvac,locally,insight,1
+498,alarm,opauto,coassis,remserv,insight,0
+498,tv,lochouse,colight,remserv,opti,0
+498,hvac,preshouse,cosecu,locally,nothing,1
+498,wash,lochouse,corefri,locally,opti,1
+498,assis,alert,cowash,locally,reco,0
+498,hvac,opauto,locsens,share,opti,0
+498,light,preshouse,micro,share,reco,0
+498,assis,lochouse,watch,share,nothing,0

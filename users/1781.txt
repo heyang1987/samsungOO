@@ -1,0 +1,12 @@
+1781,alarm,alert,cohvac,remserv,nothing,1
+1781,hvac,lochouse,cam,locally,insight,1
+1781,refr,preshouse,locsens,locally,opti,0
+1781,wash,opauto,micro,locally,reco,1
+1781,refr,opauto,colight,share,insight,0
+1781,hvac,alert,coassis,share,reco,0
+1781,secu,lochouse,cowash,share,opti,0
+1781,secu,alert,coalarm,locally,nothing,1
+1781,light,preshouse,watch,remserv,opti,0
+1781,tv,opauto,corefri,remserv,reco,0
+1781,assis,lochouse,cosecu,remserv,insight,0
+1781,wash,preshouse,cotv,share,nothing,0

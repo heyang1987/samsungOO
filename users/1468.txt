@@ -1,0 +1,12 @@
+1468,light,lochouse,locsens,locally,reco,1
+1468,hvac,lochouse,cohvac,share,insight,0
+1468,alarm,lochouse,watch,remserv,reco,0
+1468,refr,opauto,coassis,locally,nothing,1
+1468,wash,opauto,cowash,share,reco,0
+1468,secu,opauto,cosecu,remserv,nothing,1
+1468,tv,preshouse,micro,remserv,insight,0
+1468,wash,preshouse,coalarm,locally,insight,1
+1468,light,alert,colight,share,nothing,0
+1468,hvac,alert,cotv,locally,opti,1
+1468,assis,alert,cam,remserv,opti,0
+1468,refr,preshouse,corefri,share,opti,0

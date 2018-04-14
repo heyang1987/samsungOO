@@ -1,0 +1,12 @@
+1827,tv,lochouse,cowash,remserv,opti,0
+1827,light,opauto,corefri,locally,insight,1
+1827,assis,alert,cohvac,locally,reco,1
+1827,light,preshouse,cam,share,reco,0
+1827,alarm,opauto,colight,remserv,insight,0
+1827,refr,preshouse,cotv,remserv,nothing,0
+1827,hvac,preshouse,watch,locally,nothing,1
+1827,assis,lochouse,micro,share,nothing,0
+1827,wash,lochouse,cosecu,locally,opti,0
+1827,secu,alert,coassis,remserv,reco,1
+1827,wash,alert,locsens,share,insight,0
+1827,hvac,opauto,coalarm,share,opti,0

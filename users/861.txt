@@ -1,0 +1,12 @@
+861,light,opauto,coalarm,share,opti,1
+861,hvac,alert,coassis,remserv,reco,1
+861,tv,opauto,corefri,locally,insight,1
+861,alarm,alert,cohvac,locally,reco,0
+861,assis,alert,locsens,share,insight,1
+861,assis,lochouse,cosecu,locally,opti,1
+861,refr,opauto,colight,remserv,insight,1
+861,light,preshouse,watch,locally,nothing,1
+861,alarm,lochouse,micro,share,nothing,1
+861,tv,preshouse,cam,share,reco,1
+861,secu,lochouse,cowash,remserv,opti,1
+861,wash,preshouse,cotv,remserv,nothing,1

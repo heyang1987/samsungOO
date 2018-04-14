@@ -1,0 +1,12 @@
+798,tv,lochouse,watch,share,insight,0
+798,refr,alert,cotv,remserv,opti,1
+798,assis,opauto,cohvac,locally,nothing,1
+798,alarm,opauto,cosecu,share,reco,1
+798,hvac,preshouse,coalarm,remserv,insight,1
+798,wash,lochouse,locsens,remserv,reco,0
+798,light,opauto,cam,remserv,nothing,1
+798,alarm,preshouse,colight,locally,insight,1
+798,assis,preshouse,micro,share,opti,0
+798,secu,lochouse,coassis,locally,reco,1
+798,secu,alert,corefri,share,nothing,0
+798,tv,alert,cowash,locally,opti,0

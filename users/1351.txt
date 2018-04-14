@@ -1,0 +1,12 @@
+1351,secu,preshouse,coassis,remserv,insight,1
+1351,light,alert,corefri,locally,opti,1
+1351,hvac,opauto,coalarm,remserv,nothing,1
+1351,wash,preshouse,locsens,share,opti,0
+1351,assis,opauto,micro,share,reco,0
+1351,refr,lochouse,cotv,remserv,reco,0
+1351,wash,opauto,cosecu,locally,nothing,0
+1351,tv,alert,watch,share,nothing,0
+1351,assis,preshouse,cohvac,locally,insight,1
+1351,light,lochouse,cam,share,insight,0
+1351,tv,lochouse,cowash,locally,reco,0
+1351,alarm,alert,colight,remserv,opti,1

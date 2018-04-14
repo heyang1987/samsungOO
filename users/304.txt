@@ -1,0 +1,12 @@
+304,refr,lochouse,cam,share,reco,0
+304,refr,alert,corefri,locally,insight,1
+304,light,alert,colight,remserv,insight,0
+304,alarm,alert,coalarm,share,opti,0
+304,wash,opauto,cowash,remserv,opti,1
+304,secu,preshouse,locsens,share,insight,0
+304,hvac,preshouse,cohvac,locally,reco,0
+304,alarm,lochouse,watch,locally,nothing,0
+304,tv,lochouse,cotv,remserv,nothing,0
+304,secu,opauto,cosecu,locally,opti,1
+304,assis,preshouse,coassis,remserv,reco,0
+304,hvac,opauto,micro,share,nothing,0

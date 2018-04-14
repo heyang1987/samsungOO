@@ -1,0 +1,12 @@
+1848,secu,preshouse,cohvac,locally,insight,1
+1848,secu,opauto,micro,share,reco,0
+1848,alarm,lochouse,cam,share,insight,0
+1848,hvac,alert,colight,remserv,opti,1
+1848,wash,preshouse,coassis,remserv,insight,1
+1848,alarm,alert,corefri,locally,opti,1
+1848,tv,opauto,cosecu,locally,nothing,1
+1848,assis,opauto,coalarm,remserv,nothing,1
+1848,light,lochouse,cotv,remserv,reco,0
+1848,tv,preshouse,locsens,share,opti,0
+1848,refr,alert,watch,share,nothing,0
+1848,refr,lochouse,cowash,locally,reco,0

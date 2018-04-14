@@ -1,0 +1,12 @@
+1765,assis,alert,locsens,share,insight,0
+1765,light,preshouse,watch,locally,nothing,1
+1765,secu,lochouse,cowash,remserv,opti,0
+1765,assis,lochouse,cosecu,locally,opti,1
+1765,tv,opauto,corefri,locally,insight,1
+1765,alarm,lochouse,micro,share,nothing,0
+1765,tv,preshouse,cam,share,reco,0
+1765,hvac,alert,coassis,remserv,reco,1
+1765,alarm,alert,cohvac,locally,reco,0
+1765,light,opauto,coalarm,share,opti,0
+1765,wash,preshouse,cotv,remserv,nothing,1
+1765,refr,opauto,colight,remserv,insight,1

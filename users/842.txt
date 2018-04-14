@@ -1,0 +1,12 @@
+842,light,opauto,colight,locally,reco,1
+842,assis,preshouse,coassis,remserv,opti,0
+842,hvac,opauto,micro,share,insight,0
+842,tv,lochouse,cotv,remserv,insight,0
+842,refr,alert,corefri,locally,nothing,1
+842,refr,lochouse,cam,share,opti,0
+842,wash,alert,watch,share,reco,1
+842,wash,lochouse,cowash,locally,insight,0
+842,hvac,preshouse,cohvac,locally,opti,1
+842,light,preshouse,cosecu,share,nothing,0
+842,alarm,opauto,coalarm,remserv,reco,1
+842,secu,alert,locsens,remserv,nothing,1

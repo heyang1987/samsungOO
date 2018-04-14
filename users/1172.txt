@@ -1,0 +1,12 @@
+1172,light,alert,cohvac,share,reco,1
+1172,alarm,lochouse,cam,remserv,insight,1
+1172,light,lochouse,cotv,locally,insight,0
+1172,tv,preshouse,locsens,remserv,opti,0
+1172,hvac,lochouse,cosecu,share,opti,1
+1172,wash,preshouse,coassis,locally,opti,1
+1172,secu,opauto,micro,remserv,reco,1
+1172,assis,opauto,coalarm,locally,reco,1
+1172,hvac,alert,colight,locally,nothing,1
+1172,assis,preshouse,cowash,share,nothing,1
+1172,wash,opauto,corefri,share,insight,1
+1172,refr,alert,watch,remserv,nothing,1

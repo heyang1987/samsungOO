@@ -1,0 +1,12 @@
+61,refr,lochouse,locsens,share,insight,0
+61,alarm,opauto,cotv,remserv,nothing,0
+61,wash,lochouse,cohvac,locally,reco,1
+61,refr,alert,cosecu,locally,opti,1
+61,hvac,preshouse,corefri,locally,insight,1
+61,tv,lochouse,coassis,remserv,reco,0
+61,wash,alert,micro,share,nothing,0
+61,secu,opauto,watch,locally,nothing,1
+61,light,alert,cowash,remserv,opti,0
+61,secu,preshouse,coalarm,share,opti,0
+61,assis,preshouse,colight,remserv,insight,0
+61,hvac,opauto,cam,share,reco,0

@@ -1,0 +1,12 @@
+1488,light,preshouse,cam,share,reco,0
+1488,refr,preshouse,cotv,remserv,nothing,0
+1488,assis,lochouse,micro,share,nothing,1
+1488,light,opauto,corefri,locally,insight,1
+1488,alarm,opauto,colight,remserv,insight,1
+1488,tv,lochouse,cowash,remserv,opti,1
+1488,wash,lochouse,cosecu,locally,opti,1
+1488,hvac,opauto,coalarm,share,opti,1
+1488,hvac,preshouse,watch,locally,nothing,1
+1488,secu,alert,coassis,remserv,reco,1
+1488,assis,alert,cohvac,locally,reco,1
+1488,wash,alert,locsens,share,insight,1

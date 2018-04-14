@@ -1,0 +1,12 @@
+228,secu,preshouse,coalarm,remserv,nothing,1
+228,hvac,alert,cam,share,insight,1
+228,light,alert,cowash,locally,reco,1
+228,wash,preshouse,micro,share,reco,1
+228,hvac,lochouse,corefri,locally,opti,0
+228,refr,preshouse,cosecu,locally,nothing,1
+228,assis,lochouse,colight,remserv,opti,1
+228,refr,opauto,locsens,share,opti,0
+228,tv,opauto,coassis,remserv,insight,1
+228,alarm,alert,cotv,remserv,reco,1
+228,wash,opauto,cohvac,locally,insight,1
+228,light,lochouse,watch,share,nothing,1

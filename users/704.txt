@@ -1,0 +1,12 @@
+704,hvac,preshouse,coalarm,share,insight,1
+704,assis,opauto,cohvac,remserv,opti,1
+704,refr,alert,cotv,share,opti,0
+704,refr,lochouse,micro,locally,nothing,0
+704,secu,lochouse,coassis,remserv,nothing,1
+704,wash,lochouse,locsens,share,reco,0
+704,wash,alert,cosecu,locally,insight,0
+704,light,opauto,cam,share,nothing,0
+704,alarm,preshouse,colight,remserv,reco,0
+704,light,preshouse,corefri,locally,reco,0
+704,hvac,opauto,watch,locally,opti,1
+704,tv,alert,cowash,remserv,insight,1

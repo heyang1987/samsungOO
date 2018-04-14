@@ -1,0 +1,12 @@
+1040,alarm,lochouse,locsens,remserv,insight,0
+1040,assis,preshouse,cohvac,share,nothing,1
+1040,wash,preshouse,colight,locally,opti,0
+1040,wash,opauto,cosecu,share,insight,0
+1040,assis,opauto,cotv,locally,reco,0
+1040,light,alert,corefri,share,reco,0
+1040,hvac,alert,cowash,locally,nothing,1
+1040,refr,alert,micro,remserv,nothing,1
+1040,tv,preshouse,coalarm,remserv,opti,0
+1040,secu,opauto,cam,remserv,reco,0
+1040,hvac,lochouse,watch,share,opti,0
+1040,light,lochouse,coassis,locally,insight,1

@@ -1,0 +1,12 @@
+1050,refr,alert,corefri,locally,opti,1
+1050,secu,preshouse,locsens,share,opti,1
+1050,light,alert,colight,remserv,opti,1
+1050,hvac,preshouse,cohvac,locally,insight,1
+1050,wash,lochouse,cowash,locally,reco,1
+1050,assis,preshouse,coassis,remserv,insight,0
+1050,refr,lochouse,cam,share,insight,0
+1050,tv,lochouse,cotv,remserv,reco,0
+1050,secu,opauto,cosecu,locally,nothing,1
+1050,wash,alert,watch,share,nothing,1
+1050,hvac,opauto,micro,share,reco,0
+1050,alarm,opauto,coalarm,remserv,nothing,1

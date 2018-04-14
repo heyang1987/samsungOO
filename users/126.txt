@@ -1,0 +1,12 @@
+126,hvac,opauto,colight,remserv,insight,1
+126,light,preshouse,cotv,remserv,nothing,0
+126,wash,alert,coassis,remserv,reco,0
+126,tv,lochouse,cosecu,locally,opti,0
+126,alarm,opauto,corefri,locally,insight,0
+126,secu,alert,cohvac,locally,reco,0
+126,alarm,preshouse,cam,share,reco,0
+126,tv,alert,locsens,share,insight,0
+126,refr,lochouse,cowash,remserv,opti,0
+126,assis,opauto,coalarm,share,opti,0
+126,secu,lochouse,micro,share,nothing,0
+126,assis,preshouse,watch,locally,nothing,1

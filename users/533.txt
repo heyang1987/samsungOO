@@ -1,0 +1,12 @@
+533,light,alert,cosecu,share,insight,0
+533,wash,opauto,watch,share,opti,0
+533,wash,preshouse,cowash,locally,nothing,0
+533,tv,lochouse,cohvac,share,nothing,0
+533,tv,alert,cotv,locally,reco,0
+533,refr,alert,cam,remserv,reco,0
+533,secu,opauto,locsens,remserv,insight,0
+533,light,lochouse,colight,locally,opti,0
+533,hvac,preshouse,micro,remserv,nothing,0
+533,alarm,lochouse,coalarm,remserv,opti,0
+533,assis,preshouse,corefri,share,reco,0
+533,assis,opauto,coassis,locally,insight,0

@@ -1,0 +1,12 @@
+1992,tv,opauto,micro,share,nothing,0
+1992,light,opauto,cosecu,locally,opti,1
+1992,refr,preshouse,coassis,remserv,reco,0
+1992,assis,alert,corefri,locally,insight,1
+1992,wash,alert,coalarm,share,opti,0
+1992,secu,alert,colight,remserv,insight,0
+1992,alarm,opauto,cowash,remserv,opti,0
+1992,hvac,lochouse,cotv,remserv,nothing,0
+1992,tv,preshouse,cohvac,locally,reco,0
+1992,assis,lochouse,cam,share,reco,0
+1992,light,preshouse,locsens,share,insight,0
+1992,wash,lochouse,watch,locally,nothing,0

@@ -1,0 +1,12 @@
+465,alarm,preshouse,cotv,share,opti,0
+465,wash,alert,cohvac,remserv,opti,1
+465,refr,preshouse,cosecu,locally,insight,1
+465,light,preshouse,cowash,remserv,insight,0
+465,assis,lochouse,colight,remserv,reco,1
+465,secu,lochouse,coalarm,share,insight,0
+465,alarm,opauto,micro,locally,nothing,1
+465,secu,alert,watch,locally,opti,1
+465,refr,opauto,locsens,share,reco,0
+465,hvac,alert,cam,share,nothing,0
+465,tv,opauto,coassis,remserv,nothing,0
+465,hvac,lochouse,corefri,locally,reco,1

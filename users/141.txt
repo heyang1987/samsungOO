@@ -1,0 +1,12 @@
+141,hvac,preshouse,micro,remserv,nothing,1
+141,assis,opauto,coassis,locally,insight,1
+141,assis,preshouse,corefri,share,reco,1
+141,wash,preshouse,cowash,locally,nothing,1
+141,wash,opauto,watch,share,opti,0
+141,light,alert,cosecu,share,insight,0
+141,tv,lochouse,cohvac,share,nothing,0
+141,secu,opauto,locsens,remserv,insight,0
+141,tv,alert,cotv,locally,reco,0
+141,refr,alert,cam,remserv,reco,0
+141,light,lochouse,colight,locally,opti,1
+141,alarm,lochouse,coalarm,remserv,opti,1

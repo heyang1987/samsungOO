@@ -1,0 +1,12 @@
+642,light,opauto,locsens,remserv,reco,1
+642,assis,alert,cam,remserv,nothing,1
+642,alarm,opauto,watch,share,insight,0
+642,refr,opauto,coassis,locally,reco,1
+642,wash,lochouse,coalarm,remserv,insight,1
+642,secu,lochouse,colight,locally,insight,1
+642,tv,lochouse,micro,share,opti,0
+642,secu,alert,cosecu,share,reco,1
+642,refr,preshouse,corefri,share,nothing,1
+642,tv,alert,cohvac,locally,nothing,1
+642,alarm,preshouse,cowash,locally,opti,1
+642,hvac,preshouse,cotv,remserv,opti,1

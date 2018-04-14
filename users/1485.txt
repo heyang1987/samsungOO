@@ -1,0 +1,12 @@
+1485,refr,preshouse,colight,remserv,opti,1
+1485,tv,opauto,cam,share,insight,1
+1485,alarm,alert,micro,share,reco,1
+1485,wash,opauto,cotv,remserv,reco,1
+1485,secu,preshouse,watch,share,nothing,1
+1485,light,alert,coalarm,remserv,nothing,1
+1485,assis,alert,cosecu,locally,nothing,1
+1485,tv,preshouse,corefri,locally,opti,0
+1485,hvac,lochouse,coassis,remserv,insight,1
+1485,assis,lochouse,locsens,share,opti,1
+1485,secu,opauto,cowash,locally,reco,0
+1485,alarm,lochouse,cohvac,locally,insight,0

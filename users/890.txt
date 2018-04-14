@@ -1,0 +1,12 @@
+890,hvac,opauto,cowash,locally,opti,1
+890,light,preshouse,coassis,locally,reco,1
+890,refr,alert,micro,share,opti,0
+890,light,opauto,corefri,share,nothing,0
+890,tv,alert,coalarm,remserv,insight,0
+890,secu,lochouse,cam,remserv,nothing,0
+890,alarm,preshouse,locsens,remserv,reco,0
+890,refr,lochouse,cohvac,locally,nothing,0
+890,wash,lochouse,cosecu,share,reco,0
+890,wash,alert,colight,locally,insight,1
+890,hvac,preshouse,watch,share,insight,0
+890,assis,opauto,cotv,remserv,opti,1

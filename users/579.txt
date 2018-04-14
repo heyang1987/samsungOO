@@ -1,0 +1,12 @@
+579,wash,preshouse,coalarm,share,opti,0
+579,light,lochouse,locsens,share,insight,1
+579,tv,alert,micro,share,nothing,0
+579,hvac,opauto,cotv,remserv,nothing,1
+579,refr,lochouse,coassis,remserv,reco,1
+579,alarm,alert,cowash,remserv,opti,1
+579,assis,preshouse,corefri,locally,insight,1
+579,assis,opauto,cam,share,reco,1
+579,tv,lochouse,cohvac,locally,reco,1
+579,secu,preshouse,colight,remserv,insight,1
+579,wash,opauto,watch,locally,nothing,1
+579,light,alert,cosecu,locally,opti,1

@@ -1,0 +1,12 @@
+785,refr,opauto,colight,share,reco,0
+785,light,preshouse,watch,remserv,insight,1
+785,secu,alert,coalarm,locally,opti,1
+785,hvac,lochouse,cam,locally,reco,0
+785,alarm,preshouse,cohvac,share,opti,0
+785,alarm,opauto,cotv,locally,nothing,1
+785,refr,preshouse,locsens,locally,insight,1
+785,secu,lochouse,cowash,share,insight,0
+785,wash,alert,micro,remserv,opti,1
+785,hvac,alert,coassis,share,nothing,0
+785,tv,opauto,corefri,remserv,nothing,1
+785,assis,lochouse,cosecu,remserv,reco,0

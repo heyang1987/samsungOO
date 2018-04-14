@@ -1,0 +1,12 @@
+261,secu,alert,colight,locally,insight,1
+261,tv,alert,micro,share,opti,1
+261,refr,preshouse,coassis,locally,reco,1
+261,hvac,opauto,cotv,remserv,opti,1
+261,refr,opauto,corefri,share,nothing,1
+261,alarm,preshouse,watch,share,insight,1
+261,assis,lochouse,cam,remserv,nothing,1
+261,tv,lochouse,cohvac,locally,nothing,1
+261,alarm,opauto,cowash,locally,opti,1
+261,secu,lochouse,cosecu,share,reco,0
+261,light,preshouse,locsens,remserv,reco,0
+261,wash,alert,coalarm,remserv,insight,1

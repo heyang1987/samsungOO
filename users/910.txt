@@ -1,0 +1,12 @@
+910,alarm,opauto,micro,share,nothing,0
+910,secu,opauto,cowash,remserv,opti,0
+910,tv,lochouse,cam,share,reco,0
+910,tv,alert,corefri,locally,insight,1
+910,refr,alert,colight,remserv,insight,1
+910,assis,opauto,cosecu,locally,opti,1
+910,wash,lochouse,cotv,remserv,nothing,0
+910,assis,preshouse,locsens,share,insight,0
+910,alarm,preshouse,cohvac,locally,reco,1
+910,light,alert,coalarm,share,opti,0
+910,hvac,preshouse,coassis,remserv,reco,0
+910,light,lochouse,watch,locally,nothing,1

@@ -1,0 +1,12 @@
+35,light,opauto,locsens,locally,insight,1
+35,refr,preshouse,corefri,remserv,nothing,0
+35,light,preshouse,colight,share,reco,1
+35,tv,lochouse,micro,remserv,opti,1
+35,hvac,preshouse,cotv,locally,nothing,1
+35,assis,lochouse,coassis,share,nothing,1
+35,assis,alert,cam,locally,reco,1
+35,wash,alert,cowash,share,insight,1
+35,secu,alert,cosecu,remserv,reco,1
+35,wash,lochouse,coalarm,locally,opti,1
+35,alarm,opauto,watch,remserv,insight,1
+35,hvac,opauto,cohvac,share,opti,1

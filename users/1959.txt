@@ -1,0 +1,12 @@
+1959,alarm,alert,micro,locally,nothing,1
+1959,refr,lochouse,cosecu,locally,insight,1
+1959,secu,preshouse,watch,locally,opti,1
+1959,wash,preshouse,cohvac,remserv,opti,1
+1959,secu,opauto,coalarm,share,insight,1
+1959,hvac,preshouse,cam,share,nothing,1
+1959,hvac,opauto,corefri,locally,reco,1
+1959,assis,opauto,colight,remserv,reco,1
+1959,alarm,lochouse,cotv,share,opti,1
+1959,refr,alert,locsens,share,reco,1
+1959,tv,alert,coassis,remserv,nothing,1
+1959,light,lochouse,cowash,remserv,insight,1

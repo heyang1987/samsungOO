@@ -1,0 +1,12 @@
+1552,hvac,alert,cam,locally,reco,1
+1552,refr,preshouse,colight,share,reco,0
+1552,assis,alert,cosecu,remserv,reco,0
+1552,refr,opauto,locsens,locally,insight,1
+1552,alarm,preshouse,cotv,locally,nothing,0
+1552,hvac,lochouse,coassis,share,nothing,0
+1552,alarm,opauto,cohvac,share,opti,0
+1552,secu,alert,cowash,share,insight,0
+1552,secu,lochouse,coalarm,locally,opti,0
+1552,wash,lochouse,micro,remserv,opti,0
+1552,light,opauto,watch,remserv,insight,1
+1552,tv,preshouse,corefri,remserv,nothing,0

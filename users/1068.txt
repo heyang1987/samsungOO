@@ -1,0 +1,12 @@
+1068,alarm,preshouse,cosecu,remserv,opti,1
+1068,hvac,alert,cowash,remserv,nothing,1
+1068,light,opauto,coassis,share,insight,0
+1068,wash,alert,locsens,locally,nothing,0
+1068,refr,opauto,cohvac,remserv,reco,0
+1068,tv,opauto,watch,locally,reco,1
+1068,assis,alert,cotv,share,reco,0
+1068,light,preshouse,cam,locally,opti,1
+1068,secu,lochouse,corefri,remserv,insight,0
+1068,tv,preshouse,coalarm,share,nothing,0
+1068,assis,lochouse,micro,locally,insight,1
+1068,wash,lochouse,colight,share,opti,0

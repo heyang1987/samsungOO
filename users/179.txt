@@ -1,0 +1,12 @@
+179,hvac,opauto,cosecu,locally,reco,1
+179,secu,opauto,cotv,share,insight,0
+179,secu,preshouse,micro,locally,opti,1
+179,refr,lochouse,watch,locally,insight,1
+179,tv,alert,colight,remserv,nothing,1
+179,light,lochouse,cohvac,remserv,insight,1
+179,assis,opauto,cowash,remserv,reco,1
+179,hvac,preshouse,locsens,share,nothing,1
+179,refr,alert,coalarm,share,reco,1
+179,alarm,alert,cam,locally,nothing,1
+179,alarm,lochouse,coassis,share,opti,1
+179,wash,preshouse,corefri,remserv,opti,1

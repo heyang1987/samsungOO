@@ -1,0 +1,12 @@
+321,hvac,alert,coassis,share,insight,1
+321,assis,lochouse,cosecu,remserv,opti,0
+321,refr,preshouse,locsens,locally,nothing,0
+321,alarm,alert,cohvac,remserv,reco,0
+321,hvac,lochouse,cam,locally,opti,1
+321,tv,opauto,corefri,remserv,insight,0
+321,wash,opauto,micro,locally,insight,1
+321,secu,preshouse,cowash,remserv,nothing,0
+321,light,lochouse,coalarm,share,nothing,0
+321,wash,preshouse,cotv,share,reco,0
+321,refr,opauto,colight,share,opti,0
+321,light,alert,watch,locally,reco,1

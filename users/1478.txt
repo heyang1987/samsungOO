@@ -1,0 +1,12 @@
+1478,light,alert,colight,remserv,insight,1
+1478,refr,alert,corefri,locally,insight,1
+1478,hvac,preshouse,cohvac,locally,reco,1
+1478,alarm,alert,coalarm,share,opti,1
+1478,refr,lochouse,cam,share,reco,1
+1478,alarm,lochouse,watch,locally,nothing,1
+1478,secu,opauto,cosecu,locally,opti,1
+1478,wash,opauto,cowash,remserv,opti,1
+1478,hvac,opauto,micro,share,nothing,1
+1478,tv,lochouse,cotv,remserv,nothing,1
+1478,secu,preshouse,locsens,share,insight,1
+1478,assis,preshouse,coassis,remserv,reco,1

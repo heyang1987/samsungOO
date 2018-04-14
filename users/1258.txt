@@ -1,0 +1,12 @@
+1258,refr,alert,micro,locally,insight,0
+1258,hvac,preshouse,watch,locally,reco,1
+1258,refr,lochouse,cotv,share,reco,0
+1258,hvac,opauto,coalarm,share,nothing,1
+1258,light,alert,corefri,remserv,insight,0
+1258,alarm,alert,colight,share,opti,0
+1258,assis,preshouse,cohvac,remserv,reco,0
+1258,secu,preshouse,coassis,share,insight,0
+1258,secu,opauto,cam,locally,opti,1
+1258,wash,opauto,cosecu,remserv,opti,0
+1258,alarm,lochouse,locsens,locally,nothing,0
+1258,tv,lochouse,cowash,remserv,nothing,0

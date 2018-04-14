@@ -1,0 +1,12 @@
+1948,refr,lochouse,corefri,share,reco,0
+1948,light,alert,locsens,remserv,insight,1
+1948,assis,preshouse,cam,remserv,reco,0
+1948,secu,opauto,colight,locally,opti,1
+1948,refr,alert,coassis,locally,insight,1
+1948,tv,lochouse,micro,remserv,nothing,0
+1948,hvac,opauto,cohvac,share,nothing,0
+1948,hvac,preshouse,cotv,locally,reco,1
+1948,alarm,alert,watch,share,opti,0
+1948,secu,preshouse,cosecu,share,insight,0
+1948,alarm,lochouse,cowash,locally,nothing,1
+1948,wash,opauto,coalarm,remserv,opti,0

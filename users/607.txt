@@ -1,0 +1,12 @@
+607,light,alert,cam,share,opti,0
+607,tv,lochouse,watch,share,reco,0
+607,alarm,opauto,cosecu,share,nothing,1
+607,refr,alert,cotv,remserv,insight,1
+607,assis,opauto,cohvac,locally,opti,1
+607,alarm,preshouse,colight,locally,reco,1
+607,tv,alert,cowash,locally,insight,1
+607,assis,preshouse,micro,share,insight,0
+607,hvac,preshouse,coalarm,remserv,reco,0
+607,wash,lochouse,locsens,remserv,nothing,0
+607,secu,opauto,coassis,remserv,opti,0
+607,light,lochouse,corefri,locally,nothing,1

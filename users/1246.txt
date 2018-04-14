@@ -1,0 +1,12 @@
+1246,tv,lochouse,colight,share,insight,0
+1246,hvac,preshouse,cosecu,remserv,insight,0
+1246,alarm,preshouse,cam,locally,insight,0
+1246,tv,alert,locsens,locally,opti,0
+1246,light,opauto,cohvac,remserv,nothing,0
+1246,wash,lochouse,corefri,remserv,reco,0
+1246,alarm,opauto,coassis,share,reco,0
+1246,assis,opauto,coalarm,locally,nothing,0
+1246,secu,alert,cotv,share,nothing,0
+1246,secu,lochouse,micro,locally,reco,0
+1246,assis,preshouse,cowash,share,opti,0
+1246,refr,alert,watch,remserv,opti,0

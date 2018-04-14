@@ -1,0 +1,12 @@
+1756,hvac,opauto,cohvac,locally,insight,1
+1756,secu,preshouse,cosecu,locally,nothing,1
+1756,secu,lochouse,locsens,share,opti,0
+1756,alarm,alert,coalarm,remserv,nothing,1
+1756,hvac,alert,micro,share,reco,0
+1756,tv,opauto,cotv,remserv,reco,0
+1756,refr,lochouse,corefri,locally,opti,0
+1756,refr,opauto,cam,share,insight,0
+1756,wash,alert,cowash,locally,reco,0
+1756,wash,preshouse,watch,share,nothing,0
+1756,light,preshouse,colight,remserv,opti,1
+1756,assis,lochouse,coassis,remserv,insight,0

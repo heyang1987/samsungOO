@@ -1,0 +1,12 @@
+541,refr,opauto,cam,share,opti,1
+541,secu,preshouse,locsens,remserv,nothing,0
+541,wash,preshouse,watch,share,reco,0
+541,hvac,alert,micro,share,insight,1
+541,wash,opauto,cowash,locally,insight,1
+541,assis,lochouse,coassis,remserv,opti,1
+541,hvac,lochouse,cohvac,locally,opti,1
+541,tv,opauto,cotv,remserv,insight,1
+541,alarm,alert,coalarm,remserv,reco,1
+541,light,alert,colight,locally,reco,1
+541,refr,preshouse,corefri,locally,nothing,1
+541,light,lochouse,cosecu,share,nothing,1

@@ -1,0 +1,12 @@
+1751,tv,preshouse,watch,share,opti,1
+1751,refr,alert,cohvac,share,nothing,1
+1751,secu,opauto,corefri,share,reco,1
+1751,refr,lochouse,cotv,locally,reco,1
+1751,alarm,alert,colight,locally,opti,1
+1751,assis,opauto,micro,remserv,nothing,1
+1751,light,lochouse,cam,remserv,reco,1
+1751,tv,opauto,cowash,locally,nothing,1
+1751,alarm,lochouse,cosecu,share,insight,1
+1751,hvac,alert,coalarm,remserv,opti,1
+1751,wash,preshouse,locsens,remserv,insight,1
+1751,secu,preshouse,coassis,locally,insight,1

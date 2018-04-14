@@ -1,0 +1,12 @@
+740,light,alert,cohvac,locally,opti,0
+740,refr,lochouse,coalarm,remserv,reco,1
+740,assis,preshouse,cowash,locally,insight,1
+740,light,lochouse,micro,share,insight,0
+740,tv,lochouse,colight,locally,reco,1
+740,hvac,opauto,locsens,remserv,nothing,1
+740,assis,opauto,watch,share,reco,0
+740,wash,opauto,corefri,locally,nothing,0
+740,tv,alert,cosecu,share,nothing,0
+740,wash,preshouse,cam,share,opti,0
+740,alarm,alert,coassis,remserv,opti,1
+740,secu,preshouse,cotv,remserv,insight,1

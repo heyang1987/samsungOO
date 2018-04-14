@@ -1,0 +1,12 @@
+1363,secu,opauto,watch,remserv,reco,0
+1363,wash,opauto,cohvac,share,insight,0
+1363,assis,preshouse,colight,share,nothing,0
+1363,light,alert,cowash,share,reco,0
+1363,wash,preshouse,cotv,locally,opti,0
+1363,assis,opauto,locsens,locally,reco,0
+1363,hvac,lochouse,corefri,share,opti,0
+1363,alarm,lochouse,micro,remserv,insight,0
+1363,hvac,alert,coassis,locally,nothing,0
+1363,light,lochouse,coalarm,locally,insight,0
+1363,tv,preshouse,cam,remserv,opti,0
+1363,refr,alert,cosecu,remserv,nothing,0

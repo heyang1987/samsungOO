@@ -1,0 +1,12 @@
+1526,hvac,alert,cowash,remserv,reco,1
+1526,alarm,alert,cosecu,locally,reco,0
+1526,secu,lochouse,corefri,remserv,opti,0
+1526,tv,opauto,watch,locally,insight,0
+1526,refr,opauto,cohvac,remserv,insight,0
+1526,assis,alert,cotv,share,insight,0
+1526,assis,lochouse,micro,locally,opti,0
+1526,alarm,lochouse,locsens,share,nothing,0
+1526,light,opauto,coassis,share,opti,0
+1526,tv,preshouse,coalarm,share,reco,0
+1526,light,preshouse,cam,locally,nothing,0
+1526,wash,preshouse,colight,remserv,nothing,0

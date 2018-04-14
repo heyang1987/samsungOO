@@ -1,0 +1,12 @@
+312,refr,alert,micro,remserv,nothing,0
+312,wash,opauto,cosecu,share,insight,0
+312,tv,preshouse,coalarm,remserv,opti,0
+312,secu,opauto,cam,remserv,reco,0
+312,light,alert,corefri,share,reco,0
+312,alarm,lochouse,locsens,remserv,insight,0
+312,light,lochouse,coassis,locally,insight,0
+312,wash,preshouse,colight,locally,opti,0
+312,hvac,alert,cowash,locally,nothing,0
+312,hvac,lochouse,watch,share,opti,0
+312,assis,preshouse,cohvac,share,nothing,0
+312,assis,opauto,cotv,locally,reco,0

@@ -1,0 +1,12 @@
+1289,hvac,lochouse,corefri,remserv,insight,1
+1289,tv,opauto,coassis,share,insight,0
+1289,refr,preshouse,cosecu,remserv,opti,1
+1289,secu,opauto,watch,locally,reco,1
+1289,alarm,alert,cotv,share,reco,0
+1289,assis,lochouse,colight,share,opti,0
+1289,tv,preshouse,cam,locally,opti,1
+1289,light,alert,cowash,remserv,nothing,0
+1289,assis,alert,locsens,locally,nothing,1
+1289,secu,preshouse,coalarm,share,nothing,0
+1289,alarm,lochouse,micro,locally,insight,1
+1289,wash,opauto,cohvac,remserv,reco,1

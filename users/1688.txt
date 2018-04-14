@@ -1,0 +1,12 @@
+1688,refr,alert,cotv,remserv,reco,0
+1688,tv,alert,cowash,locally,reco,0
+1688,wash,opauto,locsens,share,opti,0
+1688,light,lochouse,corefri,locally,opti,1
+1688,hvac,preshouse,coalarm,remserv,nothing,0
+1688,assis,opauto,cohvac,locally,insight,1
+1688,wash,preshouse,cosecu,locally,nothing,0
+1688,tv,lochouse,watch,share,nothing,0
+1688,assis,preshouse,micro,share,reco,0
+1688,secu,opauto,coassis,remserv,insight,0
+1688,light,alert,cam,share,insight,0
+1688,alarm,lochouse,colight,remserv,opti,0

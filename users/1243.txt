@@ -1,0 +1,12 @@
+1243,tv,preshouse,colight,share,nothing,0
+1243,light,opauto,cohvac,share,insight,0
+1243,refr,opauto,watch,remserv,reco,1
+1243,wash,alert,coassis,locally,nothing,1
+1243,wash,lochouse,corefri,share,opti,0
+1243,assis,lochouse,coalarm,locally,insight,1
+1243,secu,lochouse,micro,remserv,insight,0
+1243,tv,opauto,locsens,locally,reco,1
+1243,assis,alert,cowash,share,reco,0
+1243,hvac,alert,cosecu,remserv,nothing,1
+1243,light,preshouse,cotv,locally,opti,1
+1243,alarm,preshouse,cam,remserv,opti,0

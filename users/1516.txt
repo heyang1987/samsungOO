@@ -1,0 +1,12 @@
+1516,wash,opauto,cohvac,locally,opti,1
+1516,refr,lochouse,locsens,remserv,nothing,0
+1516,hvac,lochouse,corefri,locally,nothing,0
+1516,wash,preshouse,micro,share,insight,0
+1516,alarm,alert,cotv,remserv,insight,1
+1516,assis,preshouse,colight,locally,reco,1
+1516,secu,preshouse,coalarm,remserv,reco,1
+1516,hvac,alert,cam,share,opti,0
+1516,assis,opauto,cosecu,share,nothing,1
+1516,light,lochouse,watch,share,reco,1
+1516,light,alert,cowash,locally,insight,1
+1516,tv,opauto,coassis,remserv,opti,1

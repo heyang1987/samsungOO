@@ -1,0 +1,12 @@
+1804,refr,opauto,cowash,share,nothing,0
+1804,assis,lochouse,watch,remserv,nothing,1
+1804,light,preshouse,micro,remserv,reco,1
+1804,wash,alert,cam,remserv,insight,0
+1804,alarm,preshouse,corefri,share,insight,0
+1804,tv,alert,cosecu,share,opti,1
+1804,alarm,opauto,coassis,locally,opti,1
+1804,hvac,opauto,locsens,remserv,opti,1
+1804,secu,lochouse,cohvac,share,reco,0
+1804,refr,preshouse,coalarm,locally,reco,1
+1804,tv,lochouse,colight,locally,nothing,1
+1804,secu,alert,cotv,locally,insight,1

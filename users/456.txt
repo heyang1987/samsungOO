@@ -1,0 +1,12 @@
+456,wash,preshouse,corefri,locally,nothing,0
+456,wash,opauto,cam,share,opti,0
+456,alarm,lochouse,coassis,remserv,opti,1
+456,assis,preshouse,watch,share,reco,0
+456,tv,alert,colight,locally,reco,1
+456,tv,lochouse,cosecu,share,nothing,0
+456,light,lochouse,cohvac,locally,opti,1
+456,secu,opauto,cotv,remserv,insight,0
+456,light,alert,micro,share,insight,0
+456,hvac,preshouse,locsens,remserv,nothing,0
+456,refr,alert,coalarm,remserv,reco,0
+456,assis,opauto,cowash,locally,insight,1

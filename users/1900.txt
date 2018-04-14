@@ -1,0 +1,12 @@
+1900,refr,opauto,cowash,share,opti,0
+1900,hvac,alert,colight,share,insight,1
+1900,assis,lochouse,watch,remserv,opti,1
+1900,light,lochouse,cotv,share,nothing,0
+1900,wash,opauto,cam,locally,insight,0
+1900,alarm,alert,corefri,remserv,reco,0
+1900,hvac,lochouse,locsens,locally,opti,1
+1900,refr,preshouse,coalarm,locally,nothing,0
+1900,tv,opauto,cosecu,remserv,insight,1
+1900,secu,preshouse,cohvac,remserv,nothing,1
+1900,light,alert,micro,locally,reco,1
+1900,wash,preshouse,coassis,share,reco,1

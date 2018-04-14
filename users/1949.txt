@@ -1,0 +1,12 @@
+1949,refr,preshouse,watch,locally,nothing,1
+1949,hvac,lochouse,cosecu,locally,opti,1
+1949,light,lochouse,micro,share,nothing,1
+1949,alarm,alert,coassis,remserv,reco,1
+1949,refr,opauto,coalarm,share,opti,0
+1949,tv,opauto,colight,remserv,insight,1
+1949,secu,preshouse,cotv,remserv,nothing,1
+1949,wash,preshouse,cam,share,reco,0
+1949,assis,lochouse,cowash,remserv,opti,1
+1949,light,alert,cohvac,locally,reco,1
+1949,wash,opauto,corefri,locally,insight,0
+1949,hvac,alert,locsens,share,insight,0

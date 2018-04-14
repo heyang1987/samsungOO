@@ -1,0 +1,12 @@
+200,light,alert,watch,share,insight,0
+200,assis,opauto,colight,locally,insight,1
+200,tv,lochouse,corefri,share,nothing,0
+200,secu,opauto,coalarm,remserv,insight,1
+200,light,lochouse,cowash,locally,opti,1
+200,wash,preshouse,cohvac,locally,nothing,1
+200,hvac,preshouse,cam,remserv,nothing,0
+200,alarm,lochouse,cotv,remserv,opti,0
+200,refr,alert,locsens,remserv,reco,1
+200,wash,opauto,micro,share,opti,0
+200,tv,alert,coassis,locally,reco,0
+200,assis,preshouse,cosecu,share,reco,0

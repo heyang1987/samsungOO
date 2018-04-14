@@ -1,0 +1,12 @@
+406,refr,opauto,coassis,remserv,opti,1
+406,wash,preshouse,coalarm,remserv,reco,1
+406,assis,alert,cam,share,opti,0
+406,light,lochouse,locsens,remserv,nothing,1
+406,alarm,lochouse,watch,share,reco,0
+406,hvac,alert,cotv,remserv,insight,1
+406,secu,preshouse,colight,locally,reco,1
+406,assis,lochouse,corefri,locally,nothing,1
+406,tv,preshouse,micro,share,insight,0
+406,tv,opauto,cohvac,locally,opti,1
+406,alarm,alert,cowash,locally,insight,1
+406,secu,opauto,cosecu,share,nothing,0

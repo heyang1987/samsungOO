@@ -1,0 +1,12 @@
+1361,tv,preshouse,corefri,remserv,nothing,1
+1361,alarm,opauto,cohvac,share,opti,1
+1361,refr,opauto,locsens,locally,insight,1
+1361,assis,alert,cosecu,remserv,reco,1
+1361,light,opauto,watch,remserv,insight,1
+1361,wash,lochouse,micro,remserv,opti,1
+1361,hvac,alert,cam,locally,reco,1
+1361,refr,preshouse,colight,share,reco,1
+1361,alarm,preshouse,cotv,locally,nothing,1
+1361,secu,alert,cowash,share,insight,1
+1361,secu,lochouse,coalarm,locally,opti,1
+1361,hvac,lochouse,coassis,share,nothing,1

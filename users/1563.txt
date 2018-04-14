@@ -1,0 +1,12 @@
+1563,assis,lochouse,cotv,remserv,insight,1
+1563,hvac,alert,watch,share,reco,1
+1563,tv,opauto,coalarm,remserv,reco,1
+1563,light,preshouse,coassis,remserv,opti,1
+1563,refr,preshouse,cohvac,locally,opti,1
+1563,wash,preshouse,cosecu,share,nothing,1
+1563,hvac,lochouse,cowash,locally,insight,1
+1563,refr,opauto,micro,share,insight,1
+1563,alarm,alert,locsens,remserv,nothing,1
+1563,wash,opauto,colight,locally,reco,1
+1563,secu,lochouse,cam,share,opti,1
+1563,secu,alert,corefri,locally,nothing,1

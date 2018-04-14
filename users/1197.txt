@@ -1,0 +1,12 @@
+1197,hvac,opauto,cosecu,locally,nothing,0
+1197,alarm,preshouse,coassis,remserv,insight,1
+1197,wash,alert,corefri,locally,opti,1
+1197,light,opauto,micro,share,reco,1
+1197,light,preshouse,cohvac,locally,insight,0
+1197,tv,alert,colight,remserv,opti,1
+1197,refr,opauto,coalarm,remserv,nothing,1
+1197,wash,lochouse,cam,share,insight,0
+1197,secu,lochouse,cotv,remserv,reco,1
+1197,assis,alert,watch,share,nothing,1
+1197,assis,lochouse,cowash,locally,reco,1
+1197,hvac,preshouse,locsens,share,opti,0

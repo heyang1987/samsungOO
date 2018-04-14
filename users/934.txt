@@ -1,0 +1,12 @@
+934,hvac,preshouse,watch,locally,insight,0
+934,light,alert,corefri,remserv,opti,0
+934,tv,lochouse,cowash,remserv,reco,0
+934,refr,alert,micro,locally,opti,0
+934,secu,opauto,cam,locally,nothing,0
+934,refr,lochouse,cotv,share,insight,0
+934,assis,preshouse,cohvac,remserv,insight,0
+934,alarm,opauto,colight,remserv,nothing,0
+934,wash,alert,locsens,share,nothing,0
+934,wash,lochouse,cosecu,locally,reco,0
+934,hvac,opauto,coalarm,share,reco,0
+934,secu,preshouse,coassis,share,opti,0

@@ -1,0 +1,12 @@
+1957,light,opauto,coalarm,remserv,reco,1
+1957,alarm,preshouse,cohvac,locally,opti,1
+1957,alarm,opauto,micro,share,insight,1
+1957,wash,lochouse,cotv,remserv,insight,0
+1957,refr,opauto,colight,locally,reco,1
+1957,secu,alert,watch,share,reco,1
+1957,secu,lochouse,cowash,locally,insight,0
+1957,tv,alert,corefri,locally,nothing,1
+1957,hvac,preshouse,coassis,remserv,opti,1
+1957,refr,preshouse,cosecu,share,nothing,0
+1957,assis,alert,locsens,remserv,nothing,1
+1957,tv,lochouse,cam,share,opti,1

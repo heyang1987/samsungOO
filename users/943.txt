@@ -1,0 +1,12 @@
+943,tv,alert,cotv,remserv,nothing,0
+943,assis,opauto,coassis,remserv,reco,0
+943,secu,opauto,locsens,share,insight,0
+943,alarm,lochouse,coalarm,share,opti,0
+943,hvac,opauto,cohvac,locally,reco,0
+943,hvac,preshouse,micro,share,nothing,0
+943,alarm,alert,watch,locally,nothing,0
+943,refr,lochouse,corefri,locally,insight,0
+943,light,lochouse,colight,remserv,insight,0
+943,secu,preshouse,cosecu,locally,opti,0
+943,wash,preshouse,cowash,remserv,opti,0
+943,refr,alert,cam,share,reco,0

@@ -1,0 +1,12 @@
+814,tv,preshouse,cosecu,locally,nothing,1
+814,secu,preshouse,micro,share,reco,0
+814,refr,alert,cowash,locally,reco,1
+814,light,alert,cotv,remserv,reco,0
+814,secu,opauto,cohvac,locally,insight,1
+814,tv,opauto,locsens,share,opti,0
+814,alarm,alert,cam,share,insight,0
+814,assis,preshouse,coalarm,remserv,nothing,0
+814,alarm,lochouse,corefri,locally,opti,1
+814,refr,lochouse,watch,share,nothing,0
+814,wash,opauto,coassis,remserv,insight,0
+814,hvac,lochouse,colight,remserv,opti,0

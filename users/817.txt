@@ -1,0 +1,12 @@
+817,secu,preshouse,cotv,locally,reco,1
+817,light,lochouse,micro,remserv,nothing,1
+817,tv,preshouse,cosecu,share,insight,1
+817,hvac,alert,locsens,remserv,insight,1
+817,assis,alert,watch,share,opti,1
+817,alarm,alert,coassis,locally,insight,1
+817,wash,preshouse,cam,remserv,reco,1
+817,refr,opauto,coalarm,remserv,opti,1
+817,alarm,lochouse,corefri,share,reco,1
+817,secu,opauto,cohvac,share,nothing,1
+817,assis,lochouse,cowash,locally,nothing,0
+817,tv,opauto,colight,locally,opti,1

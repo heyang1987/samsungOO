@@ -1,0 +1,12 @@
+28,hvac,opauto,cam,remserv,nothing,0
+28,secu,preshouse,coalarm,remserv,insight,0
+28,light,alert,cowash,locally,opti,1
+28,assis,opauto,cosecu,share,reco,0
+28,assis,preshouse,colight,locally,insight,1
+28,tv,lochouse,coassis,locally,reco,0
+28,wash,opauto,cohvac,locally,nothing,1
+28,wash,preshouse,micro,share,opti,0
+28,light,lochouse,watch,share,insight,1
+28,alarm,alert,cotv,remserv,opti,0
+28,refr,lochouse,locsens,remserv,reco,1
+28,tv,alert,corefri,share,nothing,0

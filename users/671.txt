@@ -1,0 +1,12 @@
+671,hvac,alert,corefri,remserv,reco,0
+671,alarm,lochouse,cotv,share,nothing,1
+671,light,opauto,cowash,share,opti,1
+671,assis,alert,colight,share,insight,1
+671,alarm,alert,micro,locally,reco,1
+671,assis,lochouse,locsens,locally,opti,1
+671,tv,preshouse,coassis,share,reco,0
+671,light,preshouse,coalarm,locally,nothing,0
+671,refr,opauto,cosecu,remserv,insight,1
+671,tv,opauto,cam,locally,insight,1
+671,wash,preshouse,cohvac,remserv,nothing,1
+671,secu,lochouse,watch,remserv,opti,1

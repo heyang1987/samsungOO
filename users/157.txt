@@ -1,0 +1,12 @@
+157,refr,preshouse,cowash,share,opti,0
+157,assis,alert,watch,remserv,opti,1
+157,refr,opauto,coalarm,locally,nothing,1
+157,hvac,alert,locsens,locally,opti,1
+157,wash,preshouse,cam,locally,insight,0
+157,hvac,lochouse,colight,share,insight,0
+157,light,lochouse,micro,locally,reco,0
+157,alarm,lochouse,corefri,remserv,reco,0
+157,light,alert,cotv,share,nothing,0
+157,secu,opauto,cohvac,remserv,nothing,0
+157,wash,opauto,coassis,share,reco,0
+157,tv,preshouse,cosecu,remserv,insight,1

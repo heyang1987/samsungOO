@@ -1,0 +1,12 @@
+550,hvac,lochouse,cam,share,opti,0
+550,assis,opauto,colight,locally,reco,0
+550,alarm,lochouse,cotv,remserv,insight,0
+550,secu,opauto,coalarm,remserv,reco,0
+550,wash,opauto,micro,share,insight,0
+550,wash,preshouse,cohvac,locally,opti,0
+550,refr,alert,locsens,remserv,nothing,0
+550,light,alert,watch,share,reco,0
+550,tv,preshouse,coassis,remserv,opti,0
+550,hvac,alert,corefri,locally,nothing,0
+550,assis,preshouse,cosecu,share,nothing,0
+550,light,lochouse,cowash,locally,insight,0

@@ -1,0 +1,12 @@
+544,assis,preshouse,colight,share,reco,1
+544,alarm,lochouse,micro,remserv,opti,1
+544,wash,preshouse,cotv,locally,nothing,0
+544,light,lochouse,coalarm,locally,opti,0
+544,hvac,preshouse,corefri,remserv,nothing,1
+544,refr,alert,cosecu,remserv,reco,1
+544,assis,opauto,locsens,locally,insight,1
+544,wash,opauto,cohvac,share,opti,1
+544,tv,lochouse,coassis,share,nothing,1
+544,secu,opauto,watch,remserv,insight,1
+544,tv,alert,cam,locally,reco,1
+544,light,alert,cowash,share,insight,1

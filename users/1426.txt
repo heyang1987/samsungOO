@@ -1,0 +1,12 @@
+1426,refr,preshouse,locsens,share,opti,0
+1426,hvac,lochouse,cam,share,insight,0
+1426,light,alert,watch,share,nothing,0
+1426,assis,alert,colight,remserv,opti,1
+1426,tv,preshouse,coassis,remserv,insight,1
+1426,light,lochouse,cowash,locally,reco,0
+1426,wash,opauto,micro,share,reco,0
+1426,alarm,lochouse,cotv,remserv,reco,1
+1426,secu,opauto,coalarm,remserv,nothing,1
+1426,wash,preshouse,cohvac,locally,insight,1
+1426,refr,opauto,cosecu,locally,nothing,1
+1426,hvac,alert,corefri,locally,opti,1

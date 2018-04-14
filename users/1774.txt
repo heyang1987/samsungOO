@@ -1,0 +1,12 @@
+1774,assis,lochouse,locsens,share,reco,0
+1774,hvac,lochouse,coassis,remserv,nothing,0
+1774,alarm,opauto,cohvac,remserv,opti,1
+1774,light,opauto,watch,locally,opti,0
+1774,wash,alert,cotv,share,opti,0
+1774,refr,preshouse,colight,remserv,reco,0
+1774,tv,opauto,cam,share,nothing,0
+1774,assis,alert,cosecu,locally,insight,1
+1774,secu,alert,cowash,remserv,insight,1
+1774,light,preshouse,coalarm,share,insight,0
+1774,tv,preshouse,corefri,locally,reco,0
+1774,wash,lochouse,micro,locally,nothing,1

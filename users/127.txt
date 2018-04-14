@@ -1,0 +1,12 @@
+127,alarm,preshouse,watch,locally,reco,1
+127,secu,opauto,cosecu,remserv,opti,0
+127,tv,lochouse,cotv,share,reco,1
+127,refr,alert,corefri,remserv,insight,1
+127,tv,alert,micro,locally,insight,0
+127,light,alert,colight,share,opti,1
+127,wash,lochouse,cowash,remserv,nothing,1
+127,alarm,opauto,coalarm,share,nothing,1
+127,assis,preshouse,coassis,share,insight,1
+127,assis,opauto,cam,locally,opti,1
+127,hvac,preshouse,cohvac,remserv,reco,1
+127,light,lochouse,locsens,locally,nothing,1

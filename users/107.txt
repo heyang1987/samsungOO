@@ -1,0 +1,12 @@
+107,hvac,alert,cowash,remserv,reco,1
+107,alarm,alert,cosecu,locally,reco,1
+107,secu,lochouse,corefri,remserv,opti,1
+107,tv,opauto,watch,locally,insight,1
+107,refr,opauto,cohvac,remserv,insight,1
+107,assis,alert,cotv,share,insight,0
+107,assis,lochouse,micro,locally,opti,1
+107,alarm,lochouse,locsens,share,nothing,0
+107,light,opauto,coassis,share,opti,1
+107,tv,preshouse,coalarm,share,reco,0
+107,light,preshouse,cam,locally,nothing,1
+107,wash,preshouse,colight,remserv,nothing,1

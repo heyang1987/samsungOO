@@ -1,0 +1,12 @@
+1969,wash,alert,cotv,locally,opti,1
+1969,hvac,opauto,coassis,locally,nothing,1
+1969,light,opauto,cowash,share,reco,0
+1969,hvac,preshouse,corefri,share,opti,0
+1969,refr,opauto,cosecu,remserv,nothing,1
+1969,assis,alert,colight,share,nothing,0
+1969,secu,lochouse,watch,remserv,reco,1
+1969,wash,lochouse,cohvac,share,insight,0
+1969,light,preshouse,coalarm,locally,insight,1
+1969,alarm,preshouse,micro,remserv,insight,1
+1969,tv,alert,cam,remserv,opti,0
+1969,assis,lochouse,locsens,locally,reco,1

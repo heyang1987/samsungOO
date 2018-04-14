@@ -1,0 +1,12 @@
+1522,tv,alert,cowash,remserv,opti,1
+1522,refr,opauto,cotv,remserv,nothing,1
+1522,hvac,preshouse,coalarm,share,opti,1
+1522,wash,alert,cosecu,locally,opti,1
+1522,light,preshouse,corefri,locally,insight,0
+1522,assis,lochouse,cohvac,locally,reco,1
+1522,light,opauto,cam,share,reco,0
+1522,wash,lochouse,locsens,share,insight,0
+1522,hvac,opauto,watch,locally,nothing,0
+1522,assis,alert,micro,share,nothing,0
+1522,secu,lochouse,coassis,remserv,reco,1
+1522,alarm,preshouse,colight,remserv,insight,0

@@ -1,0 +1,12 @@
+547,alarm,preshouse,cowash,locally,reco,1
+547,tv,lochouse,micro,share,reco,0
+547,assis,opauto,corefri,locally,opti,1
+547,light,alert,locsens,share,opti,1
+547,refr,alert,coassis,remserv,insight,1
+547,tv,alert,cohvac,locally,insight,1
+547,alarm,opauto,watch,share,nothing,0
+547,secu,opauto,colight,remserv,opti,1
+547,hvac,preshouse,cotv,remserv,reco,0
+547,wash,lochouse,coalarm,remserv,nothing,1
+547,light,lochouse,cosecu,locally,nothing,1
+547,assis,preshouse,cam,share,insight,0

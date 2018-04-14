@@ -1,0 +1,12 @@
+1937,alarm,preshouse,cam,remserv,insight,1
+1937,light,opauto,cohvac,share,reco,1
+1937,wash,alert,coassis,locally,opti,1
+1937,hvac,preshouse,cosecu,share,opti,1
+1937,tv,alert,locsens,remserv,opti,0
+1937,assis,lochouse,coalarm,locally,reco,0
+1937,refr,opauto,watch,remserv,nothing,1
+1937,secu,lochouse,micro,remserv,reco,1
+1937,wash,lochouse,corefri,share,insight,0
+1937,light,preshouse,cotv,locally,insight,1
+1937,hvac,opauto,colight,locally,nothing,1
+1937,assis,alert,cowash,share,nothing,0

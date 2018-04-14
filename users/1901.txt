@@ -1,0 +1,12 @@
+1901,refr,lochouse,watch,share,reco,1
+1901,secu,preshouse,micro,share,insight,1
+1901,wash,opauto,coassis,remserv,opti,1
+1901,light,alert,cotv,remserv,insight,1
+1901,tv,lochouse,locsens,remserv,nothing,1
+1901,assis,preshouse,coalarm,remserv,reco,1
+1901,hvac,preshouse,colight,locally,reco,1
+1901,alarm,alert,cam,share,opti,1
+1901,refr,alert,cowash,locally,insight,1
+1901,secu,opauto,cohvac,locally,opti,1
+1901,hvac,opauto,cosecu,share,nothing,1
+1901,alarm,lochouse,corefri,locally,nothing,0

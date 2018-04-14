@@ -1,0 +1,12 @@
+1923,light,opauto,coalarm,locally,nothing,1
+1923,light,preshouse,cowash,share,opti,1
+1923,refr,preshouse,cosecu,remserv,insight,1
+1923,alarm,lochouse,micro,locally,reco,1
+1923,tv,preshouse,cam,locally,insight,1
+1923,assis,lochouse,colight,share,insight,1
+1923,hvac,lochouse,corefri,remserv,reco,1
+1923,secu,alert,watch,remserv,opti,1
+1923,wash,opauto,cohvac,remserv,nothing,1
+1923,assis,alert,locsens,locally,opti,1
+1923,alarm,alert,cotv,share,nothing,1
+1923,tv,opauto,coassis,share,reco,1

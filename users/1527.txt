@@ -1,0 +1,12 @@
+1527,alarm,preshouse,cowash,locally,nothing,1
+1527,refr,opauto,coassis,locally,insight,1
+1527,hvac,alert,cotv,locally,reco,0
+1527,wash,lochouse,coalarm,remserv,opti,0
+1527,secu,alert,cosecu,share,insight,0
+1527,hvac,lochouse,cohvac,share,nothing,0
+1527,secu,lochouse,colight,locally,opti,1
+1527,assis,alert,cam,remserv,reco,0
+1527,refr,preshouse,corefri,share,reco,0
+1527,tv,preshouse,micro,remserv,nothing,0
+1527,alarm,opauto,watch,share,opti,0
+1527,light,opauto,locsens,remserv,insight,0

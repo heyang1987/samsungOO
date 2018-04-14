@@ -1,0 +1,12 @@
+221,hvac,lochouse,corefri,locally,insight,1
+221,light,preshouse,cowash,remserv,opti,0
+221,secu,alert,watch,locally,nothing,1
+221,secu,lochouse,coalarm,share,opti,1
+221,hvac,alert,cam,share,reco,0
+221,refr,opauto,locsens,share,insight,0
+221,wash,preshouse,micro,share,nothing,0
+221,refr,preshouse,cosecu,locally,opti,1
+221,tv,opauto,coassis,remserv,reco,1
+221,wash,opauto,cohvac,locally,reco,1
+221,alarm,alert,cotv,remserv,nothing,1
+221,assis,lochouse,colight,remserv,insight,1

@@ -1,0 +1,12 @@
+1223,refr,opauto,coassis,remserv,reco,0
+1223,wash,lochouse,coalarm,share,opti,0
+1223,assis,lochouse,corefri,locally,insight,0
+1223,light,preshouse,cosecu,locally,opti,0
+1223,light,opauto,locsens,share,insight,0
+1223,hvac,alert,cotv,remserv,nothing,0
+1223,alarm,preshouse,cowash,remserv,opti,0
+1223,assis,alert,cam,share,reco,0
+1223,secu,lochouse,colight,remserv,insight,0
+1223,tv,preshouse,micro,share,nothing,0
+1223,tv,opauto,cohvac,locally,reco,0
+1223,wash,alert,watch,locally,nothing,0

@@ -1,0 +1,12 @@
+538,assis,preshouse,coalarm,share,insight,0
+538,secu,opauto,cohvac,remserv,opti,0
+538,assis,opauto,watch,locally,opti,1
+538,hvac,preshouse,colight,remserv,reco,1
+538,light,lochouse,micro,locally,nothing,1
+538,wash,lochouse,coassis,remserv,nothing,0
+538,tv,alert,cosecu,locally,insight,0
+538,alarm,opauto,cam,share,nothing,0
+538,light,alert,cotv,share,opti,0
+538,refr,alert,cowash,remserv,insight,0
+538,alarm,preshouse,corefri,locally,reco,1
+538,tv,lochouse,locsens,share,reco,0

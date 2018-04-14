@@ -1,0 +1,12 @@
+1212,refr,preshouse,cotv,locally,reco,1
+1212,wash,alert,locsens,remserv,insight,1
+1212,tv,lochouse,cowash,locally,nothing,1
+1212,secu,lochouse,corefri,share,reco,1
+1212,refr,opauto,cohvac,share,nothing,1
+1212,alarm,opauto,colight,locally,opti,1
+1212,tv,alert,watch,share,opti,1
+1212,alarm,preshouse,cosecu,share,insight,1
+1212,light,preshouse,cam,remserv,reco,1
+1212,assis,lochouse,micro,remserv,nothing,1
+1212,hvac,opauto,coalarm,remserv,opti,1
+1212,secu,alert,coassis,locally,insight,1

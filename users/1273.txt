@@ -1,0 +1,12 @@
+1273,secu,lochouse,coassis,share,opti,0
+1273,wash,preshouse,locsens,share,nothing,0
+1273,refr,preshouse,micro,locally,opti,1
+1273,tv,opauto,cowash,remserv,reco,0
+1273,wash,opauto,cosecu,locally,reco,1
+1273,hvac,lochouse,watch,locally,insight,0
+1273,secu,alert,cam,locally,nothing,0
+1273,alarm,alert,colight,remserv,nothing,0
+1273,assis,lochouse,cohvac,remserv,insight,0
+1273,light,preshouse,corefri,remserv,opti,0
+1273,hvac,alert,coalarm,share,reco,0
+1273,refr,opauto,cotv,share,insight,0

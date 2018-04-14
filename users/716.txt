@@ -1,0 +1,12 @@
+716,alarm,lochouse,locsens,locally,insight,0
+716,wash,opauto,cosecu,remserv,reco,1
+716,secu,opauto,cam,locally,reco,0
+716,alarm,alert,colight,share,reco,0
+716,refr,preshouse,micro,remserv,opti,1
+716,hvac,lochouse,watch,remserv,insight,0
+716,light,alert,corefri,remserv,nothing,0
+716,tv,preshouse,coalarm,locally,opti,0
+716,tv,opauto,cowash,share,insight,1
+716,secu,preshouse,coassis,share,nothing,1
+716,assis,alert,cotv,locally,nothing,0
+716,assis,lochouse,cohvac,share,opti,0

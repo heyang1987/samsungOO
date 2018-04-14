@@ -1,0 +1,12 @@
+1633,alarm,alert,coassis,remserv,reco,0
+1633,hvac,lochouse,cosecu,locally,opti,0
+1633,refr,opauto,coalarm,share,opti,1
+1633,refr,preshouse,watch,locally,nothing,0
+1633,wash,opauto,corefri,locally,insight,0
+1633,secu,preshouse,cotv,remserv,nothing,0
+1633,tv,opauto,colight,remserv,insight,0
+1633,wash,preshouse,cam,share,reco,0
+1633,assis,lochouse,cowash,remserv,opti,0
+1633,light,lochouse,micro,share,nothing,0
+1633,light,alert,cohvac,locally,reco,0
+1633,hvac,alert,locsens,share,insight,0

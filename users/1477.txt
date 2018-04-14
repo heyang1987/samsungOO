@@ -1,0 +1,12 @@
+1477,secu,alert,corefri,remserv,nothing,1
+1477,alarm,opauto,cosecu,remserv,reco,0
+1477,refr,alert,cotv,locally,nothing,1
+1477,wash,lochouse,locsens,locally,insight,1
+1477,light,opauto,cam,locally,reco,1
+1477,hvac,opauto,cowash,share,insight,1
+1477,wash,alert,colight,share,reco,1
+1477,refr,lochouse,cohvac,share,opti,0
+1477,hvac,preshouse,coalarm,locally,opti,0
+1477,assis,preshouse,micro,remserv,opti,0
+1477,tv,lochouse,watch,remserv,insight,0
+1477,light,preshouse,coassis,share,nothing,0

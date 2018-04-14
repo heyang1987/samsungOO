@@ -1,0 +1,12 @@
+1564,alarm,lochouse,cohvac,share,insight,0
+1564,secu,opauto,cowash,share,reco,1
+1564,secu,preshouse,coalarm,locally,insight,0
+1564,light,lochouse,watch,remserv,reco,1
+1564,alarm,alert,cotv,locally,opti,0
+1564,tv,preshouse,corefri,share,opti,0
+1564,hvac,alert,cam,remserv,opti,0
+1564,refr,alert,colight,share,nothing,0
+1564,wash,preshouse,micro,remserv,insight,0
+1564,assis,opauto,cosecu,remserv,nothing,0
+1564,refr,lochouse,locsens,locally,reco,1
+1564,tv,opauto,coassis,locally,nothing,1

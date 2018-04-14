@@ -1,0 +1,12 @@
+1990,alarm,opauto,coassis,remserv,insight,0
+1990,hvac,preshouse,cosecu,locally,nothing,0
+1990,light,opauto,cohvac,locally,insight,0
+1990,assis,alert,cowash,locally,reco,0
+1990,wash,alert,cam,share,insight,0
+1990,wash,lochouse,corefri,locally,opti,0
+1990,light,preshouse,micro,share,reco,0
+1990,assis,lochouse,watch,share,nothing,0
+1990,hvac,opauto,locsens,share,opti,0
+1990,refr,preshouse,coalarm,remserv,nothing,0
+1990,tv,lochouse,colight,remserv,opti,0
+1990,secu,alert,cotv,remserv,reco,0

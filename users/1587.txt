@@ -1,0 +1,12 @@
+1587,alarm,lochouse,micro,locally,nothing,0
+1587,secu,opauto,watch,locally,opti,0
+1587,alarm,alert,cotv,share,opti,0
+1587,refr,lochouse,locsens,share,reco,0
+1587,light,alert,cowash,remserv,insight,0
+1587,refr,alert,cosecu,locally,insight,0
+1587,assis,preshouse,colight,remserv,reco,0
+1587,wash,opauto,cohvac,remserv,opti,0
+1587,hvac,preshouse,corefri,locally,reco,0
+1587,secu,preshouse,coalarm,share,insight,0
+1587,hvac,opauto,cam,share,nothing,0
+1587,tv,lochouse,coassis,remserv,nothing,0

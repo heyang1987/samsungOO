@@ -1,0 +1,12 @@
+1678,wash,preshouse,micro,remserv,opti,0
+1678,alarm,lochouse,cohvac,share,opti,1
+1678,secu,preshouse,coalarm,locally,opti,1
+1678,hvac,opauto,cam,locally,reco,0
+1678,light,lochouse,watch,remserv,insight,1
+1678,secu,opauto,cowash,share,insight,1
+1678,alarm,alert,cotv,locally,nothing,1
+1678,assis,opauto,cosecu,remserv,reco,1
+1678,hvac,preshouse,coassis,share,nothing,0
+1678,refr,lochouse,locsens,locally,insight,1
+1678,tv,alert,corefri,remserv,nothing,1
+1678,refr,alert,colight,share,reco,0

@@ -1,0 +1,12 @@
+1650,hvac,preshouse,cam,share,reco,0
+1650,alarm,preshouse,cotv,remserv,nothing,1
+1650,wash,lochouse,micro,share,nothing,0
+1650,secu,opauto,coalarm,share,opti,0
+1650,assis,opauto,colight,remserv,insight,1
+1650,light,lochouse,cowash,remserv,opti,1
+1650,secu,preshouse,watch,locally,nothing,1
+1650,tv,alert,coassis,remserv,reco,1
+1650,refr,alert,locsens,share,insight,0
+1650,hvac,opauto,corefri,locally,insight,0
+1650,refr,lochouse,cosecu,locally,opti,0
+1650,wash,alert,cohvac,locally,reco,0

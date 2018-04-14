@@ -1,0 +1,12 @@
+2015,hvac,opauto,micro,locally,opti,1
+2015,wash,lochouse,coalarm,share,reco,0
+2015,hvac,preshouse,cotv,share,insight,0
+2015,wash,alert,watch,locally,insight,1
+2015,light,preshouse,cosecu,locally,reco,1
+2015,refr,lochouse,cam,locally,nothing,0
+2015,refr,alert,coassis,share,opti,0
+2015,assis,opauto,corefri,remserv,opti,1
+2015,secu,lochouse,colight,remserv,nothing,1
+2015,alarm,preshouse,cowash,remserv,reco,0
+2015,light,opauto,locsens,share,nothing,0
+2015,tv,alert,cohvac,remserv,insight,0

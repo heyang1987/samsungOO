@@ -1,0 +1,12 @@
+1420,refr,opauto,corefri,locally,reco,1
+1420,wash,lochouse,cowash,remserv,insight,0
+1420,tv,lochouse,cotv,share,opti,0
+1420,refr,preshouse,cam,share,nothing,0
+1420,alarm,opauto,coalarm,share,insight,0
+1420,light,opauto,colight,remserv,reco,1
+1420,secu,lochouse,cosecu,locally,insight,0
+1420,secu,alert,locsens,share,reco,0
+1420,hvac,preshouse,cohvac,remserv,opti,0
+1420,alarm,preshouse,watch,locally,opti,0
+1420,tv,alert,micro,locally,nothing,1
+1420,assis,alert,coassis,remserv,nothing,0

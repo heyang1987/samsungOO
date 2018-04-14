@@ -1,0 +1,12 @@
+232,light,preshouse,cowash,remserv,reco,1
+232,tv,lochouse,cam,locally,nothing,0
+232,refr,preshouse,cosecu,locally,reco,1
+232,alarm,preshouse,cotv,share,insight,0
+232,wash,alert,cohvac,remserv,insight,1
+232,alarm,opauto,micro,locally,opti,1
+232,refr,opauto,locsens,share,nothing,1
+232,assis,lochouse,colight,remserv,nothing,1
+232,hvac,opauto,corefri,remserv,opti,1
+232,tv,alert,coassis,share,opti,0
+232,secu,alert,watch,locally,insight,1
+232,secu,lochouse,coalarm,share,reco,1

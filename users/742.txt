@@ -1,0 +1,12 @@
+742,refr,alert,locsens,remserv,opti,0
+742,tv,lochouse,corefri,share,insight,0
+742,assis,preshouse,cosecu,share,opti,0
+742,wash,lochouse,micro,remserv,reco,0
+742,light,opauto,watch,remserv,nothing,1
+742,assis,opauto,colight,locally,nothing,1
+742,secu,alert,cowash,share,nothing,0
+742,secu,lochouse,coalarm,locally,reco,1
+742,alarm,preshouse,cotv,locally,insight,0
+742,tv,alert,coassis,locally,opti,0
+742,hvac,preshouse,cam,remserv,insight,0
+742,alarm,opauto,cohvac,share,reco,0

@@ -1,0 +1,12 @@
+1824,assis,preshouse,cosecu,locally,insight,0
+1824,assis,opauto,locsens,share,reco,1
+1824,tv,alert,cam,share,nothing,0
+1824,hvac,opauto,coassis,remserv,nothing,1
+1824,refr,lochouse,colight,remserv,reco,1
+1824,alarm,alert,cohvac,remserv,opti,1
+1824,light,alert,watch,locally,opti,1
+1824,wash,preshouse,cotv,share,opti,0
+1824,wash,opauto,micro,locally,nothing,0
+1824,tv,lochouse,corefri,locally,reco,0
+1824,secu,preshouse,cowash,remserv,insight,0
+1824,light,lochouse,coalarm,share,insight,1

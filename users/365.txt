@@ -1,0 +1,12 @@
+365,assis,opauto,watch,locally,reco,1
+365,alarm,lochouse,corefri,remserv,insight,0
+365,tv,preshouse,cosecu,remserv,opti,1
+365,hvac,lochouse,colight,share,opti,0
+365,light,lochouse,micro,locally,insight,1
+365,secu,opauto,cohvac,remserv,reco,0
+365,assis,preshouse,coalarm,share,nothing,0
+365,wash,opauto,coassis,share,insight,0
+365,refr,alert,cowash,remserv,nothing,0
+365,light,alert,cotv,share,reco,0
+365,hvac,alert,locsens,locally,nothing,1
+365,wash,preshouse,cam,locally,opti,1

@@ -1,0 +1,12 @@
+546,tv,alert,cowash,share,nothing,0
+546,assis,preshouse,cotv,locally,insight,1
+546,hvac,opauto,watch,remserv,nothing,0
+546,secu,preshouse,cam,remserv,insight,0
+546,tv,lochouse,coalarm,locally,reco,0
+546,alarm,alert,locsens,remserv,opti,0
+546,wash,preshouse,cosecu,share,opti,0
+546,assis,opauto,cohvac,share,reco,0
+546,light,alert,coassis,locally,opti,0
+546,refr,lochouse,micro,remserv,reco,0
+546,wash,opauto,colight,locally,nothing,0
+546,light,lochouse,corefri,share,insight,0

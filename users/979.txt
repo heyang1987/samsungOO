@@ -1,0 +1,12 @@
+979,light,preshouse,coassis,locally,opti,1
+979,light,opauto,corefri,share,insight,1
+979,hvac,alert,watch,remserv,nothing,0
+979,refr,opauto,micro,remserv,reco,1
+979,assis,alert,cohvac,share,reco,1
+979,alarm,preshouse,locsens,remserv,opti,0
+979,tv,preshouse,cowash,share,nothing,0
+979,wash,lochouse,cosecu,share,opti,1
+979,secu,lochouse,cam,remserv,insight,1
+979,wash,alert,colight,locally,nothing,1
+979,assis,lochouse,cotv,locally,insight,1
+979,tv,opauto,coalarm,locally,reco,1

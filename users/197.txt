@@ -1,0 +1,12 @@
+197,hvac,preshouse,cam,remserv,nothing,0
+197,assis,preshouse,cosecu,share,reco,0
+197,light,alert,watch,share,insight,0
+197,wash,preshouse,cohvac,locally,nothing,0
+197,tv,alert,coassis,locally,reco,0
+197,wash,opauto,micro,share,opti,0
+197,light,lochouse,cowash,locally,opti,0
+197,tv,lochouse,corefri,share,nothing,0
+197,assis,opauto,colight,locally,insight,0
+197,refr,alert,locsens,remserv,reco,0
+197,secu,opauto,coalarm,remserv,insight,0
+197,alarm,lochouse,cotv,remserv,opti,0

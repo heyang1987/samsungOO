@@ -1,0 +1,12 @@
+622,tv,preshouse,colight,locally,reco,0
+622,secu,alert,cotv,remserv,insight,1
+622,alarm,opauto,coassis,remserv,opti,1
+622,refr,preshouse,coalarm,remserv,reco,0
+622,tv,opauto,cosecu,share,nothing,1
+622,assis,alert,cowash,locally,insight,0
+622,assis,lochouse,watch,share,reco,0
+622,light,preshouse,micro,share,insight,0
+622,wash,alert,cam,share,opti,0
+622,hvac,lochouse,locsens,remserv,nothing,0
+622,light,opauto,cohvac,locally,opti,1
+622,wash,lochouse,corefri,locally,nothing,0

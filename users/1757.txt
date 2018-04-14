@@ -1,0 +1,12 @@
+1757,wash,opauto,cam,remserv,insight,1
+1757,alarm,alert,corefri,share,insight,1
+1757,secu,preshouse,cohvac,share,reco,0
+1757,tv,preshouse,colight,locally,nothing,1
+1757,alarm,lochouse,coassis,locally,opti,0
+1757,tv,opauto,cosecu,share,opti,0
+1757,refr,lochouse,cowash,share,nothing,0
+1757,hvac,lochouse,locsens,remserv,opti,0
+1757,refr,alert,coalarm,locally,reco,1
+1757,secu,opauto,cotv,locally,insight,1
+1757,assis,preshouse,watch,remserv,nothing,0
+1757,light,alert,micro,remserv,reco,0

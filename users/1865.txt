@@ -1,0 +1,12 @@
+1865,secu,opauto,cosecu,share,opti,0
+1865,refr,alert,corefri,share,insight,1
+1865,wash,lochouse,cowash,share,nothing,1
+1865,light,lochouse,locsens,remserv,opti,1
+1865,alarm,preshouse,watch,remserv,nothing,1
+1865,secu,preshouse,colight,locally,nothing,0
+1865,refr,lochouse,coassis,locally,opti,0
+1865,assis,opauto,cam,remserv,insight,0
+1865,tv,alert,micro,remserv,reco,1
+1865,wash,alert,coalarm,locally,reco,0
+1865,hvac,preshouse,cohvac,share,reco,1
+1865,hvac,opauto,cotv,locally,insight,0

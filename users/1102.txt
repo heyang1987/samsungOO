@@ -1,0 +1,12 @@
+1102,tv,opauto,cotv,locally,reco,1
+1102,secu,lochouse,locsens,remserv,insight,1
+1102,alarm,preshouse,coalarm,remserv,opti,1
+1102,refr,opauto,cam,remserv,reco,0
+1102,light,opauto,cosecu,share,insight,0
+1102,wash,alert,cowash,locally,nothing,1
+1102,assis,alert,corefri,share,reco,0
+1102,light,preshouse,colight,locally,opti,1
+1102,tv,preshouse,cohvac,share,nothing,0
+1102,hvac,alert,micro,remserv,nothing,0
+1102,wash,lochouse,watch,share,opti,0
+1102,assis,lochouse,coassis,locally,insight,0

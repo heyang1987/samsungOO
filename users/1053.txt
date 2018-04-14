@@ -1,0 +1,12 @@
+1053,secu,opauto,cohvac,remserv,insight,0
+1053,light,alert,cotv,share,insight,0
+1053,alarm,lochouse,corefri,remserv,opti,0
+1053,assis,opauto,watch,locally,insight,1
+1053,refr,alert,cowash,remserv,reco,1
+1053,wash,preshouse,cam,locally,nothing,1
+1053,assis,preshouse,coalarm,share,reco,0
+1053,wash,opauto,coassis,share,opti,0
+1053,light,lochouse,micro,locally,opti,1
+1053,tv,alert,cosecu,locally,reco,1
+1053,hvac,preshouse,colight,remserv,nothing,0
+1053,tv,lochouse,locsens,share,nothing,0

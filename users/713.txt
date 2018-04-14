@@ -1,0 +1,12 @@
+713,refr,lochouse,corefri,share,opti,0
+713,secu,alert,cosecu,remserv,nothing,1
+713,hvac,preshouse,cotv,locally,opti,0
+713,wash,lochouse,coalarm,locally,insight,0
+713,refr,alert,coassis,locally,nothing,1
+713,light,opauto,locsens,locally,reco,1
+713,tv,lochouse,micro,remserv,insight,0
+713,assis,preshouse,cam,remserv,opti,0
+713,wash,alert,cowash,share,reco,0
+713,hvac,opauto,cohvac,share,insight,0
+713,light,preshouse,colight,share,nothing,0
+713,alarm,opauto,watch,remserv,reco,0

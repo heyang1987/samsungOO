@@ -1,0 +1,12 @@
+499,wash,alert,corefri,locally,nothing,1
+499,refr,opauto,coalarm,remserv,reco,1
+499,wash,lochouse,cam,share,opti,0
+499,tv,opauto,colight,locally,reco,1
+499,light,opauto,micro,share,insight,0
+499,secu,lochouse,cotv,remserv,insight,0
+499,hvac,alert,locsens,remserv,nothing,1
+499,light,preshouse,cohvac,locally,opti,1
+499,assis,lochouse,cowash,locally,insight,0
+499,alarm,preshouse,coassis,remserv,opti,0
+499,tv,preshouse,cosecu,share,nothing,0
+499,assis,alert,watch,share,reco,0

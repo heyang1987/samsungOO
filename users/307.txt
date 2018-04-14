@@ -1,0 +1,12 @@
+307,refr,preshouse,coalarm,locally,insight,1
+307,refr,opauto,cowash,share,reco,0
+307,hvac,lochouse,locsens,locally,reco,0
+307,alarm,opauto,coassis,locally,nothing,1
+307,secu,alert,cotv,locally,opti,1
+307,secu,lochouse,cohvac,share,insight,0
+307,tv,opauto,cosecu,remserv,nothing,0
+307,alarm,preshouse,corefri,share,opti,0
+307,assis,lochouse,watch,remserv,reco,0
+307,light,preshouse,micro,remserv,insight,0
+307,hvac,alert,colight,share,nothing,0
+307,wash,alert,cam,remserv,opti,0

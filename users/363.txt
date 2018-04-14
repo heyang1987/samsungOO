@@ -1,0 +1,12 @@
+363,hvac,opauto,cowash,locally,insight,1
+363,refr,alert,micro,share,insight,1
+363,assis,opauto,cotv,remserv,insight,1
+363,wash,alert,colight,locally,reco,1
+363,hvac,preshouse,watch,share,reco,1
+363,tv,alert,coalarm,remserv,reco,1
+363,secu,opauto,cam,share,opti,0
+363,secu,preshouse,corefri,locally,nothing,1
+363,refr,lochouse,cohvac,locally,opti,1
+363,alarm,preshouse,locsens,remserv,nothing,1
+363,light,lochouse,coassis,remserv,opti,1
+363,wash,lochouse,cosecu,share,nothing,0

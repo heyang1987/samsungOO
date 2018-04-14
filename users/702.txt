@@ -1,0 +1,12 @@
+702,assis,lochouse,watch,locally,reco,1
+702,hvac,opauto,locsens,locally,nothing,1
+702,light,opauto,cotv,share,reco,0
+702,hvac,preshouse,colight,share,opti,0
+702,secu,lochouse,cohvac,remserv,reco,1
+702,wash,alert,cam,locally,opti,1
+702,light,preshouse,micro,locally,insight,1
+702,assis,alert,coalarm,share,nothing,0
+702,wash,lochouse,coassis,share,insight,0
+702,refr,opauto,cowash,remserv,nothing,0
+702,alarm,preshouse,corefri,remserv,insight,0
+702,tv,alert,cosecu,remserv,opti,1

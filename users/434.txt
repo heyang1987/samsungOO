@@ -1,0 +1,12 @@
+434,secu,opauto,watch,share,insight,0
+434,assis,opauto,locsens,remserv,reco,1
+434,hvac,preshouse,corefri,share,nothing,0
+434,wash,preshouse,cotv,remserv,opti,1
+434,light,lochouse,coalarm,remserv,insight,1
+434,alarm,lochouse,micro,share,opti,0
+434,tv,alert,cam,remserv,nothing,0
+434,refr,lochouse,colight,locally,insight,1
+434,secu,preshouse,cowash,locally,opti,0
+434,alarm,alert,cohvac,locally,nothing,1
+434,hvac,opauto,coassis,locally,reco,0
+434,refr,alert,cosecu,share,reco,0

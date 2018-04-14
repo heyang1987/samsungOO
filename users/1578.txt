@@ -1,0 +1,12 @@
+1578,alarm,opauto,cam,remserv,insight,0
+1578,refr,preshouse,watch,remserv,nothing,0
+1578,wash,lochouse,coassis,locally,opti,0
+1578,tv,lochouse,locsens,remserv,opti,0
+1578,assis,alert,coalarm,locally,reco,1
+1578,secu,alert,micro,remserv,reco,1
+1578,assis,lochouse,cowash,share,nothing,0
+1578,hvac,opauto,cosecu,share,opti,0
+1578,hvac,preshouse,colight,locally,nothing,1
+1578,wash,alert,corefri,share,insight,0
+1578,light,opauto,cotv,locally,insight,1
+1578,light,preshouse,cohvac,share,reco,0

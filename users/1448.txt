@@ -1,0 +1,12 @@
+1448,alarm,alert,cohvac,share,nothing,0
+1448,wash,opauto,micro,remserv,nothing,0
+1448,assis,alert,colight,locally,opti,0
+1448,refr,preshouse,locsens,remserv,insight,0
+1448,assis,lochouse,cosecu,share,insight,0
+1448,light,opauto,cowash,locally,nothing,0
+1448,secu,alert,coalarm,remserv,opti,0
+1448,hvac,lochouse,cam,remserv,reco,0
+1448,tv,opauto,corefri,share,reco,0
+1448,tv,preshouse,coassis,locally,insight,0
+1448,alarm,lochouse,cotv,locally,reco,0
+1448,light,preshouse,watch,share,opti,0

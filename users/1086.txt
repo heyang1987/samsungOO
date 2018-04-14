@@ -1,0 +1,12 @@
+1086,secu,lochouse,coassis,locally,nothing,1
+1086,refr,preshouse,cohvac,share,insight,0
+1086,wash,opauto,colight,share,nothing,0
+1086,wash,preshouse,locsens,locally,reco,1
+1086,light,opauto,cam,remserv,opti,1
+1086,refr,opauto,cotv,locally,opti,0
+1086,hvac,lochouse,cowash,share,reco,0
+1086,assis,alert,micro,remserv,insight,1
+1086,hvac,alert,coalarm,locally,insight,1
+1086,alarm,lochouse,cosecu,remserv,nothing,1
+1086,secu,alert,corefri,share,opti,0
+1086,tv,preshouse,watch,remserv,reco,1

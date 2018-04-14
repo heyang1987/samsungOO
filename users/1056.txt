@@ -1,0 +1,12 @@
+1056,tv,lochouse,corefri,share,insight,0
+1056,alarm,opauto,cohvac,share,reco,1
+1056,secu,lochouse,coalarm,locally,reco,1
+1056,assis,preshouse,cosecu,share,opti,1
+1056,secu,alert,cowash,share,nothing,0
+1056,light,opauto,watch,remserv,nothing,0
+1056,assis,opauto,colight,locally,nothing,1
+1056,wash,lochouse,micro,remserv,reco,0
+1056,tv,alert,coassis,locally,opti,0
+1056,alarm,preshouse,cotv,locally,insight,1
+1056,hvac,preshouse,cam,remserv,insight,1
+1056,refr,alert,locsens,remserv,opti,0

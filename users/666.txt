@@ -1,0 +1,12 @@
+666,assis,preshouse,cam,remserv,opti,0
+666,wash,lochouse,coalarm,locally,insight,1
+666,refr,lochouse,corefri,share,opti,0
+666,light,opauto,locsens,locally,reco,1
+666,hvac,preshouse,cotv,locally,opti,0
+666,light,preshouse,colight,share,nothing,1
+666,tv,lochouse,micro,remserv,insight,0
+666,alarm,opauto,watch,remserv,reco,1
+666,secu,alert,cosecu,remserv,nothing,1
+666,hvac,opauto,cohvac,share,insight,1
+666,refr,alert,coassis,locally,nothing,1
+666,wash,alert,cowash,share,reco,0

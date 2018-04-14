@@ -1,0 +1,12 @@
+339,secu,opauto,cotv,locally,insight,0
+339,alarm,alert,corefri,share,insight,0
+339,alarm,lochouse,coassis,locally,opti,0
+339,assis,preshouse,watch,remserv,nothing,0
+339,wash,opauto,cam,remserv,insight,1
+339,secu,preshouse,cohvac,share,reco,0
+339,tv,opauto,cosecu,share,opti,0
+339,light,alert,micro,remserv,reco,0
+339,refr,alert,coalarm,locally,reco,0
+339,tv,preshouse,colight,locally,nothing,1
+339,refr,lochouse,cowash,share,nothing,0
+339,hvac,lochouse,locsens,remserv,opti,0

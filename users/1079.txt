@@ -1,0 +1,12 @@
+1079,assis,lochouse,locsens,remserv,reco,0
+1079,hvac,lochouse,coassis,locally,reco,0
+1079,wash,alert,cotv,remserv,opti,0
+1079,alarm,preshouse,micro,share,opti,0
+1079,refr,opauto,cosecu,share,reco,0
+1079,secu,lochouse,watch,share,insight,0
+1079,tv,opauto,cam,remserv,nothing,0
+1079,alarm,opauto,cohvac,locally,nothing,0
+1079,refr,preshouse,colight,locally,insight,0
+1079,hvac,alert,corefri,share,nothing,0
+1079,secu,alert,cowash,locally,opti,1
+1079,light,preshouse,coalarm,remserv,insight,0

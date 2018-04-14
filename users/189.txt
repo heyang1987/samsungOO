@@ -1,0 +1,12 @@
+189,wash,preshouse,watch,share,reco,0
+189,tv,opauto,cotv,remserv,insight,1
+189,wash,opauto,cowash,locally,insight,1
+189,hvac,alert,micro,share,insight,0
+189,hvac,lochouse,cohvac,locally,opti,1
+189,alarm,alert,coalarm,remserv,reco,0
+189,secu,preshouse,locsens,remserv,nothing,1
+189,refr,preshouse,corefri,locally,nothing,1
+189,refr,opauto,cam,share,opti,0
+189,light,lochouse,cosecu,share,nothing,0
+189,assis,lochouse,coassis,remserv,opti,1
+189,light,alert,colight,locally,reco,0

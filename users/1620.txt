@@ -1,0 +1,12 @@
+1620,assis,preshouse,cowash,locally,nothing,1
+1620,wash,alert,cam,remserv,reco,0
+1620,secu,lochouse,cohvac,share,nothing,0
+1620,assis,opauto,watch,share,opti,0
+1620,tv,lochouse,colight,locally,opti,0
+1620,light,preshouse,micro,remserv,nothing,0
+1620,refr,lochouse,coalarm,remserv,opti,0
+1620,alarm,opauto,coassis,locally,insight,1
+1620,alarm,preshouse,corefri,share,reco,0
+1620,tv,alert,cosecu,share,insight,0
+1620,hvac,opauto,locsens,remserv,insight,0
+1620,secu,alert,cotv,locally,reco,0

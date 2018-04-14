@@ -1,0 +1,12 @@
+1166,light,lochouse,cosecu,share,reco,1
+1166,wash,opauto,cowash,locally,opti,1
+1166,light,alert,colight,locally,insight,1
+1166,assis,opauto,corefri,share,nothing,1
+1166,assis,preshouse,coassis,locally,reco,1
+1166,alarm,alert,coalarm,remserv,insight,1
+1166,secu,preshouse,locsens,remserv,reco,1
+1166,hvac,lochouse,cohvac,locally,nothing,1
+1166,wash,preshouse,watch,share,insight,1
+1166,hvac,alert,micro,share,opti,1
+1166,tv,opauto,cotv,remserv,opti,1
+1166,refr,lochouse,cam,remserv,nothing,1

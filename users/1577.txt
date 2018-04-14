@@ -1,0 +1,12 @@
+1577,hvac,preshouse,cohvac,locally,nothing,1
+1577,wash,alert,watch,share,insight,0
+1577,refr,preshouse,cam,remserv,nothing,0
+1577,assis,alert,coassis,locally,reco,0
+1577,light,opauto,colight,locally,insight,1
+1577,light,preshouse,cosecu,share,reco,0
+1577,tv,lochouse,cotv,remserv,opti,0
+1577,hvac,opauto,micro,share,opti,1
+1577,assis,lochouse,corefri,share,nothing,0
+1577,wash,lochouse,cowash,locally,opti,1
+1577,alarm,opauto,coalarm,remserv,insight,0
+1577,secu,alert,locsens,remserv,reco,0

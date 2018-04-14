@@ -1,0 +1,12 @@
+507,alarm,lochouse,cam,locally,nothing,0
+507,secu,opauto,micro,locally,opti,0
+507,refr,lochouse,coalarm,share,reco,0
+507,wash,opauto,corefri,remserv,opti,0
+507,alarm,alert,coassis,share,opti,0
+507,light,alert,cohvac,remserv,insight,1
+507,assis,preshouse,cowash,remserv,reco,0
+507,secu,preshouse,cotv,share,insight,0
+507,refr,alert,watch,locally,insight,1
+507,hvac,opauto,locsens,share,nothing,1
+507,tv,lochouse,colight,remserv,nothing,0
+507,hvac,preshouse,cosecu,locally,reco,1

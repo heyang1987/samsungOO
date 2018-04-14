@@ -1,0 +1,12 @@
+230,secu,preshouse,micro,share,insight,0
+230,assis,preshouse,coalarm,remserv,reco,0
+230,light,alert,cotv,remserv,insight,0
+230,alarm,alert,cam,share,opti,1
+230,hvac,preshouse,colight,locally,reco,1
+230,wash,opauto,coassis,remserv,opti,0
+230,hvac,opauto,cosecu,share,nothing,0
+230,alarm,lochouse,corefri,locally,nothing,0
+230,tv,lochouse,locsens,remserv,nothing,0
+230,refr,alert,cowash,locally,insight,1
+230,refr,lochouse,watch,share,reco,0
+230,secu,opauto,cohvac,locally,opti,1

@@ -1,0 +1,12 @@
+937,assis,alert,cohvac,remserv,insight,0
+937,wash,opauto,locsens,share,nothing,0
+937,secu,alert,coassis,share,opti,0
+937,alarm,lochouse,colight,remserv,nothing,0
+937,secu,lochouse,cam,locally,nothing,0
+937,hvac,alert,watch,locally,insight,0
+937,wash,preshouse,cosecu,locally,reco,0
+937,refr,opauto,micro,locally,opti,0
+937,light,opauto,corefri,remserv,opti,0
+937,tv,preshouse,cowash,remserv,reco,0
+937,hvac,lochouse,coalarm,share,reco,0
+937,refr,preshouse,cotv,share,insight,0

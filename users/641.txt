@@ -1,0 +1,12 @@
+641,light,opauto,coalarm,locally,reco,1
+641,hvac,preshouse,coassis,locally,opti,1
+641,hvac,opauto,corefri,share,insight,0
+641,wash,alert,cohvac,share,reco,0
+641,refr,lochouse,cosecu,share,opti,0
+641,secu,alert,watch,remserv,nothing,1
+641,light,preshouse,cowash,share,nothing,0
+641,tv,lochouse,cam,remserv,insight,0
+641,assis,preshouse,locsens,remserv,opti,1
+641,refr,alert,colight,locally,nothing,1
+641,alarm,opauto,micro,remserv,reco,0
+641,wash,lochouse,cotv,locally,insight,0

@@ -1,0 +1,12 @@
+1658,wash,preshouse,locsens,remserv,nothing,0
+1658,tv,preshouse,watch,share,reco,0
+1658,tv,opauto,cowash,locally,insight,0
+1658,alarm,lochouse,cosecu,share,nothing,1
+1658,assis,lochouse,cohvac,locally,opti,1
+1658,light,preshouse,corefri,locally,nothing,0
+1658,alarm,alert,colight,locally,reco,0
+1658,hvac,alert,coalarm,remserv,reco,0
+1658,assis,alert,micro,share,insight,0
+1658,secu,lochouse,coassis,remserv,opti,1
+1658,light,opauto,cam,share,opti,0
+1658,refr,opauto,cotv,remserv,insight,0

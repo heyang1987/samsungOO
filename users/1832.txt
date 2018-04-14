@@ -1,0 +1,12 @@
+1832,assis,lochouse,locsens,share,nothing,0
+1832,light,preshouse,coalarm,share,reco,0
+1832,refr,preshouse,colight,remserv,nothing,1
+1832,wash,lochouse,micro,locally,opti,0
+1832,hvac,opauto,coassis,share,opti,0
+1832,tv,lochouse,corefri,remserv,opti,0
+1832,assis,alert,cosecu,locally,reco,1
+1832,alarm,opauto,cohvac,remserv,insight,1
+1832,wash,alert,cotv,share,insight,0
+1832,light,opauto,watch,locally,insight,1
+1832,secu,alert,cowash,remserv,reco,1
+1832,hvac,preshouse,cam,locally,nothing,1

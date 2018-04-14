@@ -1,0 +1,12 @@
+172,tv,preshouse,micro,remserv,reco,1
+172,hvac,lochouse,cohvac,share,reco,0
+172,wash,opauto,cowash,share,nothing,1
+172,secu,alert,cosecu,share,opti,0
+172,assis,alert,cam,remserv,insight,0
+172,wash,preshouse,coalarm,locally,reco,1
+172,secu,lochouse,colight,locally,nothing,1
+172,alarm,lochouse,watch,remserv,nothing,1
+172,refr,preshouse,corefri,share,insight,0
+172,refr,opauto,coassis,locally,opti,1
+172,light,opauto,locsens,remserv,opti,1
+172,hvac,alert,cotv,locally,insight,1

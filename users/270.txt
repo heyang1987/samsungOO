@@ -1,0 +1,12 @@
+270,secu,lochouse,corefri,remserv,opti,0
+270,refr,opauto,cohvac,remserv,insight,1
+270,tv,preshouse,coalarm,share,reco,0
+270,alarm,alert,cosecu,locally,reco,1
+270,assis,lochouse,micro,locally,opti,0
+270,light,preshouse,cam,locally,nothing,0
+270,tv,opauto,watch,locally,insight,1
+270,alarm,lochouse,locsens,share,nothing,0
+270,assis,alert,cotv,share,insight,1
+270,wash,preshouse,colight,remserv,nothing,1
+270,hvac,alert,cowash,remserv,reco,1
+270,light,opauto,coassis,share,opti,0

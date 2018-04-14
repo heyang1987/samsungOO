@@ -1,0 +1,12 @@
+1458,alarm,lochouse,cowash,share,insight,1
+1458,assis,opauto,corefri,remserv,nothing,1
+1458,refr,alert,coassis,share,nothing,1
+1458,wash,preshouse,watch,remserv,insight,1
+1458,hvac,alert,micro,remserv,opti,0
+1458,refr,lochouse,cam,locally,reco,1
+1458,light,lochouse,cosecu,remserv,reco,1
+1458,secu,opauto,colight,share,reco,1
+1458,tv,opauto,cotv,locally,nothing,1
+1458,tv,preshouse,cohvac,share,opti,1
+1458,secu,preshouse,locsens,locally,insight,1
+1458,alarm,alert,coalarm,locally,opti,0

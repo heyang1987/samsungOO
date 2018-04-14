@@ -1,0 +1,12 @@
+1253,light,preshouse,coassis,remserv,nothing,0
+1253,wash,alert,colight,remserv,reco,1
+1253,secu,lochouse,cam,share,nothing,0
+1253,hvac,opauto,cowash,remserv,insight,1
+1253,tv,alert,coalarm,share,insight,0
+1253,alarm,opauto,cosecu,locally,insight,0
+1253,refr,lochouse,cohvac,remserv,opti,0
+1253,secu,alert,corefri,locally,reco,0
+1253,alarm,preshouse,locsens,share,reco,0
+1253,assis,preshouse,micro,locally,nothing,0
+1253,assis,opauto,cotv,share,opti,0
+1253,tv,lochouse,watch,locally,opti,0

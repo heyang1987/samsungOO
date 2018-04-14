@@ -1,0 +1,12 @@
+566,hvac,preshouse,coalarm,locally,opti,1
+566,tv,lochouse,watch,remserv,insight,1
+566,secu,alert,corefri,remserv,nothing,1
+566,refr,alert,cotv,locally,nothing,1
+566,light,preshouse,coassis,share,nothing,1
+566,light,opauto,cam,locally,reco,1
+566,wash,lochouse,locsens,locally,insight,1
+566,assis,preshouse,micro,remserv,opti,1
+566,hvac,opauto,cowash,share,insight,1
+566,alarm,opauto,cosecu,remserv,reco,1
+566,refr,lochouse,cohvac,share,opti,1
+566,wash,alert,colight,share,reco,1

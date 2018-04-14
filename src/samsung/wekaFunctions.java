@@ -1,7 +1,5 @@
 package samsung;
 
-import java.io.IOException;
-import java.util.ArrayList;
 import java.util.Random;
 
 import weka.classifiers.Evaluation;
@@ -14,102 +12,95 @@ import weka.core.converters.ConverterUtils.DataSource;
 import weka.filters.unsupervised.attribute.Remove;
 
 public class wekaFunctions {
+	
+    public static FilteredClassifier getFilteredClassifier() throws Exception
+    {
+        Remove rm = new Remove();  	
+        rm.setAttributeIndices("1");  // REMOVING ID ATTRIBUTE AS THAT WON'T BE INPUT TO THE CLASSIFIER
+        String[] options = new String[2];
+    	options[0] = "-C";
+    	options[1] = "0.1";
+        // classifier
+        J48 j48 = new J48();
+        j48.setOptions(options);
+        //j48.setUnpruned(true);        // using an unpruned J48
+        // meta-classifier
+        FilteredClassifier cls = new FilteredClassifier();
+        cls.setFilter(rm);
+        cls.setClassifier(j48);
+        return cls;
+    }
     
-        public static FilteredClassifier getFilteredClassifier()
+    public static Instances merge(Instances data1, Instances data2) throws Exception
+    {
+        // Check where are the string attributes
+        int asize = data1.numAttributes();
+        boolean strings_pos[] = new boolean[asize];
+        for(int i=0; i<asize; i++)
         {
-            Remove rm = new Remove();
-            rm.setAttributeIndices("1");  // REMOVING ID ATTRIBUTE AS THAT WON'T BE INPUT TO THE CLASSIFIER
-            //rm.setAttributeIndices("1");
-            // classifier
-            J48 j48 = new J48();
-            //j48.setUnpruned(true);        // using an unpruned J48
-            // meta-classifier
-            FilteredClassifier cls = new FilteredClassifier();
-            cls.setFilter(rm);
-            cls.setClassifier(j48);
-            return cls;
+            Attribute att = data1.attribute(i);
+            strings_pos[i] = ((att.type() == Attribute.STRING) ||
+                              (att.type() == Attribute.NOMINAL));
         }
-        
-        public static Instances merge(Instances data1, Instances data2) throws Exception
-        {
-            // Check where are the string attributes
-            int asize = data1.numAttributes();
-            boolean strings_pos[] = new boolean[asize];
-            for(int i=0; i<asize; i++)
-            {
-                Attribute att = data1.attribute(i);
-                strings_pos[i] = ((att.type() == Attribute.STRING) ||
-                                  (att.type() == Attribute.NOMINAL));
-            }
 
-            // Create a new dataset
-            Instances dest = new Instances(data1);
+        // Create a new dataset
+        Instances dest = new Instances(data1);
 //            dest.setRelationName(data1.relationName() + "+" + data2.relationName());
 
-            DataSource source = new DataSource(data2);
-            Instances instances = source.getStructure();
-            Instance instance = null;
-            while (source.hasMoreElements(instances)) {
-                instance = source.nextElement(instances);
-                dest.add(instance);
+        DataSource source = new DataSource(data2);
+        Instances instances = source.getStructure();
+        Instance instance = null;
+        while (source.hasMoreElements(instances)) {
+            instance = source.nextElement(instances);
+            dest.add(instance);
 
-                // Copy string attributes
-                for(int i=0; i<asize; i++) {
-                    if(strings_pos[i]) {
-                        dest.instance(dest.numInstances()-1)
-                            .setValue(i,instance.stringValue(i));
-                    }
+            // Copy string attributes
+            for(int i=0; i<asize; i++) {
+                if(strings_pos[i]) {
+                    dest.instance(dest.numInstances()-1)
+                        .setValue(i,instance.stringValue(i));
                 }
             }
-
-            return dest;
         }
-        
-        public static FilteredClassifier train(ArrayList<Integer> trainArray) throws Exception
-	{
-            arffFunctions.generateArff(trainArray, "docs/samsung_header.txt", "modelTrain.arff");
-            DataSource sourceTrain = new DataSource("docs/modelTrain.arff");
-            Instances dataTrain = sourceTrain.getDataSet();
-            dataTrain.setClassIndex((dataTrain.numAttributes()-1));
 
-            FilteredClassifier fc = getFilteredClassifier();
-            fc.buildClassifier(dataTrain);
-            return fc;
-	}
+        return dest;
+    }
         
-        public static FilteredClassifier train(Instances train) throws Exception
+    public static FilteredClassifier train(Instances train) throws Exception
 	{
-            FilteredClassifier fc = getFilteredClassifier();
-            train.setClassIndex((train.numAttributes()-1));
-            fc.buildClassifier(train);
-            return fc;
-        }
+        FilteredClassifier fc = getFilteredClassifier();
+        train.setClassIndex((train.numAttributes()-1));
+        fc.buildClassifier(train);
+        return fc;
+    }
+    
+    public static FilteredClassifier trainWithOption(Instances train, double cf) throws Exception
+	{
+        Remove rm = new Remove();
+        String[] options = new String[2];
+    	options[0] = "-C";
+    	options[1] = Double.toString(cf);
+    	
+    	// REMOVING ID ATTRIBUTE AS THAT WON'T BE INPUT TO THE CLASSIFIER
+        rm.setAttributeIndices("1"); 
         
-	public static FilteredClassifier train(Instances train, int classIndex) throws Exception
-	{
-            FilteredClassifier fc = getFilteredClassifier();
-            train.setClassIndex(classIndex);
-            fc.buildClassifier(train);
-            return fc;
-		
-	}
+        // classifier
+        J48 j48 = new J48();
+        j48.setOptions(options);
+        // using an unpruned J48
+        //j48.setUnpruned(true);        
+        // meta-classifier
         
-        public static double trainSelfEval(ArrayList<Integer> array) throws Exception
-	{
-            arffFunctions.generateArff(array, "docs/samsung_header.txt", "model.arff");
-            DataSource source = new DataSource("docs/model.arff");
-            Instances data = source.getDataSet();
-            data.setClassIndex((data.numAttributes()-1));
+        FilteredClassifier cls = new FilteredClassifier();
+        cls.setFilter(rm);
+        cls.setClassifier(j48);
+        train.setClassIndex((train.numAttributes()-1));
+        cls.buildClassifier(train);
+        return cls;
+    }
 
-            FilteredClassifier cls = getFilteredClassifier();
-            cls.buildClassifier(data);
-            // evaluation
-            Evaluation eval = new Evaluation(data);
-            eval.evaluateModel(cls, data);
-            return eval.pctCorrect();
-	}
         
-        public static double trainSelfEval(Instances data) throws Exception
+    public static double trainSelfEval(Instances data) throws Exception
 	{
             if (data.classIndex() == -1)
                 data.setClassIndex((data.numAttributes()-1));
@@ -119,22 +110,6 @@ public class wekaFunctions {
             // evaluation
             Evaluation eval = new Evaluation(data);
             eval.evaluateModel(cls, data);
-            return eval.pctCorrect();
-	}
-        
-        public static double selfCVEval(ArrayList<Integer> array) throws Exception
-	{
-            arffFunctions.generateArff(array, "docs/samsung_header.txt", "model.arff");
-            DataSource source = new DataSource("docs/model.arff");
-            Instances data = source.getDataSet();
-            data.setClassIndex((data.numAttributes()-1));
-
-            FilteredClassifier cls = getFilteredClassifier();
-            //cls.buildClassifier(data);
-            // Cross Validation Evaluation
-            Random random = new Random();
-            Evaluation eval = new Evaluation(data);
-            eval.crossValidateModel(cls, data, 10, random);
             return eval.pctCorrect();
 	}
         
@@ -150,6 +125,8 @@ public class wekaFunctions {
 	
 	public static double eval(FilteredClassifier fc, Instances train, Instances test)  throws Exception
 	{
+		train.setClassIndex(train.numAttributes()-1);
+		test.setClassIndex(test.numAttributes()-1);
 		Evaluation eval = new Evaluation(train);
 		eval.evaluateModel(fc, test);
 		return eval.pctCorrect();
@@ -161,29 +138,6 @@ public class wekaFunctions {
 		Evaluation eval = new Evaluation(data);
 		eval.crossValidateModel(fc, data, 10, random);
 		return eval.pctCorrect();
-	}
-	
-        public static double trainAndEval(ArrayList<Integer> trainArray, ArrayList<Integer> testArray) throws IOException, Exception{
-            arffFunctions.generateArff(trainArray, "docs/samsung_header.txt", "modelTrain.arff");
-            arffFunctions.generateArff(testArray, "docs/samsung_header.txt", "modelTest.arff");
-
-            DataSource sourceTrain = new DataSource("docs/modelTrain.arff");
-            DataSource sourceTest = new DataSource("docs/modelTest.arff");
-
-            Instances dataTrain = sourceTrain.getDataSet();
-            Instances dataTest = sourceTest.getDataSet();
-
-            int classIndex = dataTrain.numAttributes()-1;
-            dataTrain.setClassIndex(classIndex);
-            dataTest.setClassIndex(classIndex);
-		
-            FilteredClassifier fc = getFilteredClassifier();
-            // train
-            fc.buildClassifier(dataTrain);
-            // evaluation
-            Evaluation eval = new Evaluation(dataTrain);
-            eval.evaluateModel(fc, dataTest);
-            return eval.pctCorrect();	
 	}
         
 	public static double trainAndEval(Instances train, Instances test, int classIndex) throws Exception{

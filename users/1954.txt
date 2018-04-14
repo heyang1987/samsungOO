@@ -1,0 +1,12 @@
+1954,wash,preshouse,locsens,share,nothing,0
+1954,refr,opauto,cotv,share,insight,0
+1954,tv,opauto,cowash,remserv,reco,0
+1954,secu,alert,cam,locally,nothing,1
+1954,hvac,alert,coalarm,share,reco,0
+1954,wash,opauto,cosecu,locally,reco,0
+1954,alarm,alert,colight,remserv,nothing,0
+1954,secu,lochouse,coassis,share,opti,0
+1954,light,preshouse,corefri,remserv,opti,1
+1954,assis,lochouse,cohvac,remserv,insight,0
+1954,hvac,lochouse,watch,locally,insight,0
+1954,refr,preshouse,micro,locally,opti,0

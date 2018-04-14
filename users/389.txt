@@ -1,0 +1,12 @@
+389,secu,lochouse,cotv,locally,insight,0
+389,tv,lochouse,cosecu,share,opti,0
+389,light,opauto,micro,remserv,reco,1
+389,alarm,preshouse,coassis,locally,opti,0
+389,hvac,preshouse,locsens,remserv,opti,0
+389,alarm,opauto,corefri,share,insight,0
+389,tv,alert,colight,locally,nothing,1
+389,refr,preshouse,cowash,share,nothing,0
+389,refr,opauto,coalarm,locally,reco,1
+389,assis,alert,watch,remserv,nothing,1
+389,wash,lochouse,cam,remserv,insight,0
+389,secu,alert,cohvac,share,reco,0

@@ -1,0 +1,12 @@
+722,refr,lochouse,watch,remserv,nothing,0
+722,hvac,alert,cosecu,share,opti,1
+722,assis,opauto,cowash,share,nothing,1
+722,tv,opauto,locsens,remserv,opti,1
+722,wash,preshouse,corefri,share,insight,1
+722,hvac,lochouse,colight,locally,nothing,1
+722,assis,preshouse,coalarm,locally,reco,1
+722,alarm,alert,cam,remserv,insight,0
+722,wash,opauto,coassis,locally,opti,1
+722,secu,preshouse,micro,remserv,reco,1
+722,light,alert,cotv,locally,insight,1
+722,light,lochouse,cohvac,share,reco,1

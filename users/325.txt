@@ -1,0 +1,12 @@
+325,light,opauto,colight,remserv,opti,0
+325,wash,preshouse,cowash,locally,reco,1
+325,refr,opauto,corefri,locally,opti,1
+325,secu,alert,locsens,share,opti,0
+325,hvac,alert,cohvac,locally,insight,1
+325,assis,alert,coassis,remserv,insight,0
+325,refr,preshouse,cam,share,insight,0
+325,tv,preshouse,cotv,remserv,reco,0
+325,secu,lochouse,cosecu,locally,nothing,1
+325,wash,opauto,watch,share,nothing,0
+325,hvac,lochouse,micro,share,reco,0
+325,alarm,lochouse,coalarm,remserv,nothing,0

@@ -1,0 +1,12 @@
+1581,secu,alert,cotv,remserv,insight,1
+1581,alarm,opauto,coassis,remserv,opti,1
+1581,tv,preshouse,colight,locally,reco,1
+1581,light,preshouse,micro,share,insight,1
+1581,hvac,lochouse,locsens,remserv,nothing,1
+1581,assis,alert,cowash,locally,insight,1
+1581,wash,alert,cam,share,opti,1
+1581,refr,preshouse,coalarm,remserv,reco,1
+1581,wash,lochouse,corefri,locally,nothing,1
+1581,tv,opauto,cosecu,share,nothing,1
+1581,assis,lochouse,watch,share,reco,1
+1581,light,opauto,cohvac,locally,opti,1

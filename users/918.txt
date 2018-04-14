@@ -1,0 +1,12 @@
+918,hvac,opauto,coalarm,locally,nothing,1
+918,wash,lochouse,colight,share,insight,0
+918,wash,alert,locsens,locally,opti,0
+918,light,preshouse,cam,locally,insight,1
+918,alarm,preshouse,cosecu,remserv,insight,1
+918,refr,opauto,cohvac,remserv,nothing,0
+918,assis,lochouse,micro,locally,reco,0
+918,light,opauto,coassis,share,reco,0
+918,secu,lochouse,corefri,remserv,reco,0
+918,hvac,preshouse,cowash,share,opti,0
+918,tv,alert,watch,remserv,opti,0
+918,assis,alert,cotv,share,nothing,0

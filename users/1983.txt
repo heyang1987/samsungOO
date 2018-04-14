@@ -1,0 +1,12 @@
+1983,assis,alert,cam,remserv,reco,1
+1983,alarm,preshouse,cowash,locally,nothing,1
+1983,refr,preshouse,corefri,share,reco,1
+1983,secu,lochouse,colight,locally,opti,1
+1983,secu,alert,cosecu,share,insight,0
+1983,refr,opauto,coassis,locally,insight,1
+1983,hvac,alert,cotv,locally,reco,1
+1983,tv,preshouse,micro,remserv,nothing,1
+1983,hvac,lochouse,cohvac,share,nothing,0
+1983,wash,lochouse,coalarm,remserv,opti,1
+1983,alarm,opauto,watch,share,opti,1
+1983,light,opauto,locsens,remserv,insight,1

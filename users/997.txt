@@ -1,0 +1,12 @@
+997,assis,lochouse,cosecu,share,reco,0
+997,hvac,lochouse,cam,remserv,nothing,0
+997,secu,alert,coalarm,remserv,insight,1
+997,tv,opauto,corefri,share,nothing,1
+997,refr,preshouse,locsens,remserv,reco,0
+997,alarm,opauto,cotv,remserv,opti,1
+997,light,opauto,cowash,locally,opti,1
+997,assis,alert,colight,locally,insight,1
+997,wash,lochouse,cohvac,locally,nothing,0
+997,tv,preshouse,coassis,locally,reco,0
+997,wash,alert,micro,share,opti,0
+997,light,preshouse,watch,share,insight,1

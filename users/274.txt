@@ -1,0 +1,12 @@
+274,refr,lochouse,cam,remserv,reco,0
+274,hvac,opauto,micro,remserv,nothing,1
+274,light,lochouse,cosecu,share,insight,0
+274,tv,alert,cohvac,share,nothing,1
+274,wash,preshouse,watch,share,opti,1
+274,alarm,alert,coalarm,remserv,opti,1
+274,light,alert,colight,locally,opti,1
+274,tv,lochouse,cotv,locally,reco,1
+274,assis,opauto,corefri,share,reco,1
+274,wash,opauto,cowash,locally,nothing,1
+274,assis,preshouse,coassis,locally,insight,1
+274,secu,preshouse,locsens,remserv,insight,1

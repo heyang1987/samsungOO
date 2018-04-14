@@ -1,0 +1,12 @@
+1874,assis,alert,corefri,remserv,reco,1
+1874,secu,alert,colight,share,insight,0
+1874,hvac,alert,micro,locally,reco,0
+1874,wash,lochouse,watch,remserv,opti,1
+1874,refr,preshouse,coassis,share,reco,0
+1874,alarm,preshouse,coalarm,locally,nothing,1
+1874,tv,preshouse,cohvac,remserv,nothing,1
+1874,alarm,opauto,cowash,share,opti,0
+1874,light,opauto,cosecu,remserv,insight,1
+1874,hvac,lochouse,cotv,share,nothing,0
+1874,secu,lochouse,locsens,locally,opti,1
+1874,refr,opauto,cam,locally,insight,0

@@ -1,0 +1,12 @@
+664,wash,alert,locsens,remserv,reco,0
+664,light,preshouse,cam,remserv,nothing,1
+664,tv,lochouse,cowash,locally,opti,1
+664,alarm,opauto,colight,locally,insight,1
+664,secu,alert,coassis,locally,reco,0
+664,assis,opauto,micro,share,opti,1
+664,refr,lochouse,cotv,remserv,opti,1
+664,hvac,opauto,coalarm,remserv,insight,1
+664,alarm,preshouse,cosecu,share,reco,0
+664,secu,lochouse,corefri,share,nothing,0
+664,tv,alert,watch,share,insight,0
+664,assis,preshouse,cohvac,locally,nothing,1

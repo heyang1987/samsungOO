@@ -1,0 +1,12 @@
+1220,alarm,lochouse,cosecu,remserv,insight,0
+1220,hvac,lochouse,cowash,share,opti,1
+1220,tv,preshouse,watch,remserv,opti,1
+1220,assis,opauto,micro,locally,reco,0
+1220,refr,alert,cohvac,remserv,nothing,1
+1220,assis,preshouse,cotv,share,nothing,0
+1220,light,alert,coassis,share,reco,1
+1220,secu,opauto,corefri,remserv,reco,0
+1220,light,lochouse,cam,locally,insight,0
+1220,wash,opauto,colight,share,insight,0
+1220,hvac,alert,coalarm,locally,nothing,0
+1220,wash,preshouse,locsens,locally,opti,0

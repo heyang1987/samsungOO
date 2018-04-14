@@ -1,0 +1,12 @@
+43,wash,opauto,cam,locally,opti,1
+43,refr,lochouse,cowash,remserv,nothing,1
+43,tv,opauto,cosecu,remserv,opti,0
+43,assis,preshouse,watch,locally,reco,1
+43,assis,opauto,coalarm,share,nothing,0
+43,alarm,alert,corefri,remserv,insight,1
+43,secu,preshouse,cohvac,remserv,reco,0
+43,hvac,lochouse,locsens,locally,nothing,1
+43,hvac,alert,colight,share,opti,1
+43,light,lochouse,cotv,share,reco,0
+43,wash,preshouse,coassis,share,insight,1
+43,light,alert,micro,locally,insight,1

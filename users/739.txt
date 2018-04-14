@@ -1,0 +1,12 @@
+739,hvac,opauto,micro,remserv,reco,1
+739,light,alert,colight,locally,nothing,1
+739,assis,preshouse,coassis,locally,opti,1
+739,tv,lochouse,cotv,locally,insight,1
+739,tv,alert,cohvac,share,reco,1
+739,alarm,preshouse,cowash,share,nothing,1
+739,alarm,opauto,coalarm,locally,reco,1
+739,wash,alert,watch,remserv,nothing,1
+739,secu,preshouse,locsens,remserv,opti,1
+739,refr,lochouse,cam,remserv,insight,1
+739,light,lochouse,cosecu,share,opti,1
+739,assis,opauto,corefri,share,insight,1

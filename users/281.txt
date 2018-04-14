@@ -1,0 +1,12 @@
+281,light,opauto,coalarm,remserv,nothing,1
+281,assis,preshouse,locsens,share,opti,0
+281,hvac,preshouse,coassis,remserv,insight,1
+281,wash,lochouse,cotv,remserv,reco,1
+281,tv,alert,corefri,locally,opti,1
+281,secu,lochouse,cowash,locally,reco,1
+281,alarm,opauto,micro,share,reco,0
+281,secu,alert,watch,share,nothing,0
+281,alarm,preshouse,cohvac,locally,insight,1
+281,refr,alert,colight,remserv,opti,1
+281,assis,opauto,cosecu,locally,nothing,1
+281,tv,lochouse,cam,share,insight,0

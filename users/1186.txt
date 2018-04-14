@@ -1,0 +1,12 @@
+1186,light,alert,locsens,locally,insight,1
+1186,wash,opauto,coalarm,locally,opti,1
+1186,hvac,lochouse,cotv,locally,nothing,1
+1186,light,lochouse,colight,share,reco,0
+1186,assis,preshouse,cam,locally,reco,0
+1186,hvac,alert,cohvac,share,opti,0
+1186,assis,opauto,coassis,share,nothing,1
+1186,wash,preshouse,cowash,share,insight,0
+1186,alarm,alert,watch,remserv,insight,1
+1186,secu,preshouse,cosecu,remserv,reco,1
+1186,tv,opauto,micro,remserv,opti,0
+1186,refr,lochouse,corefri,remserv,nothing,1

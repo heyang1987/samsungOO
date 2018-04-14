@@ -1,0 +1,12 @@
+1582,wash,alert,cosecu,share,reco,0
+1582,wash,lochouse,colight,locally,insight,0
+1582,refr,lochouse,micro,share,opti,0
+1582,alarm,opauto,locsens,remserv,reco,0
+1582,light,opauto,coassis,locally,reco,0
+1582,hvac,preshouse,cowash,locally,opti,0
+1582,secu,alert,cam,remserv,nothing,0
+1582,hvac,opauto,watch,share,insight,0
+1582,light,preshouse,corefri,share,nothing,0
+1582,refr,alert,cohvac,locally,nothing,0
+1582,tv,lochouse,coalarm,remserv,insight,0
+1582,assis,preshouse,cotv,remserv,opti,0

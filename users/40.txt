@@ -1,0 +1,12 @@
+40,hvac,lochouse,watch,locally,reco,0
+40,secu,lochouse,coassis,share,insight,0
+40,secu,alert,cam,locally,opti,0
+40,alarm,preshouse,colight,share,opti,0
+40,refr,preshouse,micro,locally,insight,0
+40,light,preshouse,corefri,remserv,insight,0
+40,hvac,alert,coalarm,share,nothing,0
+40,assis,lochouse,cohvac,remserv,reco,0
+40,tv,opauto,cowash,remserv,nothing,0
+40,refr,opauto,cotv,share,reco,0
+40,wash,alert,cosecu,remserv,opti,0
+40,alarm,opauto,locsens,locally,nothing,0

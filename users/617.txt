@@ -1,0 +1,12 @@
+617,refr,lochouse,cowash,locally,reco,1
+617,tv,opauto,cosecu,locally,nothing,0
+617,secu,preshouse,cohvac,locally,insight,1
+617,alarm,alert,corefri,locally,opti,1
+617,tv,preshouse,locsens,share,opti,0
+617,secu,opauto,micro,share,reco,0
+617,alarm,lochouse,cam,share,insight,0
+617,refr,alert,watch,share,nothing,0
+617,light,lochouse,cotv,remserv,reco,0
+617,assis,opauto,coalarm,remserv,nothing,1
+617,wash,preshouse,coassis,remserv,insight,0
+617,hvac,alert,colight,remserv,opti,0

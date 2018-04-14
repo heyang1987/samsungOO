@@ -1,0 +1,12 @@
+906,assis,preshouse,cam,locally,nothing,1
+906,secu,lochouse,locsens,share,nothing,0
+906,assis,opauto,coassis,share,opti,1
+906,hvac,opauto,cohvac,remserv,insight,1
+906,tv,alert,cotv,share,insight,1
+906,alarm,opauto,watch,locally,insight,1
+906,wash,alert,cowash,remserv,reco,0
+906,refr,lochouse,corefri,remserv,opti,0
+906,tv,lochouse,micro,locally,opti,0
+906,alarm,preshouse,coalarm,share,reco,0
+906,secu,alert,cosecu,locally,reco,1
+906,light,preshouse,colight,remserv,nothing,0

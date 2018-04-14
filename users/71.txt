@@ -1,0 +1,12 @@
+71,alarm,preshouse,corefri,share,nothing,1
+71,refr,lochouse,coalarm,remserv,insight,1
+71,light,alert,cohvac,locally,nothing,1
+71,secu,preshouse,cotv,remserv,opti,1
+71,tv,alert,cosecu,share,reco,0
+71,alarm,opauto,coassis,locally,reco,1
+71,assis,preshouse,cowash,locally,opti,1
+71,hvac,opauto,locsens,remserv,reco,1
+71,tv,lochouse,colight,locally,insight,1
+71,assis,opauto,watch,share,insight,0
+71,wash,alert,cam,remserv,nothing,0
+71,light,lochouse,micro,share,opti,0

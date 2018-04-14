@@ -1,0 +1,12 @@
+1637,alarm,opauto,colight,locally,opti,1
+1637,refr,preshouse,cotv,locally,reco,0
+1637,tv,lochouse,cowash,locally,nothing,0
+1637,tv,alert,watch,share,opti,0
+1637,secu,alert,coassis,locally,insight,1
+1637,assis,lochouse,micro,remserv,nothing,0
+1637,hvac,opauto,coalarm,remserv,opti,1
+1637,alarm,preshouse,cosecu,share,insight,0
+1637,light,preshouse,cam,remserv,reco,0
+1637,secu,lochouse,corefri,share,reco,0
+1637,wash,alert,locsens,remserv,insight,0
+1637,refr,opauto,cohvac,share,nothing,0

@@ -1,0 +1,12 @@
+911,secu,opauto,coalarm,locally,reco,1
+911,hvac,lochouse,cam,remserv,insight,0
+911,alarm,lochouse,cotv,locally,insight,0
+911,assis,lochouse,cosecu,share,opti,0
+911,alarm,alert,cohvac,share,reco,0
+911,refr,preshouse,locsens,remserv,opti,0
+911,assis,alert,colight,locally,nothing,1
+911,secu,preshouse,cowash,share,nothing,0
+911,tv,preshouse,coassis,locally,opti,0
+911,light,alert,watch,remserv,nothing,0
+911,wash,opauto,micro,remserv,reco,0
+911,tv,opauto,corefri,share,insight,0

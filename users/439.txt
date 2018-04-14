@@ -1,0 +1,12 @@
+439,refr,opauto,cotv,remserv,reco,1
+439,light,opauto,cam,share,insight,1
+439,assis,alert,micro,share,reco,1
+439,wash,alert,cosecu,locally,nothing,1
+439,hvac,alert,coalarm,remserv,nothing,1
+439,tv,opauto,cowash,locally,reco,1
+439,wash,lochouse,locsens,share,opti,1
+439,alarm,preshouse,colight,remserv,opti,1
+439,tv,preshouse,watch,share,nothing,1
+439,secu,lochouse,coassis,remserv,insight,1
+439,assis,lochouse,cohvac,locally,insight,1
+439,light,preshouse,corefri,locally,opti,1

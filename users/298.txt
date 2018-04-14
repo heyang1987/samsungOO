@@ -1,0 +1,12 @@
+298,assis,lochouse,cotv,share,reco,1
+298,tv,preshouse,watch,locally,reco,1
+298,light,preshouse,coassis,share,insight,1
+298,assis,alert,micro,locally,insight,1
+298,alarm,opauto,cosecu,remserv,opti,1
+298,tv,opauto,coalarm,share,nothing,1
+298,wash,alert,colight,share,opti,0
+298,refr,preshouse,cohvac,remserv,reco,0
+298,hvac,lochouse,cowash,remserv,nothing,1
+298,light,opauto,cam,locally,opti,1
+298,wash,lochouse,locsens,locally,nothing,0
+298,secu,alert,corefri,remserv,insight,1

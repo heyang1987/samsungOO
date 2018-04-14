@@ -1,0 +1,12 @@
+1654,wash,alert,micro,locally,opti,1
+1654,refr,opauto,colight,remserv,nothing,1
+1654,light,preshouse,watch,locally,insight,1
+1654,alarm,preshouse,cohvac,remserv,insight,0
+1654,hvac,opauto,cam,locally,nothing,1
+1654,hvac,preshouse,coassis,share,opti,0
+1654,assis,alert,locsens,share,nothing,0
+1654,assis,lochouse,cosecu,locally,reco,1
+1654,secu,lochouse,cowash,remserv,reco,0
+1654,wash,lochouse,cotv,share,insight,0
+1654,light,opauto,coalarm,share,reco,0
+1654,tv,alert,corefri,remserv,opti,0

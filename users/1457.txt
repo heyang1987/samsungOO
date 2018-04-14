@@ -1,0 +1,12 @@
+1457,alarm,opauto,coalarm,remserv,opti,0
+1457,tv,preshouse,cotv,locally,reco,0
+1457,wash,lochouse,cowash,locally,nothing,0
+1457,secu,alert,locsens,remserv,insight,0
+1457,wash,alert,watch,share,opti,0
+1457,assis,lochouse,corefri,share,reco,0
+1457,assis,alert,coassis,locally,insight,0
+1457,hvac,lochouse,micro,remserv,nothing,0
+1457,light,preshouse,cosecu,share,insight,0
+1457,refr,preshouse,cam,remserv,reco,0
+1457,light,opauto,colight,locally,opti,0
+1457,tv,opauto,cohvac,share,nothing,0

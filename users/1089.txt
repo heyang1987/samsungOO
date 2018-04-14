@@ -1,0 +1,12 @@
+1089,secu,preshouse,locsens,share,insight,1
+1089,refr,lochouse,cam,share,reco,1
+1089,refr,alert,corefri,locally,insight,1
+1089,secu,opauto,cosecu,locally,opti,1
+1089,alarm,alert,coalarm,share,opti,1
+1089,wash,opauto,cowash,remserv,opti,1
+1089,alarm,lochouse,watch,locally,nothing,1
+1089,tv,lochouse,cotv,remserv,nothing,0
+1089,light,alert,colight,remserv,insight,0
+1089,hvac,preshouse,cohvac,locally,reco,1
+1089,assis,preshouse,coassis,remserv,reco,0
+1089,hvac,opauto,micro,share,nothing,0

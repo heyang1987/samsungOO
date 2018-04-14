@@ -1,0 +1,12 @@
+387,alarm,lochouse,micro,share,insight,0
+387,secu,opauto,watch,share,reco,0
+387,assis,opauto,locsens,remserv,nothing,1
+387,refr,alert,cosecu,share,nothing,0
+387,tv,opauto,corefri,locally,nothing,0
+387,tv,preshouse,cam,share,opti,0
+387,alarm,alert,cohvac,locally,opti,1
+387,light,lochouse,coalarm,remserv,reco,0
+387,refr,lochouse,colight,locally,reco,0
+387,hvac,alert,coassis,remserv,opti,0
+387,wash,preshouse,cotv,remserv,insight,0
+387,secu,preshouse,cowash,locally,insight,0

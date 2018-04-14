@@ -1,0 +1,12 @@
+1286,secu,lochouse,colight,share,reco,0
+1286,hvac,opauto,micro,remserv,opti,0
+1286,tv,lochouse,cotv,locally,nothing,0
+1286,alarm,preshouse,cowash,share,insight,0
+1286,wash,alert,watch,remserv,insight,0
+1286,refr,opauto,coassis,share,nothing,0
+1286,refr,preshouse,cam,locally,reco,0
+1286,assis,lochouse,corefri,remserv,nothing,0
+1286,secu,alert,locsens,locally,insight,0
+1286,tv,alert,cohvac,share,opti,0
+1286,alarm,opauto,coalarm,locally,opti,0
+1286,light,preshouse,cosecu,remserv,reco,0

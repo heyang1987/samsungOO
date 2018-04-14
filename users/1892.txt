@@ -1,0 +1,12 @@
+1892,assis,lochouse,cohvac,locally,reco,1
+1892,hvac,preshouse,coalarm,share,opti,1
+1892,assis,alert,micro,share,nothing,1
+1892,tv,alert,cowash,remserv,opti,1
+1892,hvac,opauto,watch,locally,nothing,1
+1892,alarm,preshouse,colight,remserv,insight,1
+1892,secu,lochouse,coassis,remserv,reco,1
+1892,wash,alert,cosecu,locally,opti,0
+1892,refr,opauto,cotv,remserv,nothing,0
+1892,light,opauto,cam,share,reco,1
+1892,light,preshouse,corefri,locally,insight,0
+1892,wash,lochouse,locsens,share,insight,0

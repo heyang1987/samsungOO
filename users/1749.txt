@@ -1,0 +1,12 @@
+1749,tv,lochouse,cam,remserv,opti,0
+1749,alarm,opauto,micro,remserv,insight,1
+1749,wash,lochouse,cotv,locally,opti,0
+1749,light,preshouse,cowash,share,reco,0
+1749,wash,alert,cohvac,share,insight,0
+1749,assis,alert,locsens,locally,reco,1
+1749,assis,lochouse,colight,share,nothing,0
+1749,refr,preshouse,cosecu,remserv,nothing,0
+1749,light,opauto,coalarm,locally,insight,1
+1749,hvac,opauto,corefri,share,opti,0
+1749,hvac,preshouse,coassis,locally,nothing,1
+1749,secu,alert,watch,remserv,reco,1

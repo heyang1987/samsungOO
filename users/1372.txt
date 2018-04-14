@@ -1,0 +1,12 @@
+1372,secu,opauto,cowash,locally,reco,1
+1372,wash,opauto,cotv,remserv,reco,1
+1372,tv,preshouse,corefri,locally,opti,0
+1372,alarm,lochouse,cohvac,locally,insight,1
+1372,hvac,lochouse,coassis,remserv,insight,0
+1372,assis,lochouse,locsens,share,opti,0
+1372,refr,preshouse,colight,remserv,opti,0
+1372,secu,preshouse,watch,share,nothing,0
+1372,alarm,alert,micro,share,reco,0
+1372,assis,alert,cosecu,locally,nothing,1
+1372,tv,opauto,cam,share,insight,0
+1372,light,alert,coalarm,remserv,nothing,1

@@ -1,0 +1,12 @@
+2006,tv,lochouse,cohvac,remserv,insight,1
+2006,secu,alert,colight,remserv,nothing,1
+2006,assis,preshouse,corefri,remserv,opti,1
+2006,light,preshouse,locsens,share,nothing,0
+2006,hvac,opauto,cotv,share,insight,0
+2006,refr,alert,cam,locally,nothing,1
+2006,wash,alert,coalarm,share,reco,0
+2006,light,opauto,cosecu,locally,reco,1
+2006,refr,lochouse,coassis,share,opti,0
+2006,hvac,preshouse,micro,locally,opti,1
+2006,wash,lochouse,watch,locally,insight,1
+2006,alarm,opauto,cowash,remserv,reco,1

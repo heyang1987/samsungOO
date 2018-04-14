@@ -1,0 +1,12 @@
+1413,assis,alert,cam,locally,insight,1
+1413,refr,preshouse,corefri,remserv,reco,0
+1413,hvac,lochouse,cohvac,remserv,nothing,0
+1413,tv,opauto,cotv,share,nothing,0
+1413,tv,preshouse,micro,locally,reco,0
+1413,alarm,opauto,watch,remserv,opti,1
+1413,light,opauto,locsens,locally,opti,1
+1413,light,preshouse,colight,share,insight,0
+1413,wash,alert,cowash,share,opti,1
+1413,secu,alert,cosecu,remserv,insight,1
+1413,assis,lochouse,coassis,share,reco,1
+1413,wash,lochouse,coalarm,locally,nothing,1

@@ -1,0 +1,12 @@
+1277,light,alert,locsens,share,opti,0
+1277,tv,alert,cohvac,locally,insight,0
+1277,hvac,preshouse,cotv,remserv,reco,1
+1277,wash,lochouse,coalarm,remserv,nothing,0
+1277,assis,preshouse,cam,share,insight,0
+1277,alarm,opauto,watch,share,nothing,0
+1277,secu,opauto,colight,remserv,opti,1
+1277,alarm,preshouse,cowash,locally,reco,1
+1277,light,lochouse,cosecu,locally,nothing,1
+1277,tv,lochouse,micro,share,reco,0
+1277,assis,opauto,corefri,locally,opti,1
+1277,refr,alert,coassis,remserv,insight,1

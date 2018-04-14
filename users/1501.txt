@@ -1,0 +1,12 @@
+1501,assis,alert,coassis,locally,opti,0
+1501,refr,preshouse,cam,remserv,insight,0
+1501,tv,opauto,cohvac,share,reco,1
+1501,alarm,alert,cowash,share,nothing,0
+1501,wash,opauto,watch,remserv,nothing,0
+1501,hvac,lochouse,micro,remserv,reco,1
+1501,light,opauto,colight,locally,nothing,1
+1501,secu,alert,locsens,remserv,opti,0
+1501,assis,lochouse,corefri,share,insight,0
+1501,light,preshouse,cosecu,share,opti,0
+1501,alarm,lochouse,coalarm,locally,reco,0
+1501,tv,preshouse,cotv,locally,insight,0

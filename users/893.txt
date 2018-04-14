@@ -1,0 +1,12 @@
+893,assis,preshouse,corefri,remserv,insight,1
+893,wash,alert,coalarm,share,nothing,0
+893,wash,lochouse,watch,locally,reco,1
+893,refr,alert,cam,locally,opti,0
+893,alarm,opauto,cowash,remserv,nothing,0
+893,secu,preshouse,colight,share,opti,1
+893,tv,lochouse,cohvac,remserv,reco,0
+893,secu,opauto,locsens,locally,nothing,1
+893,light,alert,cosecu,remserv,opti,0
+893,hvac,opauto,cotv,share,reco,0
+893,hvac,preshouse,micro,locally,insight,1
+893,refr,lochouse,coassis,share,insight,0

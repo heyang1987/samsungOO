@@ -1,0 +1,12 @@
+1791,light,lochouse,cohvac,locally,opti,1
+1791,wash,preshouse,corefri,locally,nothing,0
+1791,tv,alert,colight,locally,reco,0
+1791,assis,opauto,cowash,locally,insight,1
+1791,alarm,lochouse,coassis,remserv,opti,0
+1791,refr,alert,coalarm,remserv,reco,0
+1791,secu,opauto,cotv,remserv,insight,1
+1791,wash,opauto,cam,share,opti,0
+1791,light,alert,micro,share,insight,0
+1791,tv,lochouse,cosecu,share,nothing,0
+1791,hvac,preshouse,locsens,remserv,nothing,1
+1791,assis,preshouse,watch,share,reco,0

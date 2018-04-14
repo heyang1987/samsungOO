@@ -1,0 +1,12 @@
+542,refr,preshouse,watch,locally,reco,1
+542,hvac,opauto,cosecu,remserv,opti,1
+542,secu,alert,micro,locally,insight,0
+542,refr,opauto,coalarm,share,nothing,1
+542,assis,lochouse,cowash,remserv,nothing,1
+542,alarm,preshouse,coassis,share,insight,0
+542,tv,alert,colight,share,opti,1
+542,wash,alert,corefri,remserv,insight,1
+542,secu,lochouse,cotv,share,reco,1
+542,light,preshouse,cohvac,remserv,reco,1
+542,alarm,opauto,cam,locally,opti,1
+542,tv,lochouse,locsens,locally,nothing,1

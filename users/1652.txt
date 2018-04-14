@@ -1,0 +1,12 @@
+1652,wash,opauto,colight,locally,opti,0
+1652,assis,opauto,cohvac,share,nothing,0
+1652,light,lochouse,corefri,share,reco,0
+1652,alarm,alert,locsens,remserv,insight,0
+1652,refr,lochouse,micro,remserv,nothing,0
+1652,light,alert,coassis,locally,insight,0
+1652,assis,preshouse,cotv,locally,reco,0
+1652,tv,opauto,coalarm,remserv,opti,0
+1652,wash,preshouse,cosecu,share,insight,0
+1652,hvac,lochouse,cowash,locally,nothing,0
+1652,hvac,alert,watch,share,opti,0
+1652,secu,preshouse,cam,remserv,reco,0

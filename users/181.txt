@@ -1,0 +1,12 @@
+181,hvac,preshouse,micro,share,reco,0
+181,alarm,preshouse,coalarm,remserv,nothing,0
+181,refr,lochouse,corefri,locally,opti,0
+181,wash,lochouse,watch,share,nothing,0
+181,wash,alert,cowash,locally,reco,0
+181,secu,preshouse,cosecu,locally,nothing,0
+181,tv,alert,cotv,remserv,reco,0
+181,assis,opauto,coassis,remserv,insight,0
+181,refr,alert,cam,share,insight,0
+181,light,lochouse,colight,remserv,opti,1
+181,secu,opauto,locsens,share,opti,0
+181,hvac,opauto,cohvac,locally,insight,0

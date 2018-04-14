@@ -1,0 +1,12 @@
+432,secu,alert,colight,locally,reco,0
+432,light,preshouse,locsens,remserv,nothing,0
+432,alarm,opauto,cowash,locally,insight,0
+432,hvac,opauto,cotv,remserv,insight,0
+432,alarm,preshouse,watch,share,reco,0
+432,assis,preshouse,corefri,locally,nothing,0
+432,wash,alert,coalarm,remserv,reco,0
+432,secu,lochouse,cosecu,share,nothing,0
+432,assis,opauto,cam,share,opti,0
+432,tv,lochouse,cohvac,locally,opti,0
+432,tv,alert,micro,share,insight,0
+432,refr,lochouse,coassis,remserv,opti,0

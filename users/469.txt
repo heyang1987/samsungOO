@@ -1,0 +1,12 @@
+469,assis,opauto,watch,remserv,insight,0
+469,alarm,preshouse,corefri,remserv,nothing,0
+469,hvac,opauto,locsens,locally,insight,1
+469,tv,alert,cosecu,remserv,reco,0
+469,wash,lochouse,coassis,share,nothing,0
+469,secu,preshouse,cotv,locally,nothing,1
+469,secu,opauto,cohvac,share,opti,0
+469,refr,alert,cowash,share,insight,0
+469,light,lochouse,micro,remserv,opti,1
+469,wash,alert,cam,locally,reco,0
+469,refr,lochouse,coalarm,locally,opti,0
+469,hvac,preshouse,colight,share,reco,0

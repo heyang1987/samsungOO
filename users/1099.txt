@@ -1,0 +1,12 @@
+1099,refr,lochouse,cotv,locally,opti,1
+1099,hvac,preshouse,cowash,share,reco,0
+1099,light,lochouse,cam,remserv,opti,1
+1099,tv,alert,watch,remserv,reco,1
+1099,refr,alert,cohvac,share,insight,1
+1099,secu,opauto,corefri,share,opti,0
+1099,alarm,preshouse,cosecu,remserv,nothing,1
+1099,assis,opauto,micro,remserv,insight,1
+1099,hvac,opauto,coalarm,locally,insight,1
+1099,wash,lochouse,colight,share,nothing,1
+1099,wash,alert,locsens,locally,reco,1
+1099,secu,preshouse,coassis,locally,nothing,1

@@ -1,0 +1,12 @@
+1784,assis,preshouse,corefri,share,insight,0
+1784,tv,alert,cotv,locally,insight,1
+1784,tv,lochouse,cohvac,share,reco,0
+1784,hvac,preshouse,micro,remserv,reco,0
+1784,wash,lochouse,watch,remserv,nothing,0
+1784,light,lochouse,colight,locally,nothing,1
+1784,light,alert,cosecu,share,opti,0
+1784,alarm,preshouse,coalarm,locally,reco,0
+1784,secu,opauto,locsens,remserv,opti,1
+1784,alarm,opauto,cowash,share,nothing,0
+1784,assis,opauto,coassis,locally,opti,1
+1784,refr,alert,cam,remserv,insight,0

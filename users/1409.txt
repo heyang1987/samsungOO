@@ -1,0 +1,12 @@
+1409,tv,alert,cowash,share,opti,0
+1409,light,preshouse,corefri,remserv,reco,0
+1409,alarm,preshouse,colight,share,insight,0
+1409,refr,preshouse,micro,locally,reco,0
+1409,hvac,opauto,watch,remserv,opti,0
+1409,tv,lochouse,coalarm,locally,nothing,0
+1409,refr,opauto,cotv,share,nothing,0
+1409,secu,alert,cam,locally,insight,0
+1409,secu,lochouse,coassis,share,reco,0
+1409,alarm,opauto,locsens,locally,opti,0
+1409,assis,lochouse,cohvac,remserv,nothing,0
+1409,wash,alert,cosecu,remserv,insight,0

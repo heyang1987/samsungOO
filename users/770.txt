@@ -1,0 +1,12 @@
+770,tv,opauto,coassis,locally,reco,1
+770,assis,lochouse,colight,locally,insight,1
+770,secu,lochouse,coalarm,remserv,insight,1
+770,wash,lochouse,micro,share,opti,1
+770,light,opauto,watch,share,insight,1
+770,refr,opauto,locsens,remserv,reco,1
+770,wash,alert,cohvac,locally,nothing,1
+770,tv,preshouse,corefri,share,nothing,1
+770,assis,alert,cosecu,share,reco,1
+770,light,preshouse,cowash,locally,opti,1
+770,hvac,alert,cam,remserv,nothing,1
+770,alarm,preshouse,cotv,remserv,opti,1

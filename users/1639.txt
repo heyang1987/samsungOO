@@ -1,0 +1,12 @@
+1639,alarm,opauto,colight,share,insight,1
+1639,secu,alert,coassis,share,reco,0
+1639,hvac,preshouse,watch,remserv,opti,1
+1639,wash,lochouse,cosecu,remserv,insight,1
+1639,assis,alert,cohvac,remserv,nothing,1
+1639,tv,lochouse,cowash,share,opti,0
+1639,light,opauto,corefri,remserv,reco,1
+1639,alarm,preshouse,locsens,locally,opti,1
+1639,refr,opauto,micro,locally,reco,1
+1639,secu,lochouse,cam,locally,insight,1
+1639,refr,preshouse,cotv,share,nothing,0
+1639,tv,alert,coalarm,locally,nothing,1

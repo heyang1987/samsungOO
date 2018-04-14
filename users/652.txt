@@ -1,0 +1,12 @@
+652,wash,lochouse,colight,share,opti,1
+652,alarm,preshouse,cosecu,remserv,opti,1
+652,secu,lochouse,corefri,remserv,insight,1
+652,assis,alert,cotv,share,reco,1
+652,light,preshouse,cam,locally,opti,1
+652,assis,lochouse,micro,locally,insight,1
+652,tv,preshouse,coalarm,share,nothing,1
+652,hvac,alert,cowash,remserv,nothing,1
+652,light,opauto,coassis,share,insight,1
+652,wash,alert,locsens,locally,nothing,1
+652,refr,opauto,cohvac,remserv,reco,1
+652,tv,opauto,watch,locally,reco,1

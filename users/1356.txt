@@ -1,0 +1,12 @@
+1356,assis,preshouse,locsens,share,insight,0
+1356,tv,alert,corefri,locally,insight,0
+1356,wash,lochouse,cotv,remserv,nothing,0
+1356,alarm,opauto,micro,share,nothing,0
+1356,light,alert,coalarm,share,opti,0
+1356,tv,lochouse,cam,share,reco,0
+1356,light,lochouse,watch,locally,nothing,0
+1356,secu,opauto,cowash,remserv,opti,0
+1356,refr,alert,colight,remserv,insight,0
+1356,hvac,preshouse,coassis,remserv,reco,0
+1356,assis,opauto,cosecu,locally,opti,0
+1356,alarm,preshouse,cohvac,locally,reco,0

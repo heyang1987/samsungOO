@@ -1,0 +1,12 @@
+316,hvac,preshouse,cowash,remserv,insight,1
+316,assis,opauto,micro,locally,nothing,1
+316,tv,lochouse,coalarm,share,insight,0
+316,secu,lochouse,corefri,locally,reco,1
+316,refr,alert,cohvac,remserv,opti,1
+316,assis,preshouse,cotv,share,opti,0
+316,secu,alert,cam,share,nothing,1
+316,tv,alert,watch,locally,opti,1
+316,light,opauto,coassis,remserv,nothing,0
+316,alarm,preshouse,cosecu,locally,insight,1
+316,wash,lochouse,colight,remserv,reco,1
+316,alarm,opauto,locsens,share,reco,0

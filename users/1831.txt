@@ -1,0 +1,12 @@
+1831,hvac,lochouse,cotv,share,opti,0
+1831,assis,opauto,corefri,locally,reco,0
+1831,refr,alert,coassis,remserv,nothing,0
+1831,light,alert,locsens,share,reco,0
+1831,secu,opauto,colight,remserv,reco,0
+1831,wash,opauto,coalarm,share,insight,0
+1831,assis,preshouse,cam,share,nothing,0
+1831,tv,preshouse,cohvac,remserv,opti,0
+1831,light,lochouse,cosecu,locally,insight,0
+1831,hvac,alert,micro,locally,nothing,1
+1831,alarm,lochouse,cowash,remserv,insight,0
+1831,wash,preshouse,watch,locally,opti,0

@@ -1,0 +1,12 @@
+881,wash,opauto,watch,locally,reco,0
+881,light,preshouse,cosecu,remserv,opti,0
+881,refr,opauto,coassis,share,insight,0
+881,secu,alert,locsens,locally,nothing,1
+881,secu,lochouse,colight,share,opti,0
+881,wash,preshouse,coalarm,share,nothing,0
+881,refr,preshouse,cam,locally,opti,1
+881,alarm,alert,cowash,remserv,nothing,1
+881,hvac,alert,cotv,share,reco,1
+881,hvac,lochouse,micro,locally,insight,1
+881,assis,lochouse,corefri,remserv,insight,1
+881,tv,opauto,cohvac,remserv,reco,0

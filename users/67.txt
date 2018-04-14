@@ -1,0 +1,12 @@
+67,tv,alert,colight,remserv,reco,1
+67,secu,preshouse,micro,locally,nothing,1
+67,hvac,preshouse,locsens,share,reco,1
+67,assis,opauto,cowash,remserv,insight,1
+67,wash,alert,corefri,locally,reco,0
+67,wash,lochouse,cam,share,nothing,0
+67,light,lochouse,cohvac,remserv,opti,1
+67,refr,alert,coalarm,share,insight,1
+67,refr,lochouse,watch,locally,opti,1
+67,secu,opauto,cotv,share,opti,1
+67,alarm,preshouse,coassis,remserv,nothing,1
+67,hvac,opauto,cosecu,locally,insight,1

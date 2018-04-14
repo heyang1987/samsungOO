@@ -1,0 +1,12 @@
+811,light,opauto,cotv,remserv,opti,1
+811,hvac,lochouse,cosecu,share,reco,0
+811,refr,preshouse,watch,share,insight,0
+811,refr,opauto,cowash,locally,opti,1
+811,secu,alert,micro,share,opti,0
+811,wash,opauto,corefri,share,nothing,0
+811,wash,preshouse,coassis,locally,reco,1
+811,secu,lochouse,cohvac,locally,nothing,1
+811,hvac,alert,colight,locally,insight,1
+811,alarm,lochouse,cam,remserv,nothing,1
+811,tv,preshouse,locsens,remserv,reco,1
+811,assis,alert,coalarm,remserv,insight,1

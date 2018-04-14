@@ -1,0 +1,12 @@
+1014,hvac,preshouse,colight,remserv,opti,1
+1014,alarm,opauto,cam,share,insight,0
+1014,tv,lochouse,locsens,share,opti,0
+1014,assis,alert,coalarm,remserv,nothing,1
+1014,alarm,preshouse,corefri,locally,opti,1
+1014,secu,lochouse,cohvac,locally,insight,1
+1014,secu,alert,micro,share,reco,0
+1014,tv,alert,cosecu,locally,nothing,1
+1014,light,opauto,cotv,remserv,reco,1
+1014,refr,opauto,cowash,locally,reco,0
+1014,wash,lochouse,coassis,remserv,insight,0
+1014,refr,preshouse,watch,share,nothing,0

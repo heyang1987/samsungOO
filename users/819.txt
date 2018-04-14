@@ -1,0 +1,12 @@
+819,refr,alert,cotv,locally,opti,0
+819,hvac,opauto,cowash,share,reco,0
+819,alarm,opauto,cosecu,remserv,nothing,0
+819,refr,lochouse,cohvac,share,insight,0
+819,wash,lochouse,locsens,locally,reco,0
+819,secu,opauto,coassis,locally,nothing,0
+819,tv,lochouse,watch,remserv,reco,0
+819,secu,preshouse,corefri,share,opti,0
+819,wash,alert,colight,share,nothing,0
+819,assis,preshouse,micro,remserv,insight,0
+819,light,alert,cam,remserv,opti,0
+819,hvac,preshouse,coalarm,locally,insight,0

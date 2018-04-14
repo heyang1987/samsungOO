@@ -1,0 +1,12 @@
+804,assis,alert,coalarm,remserv,reco,1
+804,secu,lochouse,cohvac,locally,opti,1
+804,secu,alert,micro,share,insight,1
+804,tv,preshouse,locsens,remserv,nothing,1
+804,hvac,lochouse,cosecu,share,nothing,0
+804,refr,preshouse,watch,share,reco,0
+804,alarm,opauto,cam,share,opti,0
+804,hvac,alert,colight,locally,reco,1
+804,light,opauto,cotv,remserv,insight,1
+804,wash,lochouse,coassis,remserv,opti,1
+804,refr,opauto,cowash,locally,insight,0
+804,alarm,preshouse,corefri,locally,nothing,1

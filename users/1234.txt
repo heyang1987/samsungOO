@@ -1,0 +1,12 @@
+1234,light,alert,cowash,locally,nothing,0
+1234,alarm,opauto,cotv,locally,reco,0
+1234,secu,preshouse,coalarm,remserv,opti,0
+1234,refr,lochouse,locsens,remserv,insight,0
+1234,alarm,preshouse,cohvac,share,nothing,0
+1234,light,lochouse,watch,share,opti,0
+1234,assis,preshouse,colight,locally,opti,0
+1234,hvac,opauto,cam,remserv,reco,0
+1234,wash,alert,micro,remserv,nothing,0
+1234,tv,lochouse,coassis,locally,insight,0
+1234,tv,alert,corefri,share,reco,0
+1234,assis,opauto,cosecu,share,insight,0

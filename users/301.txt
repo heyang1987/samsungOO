@@ -1,0 +1,12 @@
+301,alarm,preshouse,locsens,locally,opti,0
+301,secu,lochouse,cam,locally,insight,0
+301,assis,alert,cohvac,remserv,nothing,1
+301,light,opauto,corefri,remserv,reco,0
+301,tv,lochouse,cowash,share,opti,0
+301,tv,alert,coalarm,locally,nothing,0
+301,secu,alert,coassis,share,reco,0
+301,wash,lochouse,cosecu,remserv,insight,0
+301,hvac,preshouse,watch,remserv,opti,0
+301,refr,opauto,micro,locally,reco,0
+301,refr,preshouse,cotv,share,nothing,0
+301,alarm,opauto,colight,share,insight,0

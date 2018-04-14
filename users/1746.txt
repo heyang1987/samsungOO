@@ -1,0 +1,12 @@
+1746,light,preshouse,locsens,remserv,opti,1
+1746,hvac,alert,cohvac,share,reco,0
+1746,tv,opauto,micro,remserv,reco,0
+1746,wash,opauto,coalarm,locally,reco,1
+1746,secu,alert,colight,locally,nothing,1
+1746,wash,preshouse,cowash,share,nothing,1
+1746,refr,opauto,corefri,share,insight,1
+1746,refr,preshouse,coassis,locally,opti,1
+1746,hvac,lochouse,cotv,locally,insight,1
+1746,assis,lochouse,cam,remserv,insight,1
+1746,alarm,alert,watch,remserv,nothing,1
+1746,secu,lochouse,cosecu,share,opti,1

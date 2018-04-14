@@ -1,0 +1,12 @@
+1231,hvac,preshouse,cowash,locally,opti,0
+1231,tv,lochouse,coalarm,remserv,insight,0
+1231,secu,alert,cam,remserv,nothing,1
+1231,wash,alert,cosecu,share,reco,0
+1231,light,preshouse,corefri,share,nothing,0
+1231,refr,lochouse,micro,share,opti,0
+1231,wash,lochouse,colight,locally,insight,0
+1231,light,opauto,coassis,locally,reco,1
+1231,alarm,opauto,locsens,remserv,reco,0
+1231,refr,alert,cohvac,locally,nothing,1
+1231,hvac,opauto,watch,share,insight,0
+1231,assis,preshouse,cotv,remserv,opti,1

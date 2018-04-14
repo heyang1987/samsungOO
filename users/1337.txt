@@ -1,0 +1,12 @@
+1337,tv,alert,cosecu,share,opti,0
+1337,alarm,preshouse,corefri,share,insight,0
+1337,wash,alert,cam,remserv,insight,1
+1337,assis,lochouse,watch,remserv,nothing,1
+1337,refr,preshouse,coalarm,locally,reco,1
+1337,tv,lochouse,colight,locally,nothing,0
+1337,secu,alert,cotv,locally,insight,1
+1337,refr,opauto,cowash,share,nothing,1
+1337,light,preshouse,micro,remserv,reco,0
+1337,alarm,opauto,coassis,locally,opti,1
+1337,secu,lochouse,cohvac,share,reco,0
+1337,hvac,opauto,locsens,remserv,opti,1

@@ -1,0 +1,12 @@
+601,hvac,preshouse,watch,share,opti,0
+601,secu,lochouse,cam,remserv,reco,1
+601,wash,lochouse,cosecu,share,insight,1
+601,light,preshouse,coassis,locally,insight,1
+601,assis,lochouse,cotv,locally,reco,0
+601,hvac,opauto,cowash,locally,nothing,1
+601,assis,alert,cohvac,share,nothing,1
+601,wash,alert,colight,locally,opti,1
+601,alarm,preshouse,locsens,remserv,insight,1
+601,light,opauto,corefri,share,reco,1
+601,refr,opauto,micro,remserv,nothing,1
+601,tv,alert,coalarm,remserv,opti,1

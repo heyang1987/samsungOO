@@ -1,0 +1,12 @@
+1841,assis,opauto,cotv,remserv,nothing,1
+1841,alarm,lochouse,locsens,share,insight,0
+1841,secu,preshouse,corefri,locally,insight,0
+1841,light,lochouse,coassis,remserv,reco,0
+1841,alarm,alert,cosecu,locally,opti,1
+1841,tv,opauto,watch,locally,nothing,1
+1841,secu,opauto,cam,share,reco,0
+1841,refr,alert,micro,share,nothing,0
+1841,hvac,alert,cowash,remserv,opti,1
+1841,tv,preshouse,coalarm,share,opti,0
+1841,refr,lochouse,cohvac,locally,reco,0
+1841,wash,preshouse,colight,remserv,insight,0

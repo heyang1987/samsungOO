@@ -1,0 +1,12 @@
+1376,assis,opauto,cam,remserv,opti,1
+1376,hvac,opauto,cotv,locally,opti,0
+1376,wash,alert,coalarm,locally,insight,1
+1376,secu,lochouse,cosecu,remserv,nothing,1
+1376,refr,lochouse,coassis,locally,nothing,1
+1376,refr,alert,corefri,share,opti,0
+1376,wash,lochouse,cowash,share,reco,0
+1376,light,opauto,colight,share,nothing,0
+1376,light,preshouse,locsens,locally,reco,1
+1376,hvac,preshouse,cohvac,share,insight,0
+1376,alarm,preshouse,watch,remserv,reco,0
+1376,tv,alert,micro,remserv,insight,0

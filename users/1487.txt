@@ -1,0 +1,12 @@
+1487,light,opauto,locsens,remserv,reco,1
+1487,assis,alert,cam,remserv,nothing,1
+1487,wash,lochouse,coalarm,remserv,insight,1
+1487,tv,lochouse,micro,share,opti,0
+1487,tv,alert,cohvac,locally,nothing,1
+1487,hvac,preshouse,cotv,remserv,opti,1
+1487,refr,preshouse,corefri,share,nothing,1
+1487,alarm,opauto,watch,share,insight,1
+1487,alarm,preshouse,cowash,locally,opti,1
+1487,secu,lochouse,colight,locally,insight,1
+1487,refr,opauto,coassis,locally,reco,1
+1487,secu,alert,cosecu,share,reco,1

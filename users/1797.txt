@@ -1,0 +1,12 @@
+1797,light,alert,micro,remserv,opti,1
+1797,hvac,preshouse,locsens,locally,insight,1
+1797,secu,opauto,cotv,locally,nothing,0
+1797,refr,lochouse,cowash,share,insight,0
+1797,secu,preshouse,cohvac,share,opti,0
+1797,refr,alert,coalarm,locally,opti,1
+1797,wash,alert,coassis,share,nothing,1
+1797,hvac,opauto,colight,share,reco,0
+1797,assis,preshouse,watch,remserv,insight,1
+1797,wash,lochouse,cam,locally,reco,0
+1797,alarm,opauto,corefri,remserv,nothing,0
+1797,tv,lochouse,cosecu,remserv,reco,0

@@ -1,0 +1,12 @@
+912,alarm,lochouse,cosecu,remserv,nothing,0
+912,tv,preshouse,watch,remserv,reco,1
+912,refr,opauto,cotv,locally,opti,1
+912,assis,alert,micro,remserv,insight,1
+912,refr,preshouse,cohvac,share,insight,0
+912,wash,opauto,colight,share,nothing,0
+912,light,opauto,cam,remserv,opti,1
+912,secu,lochouse,coassis,locally,nothing,1
+912,secu,alert,corefri,share,opti,0
+912,hvac,alert,coalarm,locally,insight,1
+912,wash,preshouse,locsens,locally,reco,1
+912,hvac,lochouse,cowash,share,reco,0

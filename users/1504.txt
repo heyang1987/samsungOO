@@ -1,0 +1,12 @@
+1504,alarm,preshouse,coassis,locally,nothing,0
+1504,refr,preshouse,cowash,share,reco,0
+1504,secu,alert,cohvac,share,insight,0
+1504,wash,lochouse,cam,remserv,opti,1
+1504,hvac,lochouse,colight,share,nothing,1
+1504,tv,preshouse,cosecu,remserv,nothing,1
+1504,secu,lochouse,cotv,locally,opti,1
+1504,assis,alert,watch,remserv,reco,1
+1504,refr,opauto,coalarm,locally,insight,0
+1504,alarm,opauto,corefri,share,opti,0
+1504,light,opauto,micro,remserv,insight,0
+1504,hvac,alert,locsens,locally,reco,1

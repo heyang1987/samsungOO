@@ -1,0 +1,12 @@
+236,refr,preshouse,cam,share,opti,0
+236,hvac,lochouse,micro,share,insight,0
+236,wash,opauto,watch,share,reco,0
+236,light,lochouse,colight,locally,reco,0
+236,refr,opauto,corefri,locally,nothing,0
+236,assis,alert,coassis,remserv,opti,0
+236,alarm,lochouse,coalarm,remserv,reco,0
+236,wash,preshouse,cowash,locally,insight,0
+236,light,alert,cosecu,share,nothing,0
+236,tv,preshouse,cotv,remserv,insight,0
+236,hvac,alert,cohvac,locally,opti,0
+236,secu,opauto,locsens,remserv,nothing,0

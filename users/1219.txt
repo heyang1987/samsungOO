@@ -1,0 +1,12 @@
+1219,refr,lochouse,corefri,remserv,insight,1
+1219,tv,alert,cotv,share,reco,1
+1219,hvac,opauto,cohvac,remserv,reco,0
+1219,secu,preshouse,cosecu,remserv,opti,1
+1219,assis,preshouse,cam,locally,opti,0
+1219,light,lochouse,colight,share,opti,0
+1219,light,alert,locsens,locally,nothing,1
+1219,alarm,preshouse,coalarm,share,nothing,0
+1219,alarm,opauto,watch,locally,reco,1
+1219,tv,lochouse,micro,locally,insight,1
+1219,assis,opauto,coassis,share,insight,0
+1219,wash,alert,cowash,remserv,nothing,1

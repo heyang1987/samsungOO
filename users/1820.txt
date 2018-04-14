@@ -1,0 +1,12 @@
+1820,assis,alert,cowash,share,insight,0
+1820,alarm,alert,cam,locally,reco,0
+1820,assis,lochouse,coalarm,locally,opti,1
+1820,tv,opauto,locsens,locally,insight,1
+1820,hvac,alert,cosecu,remserv,reco,1
+1820,refr,opauto,watch,remserv,insight,1
+1820,alarm,lochouse,coassis,share,nothing,0
+1820,wash,preshouse,corefri,remserv,nothing,1
+1820,tv,preshouse,colight,share,reco,1
+1820,secu,lochouse,micro,remserv,opti,0
+1820,light,preshouse,cotv,locally,nothing,1
+1820,light,opauto,cohvac,share,opti,0

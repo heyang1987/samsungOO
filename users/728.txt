@@ -1,0 +1,12 @@
+728,wash,preshouse,corefri,remserv,opti,1
+728,secu,preshouse,micro,locally,opti,1
+728,hvac,preshouse,locsens,share,nothing,0
+728,refr,alert,coalarm,share,reco,0
+728,refr,lochouse,watch,locally,insight,0
+728,tv,alert,colight,remserv,nothing,0
+728,alarm,alert,cam,locally,nothing,0
+728,secu,opauto,cotv,share,insight,0
+728,alarm,lochouse,coassis,share,opti,0
+728,light,lochouse,cohvac,remserv,insight,1
+728,hvac,opauto,cosecu,locally,reco,1
+728,assis,opauto,cowash,remserv,reco,1

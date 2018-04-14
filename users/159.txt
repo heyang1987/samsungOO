@@ -1,0 +1,12 @@
+159,hvac,alert,cotv,locally,insight,0
+159,wash,preshouse,coalarm,locally,reco,1
+159,refr,opauto,coassis,locally,opti,1
+159,secu,alert,cosecu,share,opti,0
+159,assis,alert,cam,remserv,insight,1
+159,tv,preshouse,micro,remserv,reco,1
+159,hvac,lochouse,cohvac,share,reco,1
+159,secu,lochouse,colight,locally,nothing,1
+159,wash,opauto,cowash,share,nothing,1
+159,refr,preshouse,corefri,share,insight,1
+159,alarm,lochouse,watch,remserv,nothing,1
+159,light,opauto,locsens,remserv,opti,1

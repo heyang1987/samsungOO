@@ -1,0 +1,12 @@
+1626,secu,opauto,cotv,locally,nothing,1
+1626,assis,preshouse,watch,remserv,insight,0
+1626,wash,alert,coassis,share,nothing,0
+1626,hvac,preshouse,locsens,locally,insight,1
+1626,tv,lochouse,cosecu,remserv,reco,0
+1626,alarm,opauto,corefri,remserv,nothing,0
+1626,hvac,opauto,colight,share,reco,0
+1626,light,alert,micro,remserv,opti,0
+1626,refr,lochouse,cowash,share,insight,0
+1626,wash,lochouse,cam,locally,reco,0
+1626,refr,alert,coalarm,locally,opti,1
+1626,secu,preshouse,cohvac,share,opti,0

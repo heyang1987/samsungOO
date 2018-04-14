@@ -1,0 +1,12 @@
+290,assis,opauto,corefri,locally,insight,1
+290,tv,lochouse,micro,share,nothing,0
+290,wash,preshouse,watch,locally,nothing,1
+290,alarm,lochouse,cowash,remserv,opti,0
+290,tv,alert,cohvac,locally,reco,1
+290,hvac,preshouse,cotv,remserv,nothing,0
+290,secu,opauto,colight,remserv,insight,1
+290,light,lochouse,cosecu,locally,opti,1
+290,light,alert,locsens,share,insight,0
+290,assis,preshouse,cam,share,reco,0
+290,refr,alert,coassis,remserv,reco,1
+290,wash,opauto,coalarm,share,opti,0

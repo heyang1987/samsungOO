@@ -1,0 +1,12 @@
+1621,assis,lochouse,cosecu,remserv,nothing,0
+1621,light,preshouse,watch,remserv,reco,0
+1621,alarm,preshouse,cohvac,share,insight,0
+1621,hvac,opauto,cam,remserv,opti,1
+1621,refr,opauto,colight,share,nothing,0
+1621,secu,alert,coalarm,locally,insight,0
+1621,tv,alert,corefri,share,opti,0
+1621,tv,lochouse,coassis,locally,nothing,1
+1621,refr,preshouse,locsens,locally,reco,0
+1621,alarm,opauto,cotv,locally,opti,1
+1621,secu,lochouse,cowash,share,reco,0
+1621,wash,alert,micro,remserv,insight,0

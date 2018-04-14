@@ -1,0 +1,12 @@
+1761,light,lochouse,coassis,remserv,insight,1
+1761,alarm,lochouse,locsens,share,opti,0
+1761,refr,alert,micro,share,reco,1
+1761,alarm,alert,cosecu,locally,nothing,1
+1761,wash,preshouse,colight,remserv,opti,0
+1761,assis,opauto,cotv,remserv,reco,1
+1761,hvac,opauto,cowash,locally,reco,1
+1761,refr,lochouse,cohvac,locally,insight,1
+1761,secu,opauto,cam,share,insight,1
+1761,tv,alert,coalarm,remserv,nothing,1
+1761,secu,preshouse,corefri,locally,opti,1
+1761,hvac,preshouse,watch,share,nothing,0

@@ -1,0 +1,12 @@
+1576,alarm,opauto,cowash,remserv,nothing,0
+1576,hvac,opauto,cotv,share,reco,0
+1576,hvac,preshouse,micro,locally,insight,0
+1576,tv,lochouse,cohvac,remserv,reco,0
+1576,wash,alert,coalarm,share,nothing,0
+1576,wash,lochouse,watch,locally,reco,0
+1576,refr,lochouse,coassis,share,insight,0
+1576,light,alert,cosecu,remserv,opti,0
+1576,secu,preshouse,colight,share,opti,0
+1576,secu,opauto,locsens,locally,nothing,1
+1576,refr,alert,cam,locally,opti,0
+1576,assis,preshouse,corefri,remserv,insight,0

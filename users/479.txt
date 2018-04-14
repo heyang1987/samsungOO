@@ -1,0 +1,12 @@
+479,light,preshouse,cowash,share,opti,0
+479,tv,opauto,coassis,share,reco,1
+479,wash,opauto,cohvac,remserv,nothing,1
+479,hvac,lochouse,corefri,remserv,reco,1
+479,alarm,alert,cotv,share,nothing,1
+479,assis,lochouse,colight,share,insight,1
+479,refr,preshouse,cosecu,remserv,insight,0
+479,tv,preshouse,cam,locally,insight,0
+479,assis,alert,locsens,locally,opti,1
+479,light,opauto,coalarm,locally,nothing,1
+479,secu,alert,watch,remserv,opti,1
+479,alarm,lochouse,micro,locally,reco,1

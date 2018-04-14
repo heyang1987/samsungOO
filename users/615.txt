@@ -1,0 +1,12 @@
+615,secu,opauto,locsens,share,opti,1
+615,refr,lochouse,corefri,locally,opti,0
+615,hvac,opauto,cohvac,locally,insight,1
+615,tv,alert,cotv,remserv,reco,1
+615,wash,lochouse,watch,share,nothing,1
+615,refr,alert,cam,share,insight,0
+615,hvac,preshouse,micro,share,reco,1
+615,alarm,preshouse,coalarm,remserv,nothing,1
+615,wash,alert,cowash,locally,reco,1
+615,light,lochouse,colight,remserv,opti,1
+615,assis,opauto,coassis,remserv,insight,1
+615,secu,preshouse,cosecu,locally,nothing,1

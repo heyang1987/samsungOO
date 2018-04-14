@@ -1,0 +1,12 @@
+444,refr,opauto,micro,share,reco,1
+444,hvac,lochouse,cowash,locally,reco,1
+444,alarm,opauto,cosecu,locally,nothing,1
+444,hvac,alert,watch,share,nothing,0
+444,secu,lochouse,cam,share,insight,1
+444,refr,preshouse,cohvac,locally,insight,1
+444,light,preshouse,coassis,remserv,insight,1
+444,tv,opauto,coalarm,remserv,nothing,1
+444,assis,lochouse,cotv,remserv,reco,1
+444,alarm,preshouse,locsens,share,opti,0
+444,wash,alert,colight,remserv,opti,1
+444,secu,alert,corefri,locally,opti,1

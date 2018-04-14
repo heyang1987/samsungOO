@@ -1,0 +1,12 @@
+1694,alarm,alert,cowash,remserv,opti,1
+1694,secu,preshouse,colight,remserv,insight,0
+1694,light,alert,cosecu,locally,opti,0
+1694,tv,alert,micro,share,nothing,0
+1694,hvac,opauto,cotv,remserv,nothing,0
+1694,tv,lochouse,cohvac,locally,reco,0
+1694,wash,preshouse,coalarm,share,opti,0
+1694,light,lochouse,locsens,share,insight,0
+1694,wash,opauto,watch,locally,nothing,1
+1694,refr,lochouse,coassis,remserv,reco,0
+1694,assis,preshouse,corefri,locally,insight,0
+1694,assis,opauto,cam,share,reco,0

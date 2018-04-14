@@ -1,0 +1,12 @@
+940,wash,opauto,cam,share,insight,0
+940,hvac,alert,cosecu,locally,nothing,1
+940,light,lochouse,cohvac,locally,insight,1
+940,alarm,lochouse,coassis,remserv,insight,0
+940,secu,opauto,cotv,remserv,reco,0
+940,light,alert,micro,share,reco,0
+940,hvac,lochouse,locsens,share,opti,0
+940,wash,preshouse,corefri,locally,opti,0
+940,tv,preshouse,colight,remserv,opti,0
+940,refr,alert,coalarm,remserv,nothing,0
+940,assis,opauto,cowash,locally,reco,0
+940,assis,preshouse,watch,share,nothing,0

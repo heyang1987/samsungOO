@@ -1,0 +1,12 @@
+1138,light,preshouse,watch,remserv,insight,0
+1138,wash,alert,micro,remserv,opti,0
+1138,tv,opauto,corefri,remserv,nothing,0
+1138,refr,preshouse,locsens,locally,insight,0
+1138,hvac,alert,coassis,share,nothing,0
+1138,refr,opauto,colight,share,reco,0
+1138,secu,alert,coalarm,locally,opti,0
+1138,hvac,lochouse,cam,locally,reco,1
+1138,secu,lochouse,cowash,share,insight,0
+1138,assis,lochouse,cosecu,remserv,reco,0
+1138,alarm,opauto,cotv,locally,nothing,0
+1138,alarm,preshouse,cohvac,share,opti,0

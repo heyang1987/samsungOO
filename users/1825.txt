@@ -1,0 +1,12 @@
+1825,refr,lochouse,coalarm,share,reco,0
+1825,light,alert,cohvac,remserv,insight,1
+1825,assis,preshouse,cowash,remserv,reco,0
+1825,alarm,lochouse,cam,locally,nothing,0
+1825,hvac,opauto,locsens,share,nothing,0
+1825,secu,opauto,micro,locally,opti,1
+1825,alarm,alert,coassis,share,opti,0
+1825,secu,preshouse,cotv,share,insight,0
+1825,tv,lochouse,colight,remserv,nothing,1
+1825,hvac,preshouse,cosecu,locally,reco,1
+1825,refr,alert,watch,locally,insight,1
+1825,wash,opauto,corefri,remserv,opti,0

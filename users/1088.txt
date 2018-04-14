@@ -1,0 +1,12 @@
+1088,secu,alert,locsens,remserv,opti,0
+1088,alarm,alert,cowash,share,nothing,0
+1088,light,opauto,colight,locally,nothing,0
+1088,hvac,lochouse,micro,remserv,reco,0
+1088,tv,preshouse,cotv,locally,insight,0
+1088,alarm,lochouse,coalarm,locally,reco,0
+1088,refr,preshouse,cam,remserv,insight,0
+1088,light,preshouse,cosecu,share,opti,0
+1088,assis,alert,coassis,locally,opti,0
+1088,wash,opauto,watch,remserv,nothing,0
+1088,tv,opauto,cohvac,share,reco,0
+1088,assis,lochouse,corefri,share,insight,0

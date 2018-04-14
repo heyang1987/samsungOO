@@ -1,0 +1,12 @@
+380,alarm,preshouse,cosecu,remserv,reco,0
+380,light,opauto,coassis,share,nothing,0
+380,wash,alert,locsens,locally,insight,1
+380,refr,lochouse,cotv,locally,nothing,1
+380,assis,opauto,micro,remserv,opti,1
+380,wash,lochouse,colight,share,reco,0
+380,secu,lochouse,corefri,remserv,nothing,0
+380,hvac,preshouse,cowash,share,insight,0
+380,hvac,opauto,coalarm,locally,opti,1
+380,light,preshouse,cam,locally,reco,1
+380,refr,alert,cohvac,share,opti,1
+380,tv,alert,watch,remserv,insight,1

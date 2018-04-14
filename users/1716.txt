@@ -1,0 +1,12 @@
+1716,tv,alert,locsens,locally,nothing,0
+1716,refr,opauto,watch,locally,reco,0
+1716,tv,lochouse,colight,share,opti,0
+1716,refr,preshouse,coalarm,share,nothing,0
+1716,secu,alert,cotv,share,reco,0
+1716,assis,alert,cowash,remserv,nothing,0
+1716,wash,lochouse,corefri,remserv,insight,0
+1716,secu,lochouse,micro,locally,insight,1
+1716,light,opauto,cohvac,remserv,reco,0
+1716,alarm,opauto,coassis,share,insight,0
+1716,hvac,preshouse,cosecu,remserv,opti,0
+1716,alarm,preshouse,cam,locally,opti,0

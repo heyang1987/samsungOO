@@ -1,0 +1,12 @@
+1406,secu,lochouse,micro,locally,reco,0
+1406,assis,opauto,coalarm,locally,nothing,1
+1406,alarm,opauto,coassis,share,reco,0
+1406,wash,lochouse,corefri,remserv,reco,0
+1406,tv,lochouse,colight,share,insight,0
+1406,secu,alert,cotv,share,nothing,1
+1406,alarm,preshouse,cam,locally,insight,1
+1406,tv,alert,locsens,locally,opti,1
+1406,light,opauto,cohvac,remserv,nothing,0
+1406,hvac,preshouse,cosecu,remserv,insight,0
+1406,refr,alert,watch,remserv,opti,1
+1406,assis,preshouse,cowash,share,opti,0

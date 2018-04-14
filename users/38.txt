@@ -1,0 +1,12 @@
+38,hvac,preshouse,cohvac,remserv,insight,1
+38,light,opauto,colight,remserv,nothing,1
+38,alarm,opauto,coalarm,share,reco,1
+38,secu,alert,locsens,share,nothing,1
+38,tv,lochouse,cotv,share,insight,1
+38,tv,alert,micro,locally,opti,1
+38,alarm,preshouse,watch,locally,insight,1
+38,assis,preshouse,coassis,share,opti,1
+38,refr,alert,corefri,remserv,opti,1
+38,wash,lochouse,cowash,remserv,reco,1
+38,assis,opauto,cam,locally,nothing,1
+38,secu,lochouse,cosecu,locally,reco,1

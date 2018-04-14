@@ -1,0 +1,12 @@
+1034,refr,lochouse,micro,remserv,insight,0
+1034,tv,alert,cowash,share,reco,1
+1034,light,lochouse,corefri,share,opti,1
+1034,wash,alert,cosecu,remserv,nothing,0
+1034,assis,preshouse,cotv,locally,opti,1
+1034,hvac,opauto,watch,remserv,reco,1
+1034,secu,preshouse,cam,remserv,opti,1
+1034,tv,lochouse,coalarm,locally,insight,0
+1034,light,alert,coassis,locally,nothing,1
+1034,assis,opauto,cohvac,share,insight,1
+1034,alarm,preshouse,colight,share,nothing,0
+1034,alarm,opauto,locsens,locally,reco,1

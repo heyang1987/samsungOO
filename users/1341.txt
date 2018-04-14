@@ -1,0 +1,12 @@
+1341,assis,alert,coalarm,locally,nothing,1
+1341,refr,preshouse,watch,remserv,opti,0
+1341,assis,lochouse,cowash,share,opti,0
+1341,secu,preshouse,cotv,share,nothing,0
+1341,alarm,lochouse,cam,locally,insight,0
+1341,tv,preshouse,locsens,locally,opti,0
+1341,secu,opauto,micro,locally,reco,1
+1341,hvac,lochouse,cosecu,remserv,insight,1
+1341,alarm,alert,coassis,share,reco,0
+1341,wash,opauto,corefri,remserv,reco,1
+1341,light,alert,cohvac,remserv,nothing,1
+1341,tv,opauto,colight,share,insight,1

@@ -1,0 +1,12 @@
+212,wash,lochouse,watch,locally,opti,0
+212,hvac,opauto,cotv,share,opti,0
+212,light,preshouse,locsens,share,reco,0
+212,assis,lochouse,cam,share,nothing,0
+212,light,opauto,cosecu,locally,insight,1
+212,hvac,preshouse,micro,locally,nothing,1
+212,tv,lochouse,cohvac,remserv,opti,0
+212,assis,alert,corefri,locally,reco,1
+212,alarm,opauto,cowash,remserv,insight,0
+212,refr,preshouse,coassis,remserv,nothing,0
+212,wash,alert,coalarm,share,insight,0
+212,secu,alert,colight,remserv,reco,0

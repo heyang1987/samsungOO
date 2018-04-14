@@ -1,0 +1,12 @@
+837,hvac,alert,coassis,remserv,opti,1
+837,wash,preshouse,cotv,remserv,insight,0
+837,tv,opauto,corefri,locally,nothing,0
+837,alarm,lochouse,micro,share,insight,0
+837,assis,opauto,locsens,remserv,nothing,1
+837,alarm,alert,cohvac,locally,opti,1
+837,tv,preshouse,cam,share,opti,0
+837,refr,lochouse,colight,locally,reco,0
+837,secu,opauto,watch,share,reco,1
+837,light,lochouse,coalarm,remserv,reco,1
+837,secu,preshouse,cowash,locally,insight,0
+837,refr,alert,cosecu,share,nothing,0

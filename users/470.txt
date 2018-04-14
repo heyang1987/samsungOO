@@ -1,0 +1,12 @@
+470,refr,alert,cohvac,locally,reco,0
+470,assis,preshouse,cotv,remserv,nothing,0
+470,wash,opauto,colight,remserv,insight,0
+470,hvac,lochouse,cowash,remserv,opti,0
+470,tv,opauto,coalarm,share,opti,0
+470,alarm,alert,locsens,share,insight,0
+470,refr,lochouse,micro,share,nothing,0
+470,light,alert,coassis,remserv,reco,0
+470,alarm,lochouse,cosecu,locally,opti,0
+470,secu,preshouse,cam,share,reco,1
+470,tv,preshouse,watch,locally,nothing,1
+470,secu,opauto,corefri,locally,insight,0

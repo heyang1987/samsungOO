@@ -1,0 +1,12 @@
+1868,alarm,preshouse,cam,locally,insight,0
+1868,light,opauto,cohvac,remserv,nothing,1
+1868,alarm,opauto,coassis,share,reco,0
+1868,secu,alert,cotv,share,nothing,0
+1868,tv,alert,locsens,locally,opti,1
+1868,assis,opauto,coalarm,locally,nothing,1
+1868,hvac,preshouse,cosecu,remserv,insight,1
+1868,wash,lochouse,corefri,remserv,reco,1
+1868,tv,lochouse,colight,share,insight,0
+1868,secu,lochouse,micro,locally,reco,1
+1868,assis,preshouse,cowash,share,opti,0
+1868,refr,alert,watch,remserv,opti,1

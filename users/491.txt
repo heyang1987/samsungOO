@@ -1,0 +1,12 @@
+491,light,preshouse,colight,locally,insight,1
+491,hvac,opauto,cohvac,locally,nothing,0
+491,alarm,preshouse,coalarm,remserv,insight,0
+491,hvac,preshouse,micro,share,opti,0
+491,light,opauto,cosecu,share,reco,0
+491,refr,opauto,cam,remserv,nothing,0
+491,assis,alert,corefri,share,nothing,0
+491,tv,alert,cotv,remserv,opti,0
+491,wash,lochouse,watch,share,insight,0
+491,wash,alert,cowash,locally,opti,0
+491,secu,lochouse,locsens,remserv,reco,0
+491,assis,lochouse,coassis,locally,reco,0

@@ -1,0 +1,12 @@
+504,secu,alert,cotv,locally,insight,1
+504,alarm,preshouse,corefri,share,insight,0
+504,refr,opauto,cowash,share,nothing,0
+504,alarm,opauto,coassis,locally,opti,1
+504,tv,lochouse,colight,locally,nothing,1
+504,light,preshouse,micro,remserv,reco,0
+504,wash,alert,cam,remserv,insight,0
+504,tv,alert,cosecu,share,opti,0
+504,refr,preshouse,coalarm,locally,reco,1
+504,secu,lochouse,cohvac,share,reco,0
+504,assis,lochouse,watch,remserv,nothing,1
+504,hvac,opauto,locsens,remserv,opti,1

@@ -1,0 +1,12 @@
+1017,refr,preshouse,cohvac,share,reco,1
+1017,secu,alert,corefri,share,insight,0
+1017,hvac,lochouse,cowash,share,nothing,1
+1017,wash,lochouse,locsens,remserv,opti,1
+1017,tv,preshouse,watch,remserv,nothing,0
+1017,hvac,alert,coalarm,locally,reco,1
+1017,assis,alert,micro,remserv,reco,0
+1017,refr,opauto,cotv,locally,insight,0
+1017,alarm,opauto,cosecu,share,opti,0
+1017,alarm,preshouse,colight,locally,nothing,1
+1017,light,opauto,cam,remserv,insight,1
+1017,secu,lochouse,coassis,locally,opti,1

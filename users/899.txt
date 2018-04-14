@@ -1,0 +1,12 @@
+899,wash,opauto,corefri,locally,opti,1
+899,secu,preshouse,cotv,remserv,reco,0
+899,light,alert,cohvac,locally,insight,1
+899,refr,lochouse,coalarm,remserv,nothing,0
+899,alarm,alert,coassis,remserv,insight,1
+899,assis,preshouse,cowash,locally,reco,0
+899,wash,preshouse,cam,share,insight,0
+899,hvac,alert,locsens,share,opti,0
+899,light,lochouse,micro,share,reco,0
+899,assis,opauto,watch,share,nothing,1
+899,tv,opauto,colight,remserv,opti,1
+899,hvac,lochouse,cosecu,locally,nothing,1

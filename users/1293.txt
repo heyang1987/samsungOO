@@ -1,0 +1,12 @@
+1293,alarm,alert,coassis,locally,opti,1
+1293,wash,preshouse,cam,remserv,insight,0
+1293,refr,alert,cowash,share,nothing,0
+1293,alarm,lochouse,corefri,share,insight,0
+1293,tv,opauto,colight,locally,nothing,0
+1293,assis,opauto,watch,remserv,nothing,0
+1293,secu,opauto,cohvac,share,reco,1
+1293,tv,preshouse,cosecu,share,opti,0
+1293,refr,lochouse,coalarm,locally,reco,0
+1293,hvac,alert,locsens,remserv,opti,0
+1293,light,lochouse,micro,remserv,reco,0
+1293,secu,preshouse,cotv,locally,insight,0

@@ -1,0 +1,12 @@
+1623,alarm,opauto,cam,locally,opti,0
+1623,light,preshouse,cohvac,remserv,reco,0
+1623,secu,lochouse,cotv,share,reco,0
+1623,refr,preshouse,watch,locally,reco,0
+1623,alarm,preshouse,coassis,share,insight,0
+1623,assis,lochouse,cowash,remserv,nothing,0
+1623,hvac,opauto,cosecu,remserv,opti,1
+1623,tv,alert,colight,share,opti,0
+1623,secu,alert,micro,locally,insight,0
+1623,tv,lochouse,locsens,locally,nothing,0
+1623,wash,alert,corefri,remserv,insight,0
+1623,refr,opauto,coalarm,share,nothing,0

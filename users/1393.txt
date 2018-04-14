@@ -1,0 +1,12 @@
+1393,hvac,alert,micro,remserv,reco,0
+1393,alarm,alert,coalarm,locally,reco,1
+1393,refr,opauto,cam,remserv,insight,1
+1393,assis,lochouse,coassis,locally,opti,1
+1393,assis,alert,corefri,share,insight,0
+1393,wash,preshouse,watch,remserv,nothing,1
+1393,light,opauto,cosecu,share,opti,0
+1393,secu,lochouse,locsens,remserv,opti,1
+1393,light,preshouse,colight,locally,nothing,0
+1393,tv,opauto,cotv,locally,insight,0
+1393,tv,preshouse,cohvac,share,reco,0
+1393,alarm,lochouse,cowash,share,nothing,0

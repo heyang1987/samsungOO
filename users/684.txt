@@ -1,0 +1,12 @@
+684,hvac,alert,cohvac,remserv,reco,0
+684,secu,lochouse,cosecu,remserv,opti,1
+684,tv,opauto,micro,locally,insight,1
+684,alarm,alert,watch,locally,reco,0
+684,light,opauto,colight,share,opti,0
+684,alarm,lochouse,coalarm,share,nothing,0
+684,light,preshouse,locsens,locally,nothing,1
+684,assis,alert,coassis,share,insight,0
+684,assis,lochouse,cam,locally,opti,1
+684,wash,preshouse,cowash,remserv,nothing,0
+684,refr,opauto,corefri,remserv,insight,1
+684,tv,preshouse,cotv,share,reco,0

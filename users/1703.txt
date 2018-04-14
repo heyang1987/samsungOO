@@ -1,0 +1,12 @@
+1703,alarm,preshouse,locsens,share,nothing,0
+1703,refr,lochouse,cohvac,remserv,insight,0
+1703,tv,alert,coalarm,share,reco,1
+1703,light,alert,cam,locally,nothing,1
+1703,secu,preshouse,corefri,remserv,opti,0
+1703,wash,alert,colight,remserv,nothing,0
+1703,tv,lochouse,watch,locally,insight,1
+1703,assis,preshouse,micro,locally,opti,1
+1703,assis,opauto,cotv,share,insight,1
+1703,light,lochouse,coassis,share,opti,1
+1703,alarm,opauto,cosecu,locally,reco,1
+1703,hvac,opauto,cowash,remserv,reco,0

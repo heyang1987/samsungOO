@@ -1,0 +1,12 @@
+502,hvac,lochouse,locsens,share,insight,1
+502,wash,preshouse,corefri,locally,insight,1
+502,refr,opauto,watch,locally,nothing,1
+502,light,alert,micro,share,nothing,1
+502,refr,preshouse,coalarm,share,opti,1
+502,assis,alert,cowash,remserv,opti,1
+502,alarm,lochouse,coassis,remserv,reco,1
+502,light,lochouse,cohvac,locally,reco,1
+502,tv,preshouse,colight,remserv,insight,1
+502,wash,opauto,cam,share,reco,1
+502,secu,opauto,cotv,remserv,nothing,1
+502,hvac,alert,cosecu,locally,opti,1

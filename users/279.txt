@@ -1,0 +1,12 @@
+279,wash,preshouse,colight,remserv,opti,1
+279,hvac,opauto,cowash,locally,reco,1
+279,assis,opauto,cotv,remserv,reco,1
+279,hvac,preshouse,watch,share,nothing,1
+279,tv,alert,coalarm,remserv,nothing,1
+279,secu,opauto,cam,share,insight,0
+279,refr,lochouse,cohvac,locally,insight,1
+279,alarm,alert,cosecu,locally,nothing,1
+279,light,lochouse,coassis,remserv,insight,1
+279,alarm,lochouse,locsens,share,opti,0
+279,refr,alert,micro,share,reco,0
+279,secu,preshouse,corefri,locally,opti,0

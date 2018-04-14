@@ -1,0 +1,12 @@
+1394,alarm,opauto,corefri,share,opti,0
+1394,secu,alert,cohvac,share,insight,0
+1394,light,opauto,micro,remserv,insight,1
+1394,tv,preshouse,cosecu,remserv,nothing,1
+1394,refr,opauto,coalarm,locally,insight,1
+1394,hvac,lochouse,colight,share,nothing,0
+1394,assis,alert,watch,remserv,reco,1
+1394,refr,preshouse,cowash,share,reco,0
+1394,alarm,preshouse,coassis,locally,nothing,0
+1394,hvac,alert,locsens,locally,reco,1
+1394,secu,lochouse,cotv,locally,opti,1
+1394,wash,lochouse,cam,remserv,opti,0

@@ -1,0 +1,12 @@
+1889,alarm,opauto,cotv,remserv,opti,0
+1889,refr,preshouse,locsens,remserv,reco,0
+1889,light,opauto,cowash,locally,opti,0
+1889,secu,alert,coalarm,remserv,insight,0
+1889,light,preshouse,watch,share,insight,0
+1889,wash,lochouse,cohvac,locally,nothing,1
+1889,assis,lochouse,cosecu,share,reco,0
+1889,wash,alert,micro,share,opti,0
+1889,assis,alert,colight,locally,insight,0
+1889,hvac,lochouse,cam,remserv,nothing,1
+1889,tv,preshouse,coassis,locally,reco,0
+1889,tv,opauto,corefri,share,nothing,0

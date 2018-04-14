@@ -1,0 +1,12 @@
+699,tv,preshouse,cotv,share,nothing,0
+699,wash,alert,coalarm,locally,nothing,1
+699,light,opauto,colight,share,insight,0
+699,refr,opauto,corefri,remserv,reco,0
+699,light,preshouse,locsens,locally,opti,1
+699,tv,opauto,micro,locally,reco,1
+699,wash,lochouse,cowash,share,opti,1
+699,assis,alert,coassis,share,reco,0
+699,assis,lochouse,cam,locally,insight,0
+699,secu,lochouse,cosecu,remserv,insight,1
+699,alarm,preshouse,watch,remserv,opti,0
+699,hvac,alert,cohvac,remserv,nothing,1

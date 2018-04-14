@@ -1,0 +1,12 @@
+1090,tv,preshouse,colight,remserv,insight,0
+1090,alarm,lochouse,coassis,remserv,reco,0
+1090,wash,opauto,cam,share,reco,0
+1090,refr,preshouse,coalarm,share,opti,0
+1090,secu,opauto,cotv,remserv,nothing,0
+1090,hvac,lochouse,locsens,share,insight,0
+1090,wash,preshouse,corefri,locally,insight,1
+1090,assis,alert,cowash,remserv,opti,0
+1090,light,lochouse,cohvac,locally,reco,1
+1090,refr,opauto,watch,locally,nothing,1
+1090,light,alert,micro,share,nothing,0
+1090,hvac,alert,cosecu,locally,opti,1

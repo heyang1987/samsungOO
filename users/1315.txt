@@ -1,0 +1,12 @@
+1315,secu,preshouse,watch,locally,reco,1
+1315,alarm,alert,micro,locally,insight,1
+1315,hvac,alert,corefri,remserv,insight,1
+1315,tv,opauto,cam,locally,opti,0
+1315,wash,preshouse,cohvac,remserv,reco,0
+1315,refr,opauto,cosecu,remserv,opti,0
+1315,tv,preshouse,coassis,share,insight,0
+1315,alarm,lochouse,cotv,share,reco,0
+1315,assis,lochouse,locsens,locally,nothing,1
+1315,assis,alert,colight,share,opti,1
+1315,secu,opauto,coalarm,share,nothing,0
+1315,light,lochouse,cowash,remserv,nothing,1

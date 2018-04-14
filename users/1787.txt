@@ -1,0 +1,12 @@
+1787,light,lochouse,cowash,remserv,insight,1
+1787,secu,preshouse,watch,locally,opti,0
+1787,hvac,preshouse,cam,share,nothing,0
+1787,alarm,alert,micro,locally,nothing,1
+1787,alarm,lochouse,cotv,share,opti,0
+1787,assis,opauto,colight,remserv,reco,1
+1787,refr,lochouse,cosecu,locally,insight,0
+1787,tv,alert,coassis,remserv,nothing,1
+1787,hvac,opauto,corefri,locally,reco,0
+1787,secu,opauto,coalarm,share,insight,1
+1787,wash,preshouse,cohvac,remserv,opti,1
+1787,refr,alert,locsens,share,reco,0

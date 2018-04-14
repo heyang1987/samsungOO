@@ -1,0 +1,12 @@
+1035,secu,lochouse,locsens,share,nothing,0
+1035,light,preshouse,colight,remserv,nothing,0
+1035,wash,alert,cowash,remserv,reco,0
+1035,tv,lochouse,micro,locally,opti,1
+1035,tv,alert,cotv,share,insight,0
+1035,assis,preshouse,cam,locally,nothing,1
+1035,hvac,opauto,cohvac,remserv,insight,0
+1035,assis,opauto,coassis,share,opti,0
+1035,secu,alert,cosecu,locally,reco,0
+1035,alarm,preshouse,coalarm,share,reco,0
+1035,refr,lochouse,corefri,remserv,opti,0
+1035,alarm,opauto,watch,locally,insight,1

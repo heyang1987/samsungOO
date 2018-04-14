@@ -1,0 +1,12 @@
+209,wash,lochouse,cam,remserv,opti,0
+209,alarm,preshouse,coassis,locally,nothing,1
+209,refr,opauto,coalarm,locally,insight,1
+209,alarm,opauto,corefri,share,opti,1
+209,light,opauto,micro,remserv,insight,0
+209,hvac,alert,locsens,locally,reco,1
+209,secu,alert,cohvac,share,insight,1
+209,assis,alert,watch,remserv,reco,1
+209,tv,preshouse,cosecu,remserv,nothing,0
+209,hvac,lochouse,colight,share,nothing,1
+209,secu,lochouse,cotv,locally,opti,1
+209,refr,preshouse,cowash,share,reco,0

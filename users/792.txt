@@ -1,0 +1,12 @@
+792,assis,lochouse,locsens,share,insight,0
+792,assis,alert,cosecu,locally,opti,1
+792,refr,preshouse,colight,remserv,insight,1
+792,light,opauto,watch,locally,nothing,1
+792,secu,alert,cowash,remserv,opti,1
+792,tv,opauto,cam,share,reco,0
+792,hvac,lochouse,coassis,remserv,reco,1
+792,alarm,alert,micro,share,nothing,0
+792,light,preshouse,coalarm,share,opti,0
+792,wash,opauto,cotv,remserv,nothing,1
+792,alarm,lochouse,cohvac,locally,reco,1
+792,tv,preshouse,corefri,locally,insight,1

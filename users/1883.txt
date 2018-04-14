@@ -1,0 +1,12 @@
+1883,wash,opauto,cohvac,remserv,opti,0
+1883,alarm,alert,cotv,share,opti,0
+1883,hvac,opauto,cam,share,nothing,0
+1883,secu,opauto,watch,locally,opti,1
+1883,refr,alert,cosecu,locally,insight,1
+1883,secu,preshouse,coalarm,share,insight,0
+1883,light,alert,cowash,remserv,insight,1
+1883,refr,lochouse,locsens,share,reco,0
+1883,tv,lochouse,coassis,remserv,nothing,1
+1883,hvac,preshouse,corefri,locally,reco,1
+1883,assis,preshouse,colight,remserv,reco,1
+1883,alarm,lochouse,micro,locally,nothing,1

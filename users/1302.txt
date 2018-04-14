@@ -1,0 +1,12 @@
+1302,assis,preshouse,cohvac,remserv,opti,0
+1302,refr,lochouse,cotv,share,opti,0
+1302,hvac,opauto,coalarm,share,insight,1
+1302,secu,alert,coassis,remserv,nothing,0
+1302,refr,alert,micro,locally,nothing,1
+1302,light,opauto,corefri,locally,reco,0
+1302,alarm,opauto,colight,remserv,reco,1
+1302,wash,alert,locsens,share,reco,0
+1302,wash,lochouse,cosecu,locally,insight,0
+1302,hvac,preshouse,watch,locally,opti,1
+1302,light,preshouse,cam,share,nothing,0
+1302,tv,lochouse,cowash,remserv,insight,0

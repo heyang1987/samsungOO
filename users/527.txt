@@ -1,0 +1,12 @@
+527,light,opauto,coassis,share,nothing,1
+527,assis,opauto,micro,remserv,opti,1
+527,tv,alert,watch,remserv,insight,1
+527,wash,alert,locsens,locally,insight,1
+527,wash,lochouse,colight,share,reco,1
+527,light,preshouse,cam,locally,reco,1
+527,hvac,preshouse,cowash,share,insight,1
+527,refr,alert,cohvac,share,opti,0
+527,refr,lochouse,cotv,locally,nothing,0
+527,secu,lochouse,corefri,remserv,nothing,0
+527,alarm,preshouse,cosecu,remserv,reco,1
+527,hvac,opauto,coalarm,locally,opti,1

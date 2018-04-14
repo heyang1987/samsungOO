@@ -1,0 +1,12 @@
+163,tv,lochouse,micro,share,nothing,0
+163,wash,preshouse,watch,locally,nothing,0
+163,tv,alert,cohvac,locally,reco,0
+163,alarm,lochouse,cowash,remserv,opti,0
+163,hvac,preshouse,cotv,remserv,nothing,0
+163,refr,alert,coassis,remserv,reco,0
+163,wash,opauto,coalarm,share,opti,0
+163,light,lochouse,cosecu,locally,opti,0
+163,secu,opauto,colight,remserv,insight,1
+163,assis,opauto,corefri,locally,insight,0
+163,assis,preshouse,cam,share,reco,0
+163,light,alert,locsens,share,insight,0

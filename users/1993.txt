@@ -1,0 +1,12 @@
+1993,secu,lochouse,watch,remserv,opti,1
+1993,alarm,lochouse,cotv,share,nothing,0
+1993,assis,lochouse,locsens,locally,opti,1
+1993,hvac,alert,corefri,remserv,reco,0
+1993,tv,opauto,cam,locally,insight,1
+1993,wash,preshouse,cohvac,remserv,nothing,0
+1993,light,opauto,cowash,share,opti,0
+1993,refr,opauto,cosecu,remserv,insight,1
+1993,alarm,alert,micro,locally,reco,1
+1993,light,preshouse,coalarm,locally,nothing,1
+1993,tv,preshouse,coassis,share,reco,0
+1993,assis,alert,colight,share,insight,0

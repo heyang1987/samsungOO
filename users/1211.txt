@@ -1,0 +1,12 @@
+1211,secu,alert,cohvac,locally,nothing,0
+1211,wash,preshouse,corefri,share,nothing,0
+1211,refr,preshouse,cowash,locally,opti,0
+1211,hvac,lochouse,colight,locally,insight,0
+1211,wash,opauto,coassis,locally,reco,0
+1211,secu,lochouse,micro,share,opti,0
+1211,assis,lochouse,coalarm,remserv,insight,0
+1211,refr,opauto,watch,share,insight,0
+1211,alarm,alert,cam,remserv,nothing,0
+1211,hvac,alert,cosecu,share,reco,0
+1211,tv,opauto,locsens,remserv,reco,0
+1211,light,preshouse,cotv,remserv,opti,0

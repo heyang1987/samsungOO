@@ -1,0 +1,12 @@
+393,light,opauto,cowash,locally,insight,1
+393,wash,alert,micro,share,insight,0
+393,hvac,preshouse,corefri,locally,nothing,1
+393,hvac,opauto,cam,share,opti,1
+393,wash,lochouse,cohvac,locally,opti,0
+393,assis,lochouse,cosecu,share,nothing,0
+393,alarm,opauto,cotv,remserv,insight,0
+393,light,preshouse,watch,share,reco,0
+393,tv,lochouse,coassis,remserv,opti,0
+393,refr,preshouse,locsens,remserv,nothing,0
+393,secu,alert,coalarm,remserv,reco,0
+393,assis,alert,colight,locally,reco,1

@@ -1,0 +1,12 @@
+1659,assis,lochouse,micro,locally,reco,0
+1659,light,opauto,coassis,share,reco,1
+1659,hvac,preshouse,cowash,share,opti,0
+1659,hvac,opauto,coalarm,locally,nothing,0
+1659,wash,alert,locsens,locally,opti,0
+1659,light,preshouse,cam,locally,insight,0
+1659,refr,opauto,cohvac,remserv,nothing,1
+1659,wash,lochouse,colight,share,insight,0
+1659,alarm,preshouse,cosecu,remserv,insight,0
+1659,tv,alert,watch,remserv,opti,0
+1659,secu,lochouse,corefri,remserv,reco,0
+1659,assis,alert,cotv,share,nothing,0

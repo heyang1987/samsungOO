@@ -1,0 +1,12 @@
+1687,secu,opauto,corefri,remserv,nothing,0
+1687,light,lochouse,cam,locally,reco,1
+1687,wash,opauto,colight,share,reco,1
+1687,alarm,lochouse,cosecu,remserv,reco,1
+1687,light,alert,coassis,share,nothing,0
+1687,assis,alert,micro,remserv,opti,0
+1687,tv,preshouse,watch,remserv,insight,1
+1687,hvac,lochouse,cowash,share,insight,0
+1687,refr,preshouse,cohvac,share,opti,0
+1687,hvac,alert,coalarm,locally,opti,1
+1687,refr,opauto,cotv,locally,nothing,1
+1687,wash,preshouse,locsens,locally,insight,1

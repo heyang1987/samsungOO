@@ -1,0 +1,12 @@
+275,alarm,opauto,cam,remserv,opti,0
+275,light,preshouse,cohvac,share,insight,0
+275,light,opauto,cotv,locally,opti,1
+275,assis,lochouse,cowash,share,reco,0
+275,assis,alert,coalarm,locally,insight,1
+275,refr,preshouse,watch,remserv,reco,0
+275,hvac,lochouse,cosecu,remserv,nothing,0
+275,tv,opauto,colight,share,nothing,0
+275,tv,preshouse,locsens,locally,reco,0
+275,wash,alert,corefri,share,opti,0
+275,secu,alert,micro,remserv,insight,1
+275,wash,lochouse,coassis,locally,nothing,0

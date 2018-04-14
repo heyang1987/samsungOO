@@ -1,0 +1,12 @@
+1430,hvac,alert,watch,locally,reco,0
+1430,tv,preshouse,cowash,remserv,nothing,0
+1430,refr,preshouse,cotv,share,reco,0
+1430,hvac,lochouse,coalarm,share,nothing,0
+1430,assis,alert,cohvac,remserv,reco,0
+1430,refr,opauto,micro,locally,insight,0
+1430,alarm,preshouse,locsens,locally,nothing,0
+1430,alarm,opauto,colight,share,opti,0
+1430,light,opauto,corefri,remserv,insight,0
+1430,secu,alert,coassis,share,insight,0
+1430,wash,lochouse,cosecu,remserv,opti,0
+1430,secu,lochouse,cam,locally,opti,0

@@ -1,0 +1,12 @@
+543,assis,preshouse,micro,share,nothing,0
+543,secu,opauto,coassis,remserv,reco,1
+543,wash,opauto,locsens,share,insight,0
+543,hvac,lochouse,coalarm,share,opti,1
+543,tv,preshouse,cowash,remserv,opti,1
+543,light,alert,cam,share,reco,0
+543,wash,preshouse,cosecu,locally,opti,1
+543,alarm,lochouse,colight,remserv,insight,0
+543,refr,alert,cotv,remserv,nothing,0
+543,hvac,alert,watch,locally,nothing,1
+543,assis,opauto,cohvac,locally,reco,1
+543,light,lochouse,corefri,locally,insight,0

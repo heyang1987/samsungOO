@@ -1,0 +1,12 @@
+782,tv,lochouse,cam,remserv,nothing,1
+782,refr,lochouse,cosecu,share,reco,0
+782,alarm,lochouse,cohvac,locally,nothing,1
+782,light,alert,coalarm,remserv,insight,1
+782,secu,opauto,cowash,locally,opti,1
+782,secu,preshouse,watch,share,insight,1
+782,refr,alert,colight,locally,insight,1
+782,wash,opauto,cotv,remserv,opti,1
+782,hvac,preshouse,coassis,locally,reco,1
+782,hvac,opauto,corefri,share,nothing,1
+782,assis,preshouse,locsens,remserv,reco,1
+782,alarm,alert,micro,share,opti,1

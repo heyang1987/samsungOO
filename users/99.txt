@@ -1,0 +1,12 @@
+99,assis,opauto,cam,locally,insight,0
+99,assis,preshouse,coassis,share,reco,0
+99,light,alert,colight,share,insight,1
+99,light,lochouse,locsens,locally,opti,0
+99,alarm,lochouse,watch,remserv,opti,1
+99,wash,preshouse,coalarm,locally,nothing,1
+99,tv,alert,micro,locally,reco,0
+99,wash,opauto,cowash,share,opti,1
+99,tv,lochouse,cotv,share,nothing,0
+99,hvac,preshouse,cohvac,remserv,nothing,1
+99,refr,alert,corefri,remserv,reco,1
+99,secu,opauto,cosecu,remserv,insight,1

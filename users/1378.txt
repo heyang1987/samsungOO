@@ -1,0 +1,12 @@
+1378,hvac,lochouse,coalarm,remserv,reco,0
+1378,assis,lochouse,micro,share,insight,0
+1378,secu,alert,coassis,remserv,opti,0
+1378,tv,opauto,watch,share,reco,0
+1378,tv,preshouse,cowash,locally,insight,0
+1378,alarm,alert,cosecu,share,nothing,0
+1378,wash,opauto,locsens,remserv,nothing,1
+1378,alarm,lochouse,colight,locally,reco,0
+1378,refr,preshouse,cotv,remserv,insight,0
+1378,assis,alert,cohvac,locally,opti,1
+1378,light,opauto,corefri,locally,nothing,0
+1378,light,preshouse,cam,share,opti,1

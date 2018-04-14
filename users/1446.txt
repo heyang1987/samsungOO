@@ -1,0 +1,12 @@
+1446,assis,alert,micro,locally,opti,1
+1446,refr,preshouse,cohvac,remserv,insight,0
+1446,light,preshouse,coassis,share,opti,0
+1446,assis,lochouse,cotv,share,insight,0
+1446,tv,preshouse,watch,locally,insight,1
+1446,alarm,lochouse,cosecu,locally,reco,1
+1446,alarm,alert,locsens,share,nothing,0
+1446,hvac,lochouse,cowash,remserv,reco,1
+1446,wash,opauto,colight,remserv,nothing,1
+1446,tv,opauto,coalarm,share,reco,0
+1446,light,opauto,cam,locally,nothing,1
+1446,secu,alert,corefri,remserv,opti,1

@@ -1,0 +1,12 @@
+1964,tv,alert,watch,remserv,reco,1
+1964,assis,opauto,micro,remserv,insight,1
+1964,secu,opauto,corefri,share,opti,1
+1964,alarm,preshouse,cosecu,remserv,nothing,0
+1964,light,lochouse,cam,remserv,opti,1
+1964,wash,alert,locsens,locally,reco,0
+1964,hvac,opauto,coalarm,locally,insight,0
+1964,refr,alert,cohvac,share,insight,0
+1964,wash,lochouse,colight,share,nothing,0
+1964,secu,preshouse,coassis,locally,nothing,0
+1964,refr,lochouse,cotv,locally,opti,0
+1964,hvac,preshouse,cowash,share,reco,1

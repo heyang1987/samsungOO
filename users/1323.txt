@@ -1,0 +1,12 @@
+1323,tv,opauto,coassis,locally,nothing,1
+1323,tv,preshouse,corefri,share,opti,0
+1323,alarm,lochouse,cohvac,share,insight,1
+1323,light,lochouse,watch,remserv,reco,1
+1323,hvac,alert,cam,remserv,opti,1
+1323,secu,preshouse,coalarm,locally,insight,0
+1323,refr,alert,colight,share,nothing,1
+1323,alarm,alert,cotv,locally,opti,1
+1323,secu,opauto,cowash,share,reco,1
+1323,assis,opauto,cosecu,remserv,nothing,1
+1323,wash,preshouse,micro,remserv,insight,0
+1323,refr,lochouse,locsens,locally,reco,0

@@ -1,0 +1,12 @@
+573,wash,lochouse,cotv,locally,nothing,1
+573,secu,alert,watch,remserv,insight,1
+573,tv,opauto,coassis,share,nothing,1
+573,assis,lochouse,colight,share,reco,1
+573,assis,alert,locsens,locally,insight,1
+573,refr,preshouse,cosecu,remserv,reco,0
+573,tv,preshouse,cam,locally,reco,1
+573,light,opauto,coalarm,locally,opti,1
+573,alarm,opauto,micro,remserv,opti,1
+573,wash,alert,cohvac,share,opti,0
+573,hvac,lochouse,corefri,remserv,nothing,0
+573,light,preshouse,cowash,share,insight,0

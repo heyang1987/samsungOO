@@ -1,0 +1,12 @@
+462,assis,alert,corefri,share,nothing,0
+462,secu,lochouse,locsens,remserv,reco,0
+462,light,opauto,cosecu,share,reco,0
+462,hvac,opauto,cohvac,locally,nothing,1
+462,refr,opauto,cam,remserv,nothing,0
+462,tv,alert,cotv,remserv,opti,1
+462,wash,lochouse,watch,share,insight,0
+462,wash,alert,cowash,locally,opti,0
+462,assis,lochouse,coassis,locally,reco,0
+462,hvac,preshouse,micro,share,opti,0
+462,alarm,preshouse,coalarm,remserv,insight,0
+462,light,preshouse,colight,locally,insight,0

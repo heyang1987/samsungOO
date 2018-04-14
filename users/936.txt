@@ -1,0 +1,12 @@
+936,secu,preshouse,locsens,locally,nothing,1
+936,wash,lochouse,coalarm,share,nothing,1
+936,refr,alert,coassis,share,insight,1
+936,assis,opauto,corefri,remserv,insight,1
+936,hvac,preshouse,cotv,share,reco,1
+936,hvac,opauto,micro,locally,insight,1
+936,light,lochouse,cosecu,remserv,opti,1
+936,tv,alert,cohvac,remserv,reco,1
+936,alarm,preshouse,cowash,remserv,nothing,1
+936,secu,opauto,colight,share,opti,1
+936,refr,lochouse,cam,locally,opti,1
+936,wash,alert,watch,locally,reco,1

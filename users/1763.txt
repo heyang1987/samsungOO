@@ -1,0 +1,12 @@
+1763,secu,preshouse,watch,share,reco,0
+1763,alarm,lochouse,cohvac,locally,opti,1
+1763,refr,alert,colight,locally,reco,1
+1763,secu,opauto,cowash,locally,insight,0
+1763,light,alert,coalarm,remserv,reco,1
+1763,assis,preshouse,locsens,remserv,nothing,1
+1763,tv,opauto,cam,share,opti,0
+1763,hvac,lochouse,coassis,remserv,opti,1
+1763,tv,preshouse,corefri,locally,nothing,0
+1763,alarm,alert,micro,share,insight,0
+1763,wash,opauto,cotv,remserv,insight,0
+1763,refr,lochouse,cosecu,share,nothing,0

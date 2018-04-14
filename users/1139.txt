@@ -1,0 +1,12 @@
+1139,wash,alert,cosecu,share,insight,0
+1139,secu,alert,cam,remserv,reco,0
+1139,hvac,preshouse,cowash,locally,nothing,0
+1139,light,preshouse,corefri,share,reco,0
+1139,wash,lochouse,colight,locally,opti,1
+1139,hvac,opauto,watch,share,opti,0
+1139,refr,preshouse,micro,remserv,nothing,1
+1139,assis,lochouse,cohvac,share,nothing,1
+1139,tv,lochouse,coalarm,remserv,opti,1
+1139,assis,alert,cotv,locally,reco,0
+1139,alarm,opauto,locsens,remserv,insight,1
+1139,light,opauto,coassis,locally,insight,1

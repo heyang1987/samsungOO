@@ -1,0 +1,12 @@
+2040,wash,lochouse,cosecu,remserv,reco,0
+2040,tv,lochouse,cowash,share,insight,0
+2040,light,opauto,corefri,remserv,nothing,1
+2040,assis,preshouse,cohvac,share,opti,0
+2040,alarm,opauto,colight,share,reco,0
+2040,hvac,preshouse,watch,remserv,insight,0
+2040,secu,lochouse,cam,locally,reco,0
+2040,secu,alert,coassis,share,nothing,0
+2040,assis,opauto,cotv,locally,nothing,1
+2040,tv,alert,coalarm,locally,opti,1
+2040,refr,alert,micro,remserv,opti,0
+2040,alarm,preshouse,locsens,locally,insight,1

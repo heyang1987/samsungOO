@@ -1,0 +1,12 @@
+390,hvac,alert,corefri,share,opti,0
+390,secu,preshouse,watch,remserv,reco,0
+390,light,alert,coalarm,locally,insight,1
+390,wash,opauto,cotv,locally,opti,1
+390,wash,preshouse,cohvac,share,insight,0
+390,refr,lochouse,cosecu,remserv,nothing,0
+390,hvac,lochouse,coassis,locally,nothing,0
+390,assis,preshouse,locsens,locally,reco,0
+390,light,lochouse,cowash,share,reco,0
+390,tv,opauto,cam,remserv,opti,0
+390,assis,opauto,colight,share,nothing,0
+390,alarm,alert,micro,remserv,insight,0

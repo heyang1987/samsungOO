@@ -1,0 +1,12 @@
+560,tv,preshouse,coassis,remserv,nothing,0
+560,refr,opauto,cosecu,locally,insight,1
+560,alarm,preshouse,micro,locally,nothing,1
+560,light,opauto,cowash,remserv,insight,0
+560,assis,alert,colight,remserv,reco,0
+560,secu,lochouse,watch,locally,opti,0
+560,hvac,lochouse,cam,share,nothing,0
+560,secu,alert,coalarm,share,insight,0
+560,refr,preshouse,locsens,share,reco,0
+560,hvac,alert,corefri,locally,reco,0
+560,alarm,opauto,cotv,share,opti,0
+560,wash,lochouse,cohvac,remserv,opti,0

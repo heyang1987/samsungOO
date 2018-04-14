@@ -1,0 +1,12 @@
+1129,assis,lochouse,cotv,locally,opti,0
+1129,light,opauto,corefri,share,opti,0
+1129,alarm,lochouse,colight,share,nothing,0
+1129,wash,preshouse,cosecu,remserv,nothing,0
+1129,assis,alert,cohvac,share,insight,0
+1129,tv,preshouse,cowash,share,reco,0
+1129,refr,opauto,micro,remserv,insight,0
+1129,secu,lochouse,cam,remserv,opti,0
+1129,tv,opauto,coalarm,locally,insight,0
+1129,hvac,alert,watch,remserv,reco,0
+1129,light,preshouse,coassis,locally,nothing,0
+1129,alarm,alert,locsens,locally,reco,0

@@ -1,0 +1,12 @@
+1164,alarm,alert,cowash,share,nothing,0
+1164,alarm,lochouse,coalarm,locally,reco,0
+1164,assis,lochouse,corefri,share,insight,0
+1164,wash,opauto,watch,remserv,nothing,1
+1164,refr,preshouse,cam,remserv,insight,0
+1164,light,opauto,colight,locally,nothing,1
+1164,assis,alert,coassis,locally,opti,1
+1164,tv,opauto,cohvac,share,reco,0
+1164,secu,alert,locsens,remserv,opti,1
+1164,tv,preshouse,cotv,locally,insight,1
+1164,hvac,lochouse,micro,remserv,reco,0
+1164,light,preshouse,cosecu,share,opti,0

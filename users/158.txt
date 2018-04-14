@@ -1,0 +1,12 @@
+158,alarm,alert,cosecu,locally,insight,1
+158,secu,preshouse,corefri,locally,reco,1
+158,alarm,lochouse,locsens,share,reco,0
+158,refr,opauto,cohvac,remserv,opti,1
+158,assis,alert,cotv,share,opti,0
+158,tv,opauto,watch,locally,opti,1
+158,wash,preshouse,colight,remserv,reco,0
+158,hvac,alert,cowash,remserv,insight,0
+158,light,lochouse,coassis,remserv,nothing,1
+158,tv,preshouse,coalarm,share,insight,1
+158,assis,lochouse,micro,locally,nothing,0
+158,secu,opauto,cam,share,nothing,0

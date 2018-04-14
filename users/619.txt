@@ -1,0 +1,12 @@
+619,hvac,alert,cowash,remserv,insight,1
+619,tv,preshouse,coalarm,share,insight,0
+619,wash,preshouse,colight,remserv,reco,0
+619,alarm,lochouse,locsens,share,reco,0
+619,assis,alert,cotv,share,opti,1
+619,tv,opauto,watch,locally,opti,1
+619,assis,lochouse,micro,locally,nothing,1
+619,alarm,alert,cosecu,locally,insight,1
+619,light,lochouse,coassis,remserv,nothing,1
+619,refr,opauto,cohvac,remserv,opti,0
+619,secu,preshouse,corefri,locally,reco,0
+619,secu,opauto,cam,share,nothing,0

@@ -1,0 +1,12 @@
+1284,alarm,preshouse,watch,remserv,reco,1
+1284,wash,lochouse,cowash,share,reco,1
+1284,hvac,preshouse,cohvac,share,insight,0
+1284,light,opauto,colight,share,nothing,0
+1284,hvac,opauto,cotv,locally,opti,0
+1284,tv,alert,micro,remserv,insight,0
+1284,light,preshouse,locsens,locally,reco,0
+1284,wash,alert,coalarm,locally,insight,0
+1284,secu,lochouse,cosecu,remserv,nothing,1
+1284,refr,lochouse,coassis,locally,nothing,0
+1284,assis,opauto,cam,remserv,opti,0
+1284,refr,alert,corefri,share,opti,0

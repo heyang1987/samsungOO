@@ -1,0 +1,12 @@
+1423,secu,lochouse,cam,remserv,reco,0
+1423,wash,alert,colight,locally,opti,1
+1423,assis,alert,cohvac,share,nothing,0
+1423,light,preshouse,coassis,locally,insight,0
+1423,hvac,preshouse,watch,share,opti,0
+1423,alarm,preshouse,locsens,remserv,insight,0
+1423,wash,lochouse,cosecu,share,insight,0
+1423,refr,opauto,micro,remserv,nothing,1
+1423,light,opauto,corefri,share,reco,1
+1423,hvac,opauto,cowash,locally,nothing,1
+1423,tv,alert,coalarm,remserv,opti,1
+1423,assis,lochouse,cotv,locally,reco,0

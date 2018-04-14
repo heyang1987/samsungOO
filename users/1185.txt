@@ -1,0 +1,12 @@
+1185,hvac,preshouse,cotv,locally,nothing,1
+1185,assis,alert,cam,locally,reco,1
+1185,light,opauto,locsens,locally,insight,1
+1185,alarm,opauto,watch,remserv,insight,1
+1185,secu,alert,cosecu,remserv,reco,1
+1185,tv,lochouse,micro,remserv,opti,1
+1185,hvac,opauto,cohvac,share,opti,0
+1185,assis,lochouse,coassis,share,nothing,0
+1185,wash,lochouse,coalarm,locally,opti,1
+1185,light,preshouse,colight,share,reco,0
+1185,wash,alert,cowash,share,insight,0
+1185,refr,preshouse,corefri,remserv,nothing,1

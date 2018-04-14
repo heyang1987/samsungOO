@@ -6,7 +6,6 @@
 package samsung;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 import weka.classifiers.meta.FilteredClassifier;
 import weka.core.Instances;
@@ -24,6 +23,7 @@ public class Samsung {
     public static int count_multi;
     public static Instances noArrayInstances;
     public static Instances yesArrayInstances;
+    public static Instances mulArrayInstances;
     public static ArrayList<Instances> multiInstanceArray = new ArrayList<>(); 
     public static String t1="N0 [label=\"0";
     public static String t2="N0 [label=\"1";
@@ -42,13 +42,13 @@ public class Samsung {
         //System.out.println(allusers.numInstances());
         noArrayInstances = new Instances(allusers, 0);
         yesArrayInstances = new Instances(allusers, 0);
-        //multiArrayInstances = new Instances(allusers, 0);
+        mulArrayInstances = new Instances(allusers, 0);
 
         for (int i = 0; i < allusers.numInstances(); i = i + 12) {
             //int userID = (int)allusers.instance(i).value(0);
             Instances singleUserInstances = new Instances(allusers, i, 12);
             
-            FilteredClassifier cls = wekaFunctions.train(singleUserInstances, classIndex); // train
+            FilteredClassifier cls = wekaFunctions.train(singleUserInstances); // train
 //            double accuracy =  wekaFunctions.eval(cls, singleUserInstances,singleUserInstances); // eval
 //            System.out.println("User #:" +userID);
 //            System.out.println("Classifier :" +fc);
@@ -66,17 +66,22 @@ public class Samsung {
             else {
                 count_multi++;
                 multiInstanceArray.add(singleUserInstances);
-
+                mulArrayInstances = wekaFunctions.merge(mulArrayInstances, singleUserInstances);
                 //multiAccuracyList.add(wekaFunctions.eval(cls, singleUserInstances,singleUserInstances));               
             } 
         }
-        System.out.println("Single 'NO' node trees: " + count_no);
-        System.out.println("Single 'YES' node trees: " + count_yes);
+        System.out.println("'NO' node trees: " + count_no);
+        System.out.println("'YES' node trees: " + count_yes);
         System.out.println("Multi-node trees: " + count_multi);         
 
-        System.out.println("noArray's accuracy is: " + wekaFunctions.trainSelfEval(noArrayInstances));
-        System.out.println("yesArray's accuracy is: " + wekaFunctions.trainSelfEval(yesArrayInstances));
-        System.out.println(multiInstanceArray.size());
+        System.out.println("noArray's accuracy is: " + wekaFunctions.selfCVEval(noArrayInstances));
+        System.out.println("yesArray's accuracy is: " + wekaFunctions.selfCVEval(yesArrayInstances));
+        System.out.println("mulArray's accuracy is: " + wekaFunctions.selfCVEval(mulArrayInstances));
+//        System.out.println(mulArrayInstances);
+//        System.out.println(wekaFunctions.train(mulArrayInstances).getClassifier().toString());
+//        
+//        System.out.println(multiInstanceArray.size());
+//        System.out.println(mulArrayInstances.numInstances()/12);
         System.out.println("===========================================");
         System.out.println("");
         for (int i = 0; i < 20; i++) {
@@ -85,7 +90,7 @@ public class Samsung {
             System.out.println("/*                REPEAT "+(i+1)+"               */");
             System.out.println("/*****************************************/");
             System.out.println("");
-            merge(434);
+            merge(count_multi-2);
         }
     }
     
@@ -110,8 +115,8 @@ public class Samsung {
                     Instances currentPairData = wekaFunctions.merge(instancesArray.get(i), instancesArray.get(j));
 
                     double currentPairAccuracy = wekaFunctions.trainSelfEval(currentPairData);
-                    String cls = wekaFunctions.train(currentPairData, classIndex).getClassifier().toString();
-                    int currentTreeSize = Integer.parseInt( cls.substring(cls.length()-3, cls.length()-1).replaceAll(".*[^\\d](?=(\\d+))","") );
+                    String cls = wekaFunctions.train(currentPairData).getClassifier().toString();
+                    int currentTreeSize = Integer.parseInt( cls.substring(cls.length()-4, cls.length()-1).replaceAll(".*[^\\d](?=(\\d+))","") );
                     double pre = (wekaFunctions.trainSelfEval(instancesArray.get(i))*instancesArray.get(i).numInstances()
                             + wekaFunctions.trainSelfEval(instancesArray.get(j))*instancesArray.get(j).numInstances())/12;
 
@@ -186,7 +191,7 @@ public class Samsung {
                 System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");               
                 System.out.println("Total TreeSize: " + totalTreeSize);
                 System.out.println("Total Accuracy: " + totalAccuracy);
-                System.out.println("Avrge Accuracy: " + totalAccuracy/436);
+                System.out.println("Avrge Accuracy: " + totalAccuracy/(multiInstanceArray.size()-2));
                 System.out.println("Total    Value: " + totalAccuracy/totalTreeSize);
             }            
             System.out.println("=======================================");

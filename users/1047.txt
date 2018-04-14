@@ -1,0 +1,12 @@
+1047,light,preshouse,corefri,share,nothing,0
+1047,refr,lochouse,micro,share,opti,0
+1047,hvac,opauto,watch,share,insight,1
+1047,wash,lochouse,colight,locally,insight,1
+1047,wash,alert,cosecu,share,reco,0
+1047,tv,lochouse,coalarm,remserv,insight,1
+1047,secu,alert,cam,remserv,nothing,1
+1047,assis,preshouse,cotv,remserv,opti,1
+1047,refr,alert,cohvac,locally,nothing,1
+1047,alarm,opauto,locsens,remserv,reco,1
+1047,hvac,preshouse,cowash,locally,opti,1
+1047,light,opauto,coassis,locally,reco,1

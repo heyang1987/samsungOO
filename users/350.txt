@@ -1,0 +1,12 @@
+350,light,preshouse,corefri,share,reco,1
+350,secu,alert,cam,remserv,reco,1
+350,refr,preshouse,micro,remserv,nothing,0
+350,hvac,preshouse,cowash,locally,nothing,1
+350,tv,lochouse,coalarm,remserv,opti,1
+350,light,opauto,coassis,locally,insight,1
+350,hvac,opauto,watch,share,opti,1
+350,assis,lochouse,cohvac,share,nothing,1
+350,assis,alert,cotv,locally,reco,1
+350,alarm,opauto,locsens,remserv,insight,1
+350,wash,lochouse,colight,locally,opti,1
+350,wash,alert,cosecu,share,insight,1

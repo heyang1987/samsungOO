@@ -1,0 +1,12 @@
+1335,hvac,preshouse,cowash,remserv,insight,1
+1335,assis,opauto,micro,locally,nothing,1
+1335,tv,lochouse,coalarm,share,insight,0
+1335,secu,lochouse,corefri,locally,reco,1
+1335,refr,alert,cohvac,remserv,opti,0
+1335,assis,preshouse,cotv,share,opti,0
+1335,secu,alert,cam,share,nothing,1
+1335,tv,alert,watch,locally,opti,0
+1335,light,opauto,coassis,remserv,nothing,1
+1335,alarm,preshouse,cosecu,locally,insight,1
+1335,wash,lochouse,colight,remserv,reco,0
+1335,alarm,opauto,locsens,share,reco,0

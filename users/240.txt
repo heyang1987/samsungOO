@@ -1,0 +1,12 @@
+240,light,opauto,cohvac,share,opti,1
+240,wash,preshouse,corefri,remserv,nothing,1
+240,refr,opauto,watch,remserv,insight,1
+240,secu,lochouse,micro,remserv,opti,1
+240,tv,opauto,locsens,locally,insight,1
+240,alarm,lochouse,coassis,share,nothing,0
+240,light,preshouse,cotv,locally,nothing,1
+240,hvac,alert,cosecu,remserv,reco,1
+240,assis,alert,cowash,share,insight,1
+240,tv,preshouse,colight,share,reco,1
+240,assis,lochouse,coalarm,locally,opti,1
+240,alarm,alert,cam,locally,reco,0

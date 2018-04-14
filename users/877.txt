@@ -1,0 +1,12 @@
+877,alarm,preshouse,cam,share,insight,0
+877,refr,opauto,watch,share,nothing,0
+877,tv,alert,locsens,share,opti,0
+877,assis,lochouse,coalarm,remserv,nothing,0
+877,alarm,opauto,corefri,locally,opti,1
+877,secu,alert,cohvac,locally,insight,1
+877,hvac,opauto,colight,remserv,opti,1
+877,light,preshouse,cotv,remserv,reco,0
+877,wash,alert,coassis,remserv,insight,1
+877,refr,preshouse,cowash,locally,reco,1
+877,secu,lochouse,micro,share,reco,1
+877,tv,lochouse,cosecu,locally,nothing,1

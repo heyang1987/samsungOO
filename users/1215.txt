@@ -1,0 +1,12 @@
+1215,light,preshouse,colight,locally,nothing,0
+1215,assis,alert,corefri,share,insight,1
+1215,wash,preshouse,watch,remserv,nothing,0
+1215,alarm,alert,coalarm,locally,reco,1
+1215,alarm,lochouse,cowash,share,nothing,0
+1215,tv,preshouse,cohvac,share,reco,0
+1215,secu,lochouse,locsens,remserv,opti,1
+1215,refr,opauto,cam,remserv,insight,1
+1215,light,opauto,cosecu,share,opti,1
+1215,tv,opauto,cotv,locally,insight,1
+1215,hvac,alert,micro,remserv,reco,1
+1215,assis,lochouse,coassis,locally,opti,0

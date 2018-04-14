@@ -1,0 +1,12 @@
+457,refr,alert,locsens,locally,insight,0
+457,secu,opauto,coalarm,locally,opti,1
+457,hvac,opauto,coassis,share,nothing,0
+457,alarm,alert,cohvac,share,opti,0
+457,light,alert,watch,remserv,insight,0
+457,alarm,lochouse,cotv,locally,nothing,0
+457,secu,preshouse,cowash,share,insight,0
+457,assis,preshouse,cosecu,remserv,reco,1
+457,refr,lochouse,colight,share,reco,0
+457,wash,opauto,micro,remserv,opti,1
+457,hvac,preshouse,cam,locally,reco,1
+457,tv,lochouse,corefri,remserv,nothing,0

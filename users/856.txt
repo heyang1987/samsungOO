@@ -1,0 +1,12 @@
+856,hvac,lochouse,coalarm,remserv,opti,1
+856,refr,lochouse,cohvac,share,nothing,0
+856,alarm,lochouse,colight,locally,opti,1
+856,refr,alert,cotv,locally,reco,1
+856,tv,opauto,watch,share,opti,0
+856,alarm,alert,cosecu,share,insight,1
+856,assis,preshouse,micro,remserv,nothing,1
+856,wash,opauto,locsens,remserv,insight,1
+856,secu,opauto,coassis,locally,insight,1
+856,secu,preshouse,corefri,share,reco,0
+856,light,alert,cam,remserv,reco,1
+856,tv,preshouse,cowash,locally,nothing,1

@@ -1,0 +1,12 @@
+2021,hvac,preshouse,cosecu,share,opti,0
+2021,secu,lochouse,micro,remserv,reco,0
+2021,light,opauto,cohvac,share,reco,0
+2021,assis,alert,cowash,share,nothing,1
+2021,hvac,opauto,colight,locally,nothing,1
+2021,refr,opauto,watch,remserv,nothing,1
+2021,tv,alert,locsens,remserv,opti,1
+2021,wash,lochouse,corefri,share,insight,0
+2021,wash,alert,coassis,locally,opti,0
+2021,assis,lochouse,coalarm,locally,reco,0
+2021,alarm,preshouse,cam,remserv,insight,0
+2021,light,preshouse,cotv,locally,insight,1

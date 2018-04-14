@@ -1,0 +1,12 @@
+655,assis,alert,corefri,locally,reco,1
+655,assis,lochouse,cam,share,nothing,0
+655,hvac,preshouse,micro,locally,nothing,1
+655,wash,alert,coalarm,share,insight,0
+655,tv,lochouse,cohvac,remserv,opti,1
+655,wash,lochouse,watch,locally,opti,1
+655,light,preshouse,locsens,share,reco,0
+655,hvac,opauto,cotv,share,opti,0
+655,alarm,opauto,cowash,remserv,insight,0
+655,light,opauto,cosecu,locally,insight,1
+655,secu,alert,colight,remserv,reco,1
+655,refr,preshouse,coassis,remserv,nothing,0

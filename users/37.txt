@@ -1,0 +1,12 @@
+37,hvac,lochouse,cohvac,remserv,opti,0
+37,refr,lochouse,cam,share,nothing,0
+37,secu,preshouse,locsens,share,reco,0
+37,secu,opauto,cosecu,locally,insight,0
+37,light,alert,colight,remserv,reco,0
+37,tv,preshouse,micro,locally,nothing,0
+37,tv,opauto,cotv,share,opti,0
+37,alarm,lochouse,watch,locally,opti,0
+37,assis,preshouse,coassis,remserv,nothing,0
+37,wash,opauto,cowash,remserv,insight,0
+37,alarm,alert,coalarm,share,insight,0
+37,refr,alert,corefri,locally,reco,0

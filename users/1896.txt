@@ -1,0 +1,12 @@
+1896,alarm,preshouse,cohvac,share,opti,0
+1896,light,preshouse,watch,remserv,insight,1
+1896,assis,lochouse,cosecu,remserv,reco,0
+1896,hvac,lochouse,cam,locally,reco,0
+1896,refr,opauto,colight,share,reco,0
+1896,secu,alert,coalarm,locally,opti,1
+1896,wash,alert,micro,remserv,opti,1
+1896,secu,lochouse,cowash,share,insight,0
+1896,tv,opauto,corefri,remserv,nothing,0
+1896,alarm,opauto,cotv,locally,nothing,1
+1896,hvac,alert,coassis,share,nothing,1
+1896,refr,preshouse,locsens,locally,insight,0

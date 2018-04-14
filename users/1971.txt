@@ -1,0 +1,12 @@
+1971,light,alert,cam,share,reco,1
+1971,refr,alert,cotv,remserv,nothing,1
+1971,alarm,lochouse,colight,remserv,insight,1
+1971,secu,opauto,coassis,remserv,reco,1
+1971,hvac,lochouse,coalarm,share,opti,0
+1971,hvac,alert,watch,locally,nothing,1
+1971,assis,opauto,cohvac,locally,reco,1
+1971,tv,preshouse,cowash,remserv,opti,0
+1971,light,lochouse,corefri,locally,insight,0
+1971,wash,preshouse,cosecu,locally,opti,1
+1971,wash,opauto,locsens,share,insight,0
+1971,assis,preshouse,micro,share,nothing,1

@@ -1,0 +1,12 @@
+1869,hvac,lochouse,cotv,locally,insight,1
+1869,refr,preshouse,coassis,locally,opti,0
+1869,refr,opauto,corefri,share,insight,1
+1869,secu,lochouse,cosecu,share,opti,1
+1869,wash,opauto,coalarm,locally,reco,0
+1869,wash,preshouse,cowash,share,nothing,0
+1869,hvac,alert,cohvac,share,reco,1
+1869,light,preshouse,locsens,remserv,opti,1
+1869,secu,alert,colight,locally,nothing,1
+1869,tv,opauto,micro,remserv,reco,1
+1869,alarm,alert,watch,remserv,nothing,1
+1869,assis,lochouse,cam,remserv,insight,1

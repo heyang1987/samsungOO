@@ -1,0 +1,12 @@
+768,secu,preshouse,corefri,locally,reco,0
+768,assis,lochouse,micro,locally,nothing,1
+768,tv,opauto,watch,locally,opti,1
+768,secu,opauto,cam,share,nothing,0
+768,hvac,alert,cowash,remserv,insight,0
+768,assis,alert,cotv,share,opti,0
+768,alarm,alert,cosecu,locally,insight,1
+768,alarm,lochouse,locsens,share,reco,0
+768,tv,preshouse,coalarm,share,insight,0
+768,wash,preshouse,colight,remserv,reco,0
+768,light,lochouse,coassis,remserv,nothing,1
+768,refr,opauto,cohvac,remserv,opti,0

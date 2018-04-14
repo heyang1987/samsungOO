@@ -1,0 +1,12 @@
+1589,secu,opauto,cohvac,locally,opti,1
+1589,assis,preshouse,coalarm,remserv,reco,1
+1589,alarm,alert,cam,share,opti,0
+1589,alarm,lochouse,corefri,locally,nothing,0
+1589,hvac,preshouse,colight,locally,reco,1
+1589,tv,lochouse,locsens,remserv,nothing,0
+1589,refr,lochouse,watch,share,reco,0
+1589,secu,preshouse,micro,share,insight,0
+1589,hvac,opauto,cosecu,share,nothing,1
+1589,light,alert,cotv,remserv,insight,0
+1589,refr,alert,cowash,locally,insight,0
+1589,wash,opauto,coassis,remserv,opti,1

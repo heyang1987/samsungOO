@@ -1,0 +1,12 @@
+341,refr,lochouse,cowash,locally,insight,1
+341,alarm,lochouse,cam,share,opti,1
+341,alarm,alert,corefri,locally,nothing,1
+341,assis,opauto,coalarm,remserv,reco,0
+341,wash,preshouse,coassis,remserv,opti,0
+341,secu,opauto,micro,share,insight,1
+341,secu,preshouse,cohvac,locally,opti,1
+341,tv,alert,locsens,remserv,nothing,0
+341,refr,alert,watch,share,reco,0
+341,hvac,preshouse,cosecu,share,nothing,0
+341,hvac,opauto,colight,locally,reco,1
+341,light,lochouse,cotv,remserv,insight,0

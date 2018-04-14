@@ -1,0 +1,12 @@
+521,hvac,alert,cowash,locally,reco,1
+521,tv,preshouse,coalarm,remserv,nothing,0
+521,light,opauto,coassis,remserv,insight,0
+521,refr,preshouse,micro,share,reco,0
+521,hvac,lochouse,watch,share,nothing,0
+521,wash,lochouse,colight,remserv,opti,0
+521,secu,lochouse,corefri,locally,opti,1
+521,assis,alert,cotv,remserv,reco,0
+521,refr,opauto,cohvac,locally,insight,1
+521,secu,alert,cam,share,insight,0
+521,alarm,opauto,locsens,share,opti,0
+521,alarm,preshouse,cosecu,locally,nothing,1

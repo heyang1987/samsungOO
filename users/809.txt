@@ -1,0 +1,12 @@
+809,assis,opauto,cowash,locally,nothing,1
+809,tv,alert,colight,locally,opti,0
+809,secu,lochouse,cotv,locally,reco,0
+809,refr,alert,coalarm,remserv,opti,0
+809,assis,preshouse,watch,share,opti,0
+809,wash,lochouse,cam,remserv,reco,0
+809,light,opauto,micro,remserv,nothing,1
+809,alarm,opauto,corefri,share,reco,0
+809,secu,alert,cohvac,share,nothing,0
+809,tv,lochouse,cosecu,share,insight,0
+809,alarm,preshouse,coassis,locally,insight,1
+809,hvac,preshouse,locsens,remserv,insight,1

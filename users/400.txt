@@ -1,0 +1,12 @@
+400,tv,alert,coalarm,locally,reco,1
+400,assis,opauto,cotv,locally,insight,1
+400,hvac,preshouse,watch,remserv,nothing,1
+400,tv,lochouse,cowash,share,nothing,0
+400,wash,preshouse,colight,locally,nothing,0
+400,assis,preshouse,cohvac,share,reco,0
+400,alarm,lochouse,locsens,remserv,opti,1
+400,light,lochouse,coassis,locally,opti,0
+400,secu,opauto,cam,remserv,insight,1
+400,light,alert,corefri,share,insight,0
+400,refr,alert,micro,remserv,reco,1
+400,wash,opauto,cosecu,share,opti,0

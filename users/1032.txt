@@ -1,0 +1,12 @@
+1032,tv,alert,corefri,share,insight,0
+1032,assis,opauto,cosecu,share,opti,0
+1032,secu,alert,coalarm,locally,reco,0
+1032,refr,lochouse,locsens,remserv,opti,0
+1032,wash,alert,micro,remserv,reco,0
+1032,tv,lochouse,coassis,locally,opti,0
+1032,light,preshouse,watch,remserv,nothing,1
+1032,alarm,preshouse,cohvac,share,reco,0
+1032,secu,lochouse,cowash,share,nothing,0
+1032,alarm,opauto,cotv,locally,insight,1
+1032,hvac,opauto,cam,remserv,insight,1
+1032,assis,preshouse,colight,locally,nothing,1

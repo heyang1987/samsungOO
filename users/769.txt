@@ -1,0 +1,12 @@
+769,wash,alert,watch,locally,opti,1
+769,hvac,opauto,micro,locally,nothing,0
+769,secu,lochouse,colight,remserv,reco,0
+769,assis,lochouse,corefri,locally,reco,0
+769,light,opauto,locsens,share,reco,0
+769,hvac,preshouse,cotv,share,opti,0
+769,alarm,preshouse,cowash,remserv,insight,0
+769,light,preshouse,cosecu,locally,insight,0
+769,tv,alert,cohvac,remserv,opti,0
+769,assis,alert,cam,share,nothing,0
+769,wash,lochouse,coalarm,share,insight,0
+769,refr,opauto,coassis,remserv,nothing,1

@@ -1,0 +1,12 @@
+1715,refr,alert,watch,share,insight,0
+1715,secu,opauto,micro,share,opti,0
+1715,assis,opauto,coalarm,remserv,insight,1
+1715,alarm,preshouse,cam,remserv,nothing,1
+1715,secu,preshouse,cohvac,locally,nothing,1
+1715,wash,lochouse,corefri,share,nothing,0
+1715,wash,alert,coassis,locally,reco,1
+1715,refr,lochouse,cowash,locally,opti,1
+1715,tv,alert,locsens,remserv,reco,1
+1715,hvac,preshouse,cosecu,share,reco,0
+1715,light,lochouse,cotv,remserv,opti,1
+1715,hvac,opauto,colight,locally,insight,1

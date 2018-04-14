@@ -1,0 +1,12 @@
+660,tv,alert,cotv,share,opti,1
+660,tv,lochouse,micro,locally,nothing,1
+660,alarm,opauto,watch,locally,opti,1
+660,refr,opauto,cam,share,nothing,1
+660,secu,alert,cosecu,locally,insight,1
+660,hvac,opauto,cohvac,remserv,opti,1
+660,assis,lochouse,coassis,remserv,nothing,1
+660,wash,alert,cowash,remserv,insight,1
+660,secu,lochouse,locsens,share,reco,1
+660,refr,preshouse,corefri,locally,reco,1
+660,alarm,preshouse,coalarm,share,insight,1
+660,light,preshouse,colight,remserv,reco,1

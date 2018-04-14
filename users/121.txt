@@ -1,0 +1,12 @@
+121,wash,preshouse,cotv,locally,reco,0
+121,refr,opauto,colight,locally,opti,0
+121,hvac,alert,coassis,locally,insight,0
+121,tv,preshouse,cam,remserv,reco,0
+121,wash,opauto,cohvac,share,nothing,0
+121,refr,preshouse,cosecu,share,insight,0
+121,assis,alert,locsens,remserv,insight,0
+121,light,opauto,coalarm,remserv,opti,0
+121,hvac,lochouse,corefri,share,reco,0
+121,secu,alert,watch,share,opti,0
+121,alarm,lochouse,micro,remserv,nothing,0
+121,secu,lochouse,cowash,locally,nothing,0

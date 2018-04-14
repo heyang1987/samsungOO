@@ -1,0 +1,12 @@
+749,refr,lochouse,cosecu,share,opti,0
+749,light,preshouse,cowash,share,nothing,1
+749,wash,alert,cohvac,share,reco,1
+749,alarm,opauto,micro,remserv,reco,1
+749,wash,lochouse,cotv,locally,insight,1
+749,hvac,opauto,corefri,share,insight,1
+749,assis,preshouse,locsens,remserv,opti,1
+749,tv,lochouse,cam,remserv,insight,0
+749,hvac,preshouse,coassis,locally,opti,1
+749,secu,alert,watch,remserv,nothing,1
+749,refr,alert,colight,locally,nothing,1
+749,light,opauto,coalarm,locally,reco,1

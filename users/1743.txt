@@ -1,0 +1,12 @@
+1743,hvac,preshouse,colight,remserv,reco,1
+1743,alarm,preshouse,corefri,locally,reco,0
+1743,light,lochouse,micro,locally,nothing,1
+1743,secu,opauto,cohvac,remserv,opti,1
+1743,refr,alert,cowash,remserv,insight,1
+1743,tv,alert,cosecu,locally,insight,1
+1743,assis,preshouse,coalarm,share,insight,0
+1743,wash,lochouse,coassis,remserv,nothing,0
+1743,light,alert,cotv,share,opti,0
+1743,assis,opauto,watch,locally,opti,1
+1743,alarm,opauto,cam,share,nothing,1
+1743,tv,lochouse,locsens,share,reco,0

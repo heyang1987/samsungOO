@@ -1,0 +1,12 @@
+326,wash,preshouse,locsens,share,reco,0
+326,tv,opauto,cowash,remserv,insight,0
+326,hvac,lochouse,watch,locally,opti,1
+326,assis,lochouse,cohvac,remserv,opti,0
+326,alarm,alert,colight,remserv,reco,0
+326,light,alert,corefri,locally,reco,0
+326,refr,preshouse,micro,locally,nothing,0
+326,secu,preshouse,coassis,remserv,nothing,1
+326,light,lochouse,cam,share,nothing,0
+326,hvac,alert,coalarm,share,insight,0
+326,wash,opauto,cosecu,locally,insight,0
+326,refr,opauto,cotv,share,opti,0

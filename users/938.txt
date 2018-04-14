@@ -1,0 +1,12 @@
+938,wash,lochouse,coalarm,share,opti,0
+938,refr,opauto,coassis,remserv,reco,0
+938,tv,opauto,cohvac,locally,reco,1
+938,secu,lochouse,colight,remserv,insight,0
+938,light,opauto,locsens,share,insight,0
+938,hvac,alert,cotv,remserv,nothing,0
+938,assis,lochouse,corefri,locally,insight,0
+938,alarm,preshouse,cowash,remserv,opti,0
+938,light,preshouse,cosecu,locally,opti,1
+938,wash,alert,watch,locally,nothing,1
+938,assis,alert,cam,share,reco,0
+938,tv,preshouse,micro,share,nothing,0

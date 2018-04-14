@@ -1,0 +1,12 @@
+1663,wash,alert,watch,locally,reco,1
+1663,refr,lochouse,cam,locally,opti,0
+1663,tv,alert,cohvac,remserv,reco,1
+1663,refr,alert,coassis,share,insight,0
+1663,wash,lochouse,coalarm,share,nothing,1
+1663,hvac,preshouse,cotv,share,reco,0
+1663,secu,opauto,colight,share,opti,1
+1663,alarm,preshouse,cowash,remserv,nothing,0
+1663,secu,preshouse,locsens,locally,nothing,1
+1663,light,lochouse,cosecu,remserv,opti,1
+1663,hvac,opauto,micro,locally,insight,1
+1663,assis,opauto,corefri,remserv,insight,1

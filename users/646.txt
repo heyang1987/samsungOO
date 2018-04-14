@@ -1,0 +1,12 @@
+646,wash,opauto,locsens,share,opti,0
+646,secu,opauto,coassis,remserv,insight,1
+646,wash,preshouse,cosecu,locally,nothing,1
+646,tv,lochouse,watch,share,nothing,1
+646,assis,opauto,cohvac,locally,insight,1
+646,alarm,lochouse,colight,remserv,opti,1
+646,hvac,preshouse,coalarm,remserv,nothing,1
+646,assis,preshouse,micro,share,reco,1
+646,tv,alert,cowash,locally,reco,1
+646,light,lochouse,corefri,locally,opti,1
+646,refr,alert,cotv,remserv,reco,1
+646,light,alert,cam,share,insight,1

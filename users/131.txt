@@ -1,0 +1,12 @@
+131,alarm,preshouse,cam,share,opti,0
+131,wash,alert,coassis,remserv,opti,1
+131,secu,lochouse,micro,share,insight,1
+131,secu,alert,cohvac,locally,opti,1
+131,refr,preshouse,cowash,locally,insight,0
+131,alarm,opauto,corefri,locally,nothing,0
+131,assis,lochouse,coalarm,remserv,reco,0
+131,light,preshouse,cotv,remserv,insight,0
+131,refr,opauto,watch,share,reco,0
+131,hvac,lochouse,colight,locally,reco,0
+131,hvac,alert,cosecu,share,nothing,0
+131,tv,opauto,locsens,remserv,nothing,0

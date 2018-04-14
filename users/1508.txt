@@ -1,0 +1,12 @@
+1508,light,alert,watch,remserv,nothing,1
+1508,alarm,lochouse,cotv,locally,insight,1
+1508,secu,preshouse,cowash,share,nothing,1
+1508,hvac,lochouse,cam,remserv,insight,1
+1508,tv,preshouse,coassis,locally,opti,1
+1508,wash,opauto,micro,remserv,reco,1
+1508,tv,opauto,corefri,share,insight,1
+1508,assis,lochouse,cosecu,share,opti,1
+1508,refr,preshouse,locsens,remserv,opti,1
+1508,alarm,alert,cohvac,share,reco,1
+1508,secu,opauto,coalarm,locally,reco,1
+1508,assis,alert,colight,locally,nothing,1

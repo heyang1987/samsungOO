@@ -1,0 +1,12 @@
+1416,wash,lochouse,micro,share,nothing,0
+1416,refr,lochouse,cosecu,locally,opti,0
+1416,light,lochouse,cowash,remserv,opti,1
+1416,hvac,preshouse,cam,share,reco,1
+1416,alarm,preshouse,cotv,remserv,nothing,1
+1416,secu,opauto,coalarm,share,opti,0
+1416,secu,preshouse,watch,locally,nothing,0
+1416,hvac,opauto,corefri,locally,insight,1
+1416,refr,alert,locsens,share,insight,1
+1416,wash,alert,cohvac,locally,reco,1
+1416,assis,opauto,colight,remserv,insight,1
+1416,tv,alert,coassis,remserv,reco,1

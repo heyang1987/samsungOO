@@ -1,0 +1,12 @@
+1807,secu,alert,corefri,locally,insight,1
+1807,tv,alert,coalarm,share,opti,1
+1807,hvac,opauto,cowash,remserv,opti,1
+1807,refr,opauto,micro,share,nothing,1
+1807,wash,alert,colight,remserv,insight,0
+1807,tv,lochouse,watch,locally,nothing,1
+1807,refr,preshouse,cohvac,locally,reco,1
+1807,light,preshouse,coassis,remserv,reco,1
+1807,assis,lochouse,cotv,remserv,nothing,1
+1807,alarm,preshouse,locsens,share,insight,0
+1807,secu,lochouse,cam,share,reco,0
+1807,alarm,opauto,cosecu,locally,opti,1

@@ -1,0 +1,12 @@
+399,alarm,alert,micro,share,reco,0
+399,wash,opauto,cotv,remserv,reco,0
+399,tv,preshouse,corefri,locally,opti,1
+399,light,alert,coalarm,remserv,nothing,1
+399,assis,alert,cosecu,locally,nothing,0
+399,hvac,lochouse,coassis,remserv,insight,0
+399,assis,lochouse,locsens,share,opti,0
+399,secu,preshouse,watch,share,nothing,0
+399,alarm,lochouse,cohvac,locally,insight,0
+399,tv,opauto,cam,share,insight,0
+399,secu,opauto,cowash,locally,reco,0
+399,refr,preshouse,colight,remserv,opti,0

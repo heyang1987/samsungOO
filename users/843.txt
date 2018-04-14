@@ -1,0 +1,12 @@
+843,secu,alert,watch,remserv,opti,1
+843,alarm,alert,cotv,share,nothing,0
+843,alarm,lochouse,micro,locally,reco,0
+843,tv,opauto,coassis,share,reco,0
+843,tv,preshouse,cam,locally,insight,1
+843,light,opauto,coalarm,locally,nothing,1
+843,light,preshouse,cowash,share,opti,0
+843,assis,lochouse,colight,share,insight,0
+843,wash,opauto,cohvac,remserv,nothing,1
+843,refr,preshouse,cosecu,remserv,insight,1
+843,hvac,lochouse,corefri,remserv,reco,0
+843,assis,alert,locsens,locally,opti,1

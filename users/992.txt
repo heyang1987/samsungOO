@@ -1,0 +1,12 @@
+992,assis,alert,micro,locally,reco,0
+992,refr,preshouse,cohvac,remserv,nothing,1
+992,secu,alert,corefri,remserv,reco,0
+992,alarm,opauto,cosecu,remserv,insight,0
+992,tv,lochouse,watch,remserv,opti,0
+992,hvac,preshouse,coalarm,locally,nothing,1
+992,light,preshouse,coassis,share,reco,0
+992,wash,alert,colight,share,insight,0
+992,hvac,opauto,cowash,share,opti,0
+992,assis,lochouse,cotv,share,nothing,1
+992,light,opauto,cam,locally,insight,0
+992,wash,lochouse,locsens,locally,opti,0

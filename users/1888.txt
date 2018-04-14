@@ -1,0 +1,12 @@
+1888,wash,preshouse,corefri,locally,reco,1
+1888,hvac,lochouse,locsens,share,reco,0
+1888,assis,alert,cowash,remserv,insight,1
+1888,refr,opauto,watch,locally,opti,1
+1888,alarm,lochouse,coassis,remserv,nothing,1
+1888,tv,preshouse,colight,remserv,reco,0
+1888,secu,lochouse,micro,locally,nothing,1
+1888,light,opauto,cohvac,remserv,opti,0
+1888,refr,preshouse,coalarm,share,insight,0
+1888,wash,opauto,cam,share,nothing,0
+1888,hvac,alert,cosecu,locally,insight,1
+1888,secu,alert,cotv,share,opti,0

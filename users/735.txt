@@ -1,0 +1,12 @@
+735,tv,preshouse,locsens,share,nothing,1
+735,tv,opauto,cosecu,locally,reco,1
+735,secu,lochouse,cohvac,remserv,insight,1
+735,hvac,alert,colight,remserv,nothing,1
+735,wash,alert,cam,locally,nothing,1
+735,refr,opauto,cowash,remserv,reco,1
+735,wash,lochouse,coassis,share,opti,1
+735,light,preshouse,micro,locally,opti,1
+735,light,opauto,cotv,share,insight,1
+735,assis,lochouse,watch,locally,insight,1
+735,alarm,preshouse,corefri,remserv,opti,1
+735,assis,alert,coalarm,share,reco,1

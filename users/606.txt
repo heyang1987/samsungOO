@@ -1,0 +1,12 @@
+606,hvac,lochouse,cotv,locally,opti,1
+606,secu,preshouse,cosecu,remserv,nothing,1
+606,assis,lochouse,cam,remserv,opti,0
+606,hvac,alert,cohvac,share,insight,0
+606,refr,opauto,corefri,share,opti,0
+606,wash,preshouse,cowash,share,reco,0
+606,wash,opauto,coalarm,locally,insight,0
+606,refr,preshouse,coassis,locally,nothing,1
+606,light,alert,locsens,locally,reco,1
+606,alarm,alert,watch,remserv,reco,1
+606,light,lochouse,colight,share,nothing,1
+606,tv,opauto,micro,remserv,insight,1

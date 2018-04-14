@@ -1,0 +1,12 @@
+1484,alarm,lochouse,cam,locally,nothing,0
+1484,secu,opauto,micro,locally,opti,1
+1484,wash,opauto,corefri,remserv,opti,0
+1484,light,alert,cohvac,remserv,insight,0
+1484,refr,lochouse,coalarm,share,reco,0
+1484,secu,preshouse,cotv,share,insight,0
+1484,hvac,preshouse,cosecu,locally,reco,0
+1484,tv,lochouse,colight,remserv,nothing,0
+1484,alarm,alert,coassis,share,opti,0
+1484,hvac,opauto,locsens,share,nothing,0
+1484,assis,preshouse,cowash,remserv,reco,0
+1484,refr,alert,watch,locally,insight,0

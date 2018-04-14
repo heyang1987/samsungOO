@@ -1,0 +1,12 @@
+1444,alarm,lochouse,cosecu,share,opti,1
+1444,secu,opauto,corefri,share,insight,1
+1444,secu,preshouse,coassis,locally,opti,1
+1444,hvac,opauto,coalarm,locally,reco,1
+1444,wash,preshouse,locsens,remserv,opti,1
+1444,refr,lochouse,cotv,locally,insight,1
+1444,hvac,preshouse,cowash,share,nothing,1
+1444,tv,alert,watch,remserv,nothing,1
+1444,assis,opauto,micro,remserv,reco,1
+1444,light,lochouse,cam,remserv,insight,1
+1444,refr,alert,cohvac,share,reco,1
+1444,alarm,alert,colight,locally,nothing,1

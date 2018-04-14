@@ -1,0 +1,12 @@
+1789,alarm,opauto,cotv,remserv,insight,0
+1789,refr,preshouse,locsens,remserv,nothing,0
+1789,secu,alert,coalarm,remserv,reco,0
+1789,light,opauto,cowash,locally,insight,1
+1789,wash,lochouse,cohvac,locally,opti,1
+1789,tv,lochouse,coassis,remserv,opti,1
+1789,light,preshouse,watch,share,reco,1
+1789,hvac,preshouse,corefri,locally,nothing,1
+1789,hvac,opauto,cam,share,opti,0
+1789,assis,lochouse,cosecu,share,nothing,0
+1789,wash,alert,micro,share,insight,0
+1789,assis,alert,colight,locally,reco,1

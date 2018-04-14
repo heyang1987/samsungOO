@@ -1,0 +1,12 @@
+989,hvac,preshouse,cam,share,opti,0
+989,assis,alert,cosecu,share,nothing,0
+989,tv,alert,coassis,remserv,opti,0
+989,assis,lochouse,colight,locally,reco,0
+989,alarm,preshouse,cotv,remserv,insight,0
+989,wash,alert,cohvac,locally,opti,0
+989,light,preshouse,cowash,locally,insight,0
+989,light,opauto,watch,share,reco,0
+989,secu,lochouse,coalarm,remserv,reco,0
+989,hvac,opauto,corefri,locally,nothing,0
+989,refr,opauto,locsens,remserv,nothing,0
+989,wash,lochouse,micro,share,insight,0

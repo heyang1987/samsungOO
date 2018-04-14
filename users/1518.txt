@@ -1,0 +1,12 @@
+1518,refr,opauto,colight,share,insight,0
+1518,light,preshouse,watch,remserv,opti,0
+1518,secu,alert,coalarm,locally,nothing,1
+1518,wash,opauto,micro,locally,reco,1
+1518,refr,preshouse,locsens,locally,opti,1
+1518,wash,preshouse,cotv,share,nothing,0
+1518,secu,lochouse,cowash,share,opti,0
+1518,assis,lochouse,cosecu,remserv,insight,1
+1518,hvac,lochouse,cam,locally,insight,0
+1518,alarm,alert,cohvac,remserv,nothing,1
+1518,hvac,alert,coassis,share,reco,0
+1518,tv,opauto,corefri,remserv,reco,1

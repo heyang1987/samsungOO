@@ -1,0 +1,12 @@
+1772,hvac,opauto,corefri,share,nothing,1
+1772,secu,preshouse,watch,share,insight,1
+1772,tv,lochouse,cam,remserv,nothing,0
+1772,hvac,preshouse,coassis,locally,reco,1
+1772,secu,opauto,cowash,locally,opti,0
+1772,assis,preshouse,locsens,remserv,reco,0
+1772,refr,alert,colight,locally,insight,0
+1772,alarm,lochouse,cohvac,locally,nothing,0
+1772,alarm,alert,micro,share,opti,1
+1772,wash,opauto,cotv,remserv,opti,0
+1772,refr,lochouse,cosecu,share,reco,0
+1772,light,alert,coalarm,remserv,insight,1

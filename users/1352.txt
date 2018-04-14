@@ -1,0 +1,12 @@
+1352,wash,alert,colight,share,reco,0
+1352,light,preshouse,coassis,share,nothing,0
+1352,refr,alert,cotv,locally,nothing,0
+1352,wash,lochouse,locsens,locally,insight,0
+1352,secu,alert,corefri,remserv,nothing,0
+1352,alarm,opauto,cosecu,remserv,reco,0
+1352,tv,lochouse,watch,remserv,insight,0
+1352,hvac,opauto,cowash,share,insight,0
+1352,refr,lochouse,cohvac,share,opti,0
+1352,assis,preshouse,micro,remserv,opti,0
+1352,hvac,preshouse,coalarm,locally,opti,0
+1352,light,opauto,cam,locally,reco,0

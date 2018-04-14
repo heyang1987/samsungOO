@@ -1,0 +1,12 @@
+436,light,lochouse,cotv,share,reco,0
+436,assis,preshouse,watch,locally,reco,0
+436,hvac,alert,colight,share,opti,0
+436,tv,opauto,cosecu,remserv,opti,1
+436,refr,lochouse,cowash,remserv,nothing,0
+436,wash,opauto,cam,locally,opti,1
+436,assis,opauto,coalarm,share,nothing,0
+436,wash,preshouse,coassis,share,insight,0
+436,hvac,lochouse,locsens,locally,nothing,0
+436,light,alert,micro,locally,insight,1
+436,alarm,alert,corefri,remserv,insight,1
+436,secu,preshouse,cohvac,remserv,reco,0

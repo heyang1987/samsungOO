@@ -1,0 +1,12 @@
+1148,secu,preshouse,coassis,locally,opti,1
+1148,hvac,opauto,coalarm,locally,reco,1
+1148,assis,opauto,micro,remserv,reco,0
+1148,secu,opauto,corefri,share,insight,1
+1148,alarm,alert,colight,locally,nothing,0
+1148,tv,alert,watch,remserv,nothing,0
+1148,alarm,lochouse,cosecu,share,opti,0
+1148,refr,lochouse,cotv,locally,insight,1
+1148,wash,preshouse,locsens,remserv,opti,0
+1148,refr,alert,cohvac,share,reco,0
+1148,hvac,preshouse,cowash,share,nothing,0
+1148,light,lochouse,cam,remserv,insight,0

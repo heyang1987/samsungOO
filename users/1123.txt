@@ -1,0 +1,12 @@
+1123,wash,lochouse,cosecu,remserv,reco,0
+1123,tv,lochouse,cowash,share,insight,0
+1123,light,opauto,corefri,remserv,nothing,0
+1123,assis,preshouse,cohvac,share,opti,0
+1123,alarm,opauto,colight,share,reco,0
+1123,hvac,preshouse,watch,remserv,insight,1
+1123,secu,lochouse,cam,locally,reco,1
+1123,secu,alert,coassis,share,nothing,0
+1123,assis,opauto,cotv,locally,nothing,1
+1123,tv,alert,coalarm,locally,opti,1
+1123,refr,alert,micro,remserv,opti,1
+1123,alarm,preshouse,locsens,locally,insight,0

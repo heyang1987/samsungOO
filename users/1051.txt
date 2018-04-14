@@ -1,0 +1,12 @@
+1051,refr,opauto,cohvac,locally,opti,1
+1051,tv,preshouse,coalarm,remserv,reco,0
+1051,assis,alert,cotv,remserv,insight,0
+1051,hvac,lochouse,watch,share,reco,0
+1051,secu,lochouse,corefri,locally,nothing,1
+1051,alarm,lochouse,locsens,remserv,nothing,1
+1051,light,opauto,coassis,remserv,opti,0
+1051,wash,opauto,cosecu,share,nothing,1
+1051,hvac,alert,cowash,locally,insight,1
+1051,secu,alert,cam,share,opti,0
+1051,refr,preshouse,micro,share,insight,1
+1051,wash,preshouse,colight,locally,reco,0

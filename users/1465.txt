@@ -1,0 +1,12 @@
+1465,wash,lochouse,corefri,locally,opti,0
+1465,alarm,opauto,coassis,remserv,insight,0
+1465,assis,alert,cowash,locally,reco,0
+1465,secu,alert,cotv,remserv,reco,0
+1465,tv,lochouse,colight,remserv,opti,0
+1465,assis,lochouse,watch,share,nothing,0
+1465,wash,alert,cam,share,insight,0
+1465,light,opauto,cohvac,locally,insight,0
+1465,refr,preshouse,coalarm,remserv,nothing,0
+1465,hvac,opauto,locsens,share,opti,0
+1465,light,preshouse,micro,share,reco,0
+1465,hvac,preshouse,cosecu,locally,nothing,0

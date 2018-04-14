@@ -1,0 +1,12 @@
+84,alarm,lochouse,cam,locally,nothing,1
+84,secu,opauto,micro,locally,opti,1
+84,wash,opauto,corefri,remserv,opti,0
+84,light,alert,cohvac,remserv,insight,0
+84,refr,lochouse,coalarm,share,reco,0
+84,secu,preshouse,cotv,share,insight,0
+84,hvac,preshouse,cosecu,locally,reco,0
+84,tv,lochouse,colight,remserv,nothing,0
+84,alarm,alert,coassis,share,opti,0
+84,hvac,opauto,locsens,share,nothing,1
+84,assis,preshouse,cowash,remserv,reco,1
+84,refr,alert,watch,locally,insight,0

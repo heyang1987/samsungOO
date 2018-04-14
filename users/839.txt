@@ -1,0 +1,12 @@
+839,hvac,alert,colight,locally,insight,1
+839,refr,opauto,cowash,locally,opti,0
+839,wash,preshouse,coassis,locally,reco,1
+839,light,opauto,cotv,remserv,opti,1
+839,alarm,lochouse,cam,remserv,nothing,0
+839,assis,alert,coalarm,remserv,insight,1
+839,refr,preshouse,watch,share,insight,0
+839,hvac,lochouse,cosecu,share,reco,1
+839,secu,alert,micro,share,opti,0
+839,tv,preshouse,locsens,remserv,reco,1
+839,wash,opauto,corefri,share,nothing,0
+839,secu,lochouse,cohvac,locally,nothing,1

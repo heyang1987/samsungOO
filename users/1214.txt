@@ -1,0 +1,12 @@
+1214,refr,opauto,watch,locally,insight,1
+1214,light,opauto,cohvac,remserv,insight,0
+1214,secu,lochouse,micro,locally,opti,0
+1214,alarm,opauto,coassis,share,opti,0
+1214,hvac,lochouse,locsens,share,nothing,0
+1214,hvac,alert,cosecu,locally,reco,1
+1214,tv,preshouse,colight,remserv,nothing,0
+1214,refr,preshouse,coalarm,share,reco,0
+1214,wash,lochouse,corefri,remserv,opti,0
+1214,assis,alert,cowash,remserv,reco,0
+1214,secu,alert,cotv,share,insight,0
+1214,alarm,preshouse,cam,locally,nothing,0

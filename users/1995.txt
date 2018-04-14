@@ -1,0 +1,12 @@
+1995,refr,preshouse,cotv,remserv,insight,0
+1995,assis,alert,cohvac,locally,opti,1
+1995,alarm,alert,cosecu,share,nothing,0
+1995,secu,alert,coassis,remserv,opti,1
+1995,tv,preshouse,cowash,locally,insight,1
+1995,wash,opauto,locsens,remserv,nothing,1
+1995,light,preshouse,cam,share,opti,0
+1995,alarm,lochouse,colight,locally,reco,1
+1995,hvac,lochouse,coalarm,remserv,reco,0
+1995,assis,lochouse,micro,share,insight,0
+1995,tv,opauto,watch,share,reco,0
+1995,light,opauto,corefri,locally,nothing,1

@@ -1,0 +1,12 @@
+685,wash,alert,locsens,remserv,reco,1
+685,alarm,opauto,colight,locally,insight,1
+685,tv,lochouse,cowash,locally,opti,1
+685,tv,alert,watch,share,insight,0
+685,alarm,preshouse,cosecu,share,reco,1
+685,secu,alert,coassis,locally,reco,1
+685,secu,lochouse,corefri,share,nothing,0
+685,refr,lochouse,cotv,remserv,opti,1
+685,light,preshouse,cam,remserv,nothing,1
+685,hvac,opauto,coalarm,remserv,insight,1
+685,assis,preshouse,cohvac,locally,nothing,1
+685,assis,opauto,micro,share,opti,0

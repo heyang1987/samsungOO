@@ -1,0 +1,12 @@
+919,hvac,lochouse,cotv,remserv,insight,0
+919,secu,preshouse,cosecu,share,nothing,0
+919,alarm,alert,watch,share,reco,0
+919,secu,opauto,colight,locally,reco,1
+919,assis,alert,corefri,locally,nothing,1
+919,alarm,lochouse,cowash,locally,insight,0
+919,wash,opauto,coalarm,remserv,reco,1
+919,assis,lochouse,cam,share,opti,0
+919,tv,preshouse,cohvac,locally,opti,1
+919,light,alert,locsens,remserv,nothing,0
+919,refr,preshouse,coassis,remserv,opti,0
+919,tv,opauto,micro,share,insight,0

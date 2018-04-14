@@ -1,0 +1,12 @@
+900,tv,alert,corefri,remserv,insight,0
+900,secu,lochouse,cowash,remserv,nothing,0
+900,hvac,preshouse,coassis,share,insight,1
+900,light,opauto,coalarm,share,nothing,1
+900,wash,alert,micro,locally,insight,1
+900,hvac,opauto,cam,locally,opti,1
+900,alarm,preshouse,cohvac,remserv,reco,1
+900,refr,alert,colight,share,opti,1
+900,refr,lochouse,locsens,locally,nothing,0
+900,wash,lochouse,cotv,share,reco,0
+900,assis,opauto,cosecu,remserv,opti,1
+900,light,preshouse,watch,locally,reco,1

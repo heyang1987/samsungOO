@@ -1,0 +1,12 @@
+988,alarm,opauto,micro,remserv,nothing,1
+988,refr,alert,colight,locally,opti,1
+988,wash,lochouse,cotv,locally,reco,0
+988,assis,preshouse,locsens,remserv,insight,1
+988,hvac,opauto,corefri,share,reco,0
+988,tv,lochouse,cam,remserv,reco,0
+988,wash,alert,cohvac,share,nothing,0
+988,light,alert,coalarm,remserv,opti,1
+988,secu,preshouse,watch,share,opti,1
+988,secu,opauto,cowash,locally,nothing,0
+988,refr,lochouse,cosecu,share,insight,0
+988,hvac,preshouse,coassis,locally,insight,1

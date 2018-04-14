@@ -1,0 +1,12 @@
+1970,alarm,lochouse,cam,share,reco,0
+1970,light,lochouse,cotv,remserv,nothing,1
+1970,refr,opauto,cowash,remserv,opti,1
+1970,tv,opauto,cosecu,locally,opti,1
+1970,secu,preshouse,cohvac,locally,reco,1
+1970,assis,lochouse,watch,locally,nothing,0
+1970,secu,opauto,micro,share,nothing,1
+1970,assis,alert,coalarm,share,opti,0
+1970,tv,preshouse,locsens,share,insight,0
+1970,alarm,alert,corefri,locally,insight,0
+1970,wash,preshouse,coassis,remserv,reco,1
+1970,hvac,alert,colight,remserv,insight,1

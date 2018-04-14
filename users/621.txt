@@ -1,0 +1,12 @@
+621,refr,lochouse,colight,remserv,opti,1
+621,secu,alert,cowash,locally,reco,1
+621,secu,lochouse,watch,share,nothing,0
+621,assis,preshouse,cosecu,locally,nothing,1
+621,alarm,opauto,cohvac,locally,insight,1
+621,tv,lochouse,corefri,locally,opti,1
+621,assis,opauto,locsens,share,opti,0
+621,hvac,opauto,coassis,remserv,insight,0
+621,wash,alert,cotv,remserv,reco,1
+621,alarm,preshouse,micro,share,reco,0
+621,light,preshouse,coalarm,remserv,nothing,1
+621,tv,alert,cam,share,insight,0

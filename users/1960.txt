@@ -1,0 +1,12 @@
+1960,light,preshouse,locsens,locally,insight,1
+1960,wash,alert,coalarm,locally,opti,0
+1960,light,opauto,colight,share,reco,0
+1960,alarm,preshouse,watch,remserv,insight,1
+1960,assis,lochouse,cam,locally,reco,0
+1960,hvac,preshouse,cohvac,share,opti,0
+1960,wash,lochouse,cowash,share,insight,0
+1960,secu,lochouse,cosecu,remserv,reco,1
+1960,hvac,opauto,cotv,locally,nothing,1
+1960,tv,alert,micro,remserv,opti,1
+1960,refr,opauto,corefri,remserv,nothing,1
+1960,assis,alert,coassis,share,nothing,1

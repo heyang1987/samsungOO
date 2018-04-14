@@ -1,0 +1,12 @@
+1643,wash,preshouse,micro,share,insight,0
+1643,assis,opauto,cosecu,share,nothing,0
+1643,assis,preshouse,colight,locally,reco,1
+1643,refr,lochouse,locsens,remserv,nothing,0
+1643,secu,preshouse,coalarm,remserv,reco,0
+1643,tv,opauto,coassis,remserv,opti,0
+1643,alarm,alert,cotv,remserv,insight,0
+1643,hvac,lochouse,corefri,locally,nothing,0
+1643,wash,opauto,cohvac,locally,opti,0
+1643,light,lochouse,watch,share,reco,0
+1643,light,alert,cowash,locally,insight,0
+1643,hvac,alert,cam,share,opti,0

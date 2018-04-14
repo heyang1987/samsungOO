@@ -1,0 +1,12 @@
+829,wash,opauto,colight,locally,insight,1
+829,alarm,alert,locsens,remserv,reco,0
+829,tv,opauto,coalarm,remserv,insight,0
+829,secu,preshouse,cam,remserv,nothing,0
+829,light,alert,coassis,locally,reco,1
+829,refr,opauto,micro,share,opti,1
+829,hvac,alert,watch,share,insight,1
+829,light,lochouse,corefri,share,nothing,0
+829,wash,preshouse,cosecu,share,reco,0
+829,hvac,lochouse,cowash,locally,opti,0
+829,assis,lochouse,cotv,remserv,opti,1
+829,refr,preshouse,cohvac,locally,nothing,1

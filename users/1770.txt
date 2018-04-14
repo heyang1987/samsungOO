@@ -1,0 +1,12 @@
+1770,assis,alert,corefri,locally,insight,1
+1770,light,opauto,cosecu,locally,opti,1
+1770,secu,alert,colight,remserv,insight,0
+1770,tv,opauto,micro,share,nothing,1
+1770,wash,lochouse,watch,locally,nothing,1
+1770,refr,preshouse,coassis,remserv,reco,1
+1770,tv,preshouse,cohvac,locally,reco,1
+1770,alarm,opauto,cowash,remserv,opti,0
+1770,wash,alert,coalarm,share,opti,1
+1770,hvac,lochouse,cotv,remserv,nothing,0
+1770,light,preshouse,locsens,share,insight,0
+1770,assis,lochouse,cam,share,reco,0

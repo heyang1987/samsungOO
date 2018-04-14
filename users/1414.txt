@@ -1,0 +1,12 @@
+1414,secu,alert,micro,share,insight,0
+1414,alarm,preshouse,corefri,locally,nothing,0
+1414,refr,preshouse,watch,share,reco,0
+1414,alarm,opauto,cam,share,opti,0
+1414,assis,alert,coalarm,remserv,reco,0
+1414,hvac,lochouse,cosecu,share,nothing,0
+1414,light,opauto,cotv,remserv,insight,0
+1414,hvac,alert,colight,locally,reco,0
+1414,secu,lochouse,cohvac,locally,opti,0
+1414,tv,preshouse,locsens,remserv,nothing,0
+1414,wash,lochouse,coassis,remserv,opti,0
+1414,refr,opauto,cowash,locally,insight,0

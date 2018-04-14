@@ -1,0 +1,12 @@
+649,alarm,preshouse,coassis,share,nothing,1
+649,tv,alert,colight,share,reco,0
+649,tv,lochouse,locsens,locally,insight,1
+649,secu,preshouse,micro,remserv,opti,1
+649,assis,opauto,cowash,share,insight,0
+649,light,lochouse,cohvac,share,opti,1
+649,assis,preshouse,coalarm,locally,opti,1
+649,refr,lochouse,watch,remserv,insight,1
+649,light,alert,cotv,locally,nothing,1
+649,alarm,opauto,cam,locally,reco,0
+649,hvac,opauto,cosecu,remserv,reco,1
+649,wash,alert,corefri,remserv,nothing,1

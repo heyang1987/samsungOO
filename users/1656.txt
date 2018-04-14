@@ -1,0 +1,12 @@
+1656,secu,alert,colight,locally,insight,1
+1656,tv,alert,micro,share,opti,0
+1656,refr,preshouse,coassis,locally,reco,0
+1656,hvac,opauto,cotv,remserv,opti,0
+1656,refr,opauto,corefri,share,nothing,0
+1656,alarm,preshouse,watch,share,insight,0
+1656,assis,lochouse,cam,remserv,nothing,0
+1656,tv,lochouse,cohvac,locally,nothing,0
+1656,alarm,opauto,cowash,locally,opti,0
+1656,secu,lochouse,cosecu,share,reco,0
+1656,light,preshouse,locsens,remserv,reco,0
+1656,wash,alert,coalarm,remserv,insight,0

@@ -1,0 +1,12 @@
+1306,light,preshouse,cowash,remserv,reco,0
+1306,tv,lochouse,cam,locally,nothing,1
+1306,refr,preshouse,cosecu,locally,reco,1
+1306,alarm,preshouse,cotv,share,insight,0
+1306,wash,alert,cohvac,remserv,insight,0
+1306,alarm,opauto,micro,locally,opti,0
+1306,refr,opauto,locsens,share,nothing,0
+1306,assis,lochouse,colight,remserv,nothing,0
+1306,hvac,opauto,corefri,remserv,opti,0
+1306,tv,alert,coassis,share,opti,0
+1306,secu,alert,watch,locally,insight,1
+1306,secu,lochouse,coalarm,share,reco,0

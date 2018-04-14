@@ -1,0 +1,12 @@
+855,tv,lochouse,micro,share,reco,0
+855,light,alert,locsens,share,opti,0
+855,alarm,preshouse,cowash,locally,reco,0
+855,assis,preshouse,cam,share,insight,0
+855,wash,lochouse,coalarm,remserv,nothing,0
+855,alarm,opauto,watch,share,nothing,0
+855,assis,opauto,corefri,locally,opti,1
+855,light,lochouse,cosecu,locally,nothing,0
+855,tv,alert,cohvac,locally,insight,0
+855,refr,alert,coassis,remserv,insight,0
+855,secu,opauto,colight,remserv,opti,0
+855,hvac,preshouse,cotv,remserv,reco,0

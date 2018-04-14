@@ -1,0 +1,12 @@
+1707,tv,opauto,cowash,remserv,nothing,1
+1707,alarm,opauto,locsens,locally,nothing,1
+1707,wash,alert,cosecu,remserv,opti,1
+1707,secu,lochouse,coassis,share,insight,1
+1707,light,preshouse,corefri,remserv,insight,1
+1707,secu,alert,cam,locally,opti,1
+1707,refr,preshouse,micro,locally,insight,1
+1707,refr,opauto,cotv,share,reco,1
+1707,hvac,lochouse,watch,locally,reco,1
+1707,hvac,alert,coalarm,share,nothing,1
+1707,assis,lochouse,cohvac,remserv,reco,1
+1707,alarm,preshouse,colight,share,opti,0

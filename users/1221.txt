@@ -1,0 +1,12 @@
+1221,refr,lochouse,corefri,remserv,insight,1
+1221,alarm,preshouse,coalarm,share,nothing,1
+1221,hvac,opauto,cohvac,remserv,reco,0
+1221,light,lochouse,colight,share,opti,1
+1221,secu,preshouse,cosecu,remserv,opti,1
+1221,wash,alert,cowash,remserv,nothing,1
+1221,light,alert,locsens,locally,nothing,1
+1221,assis,opauto,coassis,share,insight,0
+1221,tv,lochouse,micro,locally,insight,0
+1221,assis,preshouse,cam,locally,opti,0
+1221,alarm,opauto,watch,locally,reco,1
+1221,tv,alert,cotv,share,reco,0

@@ -1,0 +1,12 @@
+1247,assis,opauto,cotv,share,insight,1
+1247,tv,lochouse,watch,locally,insight,1
+1247,alarm,preshouse,locsens,share,nothing,1
+1247,wash,alert,colight,remserv,nothing,1
+1247,tv,alert,coalarm,share,reco,1
+1247,alarm,opauto,cosecu,locally,reco,0
+1247,light,lochouse,coassis,share,opti,0
+1247,light,alert,cam,locally,nothing,1
+1247,refr,lochouse,cohvac,remserv,insight,0
+1247,hvac,opauto,cowash,remserv,reco,1
+1247,secu,preshouse,corefri,remserv,opti,1
+1247,assis,preshouse,micro,locally,opti,1

@@ -1,0 +1,12 @@
+1437,alarm,alert,cohvac,remserv,opti,0
+1437,hvac,opauto,coassis,remserv,nothing,0
+1437,assis,opauto,locsens,share,reco,0
+1437,wash,opauto,micro,locally,nothing,0
+1437,assis,preshouse,cosecu,locally,insight,0
+1437,light,lochouse,coalarm,share,insight,0
+1437,tv,lochouse,corefri,locally,reco,0
+1437,light,alert,watch,locally,opti,0
+1437,secu,preshouse,cowash,remserv,insight,0
+1437,wash,preshouse,cotv,share,opti,0
+1437,tv,alert,cam,share,nothing,0
+1437,refr,lochouse,colight,remserv,reco,0

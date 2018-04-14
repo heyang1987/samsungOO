@@ -1,0 +1,12 @@
+91,secu,opauto,corefri,locally,reco,1
+91,alarm,lochouse,cosecu,locally,insight,1
+91,secu,preshouse,cam,share,nothing,0
+91,tv,opauto,coalarm,share,insight,0
+91,hvac,lochouse,cowash,remserv,insight,1
+91,assis,alert,micro,locally,nothing,1
+91,wash,opauto,colight,remserv,reco,1
+91,refr,preshouse,cohvac,remserv,opti,1
+91,alarm,alert,locsens,share,reco,0
+91,light,alert,coassis,remserv,nothing,1
+91,assis,lochouse,cotv,share,opti,0
+91,tv,preshouse,watch,locally,opti,1

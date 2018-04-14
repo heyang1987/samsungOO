@@ -1,0 +1,12 @@
+1311,hvac,alert,cotv,locally,nothing,1
+1311,wash,preshouse,coalarm,locally,opti,1
+1311,assis,preshouse,coassis,share,nothing,1
+1311,tv,preshouse,micro,remserv,opti,1
+1311,light,alert,colight,share,reco,1
+1311,hvac,lochouse,cohvac,share,opti,1
+1311,assis,opauto,cam,locally,reco,1
+1311,secu,opauto,cosecu,remserv,reco,1
+1311,refr,alert,corefri,remserv,nothing,1
+1311,light,lochouse,locsens,locally,insight,1
+1311,wash,opauto,cowash,share,insight,1
+1311,alarm,lochouse,watch,remserv,insight,1

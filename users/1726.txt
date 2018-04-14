@@ -1,0 +1,12 @@
+1726,wash,alert,coassis,remserv,nothing,1
+1726,light,alert,micro,locally,nothing,0
+1726,refr,lochouse,cowash,remserv,insight,0
+1726,assis,preshouse,watch,locally,opti,0
+1726,alarm,preshouse,cam,share,nothing,0
+1726,alarm,opauto,corefri,locally,reco,0
+1726,tv,lochouse,cosecu,locally,insight,0
+1726,secu,preshouse,cohvac,remserv,opti,0
+1726,tv,alert,locsens,share,reco,0
+1726,assis,opauto,coalarm,share,insight,0
+1726,hvac,opauto,colight,remserv,reco,0
+1726,light,lochouse,cotv,share,opti,0

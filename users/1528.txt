@@ -1,0 +1,12 @@
+1528,wash,alert,coalarm,remserv,insight,1
+1528,refr,opauto,corefri,share,nothing,0
+1528,light,preshouse,locsens,remserv,reco,1
+1528,tv,lochouse,cohvac,locally,nothing,1
+1528,alarm,preshouse,watch,share,insight,0
+1528,secu,lochouse,cosecu,share,reco,0
+1528,refr,preshouse,coassis,locally,reco,1
+1528,assis,lochouse,cam,remserv,nothing,0
+1528,secu,alert,colight,locally,insight,1
+1528,alarm,opauto,cowash,locally,opti,1
+1528,tv,alert,micro,share,opti,0
+1528,hvac,opauto,cotv,remserv,opti,1

@@ -1,0 +1,12 @@
+369,secu,alert,cosecu,remserv,nothing,1
+369,wash,alert,cowash,share,reco,0
+369,hvac,opauto,cohvac,share,insight,0
+369,refr,lochouse,corefri,share,opti,1
+369,assis,preshouse,cam,remserv,opti,1
+369,alarm,opauto,watch,remserv,reco,0
+369,tv,lochouse,micro,remserv,insight,0
+369,refr,alert,coassis,locally,nothing,1
+369,hvac,preshouse,cotv,locally,opti,1
+369,light,preshouse,colight,share,nothing,0
+369,light,opauto,locsens,locally,reco,1
+369,wash,lochouse,coalarm,locally,insight,1

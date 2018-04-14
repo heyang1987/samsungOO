@@ -1,0 +1,12 @@
+867,hvac,preshouse,cohvac,remserv,nothing,1
+867,refr,alert,corefri,remserv,reco,1
+867,assis,preshouse,coassis,share,reco,1
+867,alarm,lochouse,watch,remserv,opti,1
+867,assis,opauto,cam,locally,insight,1
+867,secu,opauto,cosecu,remserv,insight,1
+867,tv,lochouse,cotv,share,nothing,1
+867,wash,preshouse,coalarm,locally,nothing,1
+867,light,lochouse,locsens,locally,opti,1
+867,light,alert,colight,share,insight,1
+867,wash,opauto,cowash,share,opti,1
+867,tv,alert,micro,locally,reco,0

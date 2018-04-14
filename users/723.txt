@@ -1,0 +1,12 @@
+723,wash,preshouse,cowash,remserv,insight,0
+723,tv,opauto,micro,locally,nothing,1
+723,alarm,alert,watch,locally,opti,1
+723,alarm,lochouse,coalarm,share,insight,0
+723,refr,alert,cam,share,nothing,0
+723,secu,preshouse,cosecu,locally,insight,1
+723,assis,opauto,coassis,remserv,nothing,1
+723,refr,lochouse,corefri,locally,reco,0
+723,tv,preshouse,cotv,share,opti,0
+723,secu,opauto,locsens,share,reco,0
+723,light,lochouse,colight,remserv,reco,0
+723,hvac,alert,cohvac,remserv,opti,1

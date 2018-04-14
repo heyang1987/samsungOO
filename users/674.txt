@@ -1,0 +1,12 @@
+674,wash,preshouse,cam,locally,opti,1
+674,assis,opauto,watch,locally,reco,1
+674,assis,preshouse,coalarm,share,nothing,0
+674,wash,opauto,coassis,share,insight,0
+674,light,alert,cotv,share,reco,0
+674,hvac,lochouse,colight,share,opti,0
+674,secu,opauto,cohvac,remserv,reco,0
+674,tv,preshouse,cosecu,remserv,opti,1
+674,light,lochouse,micro,locally,insight,1
+674,hvac,alert,locsens,locally,nothing,1
+674,alarm,lochouse,corefri,remserv,insight,0
+674,refr,alert,cowash,remserv,nothing,1

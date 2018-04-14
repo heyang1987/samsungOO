@@ -1,0 +1,12 @@
+834,hvac,opauto,corefri,share,reco,0
+834,hvac,preshouse,coassis,locally,insight,0
+834,assis,preshouse,locsens,remserv,insight,0
+834,secu,opauto,cowash,locally,nothing,1
+834,refr,alert,colight,locally,opti,1
+834,refr,lochouse,cosecu,share,insight,0
+834,tv,lochouse,cam,remserv,reco,0
+834,wash,lochouse,cotv,locally,reco,0
+834,secu,preshouse,watch,share,opti,0
+834,alarm,opauto,micro,remserv,nothing,1
+834,light,alert,coalarm,remserv,opti,1
+834,wash,alert,cohvac,share,nothing,1

@@ -1,0 +1,12 @@
+354,refr,lochouse,watch,share,opti,0
+354,hvac,opauto,cosecu,share,insight,0
+354,wash,alert,corefri,share,reco,0
+354,secu,alert,micro,remserv,nothing,1
+354,wash,lochouse,coassis,locally,insight,0
+354,light,preshouse,cohvac,share,nothing,1
+354,refr,alert,cowash,locally,nothing,0
+354,light,opauto,cotv,locally,reco,1
+354,hvac,preshouse,colight,locally,opti,1
+354,tv,lochouse,locsens,remserv,insight,1
+354,assis,preshouse,coalarm,remserv,opti,1
+354,alarm,opauto,cam,remserv,reco,1

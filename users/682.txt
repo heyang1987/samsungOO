@@ -1,0 +1,12 @@
+682,wash,preshouse,cotv,share,opti,0
+682,light,lochouse,coalarm,share,insight,0
+682,refr,lochouse,colight,remserv,reco,0
+682,tv,alert,cam,share,nothing,0
+682,secu,preshouse,cowash,remserv,insight,0
+682,hvac,opauto,coassis,remserv,nothing,1
+682,assis,opauto,locsens,share,reco,1
+682,alarm,alert,cohvac,remserv,opti,0
+682,assis,preshouse,cosecu,locally,insight,1
+682,tv,lochouse,corefri,locally,reco,0
+682,wash,opauto,micro,locally,nothing,1
+682,light,alert,watch,locally,opti,1

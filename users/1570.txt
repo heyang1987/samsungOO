@@ -1,0 +1,12 @@
+1570,secu,opauto,cohvac,share,reco,1
+1570,refr,lochouse,coalarm,locally,reco,0
+1570,refr,alert,cowash,share,nothing,0
+1570,tv,opauto,colight,locally,nothing,1
+1570,assis,opauto,watch,remserv,nothing,1
+1570,hvac,alert,locsens,remserv,opti,1
+1570,light,lochouse,micro,remserv,reco,0
+1570,alarm,alert,coassis,locally,opti,1
+1570,alarm,lochouse,corefri,share,insight,0
+1570,tv,preshouse,cosecu,share,opti,0
+1570,wash,preshouse,cam,remserv,insight,0
+1570,secu,preshouse,cotv,locally,insight,0

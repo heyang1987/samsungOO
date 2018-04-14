@@ -1,0 +1,12 @@
+1386,wash,preshouse,watch,remserv,opti,0
+1386,tv,alert,cohvac,remserv,nothing,1
+1386,light,lochouse,cosecu,remserv,insight,0
+1386,alarm,lochouse,cowash,share,opti,0
+1386,refr,alert,coassis,share,reco,0
+1386,secu,opauto,colight,share,insight,0
+1386,refr,lochouse,cam,locally,insight,0
+1386,secu,preshouse,locsens,locally,opti,1
+1386,assis,opauto,corefri,remserv,reco,0
+1386,alarm,alert,coalarm,locally,nothing,1
+1386,hvac,opauto,micro,locally,reco,0
+1386,hvac,preshouse,cotv,share,nothing,0

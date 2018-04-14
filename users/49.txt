@@ -1,0 +1,12 @@
+49,secu,preshouse,cowash,locally,reco,0
+49,assis,alert,locsens,share,opti,0
+49,alarm,alert,cohvac,locally,insight,1
+49,hvac,alert,coassis,remserv,insight,1
+49,refr,opauto,colight,remserv,opti,1
+49,wash,preshouse,cotv,remserv,reco,0
+49,assis,lochouse,cosecu,locally,nothing,1
+49,alarm,lochouse,micro,share,reco,0
+49,secu,opauto,watch,share,nothing,0
+49,tv,opauto,corefri,locally,opti,1
+49,light,lochouse,coalarm,remserv,nothing,0
+49,tv,preshouse,cam,share,insight,0

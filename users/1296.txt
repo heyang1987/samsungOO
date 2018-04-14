@@ -1,0 +1,12 @@
+1296,hvac,preshouse,cohvac,share,nothing,0
+1296,refr,alert,corefri,share,reco,0
+1296,hvac,opauto,cotv,locally,reco,1
+1296,tv,alert,micro,remserv,nothing,1
+1296,alarm,alert,cowash,locally,nothing,1
+1296,secu,opauto,cosecu,share,insight,0
+1296,light,lochouse,locsens,remserv,insight,1
+1296,wash,preshouse,coalarm,remserv,opti,1
+1296,secu,preshouse,colight,locally,opti,1
+1296,alarm,lochouse,watch,share,opti,0
+1296,refr,lochouse,coassis,locally,insight,1
+1296,assis,opauto,cam,remserv,reco,0

@@ -1,0 +1,12 @@
+612,secu,preshouse,micro,remserv,insight,1
+612,hvac,opauto,cosecu,remserv,nothing,1
+612,tv,alert,colight,share,nothing,1
+612,assis,preshouse,coalarm,locally,insight,1
+612,light,alert,cotv,locally,opti,1
+612,alarm,alert,cam,remserv,opti,1
+612,refr,lochouse,watch,remserv,reco,1
+612,tv,lochouse,locsens,locally,reco,1
+612,wash,opauto,coassis,locally,nothing,1
+612,assis,opauto,cowash,share,reco,1
+612,wash,preshouse,corefri,share,opti,1
+612,light,lochouse,cohvac,share,insight,1

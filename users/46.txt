@@ -1,0 +1,12 @@
+46,tv,opauto,watch,share,nothing,1
+46,assis,alert,cohvac,locally,insight,1
+46,light,preshouse,cam,share,insight,1
+46,light,opauto,corefri,locally,opti,1
+46,secu,alert,coassis,remserv,insight,1
+46,refr,preshouse,cotv,remserv,reco,0
+46,assis,lochouse,micro,share,reco,0
+46,tv,preshouse,cowash,locally,reco,0
+46,hvac,lochouse,coalarm,remserv,nothing,1
+46,wash,alert,locsens,share,opti,0
+46,wash,lochouse,cosecu,locally,nothing,0
+46,alarm,opauto,colight,remserv,opti,0

@@ -1,0 +1,12 @@
+599,assis,lochouse,coassis,remserv,nothing,0
+599,refr,opauto,cam,share,nothing,1
+599,secu,lochouse,locsens,share,reco,0
+599,tv,alert,cotv,share,opti,1
+599,secu,alert,cosecu,locally,insight,1
+599,hvac,opauto,cohvac,remserv,opti,1
+599,tv,lochouse,micro,locally,nothing,1
+599,alarm,preshouse,coalarm,share,insight,0
+599,refr,preshouse,corefri,locally,reco,0
+599,alarm,opauto,watch,locally,opti,1
+599,wash,alert,cowash,remserv,insight,1
+599,light,preshouse,colight,remserv,reco,1

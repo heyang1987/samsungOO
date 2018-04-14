@@ -1,0 +1,12 @@
+268,assis,lochouse,micro,share,opti,0
+268,refr,preshouse,cotv,remserv,opti,1
+268,secu,opauto,coassis,locally,reco,1
+268,secu,preshouse,corefri,share,nothing,1
+268,alarm,alert,cosecu,share,reco,0
+268,tv,opauto,watch,share,insight,0
+268,assis,alert,cohvac,locally,nothing,1
+268,hvac,lochouse,coalarm,remserv,insight,1
+268,wash,opauto,locsens,remserv,reco,1
+268,alarm,lochouse,colight,locally,insight,0
+268,tv,preshouse,cowash,locally,opti,1
+268,light,alert,cam,remserv,nothing,0

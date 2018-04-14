@@ -1,0 +1,12 @@
+1979,alarm,opauto,cowash,locally,nothing,1
+1979,secu,alert,colight,locally,opti,1
+1979,hvac,lochouse,cotv,locally,reco,0
+1979,secu,lochouse,cosecu,share,insight,0
+1979,light,preshouse,locsens,remserv,insight,1
+1979,alarm,preshouse,watch,share,opti,0
+1979,refr,preshouse,coassis,locally,insight,1
+1979,hvac,alert,cohvac,share,nothing,0
+1979,refr,opauto,corefri,share,reco,0
+1979,assis,lochouse,cam,remserv,reco,0
+1979,wash,alert,coalarm,remserv,opti,0
+1979,tv,opauto,micro,remserv,nothing,1

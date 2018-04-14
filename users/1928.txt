@@ -1,0 +1,12 @@
+1928,assis,opauto,colight,share,reco,0
+1928,assis,preshouse,locsens,locally,insight,1
+1928,alarm,alert,micro,remserv,opti,1
+1928,secu,preshouse,watch,remserv,insight,1
+1928,tv,lochouse,cam,locally,reco,1
+1928,refr,lochouse,cosecu,remserv,reco,0
+1928,wash,opauto,cotv,locally,nothing,0
+1928,hvac,opauto,corefri,remserv,nothing,0
+1928,light,lochouse,cowash,share,insight,0
+1928,tv,alert,coassis,share,nothing,0
+1928,light,alert,coalarm,locally,opti,1
+1928,wash,preshouse,cohvac,share,opti,0

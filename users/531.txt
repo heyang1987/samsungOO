@@ -1,0 +1,12 @@
+531,secu,opauto,locsens,locally,insight,1
+531,refr,alert,cam,locally,reco,1
+531,hvac,lochouse,micro,remserv,opti,1
+531,tv,preshouse,cotv,locally,nothing,1
+531,secu,preshouse,colight,share,reco,1
+531,alarm,alert,cowash,share,insight,0
+531,tv,opauto,cohvac,share,opti,0
+531,wash,opauto,watch,remserv,insight,1
+531,assis,preshouse,corefri,remserv,nothing,1
+531,light,alert,cosecu,remserv,reco,1
+531,alarm,lochouse,coalarm,locally,opti,1
+531,refr,lochouse,coassis,share,nothing,0

@@ -1,0 +1,12 @@
+2002,wash,alert,coalarm,remserv,nothing,1
+2002,assis,preshouse,corefri,locally,opti,1
+2002,refr,lochouse,coassis,remserv,insight,1
+2002,tv,lochouse,cohvac,locally,insight,1
+2002,tv,alert,micro,share,reco,1
+2002,light,alert,cosecu,locally,nothing,1
+2002,light,lochouse,locsens,share,opti,1
+2002,alarm,opauto,cowash,locally,reco,1
+2002,hvac,opauto,cotv,remserv,reco,1
+2002,assis,opauto,cam,share,insight,1
+2002,alarm,preshouse,watch,share,nothing,1
+2002,secu,preshouse,colight,remserv,opti,1

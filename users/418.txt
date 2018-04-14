@@ -1,0 +1,12 @@
+418,hvac,opauto,colight,locally,opti,0
+418,wash,alert,coassis,locally,insight,1
+418,refr,lochouse,cowash,locally,nothing,0
+418,light,preshouse,cotv,locally,reco,0
+418,tv,alert,locsens,remserv,insight,0
+418,alarm,preshouse,cam,remserv,reco,0
+418,wash,lochouse,corefri,share,reco,0
+418,refr,alert,watch,share,opti,0
+418,light,opauto,cohvac,share,nothing,0
+418,secu,lochouse,micro,remserv,nothing,0
+418,hvac,preshouse,cosecu,share,insight,0
+418,assis,opauto,coalarm,remserv,opti,0

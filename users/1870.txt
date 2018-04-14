@@ -1,0 +1,12 @@
+1870,tv,alert,coalarm,share,insight,1
+1870,hvac,opauto,cowash,remserv,insight,0
+1870,light,preshouse,coassis,remserv,nothing,1
+1870,tv,lochouse,watch,locally,opti,1
+1870,secu,alert,corefri,locally,reco,0
+1870,assis,opauto,cotv,share,opti,1
+1870,assis,preshouse,micro,locally,nothing,0
+1870,secu,lochouse,cam,share,nothing,0
+1870,alarm,opauto,cosecu,locally,insight,0
+1870,wash,alert,colight,remserv,reco,0
+1870,alarm,preshouse,locsens,share,reco,0
+1870,refr,lochouse,cohvac,remserv,opti,0

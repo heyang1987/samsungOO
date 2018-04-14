@@ -1,0 +1,12 @@
+736,secu,opauto,cowash,share,nothing,0
+736,assis,lochouse,colight,locally,nothing,1
+736,light,lochouse,watch,remserv,nothing,0
+736,tv,opauto,coassis,locally,opti,1
+736,assis,alert,cosecu,share,opti,0
+736,hvac,alert,cam,remserv,insight,0
+736,refr,opauto,locsens,remserv,opti,0
+736,alarm,alert,cotv,locally,insight,1
+736,alarm,lochouse,cohvac,share,reco,0
+736,secu,preshouse,coalarm,locally,reco,1
+736,wash,preshouse,micro,remserv,reco,0
+736,tv,preshouse,corefri,share,insight,0

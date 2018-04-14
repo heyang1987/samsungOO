@@ -1,0 +1,12 @@
+372,refr,preshouse,cowash,share,opti,0
+372,tv,preshouse,cosecu,remserv,insight,1
+372,wash,opauto,coassis,share,reco,1
+372,alarm,lochouse,corefri,remserv,reco,1
+372,secu,opauto,cohvac,remserv,nothing,1
+372,hvac,lochouse,colight,share,insight,1
+372,wash,preshouse,cam,locally,insight,1
+372,light,lochouse,micro,locally,reco,1
+372,refr,opauto,coalarm,locally,nothing,1
+372,assis,alert,watch,remserv,opti,1
+372,hvac,alert,locsens,locally,opti,1
+372,light,alert,cotv,share,nothing,1

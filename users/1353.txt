@@ -1,0 +1,12 @@
+1353,wash,lochouse,watch,remserv,nothing,0
+1353,alarm,opauto,cowash,share,nothing,0
+1353,light,alert,cosecu,share,opti,0
+1353,assis,preshouse,corefri,share,insight,0
+1353,alarm,preshouse,coalarm,locally,reco,0
+1353,light,lochouse,colight,locally,nothing,1
+1353,refr,alert,cam,remserv,insight,0
+1353,hvac,preshouse,micro,remserv,reco,0
+1353,assis,opauto,coassis,locally,opti,1
+1353,tv,lochouse,cohvac,share,reco,0
+1353,tv,alert,cotv,locally,insight,1
+1353,secu,opauto,locsens,remserv,opti,1

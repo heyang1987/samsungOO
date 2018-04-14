@@ -1,0 +1,12 @@
+1599,wash,opauto,cohvac,share,insight,0
+1599,light,lochouse,coalarm,locally,insight,0
+1599,refr,alert,cosecu,remserv,nothing,0
+1599,assis,opauto,locsens,locally,reco,0
+1599,alarm,lochouse,micro,remserv,insight,0
+1599,light,alert,cowash,share,reco,0
+1599,secu,opauto,watch,remserv,reco,0
+1599,wash,preshouse,cotv,locally,opti,0
+1599,assis,preshouse,colight,share,nothing,0
+1599,hvac,lochouse,corefri,share,opti,0
+1599,hvac,alert,coassis,locally,nothing,1
+1599,tv,preshouse,cam,remserv,opti,0

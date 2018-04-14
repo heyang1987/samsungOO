@@ -1,0 +1,12 @@
+1613,light,preshouse,cosecu,remserv,insight,1
+1613,wash,alert,watch,remserv,opti,1
+1613,refr,opauto,coassis,share,reco,1
+1613,tv,opauto,cohvac,remserv,nothing,1
+1613,secu,lochouse,colight,share,insight,1
+1613,assis,lochouse,corefri,remserv,reco,1
+1613,alarm,preshouse,cowash,share,opti,1
+1613,hvac,lochouse,micro,locally,reco,1
+1613,hvac,alert,cotv,share,nothing,1
+1613,alarm,opauto,coalarm,locally,nothing,1
+1613,refr,preshouse,cam,locally,insight,1
+1613,secu,alert,locsens,locally,opti,1

@@ -1,0 +1,12 @@
+47,hvac,lochouse,cosecu,remserv,insight,0
+47,light,alert,cohvac,remserv,nothing,1
+47,tv,preshouse,locsens,locally,opti,1
+47,assis,alert,coalarm,locally,nothing,1
+47,tv,opauto,colight,share,insight,0
+47,alarm,alert,coassis,share,reco,0
+47,alarm,lochouse,cam,locally,insight,1
+47,wash,opauto,corefri,remserv,reco,0
+47,secu,preshouse,cotv,share,nothing,0
+47,refr,preshouse,watch,remserv,opti,0
+47,secu,opauto,micro,locally,reco,1
+47,assis,lochouse,cowash,share,opti,0

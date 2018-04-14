@@ -1,0 +1,12 @@
+878,assis,preshouse,cosecu,remserv,nothing,0
+878,alarm,lochouse,cotv,locally,opti,0
+878,tv,opauto,corefri,share,opti,0
+878,refr,lochouse,colight,share,nothing,0
+878,secu,opauto,coalarm,locally,insight,0
+878,tv,preshouse,coassis,locally,nothing,0
+878,refr,alert,locsens,locally,reco,0
+878,alarm,alert,cohvac,share,insight,0
+878,wash,opauto,micro,remserv,insight,0
+878,hvac,lochouse,cam,remserv,opti,0
+878,light,alert,watch,remserv,reco,0
+878,secu,preshouse,cowash,share,reco,0

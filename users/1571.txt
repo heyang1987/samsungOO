@@ -1,0 +1,12 @@
+1571,light,preshouse,coassis,locally,reco,1
+1571,hvac,preshouse,watch,share,insight,0
+1571,secu,lochouse,cam,remserv,nothing,0
+1571,alarm,preshouse,locsens,remserv,reco,0
+1571,tv,alert,coalarm,remserv,insight,1
+1571,assis,opauto,cotv,remserv,opti,1
+1571,wash,alert,colight,locally,insight,0
+1571,hvac,opauto,cowash,locally,opti,1
+1571,wash,lochouse,cosecu,share,reco,0
+1571,light,opauto,corefri,share,nothing,1
+1571,refr,alert,micro,share,opti,0
+1571,refr,lochouse,cohvac,locally,nothing,0

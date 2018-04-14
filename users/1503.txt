@@ -1,0 +1,12 @@
+1503,alarm,alert,coalarm,locally,reco,1
+1503,alarm,lochouse,cowash,share,nothing,0
+1503,assis,alert,corefri,share,insight,1
+1503,assis,lochouse,coassis,locally,opti,1
+1503,light,preshouse,colight,locally,nothing,1
+1503,tv,preshouse,cohvac,share,reco,0
+1503,hvac,alert,micro,remserv,reco,0
+1503,tv,opauto,cotv,locally,insight,1
+1503,secu,lochouse,locsens,remserv,opti,0
+1503,wash,preshouse,watch,remserv,nothing,1
+1503,refr,opauto,cam,remserv,insight,0
+1503,light,opauto,cosecu,share,opti,0

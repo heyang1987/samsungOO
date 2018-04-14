@@ -1,0 +1,12 @@
+1661,wash,lochouse,coassis,locally,reco,0
+1661,secu,preshouse,micro,share,opti,0
+1661,light,alert,cotv,remserv,opti,1
+1661,alarm,opauto,cam,remserv,nothing,0
+1661,hvac,opauto,cosecu,share,reco,1
+1661,secu,opauto,cohvac,locally,nothing,1
+1661,refr,alert,cowash,locally,opti,0
+1661,tv,lochouse,locsens,remserv,reco,0
+1661,refr,lochouse,watch,share,insight,0
+1661,hvac,preshouse,colight,locally,insight,1
+1661,assis,preshouse,coalarm,remserv,insight,1
+1661,wash,alert,corefri,share,nothing,0

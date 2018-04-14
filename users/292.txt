@@ -1,0 +1,12 @@
+292,secu,alert,coalarm,share,reco,0
+292,tv,alert,cam,locally,nothing,0
+292,refr,opauto,cosecu,locally,reco,1
+292,secu,lochouse,watch,locally,insight,0
+292,assis,alert,colight,remserv,nothing,0
+292,refr,preshouse,locsens,share,nothing,0
+292,hvac,preshouse,corefri,remserv,opti,0
+292,alarm,preshouse,micro,locally,opti,0
+292,alarm,opauto,cotv,share,insight,0
+292,light,opauto,cowash,remserv,reco,0
+292,tv,lochouse,coassis,share,opti,0
+292,wash,lochouse,cohvac,remserv,insight,0

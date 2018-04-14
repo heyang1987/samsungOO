@@ -1,0 +1,12 @@
+41,alarm,lochouse,cam,share,insight,0
+41,tv,opauto,cosecu,locally,nothing,0
+41,refr,lochouse,cowash,locally,reco,0
+41,light,lochouse,cotv,remserv,reco,0
+41,secu,opauto,micro,share,reco,0
+41,assis,opauto,coalarm,remserv,nothing,0
+41,hvac,alert,colight,remserv,opti,0
+41,tv,preshouse,locsens,share,opti,0
+41,secu,preshouse,cohvac,locally,insight,0
+41,refr,alert,watch,share,nothing,0
+41,wash,preshouse,coassis,remserv,insight,0
+41,alarm,alert,corefri,locally,opti,0

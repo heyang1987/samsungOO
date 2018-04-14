@@ -1,0 +1,12 @@
+799,secu,preshouse,cam,locally,reco,0
+799,assis,alert,cohvac,share,opti,0
+799,alarm,lochouse,colight,share,reco,0
+799,refr,opauto,micro,remserv,opti,1
+799,tv,opauto,coalarm,locally,opti,1
+799,secu,opauto,coassis,share,nothing,0
+799,hvac,alert,watch,remserv,insight,1
+799,assis,lochouse,cotv,locally,nothing,1
+799,light,lochouse,corefri,remserv,nothing,1
+799,wash,preshouse,cosecu,remserv,reco,1
+799,alarm,alert,locsens,locally,insight,1
+799,tv,preshouse,cowash,share,insight,0

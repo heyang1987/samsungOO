@@ -1,0 +1,12 @@
+1556,wash,alert,cam,share,nothing,0
+1556,light,alert,cohvac,remserv,opti,1
+1556,assis,preshouse,cowash,remserv,insight,0
+1556,hvac,opauto,locsens,share,reco,0
+1556,secu,preshouse,cotv,share,opti,0
+1556,tv,lochouse,colight,remserv,reco,0
+1556,wash,lochouse,corefri,locally,reco,0
+1556,alarm,opauto,coassis,remserv,nothing,1
+1556,refr,alert,watch,locally,opti,1
+1556,secu,opauto,micro,locally,nothing,1
+1556,hvac,preshouse,cosecu,locally,insight,1
+1556,refr,lochouse,coalarm,share,insight,0

@@ -1,0 +1,12 @@
+726,refr,preshouse,micro,share,opti,0
+726,hvac,alert,cowash,locally,opti,1
+726,alarm,lochouse,locsens,remserv,reco,0
+726,light,lochouse,coassis,locally,reco,1
+726,light,alert,corefri,share,nothing,0
+726,assis,alert,cotv,remserv,opti,0
+726,refr,opauto,cohvac,locally,nothing,1
+726,wash,preshouse,colight,locally,insight,0
+726,tv,preshouse,coalarm,remserv,insight,0
+726,wash,opauto,cosecu,share,reco,0
+726,hvac,lochouse,watch,share,insight,0
+726,secu,opauto,cam,remserv,nothing,1

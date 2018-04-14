@@ -1,0 +1,12 @@
+1322,alarm,opauto,coassis,remserv,nothing,1
+1322,tv,lochouse,colight,remserv,reco,1
+1322,secu,opauto,micro,locally,nothing,1
+1322,hvac,preshouse,cosecu,locally,insight,1
+1322,wash,alert,cam,share,nothing,1
+1322,refr,lochouse,coalarm,share,insight,1
+1322,light,alert,cohvac,remserv,opti,1
+1322,refr,alert,watch,locally,opti,1
+1322,wash,lochouse,corefri,locally,reco,1
+1322,assis,preshouse,cowash,remserv,insight,0
+1322,hvac,opauto,locsens,share,reco,1
+1322,secu,preshouse,cotv,share,opti,0

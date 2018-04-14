@@ -1,0 +1,12 @@
+1004,tv,opauto,cam,remserv,insight,1
+1004,light,alert,coalarm,locally,reco,1
+1004,alarm,alert,micro,remserv,reco,1
+1004,refr,preshouse,colight,locally,nothing,1
+1004,refr,opauto,cosecu,share,opti,0
+1004,assis,lochouse,locsens,remserv,opti,1
+1004,secu,preshouse,watch,remserv,nothing,0
+1004,light,lochouse,cowash,share,nothing,0
+1004,wash,opauto,cotv,locally,insight,1
+1004,wash,preshouse,cohvac,share,reco,0
+1004,hvac,alert,corefri,share,insight,0
+1004,hvac,lochouse,coassis,locally,opti,1

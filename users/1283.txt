@@ -1,0 +1,12 @@
+1283,assis,preshouse,watch,locally,insight,1
+1283,hvac,opauto,colight,remserv,nothing,1
+1283,light,alert,micro,locally,opti,1
+1283,wash,opauto,cam,locally,nothing,0
+1283,light,lochouse,cotv,share,insight,0
+1283,secu,preshouse,cohvac,remserv,insight,0
+1283,tv,alert,locsens,share,nothing,0
+1283,refr,lochouse,cowash,remserv,reco,0
+1283,wash,preshouse,coassis,share,opti,0
+1283,assis,opauto,coalarm,share,reco,0
+1283,alarm,alert,corefri,remserv,opti,0
+1283,tv,lochouse,cosecu,locally,reco,0

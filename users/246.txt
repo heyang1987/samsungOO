@@ -1,0 +1,12 @@
+246,secu,alert,colight,locally,opti,0
+246,assis,lochouse,cam,remserv,reco,0
+246,light,preshouse,locsens,remserv,insight,0
+246,hvac,alert,cohvac,share,nothing,0
+246,refr,opauto,corefri,share,reco,0
+246,hvac,lochouse,cotv,locally,reco,0
+246,alarm,opauto,cowash,locally,nothing,0
+246,alarm,preshouse,watch,share,opti,0
+246,refr,preshouse,coassis,locally,insight,0
+246,wash,alert,coalarm,remserv,opti,0
+246,secu,lochouse,cosecu,share,insight,0
+246,tv,opauto,micro,remserv,nothing,0

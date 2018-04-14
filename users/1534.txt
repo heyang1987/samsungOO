@@ -1,0 +1,12 @@
+1534,tv,lochouse,locsens,share,insight,0
+1534,light,opauto,cotv,remserv,nothing,1
+1534,assis,opauto,watch,locally,nothing,1
+1534,refr,alert,cowash,remserv,opti,1
+1534,hvac,preshouse,colight,remserv,insight,1
+1534,secu,lochouse,cohvac,locally,reco,1
+1534,secu,alert,micro,share,nothing,0
+1534,alarm,preshouse,corefri,locally,insight,1
+1534,alarm,opauto,cam,share,reco,0
+1534,tv,alert,cosecu,locally,opti,1
+1534,wash,lochouse,coassis,remserv,reco,1
+1534,assis,preshouse,coalarm,share,opti,0

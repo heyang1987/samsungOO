@@ -1,0 +1,12 @@
+1134,tv,preshouse,cam,locally,nothing,1
+1134,assis,preshouse,colight,remserv,nothing,1
+1134,wash,opauto,cohvac,remserv,insight,0
+1134,alarm,alert,cotv,share,insight,0
+1134,refr,lochouse,locsens,share,nothing,0
+1134,light,alert,cowash,remserv,reco,0
+1134,secu,opauto,watch,locally,insight,1
+1134,tv,opauto,coassis,share,opti,0
+1134,secu,preshouse,coalarm,share,reco,0
+1134,alarm,lochouse,micro,locally,opti,0
+1134,hvac,lochouse,corefri,remserv,opti,1
+1134,refr,alert,cosecu,locally,reco,1

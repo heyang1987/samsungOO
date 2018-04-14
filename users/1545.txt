@@ -1,0 +1,12 @@
+1545,tv,lochouse,colight,locally,insight,0
+1545,refr,lochouse,coalarm,remserv,insight,0
+1545,wash,alert,cam,remserv,nothing,1
+1545,tv,alert,cosecu,share,reco,0
+1545,secu,preshouse,cotv,remserv,opti,0
+1545,assis,preshouse,cowash,locally,opti,0
+1545,light,lochouse,micro,share,opti,0
+1545,light,alert,cohvac,locally,nothing,0
+1545,alarm,opauto,coassis,locally,reco,0
+1545,hvac,opauto,locsens,remserv,reco,1
+1545,assis,opauto,watch,share,insight,1
+1545,alarm,preshouse,corefri,share,nothing,0

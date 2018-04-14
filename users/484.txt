@@ -1,0 +1,12 @@
+484,wash,lochouse,micro,locally,reco,0
+484,hvac,opauto,coassis,share,reco,1
+484,hvac,preshouse,cam,locally,insight,1
+484,assis,preshouse,cosecu,remserv,insight,0
+484,wash,alert,cotv,share,nothing,1
+484,alarm,opauto,cohvac,remserv,nothing,1
+484,tv,lochouse,corefri,remserv,reco,0
+484,light,alert,watch,remserv,opti,1
+484,secu,opauto,coalarm,locally,nothing,1
+484,refr,lochouse,colight,share,insight,0
+484,secu,preshouse,cowash,share,opti,1
+484,refr,alert,locsens,locally,opti,1

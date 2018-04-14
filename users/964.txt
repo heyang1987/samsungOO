@@ -1,0 +1,12 @@
+964,assis,opauto,locsens,share,opti,1
+964,alarm,opauto,cohvac,locally,insight,1
+964,secu,alert,cowash,locally,reco,1
+964,refr,lochouse,colight,remserv,opti,1
+964,assis,preshouse,cosecu,locally,nothing,1
+964,wash,alert,cotv,remserv,reco,1
+964,tv,lochouse,corefri,locally,opti,1
+964,tv,alert,cam,share,insight,1
+964,alarm,preshouse,micro,share,reco,1
+964,secu,lochouse,watch,share,nothing,1
+964,light,preshouse,coalarm,remserv,nothing,1
+964,hvac,opauto,coassis,remserv,insight,1

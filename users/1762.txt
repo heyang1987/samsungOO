@@ -1,0 +1,12 @@
+1762,wash,preshouse,colight,locally,nothing,0
+1762,secu,opauto,cam,remserv,insight,0
+1762,wash,opauto,cosecu,share,opti,1
+1762,assis,preshouse,cohvac,share,reco,0
+1762,alarm,lochouse,locsens,remserv,opti,0
+1762,tv,alert,coalarm,locally,reco,1
+1762,tv,lochouse,cowash,share,nothing,0
+1762,light,alert,corefri,share,insight,0
+1762,refr,alert,micro,remserv,reco,1
+1762,hvac,preshouse,watch,remserv,nothing,0
+1762,assis,opauto,cotv,locally,insight,1
+1762,light,lochouse,coassis,locally,opti,0

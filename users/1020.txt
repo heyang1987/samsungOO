@@ -1,0 +1,12 @@
+1020,wash,opauto,watch,share,nothing,0
+1020,tv,preshouse,cotv,remserv,reco,1
+1020,wash,preshouse,cowash,locally,reco,0
+1020,secu,alert,locsens,share,opti,0
+1020,light,opauto,colight,remserv,opti,0
+1020,secu,lochouse,cosecu,locally,nothing,0
+1020,alarm,lochouse,coalarm,remserv,nothing,0
+1020,hvac,lochouse,micro,share,reco,0
+1020,assis,alert,coassis,remserv,insight,1
+1020,hvac,alert,cohvac,locally,insight,0
+1020,refr,opauto,corefri,locally,opti,1
+1020,refr,preshouse,cam,share,insight,0

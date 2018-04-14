@@ -1,0 +1,12 @@
+343,alarm,alert,watch,share,insight,0
+343,alarm,lochouse,cowash,locally,opti,1
+343,wash,opauto,coalarm,remserv,insight,0
+343,refr,alert,coassis,locally,reco,1
+343,tv,preshouse,cohvac,locally,nothing,0
+343,light,alert,locsens,remserv,reco,0
+343,hvac,lochouse,cotv,remserv,opti,1
+343,tv,opauto,micro,share,opti,0
+343,refr,lochouse,corefri,share,nothing,0
+343,assis,preshouse,cam,remserv,nothing,0
+343,secu,preshouse,cosecu,share,reco,0
+343,secu,opauto,colight,locally,insight,1

@@ -1,0 +1,12 @@
+1574,tv,preshouse,watch,share,insight,1
+1574,refr,opauto,cotv,remserv,opti,1
+1574,secu,opauto,corefri,share,nothing,1
+1574,assis,lochouse,cohvac,locally,nothing,1
+1574,tv,opauto,cowash,locally,opti,1
+1574,hvac,alert,coalarm,remserv,insight,1
+1574,alarm,lochouse,cosecu,share,reco,1
+1574,wash,preshouse,locsens,remserv,reco,1
+1574,alarm,alert,colight,locally,insight,1
+1574,assis,alert,micro,share,opti,1
+1574,secu,preshouse,coassis,locally,reco,1
+1574,light,lochouse,cam,remserv,nothing,1

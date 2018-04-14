@@ -1,0 +1,12 @@
+1935,secu,preshouse,micro,remserv,insight,1
+1935,hvac,opauto,cosecu,remserv,nothing,0
+1935,tv,alert,colight,share,nothing,0
+1935,assis,preshouse,coalarm,locally,insight,1
+1935,refr,lochouse,watch,remserv,reco,0
+1935,wash,opauto,coassis,locally,nothing,1
+1935,wash,preshouse,corefri,share,opti,0
+1935,alarm,alert,cam,remserv,opti,1
+1935,light,lochouse,cohvac,share,insight,0
+1935,tv,lochouse,locsens,locally,reco,0
+1935,light,alert,cotv,locally,opti,1
+1935,assis,opauto,cowash,share,reco,0

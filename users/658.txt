@@ -1,0 +1,12 @@
+658,tv,preshouse,cosecu,share,opti,1
+658,refr,alert,cowash,share,nothing,1
+658,alarm,alert,coassis,locally,opti,1
+658,wash,preshouse,cam,remserv,insight,1
+658,assis,opauto,watch,remserv,nothing,1
+658,hvac,alert,locsens,remserv,opti,0
+658,secu,opauto,cohvac,share,reco,1
+658,refr,lochouse,coalarm,locally,reco,0
+658,alarm,lochouse,corefri,share,insight,0
+658,secu,preshouse,cotv,locally,insight,1
+658,tv,opauto,colight,locally,nothing,1
+658,light,lochouse,micro,remserv,reco,0

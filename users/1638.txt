@@ -1,0 +1,12 @@
+1638,hvac,opauto,watch,remserv,opti,1
+1638,wash,alert,cosecu,remserv,insight,1
+1638,secu,lochouse,coassis,share,reco,1
+1638,tv,alert,cowash,share,opti,1
+1638,refr,opauto,cotv,share,nothing,1
+1638,tv,lochouse,coalarm,locally,nothing,1
+1638,alarm,preshouse,colight,share,insight,1
+1638,alarm,opauto,locsens,locally,opti,1
+1638,light,preshouse,corefri,remserv,reco,1
+1638,refr,preshouse,micro,locally,reco,1
+1638,assis,lochouse,cohvac,remserv,nothing,1
+1638,secu,alert,cam,locally,insight,1

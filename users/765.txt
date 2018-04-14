@@ -1,0 +1,12 @@
+765,refr,alert,corefri,locally,nothing,1
+765,refr,lochouse,cam,share,opti,0
+765,tv,lochouse,cotv,remserv,insight,0
+765,light,preshouse,cosecu,share,nothing,0
+765,alarm,opauto,coalarm,remserv,reco,0
+765,assis,preshouse,coassis,remserv,opti,0
+765,hvac,preshouse,cohvac,locally,opti,0
+765,light,opauto,colight,locally,reco,0
+765,wash,alert,watch,share,reco,0
+765,hvac,opauto,micro,share,insight,0
+765,secu,alert,locsens,remserv,nothing,0
+765,wash,lochouse,cowash,locally,insight,0

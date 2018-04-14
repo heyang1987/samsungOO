@@ -1,0 +1,12 @@
+1734,light,alert,cosecu,remserv,nothing,1
+1734,hvac,lochouse,micro,remserv,insight,0
+1734,assis,lochouse,corefri,share,opti,0
+1734,tv,opauto,cohvac,share,insight,0
+1734,wash,opauto,watch,remserv,reco,0
+1734,refr,preshouse,cam,remserv,opti,1
+1734,tv,preshouse,cotv,locally,opti,1
+1734,alarm,lochouse,coalarm,locally,insight,1
+1734,alarm,alert,cowash,share,reco,0
+1734,secu,preshouse,colight,share,nothing,0
+1734,secu,opauto,locsens,locally,reco,0
+1734,assis,alert,coassis,locally,nothing,1

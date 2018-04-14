@@ -1,0 +1,12 @@
+748,refr,opauto,locsens,locally,reco,1
+748,refr,preshouse,colight,share,nothing,0
+748,secu,alert,cowash,share,reco,1
+748,alarm,opauto,cohvac,share,insight,1
+748,assis,alert,cosecu,remserv,nothing,1
+748,hvac,preshouse,cam,remserv,opti,1
+748,wash,lochouse,micro,remserv,insight,1
+748,tv,alert,coassis,locally,nothing,1
+748,tv,lochouse,corefri,share,opti,0
+748,secu,lochouse,coalarm,locally,insight,0
+748,light,opauto,watch,remserv,reco,1
+748,alarm,preshouse,cotv,locally,opti,0

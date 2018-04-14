@@ -1,0 +1,12 @@
+1671,secu,opauto,colight,locally,nothing,1
+1671,alarm,opauto,watch,remserv,nothing,1
+1671,tv,lochouse,micro,remserv,reco,1
+1671,refr,lochouse,corefri,share,insight,1
+1671,hvac,opauto,cohvac,share,reco,1
+1671,assis,preshouse,cam,remserv,insight,1
+1671,wash,alert,cowash,share,nothing,1
+1671,refr,alert,coassis,locally,opti,1
+1671,wash,lochouse,coalarm,locally,reco,1
+1671,hvac,preshouse,cotv,locally,insight,1
+1671,secu,preshouse,cosecu,share,opti,1
+1671,light,alert,locsens,remserv,opti,1

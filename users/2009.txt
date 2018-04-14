@@ -1,0 +1,12 @@
+2009,alarm,alert,colight,share,nothing,1
+2009,hvac,lochouse,watch,remserv,reco,0
+2009,light,opauto,coassis,locally,nothing,1
+2009,alarm,lochouse,locsens,locally,reco,1
+2009,secu,alert,cam,remserv,opti,0
+2009,refr,preshouse,micro,remserv,insight,0
+2009,tv,opauto,cowash,share,reco,0
+2009,light,preshouse,corefri,share,opti,0
+2009,wash,opauto,cosecu,remserv,nothing,1
+2009,tv,preshouse,coalarm,locally,insight,1
+2009,assis,lochouse,cohvac,share,insight,0
+2009,assis,alert,cotv,locally,opti,1

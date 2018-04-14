@@ -1,0 +1,12 @@
+1021,assis,opauto,coalarm,share,insight,1
+1021,alarm,opauto,corefri,locally,reco,0
+1021,wash,alert,coassis,remserv,nothing,0
+1021,hvac,opauto,colight,remserv,reco,0
+1021,refr,lochouse,cowash,remserv,insight,0
+1021,secu,preshouse,cohvac,remserv,opti,0
+1021,assis,preshouse,watch,locally,opti,0
+1021,tv,alert,locsens,share,reco,1
+1021,alarm,preshouse,cam,share,nothing,1
+1021,tv,lochouse,cosecu,locally,insight,1
+1021,light,alert,micro,locally,nothing,1
+1021,light,lochouse,cotv,share,opti,0

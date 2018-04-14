@@ -1,0 +1,12 @@
+375,light,opauto,colight,remserv,insight,0
+375,secu,lochouse,cosecu,locally,opti,1
+375,alarm,opauto,coalarm,share,opti,0
+375,hvac,alert,cohvac,locally,reco,1
+375,refr,preshouse,cam,share,reco,0
+375,wash,lochouse,cowash,remserv,opti,0
+375,assis,alert,coassis,remserv,reco,0
+375,secu,alert,locsens,share,insight,0
+375,hvac,lochouse,micro,share,nothing,0
+375,tv,preshouse,cotv,remserv,nothing,1
+375,refr,opauto,corefri,locally,insight,1
+375,alarm,preshouse,watch,locally,nothing,1

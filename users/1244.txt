@@ -1,0 +1,12 @@
+1244,assis,preshouse,coalarm,share,opti,0
+1244,tv,lochouse,locsens,share,insight,0
+1244,secu,lochouse,cohvac,locally,reco,1
+1244,assis,opauto,watch,locally,nothing,1
+1244,refr,alert,cowash,remserv,opti,1
+1244,hvac,preshouse,colight,remserv,insight,1
+1244,secu,alert,micro,share,nothing,1
+1244,tv,alert,cosecu,locally,opti,1
+1244,wash,lochouse,coassis,remserv,reco,1
+1244,light,opauto,cotv,remserv,nothing,1
+1244,alarm,preshouse,corefri,locally,insight,1
+1244,alarm,opauto,cam,share,reco,1

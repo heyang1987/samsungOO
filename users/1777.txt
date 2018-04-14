@@ -1,0 +1,12 @@
+1777,alarm,opauto,watch,locally,nothing,1
+1777,refr,preshouse,corefri,locally,insight,1
+1777,hvac,lochouse,cohvac,locally,reco,0
+1777,wash,alert,cowash,remserv,opti,1
+1777,alarm,preshouse,coalarm,share,opti,0
+1777,light,preshouse,colight,remserv,insight,0
+1777,hvac,alert,micro,share,nothing,0
+1777,secu,alert,cosecu,locally,opti,1
+1777,assis,lochouse,coassis,remserv,reco,0
+1777,refr,opauto,cam,share,reco,0
+1777,tv,opauto,cotv,remserv,nothing,1
+1777,secu,lochouse,locsens,share,insight,1

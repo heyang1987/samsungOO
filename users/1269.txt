@@ -1,0 +1,12 @@
+1269,light,lochouse,watch,locally,opti,1
+1269,wash,preshouse,micro,locally,nothing,0
+1269,light,alert,coalarm,share,insight,0
+1269,assis,preshouse,locsens,share,reco,0
+1269,secu,opauto,cowash,remserv,insight,0
+1269,hvac,preshouse,coassis,remserv,nothing,1
+1269,wash,opauto,cotv,share,opti,0
+1269,refr,alert,colight,remserv,reco,0
+1269,tv,lochouse,cam,share,nothing,0
+1269,alarm,lochouse,cohvac,remserv,opti,0
+1269,assis,opauto,cosecu,locally,insight,1
+1269,tv,alert,corefri,locally,reco,0

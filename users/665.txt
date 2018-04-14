@@ -1,0 +1,12 @@
+665,hvac,opauto,watch,share,reco,1
+665,alarm,opauto,locsens,remserv,nothing,1
+665,wash,lochouse,colight,locally,reco,1
+665,secu,opauto,corefri,locally,nothing,1
+665,refr,alert,cohvac,locally,opti,1
+665,hvac,preshouse,cowash,locally,insight,1
+665,secu,preshouse,cam,share,opti,1
+665,tv,lochouse,coalarm,remserv,reco,1
+665,light,alert,coassis,remserv,opti,0
+665,wash,alert,cosecu,share,nothing,0
+665,assis,preshouse,cotv,remserv,insight,1
+665,refr,lochouse,micro,share,insight,0

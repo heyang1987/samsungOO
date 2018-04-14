@@ -1,0 +1,12 @@
+995,light,lochouse,cohvac,locally,insight,1
+995,wash,opauto,cam,share,insight,0
+995,tv,preshouse,colight,remserv,opti,1
+995,wash,preshouse,corefri,locally,opti,1
+995,assis,opauto,cowash,locally,reco,1
+995,alarm,lochouse,coassis,remserv,insight,1
+995,assis,preshouse,watch,share,nothing,0
+995,light,alert,micro,share,reco,0
+995,refr,alert,coalarm,remserv,nothing,1
+995,hvac,lochouse,locsens,share,opti,0
+995,secu,opauto,cotv,remserv,reco,1
+995,hvac,alert,cosecu,locally,nothing,1

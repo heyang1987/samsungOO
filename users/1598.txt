@@ -1,0 +1,12 @@
+1598,wash,alert,cam,locally,nothing,0
+1598,hvac,alert,colight,remserv,nothing,0
+1598,wash,lochouse,coassis,share,opti,0
+1598,light,opauto,cotv,share,insight,0
+1598,secu,lochouse,cohvac,remserv,insight,0
+1598,alarm,preshouse,corefri,remserv,opti,0
+1598,tv,opauto,cosecu,locally,reco,0
+1598,light,preshouse,micro,locally,opti,0
+1598,refr,opauto,cowash,remserv,reco,0
+1598,assis,lochouse,watch,locally,insight,0
+1598,assis,alert,coalarm,share,reco,0
+1598,tv,preshouse,locsens,share,nothing,0

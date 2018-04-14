@@ -1,0 +1,12 @@
+620,alarm,preshouse,coalarm,locally,insight,1
+620,alarm,opauto,cowash,share,reco,0
+620,secu,lochouse,locsens,locally,reco,1
+620,tv,lochouse,cohvac,share,insight,1
+620,wash,lochouse,watch,remserv,reco,1
+620,tv,alert,cotv,locally,opti,1
+620,hvac,preshouse,micro,remserv,insight,1
+620,refr,alert,cam,remserv,opti,1
+620,assis,preshouse,corefri,share,opti,1
+620,light,opauto,cosecu,remserv,nothing,1
+620,secu,alert,colight,share,nothing,1
+620,assis,opauto,coassis,locally,nothing,1

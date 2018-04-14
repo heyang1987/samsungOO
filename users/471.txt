@@ -1,0 +1,12 @@
+471,light,alert,corefri,share,opti,0
+471,alarm,opauto,colight,share,nothing,0
+471,assis,opauto,cotv,locally,opti,0
+471,tv,alert,coalarm,locally,insight,0
+471,alarm,preshouse,locsens,locally,reco,0
+471,light,lochouse,coassis,locally,nothing,0
+471,refr,alert,micro,remserv,insight,0
+471,wash,lochouse,cosecu,remserv,nothing,0
+471,hvac,preshouse,watch,remserv,reco,0
+471,secu,opauto,cam,remserv,opti,0
+471,assis,preshouse,cohvac,share,insight,0
+471,tv,lochouse,cowash,share,reco,0

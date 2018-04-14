@@ -1,0 +1,12 @@
+1336,alarm,lochouse,cam,remserv,insight,0
+1336,wash,opauto,corefri,share,insight,0
+1336,refr,alert,watch,remserv,nothing,1
+1336,tv,preshouse,locsens,remserv,opti,0
+1336,light,lochouse,cotv,locally,insight,1
+1336,light,alert,cohvac,share,reco,0
+1336,hvac,lochouse,cosecu,share,opti,0
+1336,assis,preshouse,cowash,share,nothing,0
+1336,wash,preshouse,coassis,locally,opti,1
+1336,hvac,alert,colight,locally,nothing,1
+1336,assis,opauto,coalarm,locally,reco,1
+1336,secu,opauto,micro,remserv,reco,0

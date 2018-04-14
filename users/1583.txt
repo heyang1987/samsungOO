@@ -1,0 +1,12 @@
+1583,wash,opauto,cowash,share,reco,1
+1583,light,alert,colight,share,nothing,1
+1583,tv,preshouse,micro,remserv,insight,0
+1583,hvac,alert,cotv,locally,opti,0
+1583,refr,preshouse,corefri,share,opti,0
+1583,alarm,lochouse,watch,remserv,reco,1
+1583,secu,opauto,cosecu,remserv,nothing,1
+1583,refr,opauto,coassis,locally,nothing,1
+1583,hvac,lochouse,cohvac,share,insight,1
+1583,assis,alert,cam,remserv,opti,1
+1583,wash,preshouse,coalarm,locally,insight,0
+1583,light,lochouse,locsens,locally,reco,1

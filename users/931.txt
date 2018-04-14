@@ -1,0 +1,12 @@
+931,alarm,alert,cam,remserv,reco,0
+931,light,alert,cotv,locally,reco,1
+931,hvac,alert,cosecu,share,insight,0
+931,tv,opauto,locsens,remserv,insight,0
+931,refr,preshouse,cowash,locally,nothing,1
+931,wash,opauto,coassis,locally,insight,0
+931,secu,preshouse,micro,remserv,nothing,0
+931,assis,lochouse,coalarm,remserv,opti,0
+931,refr,opauto,watch,share,opti,0
+931,light,lochouse,cohvac,share,nothing,0
+931,hvac,lochouse,colight,locally,opti,0
+931,wash,preshouse,corefri,share,reco,0

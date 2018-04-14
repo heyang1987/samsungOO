@@ -1,0 +1,12 @@
+557,alarm,opauto,cotv,share,reco,0
+557,hvac,preshouse,corefri,remserv,insight,1
+557,alarm,preshouse,micro,locally,insight,0
+557,refr,alert,cosecu,remserv,opti,0
+557,tv,alert,cam,locally,opti,0
+557,tv,lochouse,coassis,share,insight,0
+557,light,opauto,cowash,remserv,nothing,1
+557,assis,preshouse,colight,share,opti,0
+557,secu,lochouse,watch,locally,reco,0
+557,assis,opauto,locsens,locally,nothing,1
+557,secu,alert,coalarm,share,nothing,0
+557,wash,lochouse,cohvac,remserv,reco,1

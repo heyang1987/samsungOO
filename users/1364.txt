@@ -1,0 +1,12 @@
+1364,hvac,lochouse,locsens,share,opti,0
+1364,secu,opauto,cotv,remserv,reco,1
+1364,assis,preshouse,watch,share,nothing,0
+1364,light,alert,micro,share,reco,0
+1364,tv,preshouse,colight,remserv,opti,0
+1364,assis,opauto,cowash,locally,reco,1
+1364,refr,alert,coalarm,remserv,nothing,1
+1364,hvac,alert,cosecu,locally,nothing,0
+1364,wash,opauto,cam,share,insight,0
+1364,light,lochouse,cohvac,locally,insight,0
+1364,alarm,lochouse,coassis,remserv,insight,0
+1364,wash,preshouse,corefri,locally,opti,1

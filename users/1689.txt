@@ -1,0 +1,12 @@
+1689,tv,opauto,coalarm,remserv,opti,0
+1689,wash,opauto,colight,locally,opti,0
+1689,hvac,lochouse,cowash,locally,nothing,0
+1689,light,alert,coassis,locally,insight,1
+1689,alarm,alert,locsens,remserv,insight,0
+1689,hvac,alert,watch,share,opti,1
+1689,refr,lochouse,micro,remserv,nothing,0
+1689,wash,preshouse,cosecu,share,insight,1
+1689,assis,preshouse,cotv,locally,reco,1
+1689,assis,opauto,cohvac,share,nothing,0
+1689,secu,preshouse,cam,remserv,reco,1
+1689,light,lochouse,corefri,share,reco,0

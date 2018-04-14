@@ -1,0 +1,12 @@
+195,light,preshouse,colight,remserv,reco,0
+195,tv,alert,cotv,share,opti,0
+195,tv,lochouse,micro,locally,nothing,0
+195,wash,alert,cowash,remserv,insight,0
+195,assis,lochouse,coassis,remserv,nothing,0
+195,hvac,opauto,cohvac,remserv,opti,1
+195,refr,opauto,cam,share,nothing,0
+195,refr,preshouse,corefri,locally,reco,0
+195,secu,lochouse,locsens,share,reco,0
+195,secu,alert,cosecu,locally,insight,0
+195,alarm,opauto,watch,locally,opti,0
+195,alarm,preshouse,coalarm,share,insight,0

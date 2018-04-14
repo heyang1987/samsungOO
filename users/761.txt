@@ -1,0 +1,12 @@
+761,refr,opauto,cosecu,locally,nothing,0
+761,assis,alert,colight,remserv,opti,0
+761,wash,opauto,micro,share,reco,0
+761,alarm,lochouse,cotv,remserv,reco,0
+761,light,alert,watch,share,nothing,0
+761,light,lochouse,cowash,locally,reco,0
+761,secu,opauto,coalarm,remserv,nothing,0
+761,hvac,alert,corefri,locally,opti,0
+761,tv,preshouse,coassis,remserv,insight,0
+761,wash,preshouse,cohvac,locally,insight,0
+761,hvac,lochouse,cam,share,insight,0
+761,refr,preshouse,locsens,share,opti,0

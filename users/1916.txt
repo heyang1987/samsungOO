@@ -1,0 +1,12 @@
+1916,hvac,preshouse,coalarm,locally,reco,0
+1916,hvac,opauto,cowash,share,nothing,0
+1916,tv,lochouse,watch,remserv,nothing,1
+1916,alarm,alert,cosecu,share,opti,1
+1916,wash,opauto,locsens,remserv,opti,0
+1916,refr,alert,cotv,locally,insight,0
+1916,alarm,lochouse,colight,locally,nothing,1
+1916,light,alert,cam,remserv,insight,0
+1916,secu,opauto,coassis,locally,opti,1
+1916,secu,preshouse,corefri,share,insight,0
+1916,assis,preshouse,micro,remserv,reco,0
+1916,refr,lochouse,cohvac,share,reco,0

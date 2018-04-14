@@ -1,0 +1,12 @@
+1096,tv,alert,coassis,locally,insight,1
+1096,hvac,preshouse,cam,remserv,reco,1
+1096,alarm,opauto,cohvac,share,nothing,0
+1096,wash,lochouse,micro,remserv,nothing,0
+1096,assis,opauto,colight,locally,opti,1
+1096,assis,preshouse,cosecu,share,insight,1
+1096,light,lochouse,cowash,locally,nothing,1
+1096,tv,lochouse,corefri,share,reco,0
+1096,alarm,preshouse,cotv,locally,reco,0
+1096,secu,opauto,coalarm,remserv,opti,0
+1096,refr,alert,locsens,remserv,insight,1
+1096,light,alert,watch,share,opti,0

@@ -1,0 +1,12 @@
+600,refr,preshouse,cowash,remserv,reco,0
+600,secu,alert,cohvac,remserv,insight,1
+600,hvac,lochouse,colight,remserv,nothing,1
+600,light,opauto,micro,locally,opti,0
+600,tv,opauto,locsens,share,nothing,0
+600,wash,lochouse,cam,locally,nothing,0
+600,wash,alert,coassis,share,opti,0
+600,assis,lochouse,coalarm,share,reco,0
+600,assis,alert,watch,locally,insight,1
+600,alarm,opauto,corefri,remserv,opti,0
+600,tv,preshouse,cosecu,locally,reco,0
+600,light,preshouse,cotv,share,insight,0

@@ -1,0 +1,12 @@
+1218,wash,preshouse,watch,remserv,reco,1
+1218,alarm,lochouse,cowash,share,reco,1
+1218,tv,opauto,cotv,locally,opti,0
+1218,secu,preshouse,locsens,locally,reco,1
+1218,secu,opauto,colight,share,nothing,1
+1218,tv,preshouse,cohvac,share,insight,1
+1218,alarm,alert,coalarm,locally,insight,1
+1218,light,lochouse,cosecu,remserv,nothing,1
+1218,hvac,alert,micro,remserv,insight,1
+1218,assis,lochouse,coassis,locally,nothing,1
+1218,refr,opauto,cam,remserv,opti,1
+1218,assis,alert,corefri,share,opti,1

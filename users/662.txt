@@ -1,0 +1,12 @@
+662,secu,opauto,corefri,remserv,opti,0
+662,assis,preshouse,cotv,share,insight,0
+662,tv,alert,watch,locally,insight,1
+662,alarm,opauto,locsens,share,nothing,0
+662,hvac,preshouse,cowash,remserv,reco,0
+662,refr,alert,cohvac,remserv,insight,0
+662,alarm,preshouse,cosecu,locally,reco,1
+662,assis,opauto,micro,locally,opti,1
+662,light,lochouse,cam,locally,nothing,0
+662,wash,lochouse,colight,remserv,nothing,1
+662,tv,lochouse,coalarm,share,reco,0
+662,light,alert,coassis,share,opti,0

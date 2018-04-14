@@ -1,0 +1,12 @@
+591,light,opauto,cosecu,locally,opti,1
+591,refr,preshouse,coassis,remserv,reco,1
+591,alarm,opauto,cowash,remserv,opti,0
+591,tv,preshouse,cohvac,locally,reco,1
+591,wash,alert,coalarm,share,opti,1
+591,wash,lochouse,watch,locally,nothing,0
+591,assis,lochouse,cam,share,reco,0
+591,secu,alert,colight,remserv,insight,1
+591,hvac,lochouse,cotv,remserv,nothing,0
+591,light,preshouse,locsens,share,insight,1
+591,assis,alert,corefri,locally,insight,1
+591,tv,opauto,micro,share,nothing,0

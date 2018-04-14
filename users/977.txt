@@ -1,0 +1,12 @@
+977,alarm,opauto,colight,remserv,opti,0
+977,refr,preshouse,cotv,remserv,reco,0
+977,light,opauto,corefri,locally,opti,0
+977,wash,lochouse,cosecu,locally,nothing,0
+977,assis,lochouse,micro,share,reco,0
+977,assis,alert,cohvac,locally,insight,1
+977,tv,preshouse,cowash,locally,reco,0
+977,wash,alert,locsens,share,opti,0
+977,light,preshouse,cam,share,insight,0
+977,hvac,lochouse,coalarm,remserv,nothing,1
+977,tv,opauto,watch,share,nothing,0
+977,secu,alert,coassis,remserv,insight,0

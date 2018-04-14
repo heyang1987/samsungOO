@@ -1,0 +1,12 @@
+1805,hvac,opauto,cosecu,share,insight,0
+1805,light,opauto,cotv,locally,reco,0
+1805,wash,lochouse,coassis,locally,insight,0
+1805,light,preshouse,cohvac,share,nothing,0
+1805,alarm,opauto,cam,remserv,reco,0
+1805,refr,alert,cowash,locally,nothing,1
+1805,refr,lochouse,watch,share,opti,0
+1805,assis,preshouse,coalarm,remserv,opti,1
+1805,wash,alert,corefri,share,reco,0
+1805,hvac,preshouse,colight,locally,opti,1
+1805,tv,lochouse,locsens,remserv,insight,0
+1805,secu,alert,micro,remserv,nothing,1

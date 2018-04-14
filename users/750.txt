@@ -1,0 +1,12 @@
+750,hvac,opauto,corefri,remserv,nothing,0
+750,secu,preshouse,watch,remserv,insight,1
+750,tv,lochouse,cam,locally,reco,0
+750,assis,preshouse,locsens,locally,insight,1
+750,light,lochouse,cowash,share,insight,0
+750,alarm,alert,micro,remserv,opti,1
+750,wash,preshouse,cohvac,share,opti,1
+750,assis,opauto,colight,share,reco,0
+750,wash,opauto,cotv,locally,nothing,1
+750,refr,lochouse,cosecu,remserv,reco,0
+750,tv,alert,coassis,share,nothing,1
+750,light,alert,coalarm,locally,opti,1

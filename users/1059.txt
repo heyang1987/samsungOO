@@ -1,0 +1,12 @@
+1059,tv,preshouse,watch,share,nothing,1
+1059,assis,alert,micro,share,reco,0
+1059,assis,lochouse,cohvac,locally,insight,1
+1059,refr,opauto,cotv,remserv,reco,1
+1059,light,preshouse,corefri,locally,opti,1
+1059,wash,lochouse,locsens,share,opti,0
+1059,tv,opauto,cowash,locally,reco,1
+1059,wash,alert,cosecu,locally,nothing,1
+1059,hvac,alert,coalarm,remserv,nothing,1
+1059,alarm,preshouse,colight,remserv,opti,1
+1059,light,opauto,cam,share,insight,1
+1059,secu,lochouse,coassis,remserv,insight,1

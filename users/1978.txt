@@ -1,0 +1,12 @@
+1978,light,opauto,colight,share,opti,1
+1978,alarm,lochouse,coalarm,share,nothing,0
+1978,assis,lochouse,cam,locally,opti,1
+1978,secu,lochouse,cosecu,remserv,opti,1
+1978,light,preshouse,locsens,locally,nothing,1
+1978,alarm,alert,watch,locally,reco,1
+1978,wash,preshouse,cowash,remserv,nothing,1
+1978,hvac,alert,cohvac,remserv,reco,1
+1978,assis,alert,coassis,share,insight,0
+1978,tv,preshouse,cotv,share,reco,0
+1978,tv,opauto,micro,locally,insight,0
+1978,refr,opauto,corefri,remserv,insight,0

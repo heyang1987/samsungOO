@@ -1,0 +1,12 @@
+2003,secu,alert,watch,share,nothing,0
+2003,assis,opauto,cosecu,locally,nothing,1
+2003,tv,alert,corefri,locally,opti,1
+2003,hvac,preshouse,coassis,remserv,insight,1
+2003,assis,preshouse,locsens,share,opti,0
+2003,alarm,preshouse,cohvac,locally,insight,1
+2003,tv,lochouse,cam,share,insight,0
+2003,wash,lochouse,cotv,remserv,reco,0
+2003,refr,alert,colight,remserv,opti,1
+2003,alarm,opauto,micro,share,reco,0
+2003,secu,lochouse,cowash,locally,reco,1
+2003,light,opauto,coalarm,remserv,nothing,0

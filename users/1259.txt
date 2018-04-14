@@ -1,0 +1,12 @@
+1259,refr,alert,locsens,locally,opti,1
+1259,wash,alert,cotv,share,nothing,0
+1259,assis,preshouse,cosecu,remserv,insight,0
+1259,tv,lochouse,corefri,remserv,reco,1
+1259,light,alert,watch,remserv,opti,0
+1259,secu,preshouse,cowash,share,opti,0
+1259,hvac,preshouse,cam,locally,insight,0
+1259,refr,lochouse,colight,share,insight,0
+1259,secu,opauto,coalarm,locally,nothing,1
+1259,alarm,opauto,cohvac,remserv,nothing,1
+1259,wash,lochouse,micro,locally,reco,0
+1259,hvac,opauto,coassis,share,reco,1

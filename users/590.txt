@@ -1,0 +1,12 @@
+590,assis,alert,cotv,share,insight,1
+590,alarm,lochouse,locsens,share,nothing,0
+590,refr,opauto,cohvac,remserv,insight,0
+590,light,preshouse,cam,locally,nothing,1
+590,tv,opauto,watch,locally,insight,1
+590,light,opauto,coassis,share,opti,1
+590,hvac,alert,cowash,remserv,reco,1
+590,wash,preshouse,colight,remserv,nothing,0
+590,tv,preshouse,coalarm,share,reco,0
+590,secu,lochouse,corefri,remserv,opti,0
+590,alarm,alert,cosecu,locally,reco,0
+590,assis,lochouse,micro,locally,opti,1

@@ -1,0 +1,12 @@
+743,assis,lochouse,locsens,remserv,reco,0
+743,light,preshouse,coalarm,remserv,insight,1
+743,wash,alert,cotv,remserv,opti,0
+743,hvac,lochouse,coassis,locally,reco,0
+743,refr,preshouse,colight,locally,insight,0
+743,tv,opauto,cam,remserv,nothing,0
+743,alarm,preshouse,micro,share,opti,0
+743,secu,alert,cowash,locally,opti,1
+743,secu,lochouse,watch,share,insight,0
+743,refr,opauto,cosecu,share,reco,0
+743,alarm,opauto,cohvac,locally,nothing,1
+743,hvac,alert,corefri,share,nothing,0

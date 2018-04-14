@@ -1,0 +1,12 @@
+1630,tv,alert,cam,remserv,insight,0
+1630,assis,opauto,locsens,remserv,opti,0
+1630,light,opauto,cowash,share,nothing,0
+1630,wash,alert,cotv,locally,insight,1
+1630,wash,lochouse,cohvac,share,reco,0
+1630,light,preshouse,coalarm,locally,reco,0
+1630,alarm,preshouse,micro,remserv,reco,0
+1630,refr,alert,cosecu,share,opti,0
+1630,secu,lochouse,watch,remserv,nothing,0
+1630,refr,lochouse,colight,locally,nothing,0
+1630,hvac,opauto,coassis,locally,opti,1
+1630,hvac,preshouse,corefri,share,insight,0

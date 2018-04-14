@@ -1,0 +1,12 @@
+1730,wash,preshouse,coalarm,share,insight,0
+1730,secu,preshouse,colight,remserv,reco,1
+1730,assis,opauto,cam,share,nothing,0
+1730,light,lochouse,locsens,share,reco,0
+1730,light,alert,cosecu,locally,insight,1
+1730,tv,opauto,cohvac,remserv,opti,1
+1730,hvac,alert,cotv,share,opti,1
+1730,refr,lochouse,coassis,remserv,nothing,0
+1730,wash,opauto,watch,locally,opti,0
+1730,hvac,lochouse,micro,locally,nothing,1
+1730,alarm,alert,cowash,remserv,insight,1
+1730,assis,preshouse,corefri,locally,reco,0

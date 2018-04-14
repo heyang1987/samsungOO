@@ -1,0 +1,12 @@
+929,light,preshouse,micro,share,opti,0
+929,alarm,lochouse,coassis,locally,reco,0
+929,light,opauto,cohvac,locally,nothing,1
+929,hvac,lochouse,locsens,remserv,reco,1
+929,tv,opauto,cosecu,share,reco,0
+929,tv,preshouse,colight,locally,insight,0
+929,assis,lochouse,watch,share,insight,0
+929,refr,preshouse,coalarm,remserv,insight,0
+929,alarm,alert,corefri,share,nothing,0
+929,secu,alert,cotv,remserv,opti,0
+929,wash,opauto,cam,remserv,nothing,1
+929,assis,alert,cowash,locally,opti,1

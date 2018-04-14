@@ -1,0 +1,12 @@
+82,hvac,lochouse,micro,locally,opti,1
+82,refr,opauto,coassis,share,opti,1
+82,light,alert,cosecu,locally,reco,1
+82,wash,opauto,watch,locally,insight,1
+82,refr,preshouse,cam,locally,nothing,0
+82,secu,preshouse,colight,remserv,nothing,1
+82,light,lochouse,locsens,share,nothing,0
+82,assis,lochouse,corefri,remserv,opti,0
+82,tv,opauto,cohvac,remserv,insight,1
+82,hvac,alert,cotv,share,insight,1
+82,alarm,alert,cowash,remserv,reco,1
+82,wash,preshouse,coalarm,share,reco,1

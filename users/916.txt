@@ -1,0 +1,12 @@
+916,refr,opauto,cam,share,opti,0
+916,light,alert,colight,locally,reco,1
+916,wash,opauto,cowash,locally,insight,0
+916,assis,lochouse,coassis,remserv,opti,0
+916,refr,preshouse,corefri,locally,nothing,0
+916,hvac,alert,micro,share,insight,0
+916,alarm,alert,coalarm,remserv,reco,1
+916,wash,preshouse,watch,share,reco,1
+916,hvac,lochouse,cohvac,locally,opti,1
+916,light,lochouse,cosecu,share,nothing,0
+916,secu,preshouse,locsens,remserv,nothing,1
+916,tv,opauto,cotv,remserv,insight,1

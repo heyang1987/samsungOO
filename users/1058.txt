@@ -1,0 +1,12 @@
+1058,light,alert,coalarm,remserv,reco,0
+1058,refr,lochouse,cosecu,share,nothing,0
+1058,refr,alert,colight,locally,reco,0
+1058,alarm,lochouse,cohvac,locally,opti,1
+1058,alarm,alert,micro,share,insight,0
+1058,assis,preshouse,locsens,remserv,nothing,0
+1058,secu,preshouse,watch,share,reco,0
+1058,hvac,lochouse,coassis,remserv,opti,1
+1058,tv,preshouse,corefri,locally,nothing,0
+1058,secu,opauto,cowash,locally,insight,1
+1058,wash,opauto,cotv,remserv,insight,1
+1058,tv,opauto,cam,share,opti,0

@@ -1,0 +1,12 @@
+574,wash,alert,colight,share,opti,0
+574,secu,alert,corefri,remserv,insight,0
+574,assis,lochouse,cotv,share,reco,0
+574,alarm,opauto,cosecu,remserv,opti,1
+574,assis,alert,micro,locally,insight,0
+574,light,preshouse,coassis,share,insight,0
+574,hvac,lochouse,cowash,remserv,nothing,0
+574,wash,lochouse,locsens,locally,nothing,0
+574,refr,preshouse,cohvac,remserv,reco,0
+574,tv,preshouse,watch,locally,reco,0
+574,light,opauto,cam,locally,opti,1
+574,tv,opauto,coalarm,share,nothing,0

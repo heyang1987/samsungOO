@@ -1,0 +1,12 @@
+1257,wash,lochouse,cam,remserv,opti,0
+1257,alarm,preshouse,coassis,locally,nothing,0
+1257,refr,opauto,coalarm,locally,insight,0
+1257,alarm,opauto,corefri,share,opti,0
+1257,light,opauto,micro,remserv,insight,0
+1257,hvac,alert,locsens,locally,reco,0
+1257,secu,alert,cohvac,share,insight,0
+1257,assis,alert,watch,remserv,reco,1
+1257,tv,preshouse,cosecu,remserv,nothing,1
+1257,hvac,lochouse,colight,share,nothing,0
+1257,secu,lochouse,cotv,locally,opti,1
+1257,refr,preshouse,cowash,share,reco,0

@@ -1,0 +1,12 @@
+139,assis,lochouse,coassis,locally,nothing,1
+139,tv,opauto,cotv,locally,opti,1
+139,hvac,alert,micro,remserv,insight,1
+139,assis,alert,corefri,share,opti,0
+139,wash,preshouse,watch,remserv,reco,1
+139,refr,opauto,cam,remserv,opti,1
+139,tv,preshouse,cohvac,share,insight,0
+139,secu,preshouse,locsens,locally,reco,0
+139,light,lochouse,cosecu,remserv,nothing,0
+139,alarm,alert,coalarm,locally,insight,1
+139,secu,opauto,colight,share,nothing,0
+139,alarm,lochouse,cowash,share,reco,0

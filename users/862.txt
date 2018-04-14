@@ -1,0 +1,12 @@
+862,refr,opauto,cosecu,share,nothing,0
+862,tv,lochouse,corefri,locally,nothing,0
+862,hvac,opauto,coassis,remserv,opti,0
+862,secu,lochouse,watch,share,reco,0
+862,wash,alert,cotv,remserv,insight,0
+862,refr,preshouse,colight,locally,reco,0
+862,alarm,preshouse,micro,share,insight,0
+862,secu,alert,cowash,locally,insight,0
+862,tv,alert,cam,share,opti,0
+862,assis,lochouse,locsens,remserv,nothing,0
+862,light,preshouse,coalarm,remserv,reco,0
+862,alarm,opauto,cohvac,locally,opti,0

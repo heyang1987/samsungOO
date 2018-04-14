@@ -1,0 +1,12 @@
+135,tv,alert,locsens,share,opti,1
+135,alarm,preshouse,cam,share,insight,0
+135,secu,lochouse,micro,share,reco,1
+135,assis,lochouse,coalarm,remserv,nothing,1
+135,refr,preshouse,cowash,locally,reco,1
+135,light,preshouse,cotv,remserv,reco,1
+135,refr,opauto,watch,share,nothing,1
+135,wash,alert,coassis,remserv,insight,1
+135,hvac,opauto,colight,remserv,opti,1
+135,secu,alert,cohvac,locally,insight,1
+135,tv,lochouse,cosecu,locally,nothing,1
+135,alarm,opauto,corefri,locally,opti,1

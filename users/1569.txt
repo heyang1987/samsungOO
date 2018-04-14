@@ -1,0 +1,12 @@
+1569,hvac,lochouse,watch,remserv,opti,1
+1569,tv,opauto,cowash,share,opti,1
+1569,tv,preshouse,coalarm,locally,nothing,1
+1569,alarm,lochouse,locsens,locally,opti,1
+1569,refr,lochouse,cotv,share,nothing,0
+1569,secu,opauto,cam,locally,insight,1
+1569,refr,alert,micro,locally,reco,1
+1569,alarm,alert,colight,share,insight,0
+1569,secu,preshouse,coassis,share,reco,0
+1569,assis,preshouse,cohvac,remserv,nothing,0
+1569,wash,opauto,cosecu,remserv,insight,1
+1569,light,alert,corefri,remserv,reco,1

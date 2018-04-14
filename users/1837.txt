@@ -1,0 +1,12 @@
+1837,wash,opauto,colight,share,opti,1
+1837,light,alert,coassis,share,insight,1
+1837,hvac,preshouse,cowash,remserv,nothing,1
+1837,secu,opauto,corefri,remserv,insight,1
+1837,refr,alert,cohvac,remserv,reco,1
+1837,assis,opauto,micro,locally,insight,1
+1837,alarm,lochouse,cosecu,remserv,opti,1
+1837,tv,alert,watch,locally,reco,1
+1837,tv,lochouse,coalarm,share,nothing,1
+1837,light,lochouse,cam,locally,opti,0
+1837,assis,preshouse,cotv,share,reco,1
+1837,wash,preshouse,locsens,locally,nothing,1

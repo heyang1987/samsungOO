@@ -1,0 +1,12 @@
+528,alarm,alert,cosecu,remserv,insight,1
+528,hvac,lochouse,coalarm,locally,nothing,0
+528,refr,lochouse,cohvac,remserv,nothing,0
+528,hvac,alert,cowash,share,opti,0
+528,wash,opauto,locsens,locally,opti,1
+528,light,lochouse,coassis,share,reco,1
+528,secu,preshouse,corefri,remserv,reco,0
+528,wash,preshouse,colight,share,insight,0
+528,assis,opauto,cotv,share,nothing,1
+528,assis,preshouse,micro,locally,reco,1
+528,tv,opauto,watch,remserv,opti,1
+528,light,alert,cam,locally,insight,0

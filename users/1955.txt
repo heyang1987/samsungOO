@@ -1,0 +1,12 @@
+1955,wash,preshouse,corefri,remserv,reco,0
+1955,refr,opauto,watch,remserv,opti,1
+1955,assis,alert,cowash,share,opti,0
+1955,secu,preshouse,micro,locally,reco,0
+1955,alarm,alert,cam,locally,insight,0
+1955,light,lochouse,cohvac,remserv,nothing,0
+1955,tv,opauto,locsens,locally,opti,1
+1955,secu,opauto,cotv,share,nothing,1
+1955,hvac,alert,cosecu,remserv,insight,1
+1955,assis,lochouse,coalarm,locally,nothing,0
+1955,tv,preshouse,colight,share,insight,0
+1955,alarm,lochouse,coassis,share,reco,0

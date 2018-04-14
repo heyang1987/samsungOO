@@ -1,0 +1,12 @@
+800,hvac,preshouse,cam,share,opti,1
+800,wash,alert,cohvac,locally,opti,1
+800,assis,lochouse,colight,locally,reco,1
+800,hvac,opauto,corefri,locally,nothing,1
+800,light,preshouse,cowash,locally,insight,1
+800,alarm,preshouse,cotv,remserv,insight,1
+800,wash,lochouse,micro,share,insight,1
+800,refr,opauto,locsens,remserv,nothing,1
+800,tv,alert,coassis,remserv,opti,1
+800,secu,lochouse,coalarm,remserv,reco,1
+800,light,opauto,watch,share,reco,1
+800,assis,alert,cosecu,share,nothing,1

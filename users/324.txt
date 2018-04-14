@@ -1,0 +1,12 @@
+324,wash,lochouse,micro,share,reco,0
+324,hvac,opauto,corefri,locally,opti,1
+324,hvac,preshouse,cam,share,insight,0
+324,tv,alert,coassis,remserv,insight,0
+324,wash,alert,cohvac,locally,insight,1
+324,light,preshouse,cowash,locally,reco,0
+324,refr,lochouse,cosecu,locally,nothing,1
+324,light,opauto,watch,share,nothing,0
+324,alarm,preshouse,cotv,remserv,reco,0
+324,assis,opauto,colight,remserv,opti,1
+324,refr,alert,locsens,share,opti,0
+324,secu,lochouse,coalarm,remserv,nothing,0

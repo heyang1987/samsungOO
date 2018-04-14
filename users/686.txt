@@ -1,0 +1,12 @@
+686,wash,preshouse,corefri,remserv,insight,0
+686,refr,lochouse,watch,locally,reco,1
+686,secu,preshouse,micro,locally,insight,1
+686,tv,opauto,locsens,locally,nothing,1
+686,hvac,alert,cosecu,remserv,opti,1
+686,tv,preshouse,colight,share,opti,0
+686,assis,opauto,cowash,remserv,nothing,1
+686,alarm,lochouse,coassis,share,insight,0
+686,refr,alert,coalarm,share,nothing,0
+686,light,lochouse,cohvac,remserv,reco,0
+686,secu,opauto,cotv,share,reco,0
+686,alarm,alert,cam,locally,opti,1

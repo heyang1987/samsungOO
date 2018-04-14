@@ -1,0 +1,12 @@
+1986,light,lochouse,coalarm,locally,reco,0
+1986,alarm,lochouse,micro,remserv,reco,0
+1986,light,alert,cowash,share,nothing,0
+1986,secu,opauto,watch,remserv,nothing,0
+1986,wash,preshouse,cotv,locally,insight,0
+1986,wash,opauto,cohvac,share,reco,0
+1986,hvac,lochouse,corefri,share,insight,0
+1986,hvac,alert,coassis,locally,opti,0
+1986,tv,preshouse,cam,remserv,insight,0
+1986,refr,opauto,colight,locally,nothing,0
+1986,assis,alert,locsens,remserv,opti,0
+1986,refr,preshouse,cosecu,share,opti,0

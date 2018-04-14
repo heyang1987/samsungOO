@@ -1,0 +1,12 @@
+1711,wash,alert,cotv,locally,opti,1
+1711,hvac,opauto,coassis,locally,nothing,1
+1711,light,opauto,cowash,share,reco,1
+1711,hvac,preshouse,corefri,share,opti,0
+1711,refr,opauto,cosecu,remserv,nothing,1
+1711,assis,alert,colight,share,nothing,0
+1711,secu,lochouse,watch,remserv,reco,0
+1711,wash,lochouse,cohvac,share,insight,0
+1711,light,preshouse,coalarm,locally,insight,0
+1711,alarm,preshouse,micro,remserv,insight,0
+1711,tv,alert,cam,remserv,opti,0
+1711,assis,lochouse,locsens,locally,reco,1

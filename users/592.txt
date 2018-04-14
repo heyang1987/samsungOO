@@ -1,0 +1,12 @@
+592,alarm,opauto,cohvac,share,nothing,0
+592,alarm,preshouse,cotv,locally,reco,0
+592,hvac,preshouse,cam,remserv,reco,1
+592,wash,lochouse,micro,remserv,nothing,0
+592,tv,alert,coassis,locally,insight,0
+592,light,alert,watch,share,opti,0
+592,refr,alert,locsens,remserv,insight,0
+592,secu,opauto,coalarm,remserv,opti,0
+592,tv,lochouse,corefri,share,reco,0
+592,assis,opauto,colight,locally,opti,1
+592,light,lochouse,cowash,locally,nothing,1
+592,assis,preshouse,cosecu,share,insight,0

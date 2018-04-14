@@ -1,0 +1,12 @@
+1087,hvac,alert,cam,share,opti,0
+1087,light,alert,cowash,locally,insight,1
+1087,wash,opauto,cohvac,locally,opti,1
+1087,wash,preshouse,micro,share,insight,0
+1087,hvac,lochouse,corefri,locally,nothing,0
+1087,refr,lochouse,locsens,remserv,nothing,0
+1087,secu,preshouse,coalarm,remserv,reco,0
+1087,light,lochouse,watch,share,reco,0
+1087,alarm,alert,cotv,remserv,insight,0
+1087,assis,opauto,cosecu,share,nothing,0
+1087,assis,preshouse,colight,locally,reco,0
+1087,tv,opauto,coassis,remserv,opti,1

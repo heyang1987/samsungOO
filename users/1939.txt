@@ -1,0 +1,12 @@
+1939,wash,preshouse,cowash,remserv,insight,1
+1939,assis,opauto,coassis,remserv,nothing,1
+1939,light,lochouse,colight,remserv,reco,1
+1939,alarm,alert,watch,locally,opti,1
+1939,secu,preshouse,cosecu,locally,insight,1
+1939,tv,preshouse,cotv,share,opti,1
+1939,hvac,alert,cohvac,remserv,opti,1
+1939,refr,lochouse,corefri,locally,reco,1
+1939,tv,opauto,micro,locally,nothing,1
+1939,refr,alert,cam,share,nothing,1
+1939,secu,opauto,locsens,share,reco,1
+1939,alarm,lochouse,coalarm,share,insight,1

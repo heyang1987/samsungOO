@@ -1,0 +1,12 @@
+681,refr,alert,locsens,remserv,nothing,0
+681,light,alert,watch,share,reco,0
+681,hvac,alert,corefri,locally,nothing,1
+681,tv,preshouse,coassis,remserv,opti,1
+681,wash,preshouse,cohvac,locally,opti,1
+681,alarm,lochouse,cotv,remserv,insight,1
+681,light,lochouse,cowash,locally,insight,1
+681,wash,opauto,micro,share,insight,1
+681,assis,opauto,colight,locally,reco,1
+681,assis,preshouse,cosecu,share,nothing,1
+681,hvac,lochouse,cam,share,opti,1
+681,secu,opauto,coalarm,remserv,reco,1

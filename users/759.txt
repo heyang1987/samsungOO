@@ -1,0 +1,12 @@
+759,refr,alert,cotv,remserv,opti,1
+759,alarm,opauto,cosecu,share,reco,0
+759,light,opauto,cam,remserv,nothing,0
+759,tv,lochouse,watch,share,insight,0
+759,assis,preshouse,micro,share,opti,0
+759,assis,opauto,cohvac,locally,nothing,1
+759,hvac,preshouse,coalarm,remserv,insight,1
+759,wash,lochouse,locsens,remserv,reco,0
+759,alarm,preshouse,colight,locally,insight,1
+759,secu,alert,corefri,share,nothing,0
+759,secu,lochouse,coassis,locally,reco,1
+759,tv,alert,cowash,locally,opti,1

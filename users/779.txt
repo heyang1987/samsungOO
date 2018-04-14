@@ -1,0 +1,12 @@
+779,tv,alert,coassis,remserv,insight,0
+779,assis,opauto,colight,remserv,opti,0
+779,alarm,preshouse,cotv,remserv,reco,0
+779,refr,lochouse,cosecu,locally,nothing,0
+779,light,preshouse,cowash,locally,reco,0
+779,wash,lochouse,micro,share,reco,0
+779,light,opauto,watch,share,nothing,0
+779,hvac,preshouse,cam,share,insight,0
+779,secu,lochouse,coalarm,remserv,nothing,0
+779,refr,alert,locsens,share,opti,0
+779,wash,alert,cohvac,locally,insight,0
+779,hvac,opauto,corefri,locally,opti,0

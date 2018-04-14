@@ -1,0 +1,12 @@
+1181,hvac,preshouse,cosecu,remserv,nothing,1
+1181,light,alert,cohvac,share,insight,0
+1181,secu,opauto,micro,remserv,insight,1
+1181,wash,preshouse,coassis,locally,nothing,1
+1181,assis,opauto,coalarm,locally,insight,1
+1181,light,lochouse,cotv,locally,opti,1
+1181,refr,alert,watch,remserv,reco,1
+1181,alarm,lochouse,cam,remserv,opti,0
+1181,assis,preshouse,cowash,share,reco,0
+1181,tv,lochouse,colight,share,nothing,0
+1181,tv,alert,locsens,locally,reco,1
+1181,wash,opauto,corefri,share,opti,0

@@ -1,0 +1,12 @@
+802,hvac,opauto,cam,locally,opti,0
+802,wash,lochouse,cotv,share,reco,0
+802,light,preshouse,watch,locally,reco,1
+802,wash,alert,micro,locally,insight,1
+802,assis,opauto,cosecu,remserv,opti,0
+802,tv,alert,corefri,remserv,insight,1
+802,light,opauto,coalarm,share,nothing,0
+802,secu,lochouse,cowash,remserv,nothing,1
+802,refr,alert,colight,share,opti,1
+802,hvac,preshouse,coassis,share,insight,1
+802,refr,lochouse,locsens,locally,nothing,1
+802,alarm,preshouse,cohvac,remserv,reco,1

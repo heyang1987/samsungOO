@@ -1,0 +1,12 @@
+945,alarm,lochouse,cosecu,share,reco,0
+945,alarm,alert,colight,locally,insight,1
+945,assis,alert,micro,share,opti,0
+945,assis,lochouse,cohvac,locally,nothing,1
+945,light,lochouse,cam,remserv,nothing,1
+945,hvac,alert,coalarm,remserv,insight,1
+945,refr,opauto,cotv,remserv,opti,1
+945,tv,opauto,cowash,locally,opti,1
+945,secu,opauto,corefri,share,nothing,0
+945,secu,preshouse,coassis,locally,reco,1
+945,tv,preshouse,watch,share,insight,0
+945,wash,preshouse,locsens,remserv,reco,0

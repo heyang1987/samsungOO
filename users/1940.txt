@@ -1,0 +1,12 @@
+1940,alarm,preshouse,watch,locally,reco,1
+1940,assis,opauto,cam,locally,opti,0
+1940,light,alert,colight,share,opti,0
+1940,refr,alert,corefri,remserv,insight,1
+1940,tv,alert,micro,locally,insight,1
+1940,tv,lochouse,cotv,share,reco,0
+1940,light,lochouse,locsens,locally,nothing,1
+1940,wash,lochouse,cowash,remserv,nothing,0
+1940,assis,preshouse,coassis,share,insight,0
+1940,secu,opauto,cosecu,remserv,opti,1
+1940,hvac,preshouse,cohvac,remserv,reco,0
+1940,alarm,opauto,coalarm,share,nothing,0

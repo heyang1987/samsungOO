@@ -1,0 +1,12 @@
+815,assis,alert,colight,remserv,nothing,1
+815,wash,lochouse,cohvac,remserv,insight,1
+815,light,opauto,cowash,remserv,reco,1
+815,secu,alert,coalarm,share,reco,1
+815,tv,alert,cam,locally,nothing,1
+815,refr,preshouse,locsens,share,nothing,1
+815,hvac,preshouse,corefri,remserv,opti,1
+815,refr,opauto,cosecu,locally,reco,1
+815,tv,lochouse,coassis,share,opti,1
+815,alarm,opauto,cotv,share,insight,1
+815,secu,lochouse,watch,locally,insight,1
+815,alarm,preshouse,micro,locally,opti,1

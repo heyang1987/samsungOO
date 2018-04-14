@@ -1,0 +1,12 @@
+1760,hvac,alert,cam,locally,opti,1
+1760,light,alert,coalarm,share,nothing,1
+1760,wash,opauto,cotv,share,reco,1
+1760,tv,preshouse,corefri,remserv,insight,1
+1760,light,lochouse,watch,locally,reco,1
+1760,hvac,lochouse,coassis,share,insight,1
+1760,assis,alert,cosecu,remserv,opti,1
+1760,refr,preshouse,colight,share,opti,1
+1760,wash,preshouse,micro,locally,insight,0
+1760,alarm,lochouse,cohvac,remserv,reco,1
+1760,secu,opauto,cowash,remserv,nothing,0
+1760,refr,opauto,locsens,locally,nothing,1

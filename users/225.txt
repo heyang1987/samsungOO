@@ -1,0 +1,12 @@
+225,alarm,lochouse,cosecu,share,opti,0
+225,secu,opauto,corefri,share,insight,0
+225,secu,preshouse,coassis,locally,opti,1
+225,hvac,opauto,coalarm,locally,reco,1
+225,wash,preshouse,locsens,remserv,opti,1
+225,refr,lochouse,cotv,locally,insight,1
+225,hvac,preshouse,cowash,share,nothing,0
+225,tv,alert,watch,remserv,nothing,1
+225,assis,opauto,micro,remserv,reco,1
+225,light,lochouse,cam,remserv,insight,1
+225,refr,alert,cohvac,share,reco,0
+225,alarm,alert,colight,locally,nothing,1

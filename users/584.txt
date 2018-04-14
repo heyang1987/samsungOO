@@ -1,0 +1,12 @@
+584,wash,lochouse,coassis,share,reco,0
+584,secu,lochouse,cohvac,remserv,nothing,1
+584,light,opauto,cotv,share,nothing,0
+584,tv,alert,cosecu,remserv,insight,0
+584,refr,lochouse,coalarm,locally,nothing,1
+584,hvac,preshouse,colight,share,insight,1
+584,alarm,preshouse,corefri,remserv,reco,0
+584,refr,alert,cowash,share,opti,1
+584,assis,opauto,watch,remserv,opti,1
+584,light,preshouse,micro,locally,reco,0
+584,wash,alert,cam,locally,insight,1
+584,hvac,opauto,locsens,locally,opti,1

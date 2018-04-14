@@ -1,0 +1,12 @@
+162,alarm,preshouse,micro,share,insight,1
+162,secu,lochouse,watch,share,reco,1
+162,refr,preshouse,colight,locally,reco,1
+162,hvac,opauto,coassis,remserv,opti,1
+162,wash,alert,cotv,remserv,insight,1
+162,light,preshouse,coalarm,remserv,reco,1
+162,secu,alert,cowash,locally,insight,1
+162,assis,lochouse,locsens,remserv,nothing,1
+162,refr,opauto,cosecu,share,nothing,1
+162,tv,lochouse,corefri,locally,nothing,1
+162,alarm,opauto,cohvac,locally,opti,1
+162,tv,alert,cam,share,opti,1

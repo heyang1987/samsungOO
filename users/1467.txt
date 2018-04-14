@@ -1,0 +1,12 @@
+1467,wash,lochouse,cohvac,share,opti,1
+1467,hvac,alert,corefri,remserv,nothing,1
+1467,light,opauto,cowash,share,insight,1
+1467,tv,preshouse,coassis,share,nothing,1
+1467,assis,lochouse,locsens,locally,insight,1
+1467,tv,opauto,cam,locally,reco,0
+1467,assis,alert,colight,share,reco,0
+1467,secu,lochouse,watch,remserv,insight,1
+1467,light,preshouse,coalarm,locally,opti,1
+1467,wash,alert,cotv,locally,nothing,1
+1467,alarm,preshouse,micro,remserv,opti,0
+1467,refr,opauto,cosecu,remserv,reco,0

@@ -1,0 +1,12 @@
+401,alarm,lochouse,cowash,remserv,insight,1
+401,tv,preshouse,cohvac,remserv,opti,0
+401,hvac,lochouse,cotv,share,opti,1
+401,refr,alert,coassis,remserv,nothing,1
+401,light,alert,locsens,share,reco,1
+401,assis,preshouse,cam,share,nothing,1
+401,assis,opauto,corefri,locally,reco,1
+401,secu,opauto,colight,remserv,reco,1
+401,wash,opauto,coalarm,share,insight,1
+401,hvac,alert,micro,locally,nothing,1
+401,wash,preshouse,watch,locally,opti,1
+401,light,lochouse,cosecu,locally,insight,1

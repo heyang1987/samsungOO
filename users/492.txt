@@ -1,0 +1,12 @@
+492,assis,lochouse,micro,locally,reco,1
+492,light,preshouse,cam,locally,insight,1
+492,assis,alert,cotv,share,nothing,0
+492,hvac,opauto,coalarm,locally,nothing,1
+492,hvac,preshouse,cowash,share,opti,0
+492,tv,alert,watch,remserv,opti,1
+492,wash,alert,locsens,locally,opti,0
+492,refr,opauto,cohvac,remserv,nothing,1
+492,alarm,preshouse,cosecu,remserv,insight,1
+492,light,opauto,coassis,share,reco,0
+492,wash,lochouse,colight,share,insight,0
+492,secu,lochouse,corefri,remserv,reco,0

@@ -1,0 +1,12 @@
+1679,wash,lochouse,colight,locally,reco,0
+1679,light,alert,coassis,remserv,opti,0
+1679,assis,preshouse,cotv,remserv,insight,1
+1679,alarm,opauto,locsens,remserv,nothing,1
+1679,hvac,opauto,watch,share,reco,0
+1679,secu,preshouse,cam,share,opti,0
+1679,wash,alert,cosecu,share,nothing,0
+1679,refr,lochouse,micro,share,insight,0
+1679,tv,lochouse,coalarm,remserv,reco,1
+1679,secu,opauto,corefri,locally,nothing,1
+1679,hvac,preshouse,cowash,locally,insight,0
+1679,refr,alert,cohvac,locally,opti,1

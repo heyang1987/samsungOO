@@ -1,0 +1,12 @@
+593,light,lochouse,corefri,locally,reco,1
+593,refr,opauto,micro,locally,nothing,1
+593,tv,preshouse,cowash,remserv,insight,1
+593,wash,preshouse,cosecu,locally,insight,1
+593,light,alert,cam,share,nothing,0
+593,wash,opauto,locsens,share,reco,0
+593,secu,opauto,coassis,remserv,nothing,1
+593,hvac,lochouse,coalarm,share,insight,0
+593,alarm,lochouse,colight,remserv,reco,0
+593,hvac,alert,watch,locally,opti,1
+593,refr,preshouse,cotv,share,opti,0
+593,assis,alert,cohvac,remserv,opti,1

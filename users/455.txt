@@ -1,0 +1,12 @@
+455,tv,alert,coassis,locally,insight,0
+455,light,alert,watch,share,opti,0
+455,refr,alert,locsens,remserv,insight,0
+455,hvac,preshouse,cam,remserv,reco,1
+455,alarm,opauto,cohvac,share,nothing,1
+455,secu,opauto,coalarm,remserv,opti,1
+455,alarm,preshouse,cotv,locally,reco,1
+455,assis,preshouse,cosecu,share,insight,1
+455,light,lochouse,cowash,locally,nothing,1
+455,wash,lochouse,micro,remserv,nothing,0
+455,assis,opauto,colight,locally,opti,1
+455,tv,lochouse,corefri,share,reco,0

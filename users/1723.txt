@@ -1,0 +1,12 @@
+1723,wash,alert,coalarm,remserv,opti,1
+1723,hvac,alert,cohvac,share,nothing,1
+1723,light,preshouse,locsens,remserv,insight,1
+1723,refr,opauto,corefri,share,reco,0
+1723,tv,opauto,micro,remserv,nothing,0
+1723,alarm,preshouse,watch,share,opti,0
+1723,secu,alert,colight,locally,opti,1
+1723,assis,lochouse,cam,remserv,reco,0
+1723,alarm,opauto,cowash,locally,nothing,0
+1723,refr,preshouse,coassis,locally,insight,0
+1723,secu,lochouse,cosecu,share,insight,1
+1723,hvac,lochouse,cotv,locally,reco,0

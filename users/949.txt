@@ -1,0 +1,12 @@
+949,alarm,alert,cowash,remserv,reco,0
+949,wash,preshouse,coalarm,share,reco,0
+949,wash,opauto,watch,locally,insight,1
+949,light,alert,cosecu,locally,reco,0
+949,secu,preshouse,colight,remserv,nothing,1
+949,assis,lochouse,corefri,remserv,opti,0
+949,hvac,lochouse,micro,locally,opti,1
+949,tv,opauto,cohvac,remserv,insight,0
+949,light,lochouse,locsens,share,nothing,0
+949,refr,opauto,coassis,share,opti,0
+949,refr,preshouse,cam,locally,nothing,1
+949,hvac,alert,cotv,share,insight,0

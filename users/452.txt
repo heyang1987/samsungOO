@@ -1,0 +1,12 @@
+452,assis,lochouse,cowash,share,insight,0
+452,light,preshouse,cohvac,share,opti,0
+452,secu,alert,micro,remserv,opti,0
+452,light,opauto,cotv,locally,nothing,1
+452,alarm,lochouse,cam,locally,reco,0
+452,wash,opauto,corefri,remserv,nothing,0
+452,hvac,lochouse,cosecu,remserv,reco,0
+452,alarm,alert,coassis,share,nothing,0
+452,assis,alert,coalarm,locally,opti,1
+452,tv,opauto,colight,share,reco,0
+452,tv,preshouse,locsens,locally,insight,0
+452,refr,preshouse,watch,remserv,insight,0

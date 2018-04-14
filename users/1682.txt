@@ -1,0 +1,12 @@
+1682,secu,alert,corefri,share,reco,0
+1682,tv,alert,cowash,locally,nothing,1
+1682,secu,lochouse,coassis,locally,insight,0
+1682,alarm,opauto,cosecu,share,insight,0
+1682,refr,preshouse,cohvac,share,nothing,0
+1682,alarm,preshouse,colight,locally,opti,1
+1682,assis,alert,micro,remserv,nothing,0
+1682,light,opauto,cam,remserv,reco,0
+1682,tv,lochouse,watch,share,opti,0
+1682,refr,opauto,cotv,locally,reco,0
+1682,hvac,preshouse,coalarm,remserv,opti,1
+1682,wash,lochouse,locsens,remserv,insight,1

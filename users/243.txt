@@ -1,0 +1,12 @@
+243,light,alert,cosecu,remserv,insight,1
+243,alarm,alert,cowash,share,opti,0
+243,secu,preshouse,colight,share,insight,0
+243,wash,opauto,watch,remserv,opti,0
+243,refr,lochouse,coassis,share,reco,0
+243,assis,preshouse,corefri,remserv,reco,0
+243,alarm,lochouse,coalarm,locally,nothing,0
+243,tv,lochouse,cohvac,remserv,nothing,0
+243,refr,alert,cam,locally,insight,1
+243,secu,opauto,locsens,locally,opti,1
+243,hvac,opauto,cotv,share,nothing,0
+243,hvac,preshouse,micro,locally,reco,0

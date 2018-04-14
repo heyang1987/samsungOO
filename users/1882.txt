@@ -1,0 +1,12 @@
+1882,alarm,alert,coassis,share,insight,1
+1882,alarm,lochouse,cam,locally,opti,1
+1882,assis,preshouse,cowash,remserv,nothing,1
+1882,secu,preshouse,cotv,share,reco,0
+1882,light,alert,cohvac,remserv,reco,1
+1882,tv,preshouse,locsens,locally,nothing,1
+1882,tv,opauto,colight,share,opti,1
+1882,refr,alert,watch,locally,reco,1
+1882,hvac,lochouse,cosecu,remserv,opti,1
+1882,refr,lochouse,coalarm,share,nothing,0
+1882,secu,opauto,micro,locally,insight,1
+1882,wash,opauto,corefri,remserv,insight,1

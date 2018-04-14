@@ -1,0 +1,12 @@
+1976,wash,preshouse,cotv,locally,nothing,1
+1976,light,lochouse,coalarm,locally,opti,1
+1976,alarm,lochouse,micro,remserv,opti,0
+1976,assis,preshouse,colight,share,reco,0
+1976,wash,opauto,cohvac,share,opti,0
+1976,light,alert,cowash,share,insight,0
+1976,assis,opauto,locsens,locally,insight,1
+1976,hvac,preshouse,corefri,remserv,nothing,1
+1976,tv,alert,cam,locally,reco,1
+1976,tv,lochouse,coassis,share,nothing,0
+1976,secu,opauto,watch,remserv,insight,0
+1976,refr,alert,cosecu,remserv,reco,1

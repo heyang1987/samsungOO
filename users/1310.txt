@@ -1,0 +1,12 @@
+1310,hvac,alert,coalarm,share,reco,0
+1310,refr,opauto,cotv,share,insight,0
+1310,wash,opauto,cosecu,locally,reco,0
+1310,alarm,alert,colight,remserv,nothing,0
+1310,light,preshouse,corefri,remserv,opti,0
+1310,secu,lochouse,coassis,share,opti,0
+1310,hvac,lochouse,watch,locally,insight,0
+1310,tv,opauto,cowash,remserv,reco,0
+1310,assis,lochouse,cohvac,remserv,insight,0
+1310,secu,alert,cam,locally,nothing,1
+1310,wash,preshouse,locsens,share,nothing,0
+1310,refr,preshouse,micro,locally,opti,0

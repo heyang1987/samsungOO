@@ -1,0 +1,12 @@
+614,wash,preshouse,watch,share,insight,1
+614,wash,opauto,cowash,locally,opti,1
+614,assis,preshouse,coassis,locally,reco,1
+614,tv,opauto,cotv,remserv,opti,1
+614,light,lochouse,cosecu,share,reco,1
+614,refr,lochouse,cam,remserv,nothing,1
+614,secu,preshouse,locsens,remserv,reco,1
+614,assis,opauto,corefri,share,nothing,1
+614,light,alert,colight,locally,insight,1
+614,hvac,alert,micro,share,opti,0
+614,hvac,lochouse,cohvac,locally,nothing,1
+614,alarm,alert,coalarm,remserv,insight,1

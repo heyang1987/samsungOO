@@ -1,0 +1,12 @@
+467,light,alert,locsens,locally,nothing,1
+467,assis,preshouse,cam,locally,opti,1
+467,tv,lochouse,micro,locally,insight,1
+467,alarm,preshouse,coalarm,share,nothing,0
+467,refr,lochouse,corefri,remserv,insight,1
+467,wash,alert,cowash,remserv,nothing,1
+467,light,lochouse,colight,share,opti,0
+467,alarm,opauto,watch,locally,reco,1
+467,assis,opauto,coassis,share,insight,0
+467,hvac,opauto,cohvac,remserv,reco,1
+467,tv,alert,cotv,share,reco,0
+467,secu,preshouse,cosecu,remserv,opti,1

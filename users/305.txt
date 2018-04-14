@@ -1,0 +1,12 @@
+305,light,lochouse,micro,locally,opti,1
+305,hvac,preshouse,colight,remserv,nothing,1
+305,assis,preshouse,coalarm,share,reco,1
+305,wash,opauto,coassis,share,opti,1
+305,alarm,lochouse,corefri,remserv,opti,0
+305,wash,preshouse,cam,locally,nothing,1
+305,tv,lochouse,locsens,share,nothing,0
+305,secu,opauto,cohvac,remserv,insight,0
+305,tv,alert,cosecu,locally,reco,1
+305,refr,alert,cowash,remserv,reco,0
+305,light,alert,cotv,share,insight,0
+305,assis,opauto,watch,locally,insight,1

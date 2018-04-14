@@ -1,0 +1,12 @@
+174,assis,lochouse,locsens,share,reco,0
+174,hvac,lochouse,coassis,remserv,nothing,0
+174,alarm,opauto,cohvac,remserv,opti,1
+174,light,opauto,watch,locally,opti,1
+174,wash,alert,cotv,share,opti,1
+174,refr,preshouse,colight,remserv,reco,1
+174,tv,opauto,cam,share,nothing,0
+174,assis,alert,cosecu,locally,insight,1
+174,secu,alert,cowash,remserv,insight,1
+174,light,preshouse,coalarm,share,insight,1
+174,tv,preshouse,corefri,locally,reco,1
+174,wash,lochouse,micro,locally,nothing,0

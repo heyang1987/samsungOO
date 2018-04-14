@@ -1,0 +1,12 @@
+691,secu,lochouse,colight,share,insight,0
+691,alarm,opauto,coalarm,locally,nothing,1
+691,refr,opauto,coassis,share,reco,0
+691,hvac,lochouse,micro,locally,reco,0
+691,refr,preshouse,cam,locally,insight,0
+691,hvac,alert,cotv,share,nothing,0
+691,assis,lochouse,corefri,remserv,reco,0
+691,alarm,preshouse,cowash,share,opti,0
+691,tv,opauto,cohvac,remserv,nothing,0
+691,wash,alert,watch,remserv,opti,1
+691,secu,alert,locsens,locally,opti,0
+691,light,preshouse,cosecu,remserv,insight,1

@@ -1,0 +1,12 @@
+293,wash,alert,cotv,locally,reco,0
+293,secu,preshouse,cowash,locally,nothing,0
+293,alarm,preshouse,micro,remserv,nothing,0
+293,refr,alert,cosecu,share,insight,0
+293,wash,lochouse,cohvac,share,nothing,0
+293,light,lochouse,coalarm,remserv,opti,0
+293,assis,opauto,locsens,remserv,insight,0
+293,hvac,preshouse,corefri,share,reco,0
+293,tv,alert,cam,remserv,reco,0
+293,secu,opauto,watch,share,opti,0
+293,refr,lochouse,colight,locally,opti,0
+293,hvac,opauto,coassis,locally,insight,0

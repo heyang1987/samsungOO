@@ -1,0 +1,12 @@
+152,tv,lochouse,cam,remserv,opti,1
+152,alarm,opauto,micro,remserv,insight,1
+152,secu,alert,watch,remserv,reco,1
+152,refr,preshouse,cosecu,remserv,nothing,1
+152,assis,alert,locsens,locally,reco,1
+152,wash,alert,cohvac,share,insight,1
+152,hvac,preshouse,coassis,locally,nothing,1
+152,light,preshouse,cowash,share,reco,1
+152,light,opauto,coalarm,locally,insight,1
+152,hvac,opauto,corefri,share,opti,0
+152,assis,lochouse,colight,share,nothing,1
+152,wash,lochouse,cotv,locally,opti,1

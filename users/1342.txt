@@ -1,0 +1,12 @@
+1342,tv,preshouse,colight,remserv,nothing,0
+1342,alarm,preshouse,cam,locally,nothing,1
+1342,secu,lochouse,micro,locally,opti,1
+1342,hvac,alert,cosecu,locally,reco,1
+1342,assis,alert,cowash,remserv,reco,1
+1342,secu,alert,cotv,share,insight,0
+1342,refr,preshouse,coalarm,share,reco,0
+1342,refr,opauto,watch,locally,insight,1
+1342,light,opauto,cohvac,remserv,insight,0
+1342,wash,lochouse,corefri,remserv,opti,0
+1342,hvac,lochouse,locsens,share,nothing,0
+1342,alarm,opauto,coassis,share,opti,1

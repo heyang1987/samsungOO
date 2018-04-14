@@ -1,0 +1,12 @@
+1845,light,alert,coalarm,remserv,reco,1
+1845,refr,alert,colight,locally,reco,0
+1845,refr,lochouse,cosecu,share,nothing,0
+1845,alarm,alert,micro,share,insight,0
+1845,assis,preshouse,locsens,remserv,nothing,0
+1845,secu,preshouse,watch,share,reco,0
+1845,secu,opauto,cowash,locally,insight,0
+1845,tv,opauto,cam,share,opti,0
+1845,alarm,lochouse,cohvac,locally,opti,0
+1845,tv,preshouse,corefri,locally,nothing,0
+1845,wash,opauto,cotv,remserv,insight,0
+1845,hvac,lochouse,coassis,remserv,opti,0

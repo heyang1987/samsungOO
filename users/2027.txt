@@ -1,0 +1,12 @@
+2027,tv,opauto,corefri,locally,reco,0
+2027,tv,preshouse,cam,share,nothing,0
+2027,refr,opauto,colight,remserv,reco,0
+2027,alarm,preshouse,cohvac,remserv,opti,1
+2027,secu,lochouse,cowash,remserv,insight,1
+2027,light,opauto,coalarm,share,insight,1
+2027,assis,lochouse,cosecu,locally,insight,1
+2027,wash,alert,micro,locally,nothing,1
+2027,light,preshouse,watch,locally,opti,1
+2027,hvac,alert,coassis,remserv,nothing,1
+2027,wash,lochouse,cotv,share,opti,0
+2027,assis,alert,locsens,share,reco,0

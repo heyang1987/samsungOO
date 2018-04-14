@@ -1,0 +1,12 @@
+1288,tv,preshouse,coalarm,remserv,opti,1
+1288,hvac,alert,cowash,locally,nothing,1
+1288,wash,opauto,cosecu,share,insight,1
+1288,light,alert,corefri,share,reco,1
+1288,light,lochouse,coassis,locally,insight,1
+1288,wash,preshouse,colight,locally,opti,1
+1288,assis,preshouse,cohvac,share,nothing,1
+1288,hvac,lochouse,watch,share,opti,1
+1288,refr,alert,micro,remserv,nothing,1
+1288,assis,opauto,cotv,locally,reco,1
+1288,secu,opauto,cam,remserv,reco,1
+1288,alarm,lochouse,locsens,remserv,insight,1

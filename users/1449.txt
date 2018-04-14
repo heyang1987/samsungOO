@@ -1,0 +1,12 @@
+1449,secu,lochouse,watch,share,reco,1
+1449,hvac,opauto,coassis,remserv,opti,1
+1449,refr,preshouse,colight,locally,reco,0
+1449,light,preshouse,coalarm,remserv,reco,0
+1449,tv,lochouse,corefri,locally,nothing,1
+1449,alarm,preshouse,micro,share,insight,0
+1449,refr,opauto,cosecu,share,nothing,0
+1449,tv,alert,cam,share,opti,0
+1449,assis,lochouse,locsens,remserv,nothing,0
+1449,secu,alert,cowash,locally,insight,1
+1449,wash,alert,cotv,remserv,insight,0
+1449,alarm,opauto,cohvac,locally,opti,1

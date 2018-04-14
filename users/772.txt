@@ -1,0 +1,12 @@
+772,assis,alert,cotv,locally,insight,1
+772,tv,opauto,cowash,share,nothing,0
+772,tv,preshouse,coalarm,locally,reco,1
+772,refr,preshouse,micro,remserv,reco,0
+772,wash,lochouse,colight,locally,nothing,0
+772,light,preshouse,corefri,share,insight,0
+772,hvac,lochouse,watch,remserv,nothing,1
+772,secu,alert,cam,remserv,insight,1
+772,wash,alert,cosecu,share,opti,0
+772,alarm,opauto,locsens,remserv,opti,1
+772,assis,lochouse,cohvac,share,reco,0
+772,light,opauto,coassis,locally,opti,1

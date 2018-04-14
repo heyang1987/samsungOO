@@ -1,0 +1,12 @@
+1936,tv,preshouse,cowash,share,reco,0
+1936,wash,preshouse,cosecu,remserv,nothing,1
+1936,alarm,lochouse,colight,share,nothing,0
+1936,refr,opauto,micro,remserv,insight,1
+1936,assis,lochouse,cotv,locally,opti,1
+1936,hvac,alert,watch,remserv,reco,1
+1936,tv,opauto,coalarm,locally,insight,1
+1936,light,preshouse,coassis,locally,nothing,1
+1936,alarm,alert,locsens,locally,reco,1
+1936,secu,lochouse,cam,remserv,opti,0
+1936,assis,alert,cohvac,share,insight,0
+1936,light,opauto,corefri,share,opti,0

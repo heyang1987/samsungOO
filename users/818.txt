@@ -1,0 +1,12 @@
+818,hvac,preshouse,cowash,remserv,reco,1
+818,tv,alert,watch,locally,insight,1
+818,tv,lochouse,coalarm,share,reco,1
+818,light,lochouse,cam,locally,nothing,1
+818,alarm,preshouse,cosecu,locally,reco,1
+818,alarm,opauto,locsens,share,nothing,1
+818,wash,lochouse,colight,remserv,nothing,1
+818,light,alert,coassis,share,opti,1
+818,refr,alert,cohvac,remserv,insight,1
+818,secu,opauto,corefri,remserv,opti,1
+818,assis,opauto,micro,locally,opti,1
+818,assis,preshouse,cotv,share,insight,1

@@ -1,0 +1,12 @@
+776,wash,preshouse,coalarm,remserv,insight,1
+776,refr,lochouse,coassis,locally,reco,1
+776,alarm,alert,cowash,locally,opti,1
+776,secu,opauto,cosecu,share,reco,1
+776,hvac,alert,cotv,remserv,opti,1
+776,assis,opauto,cam,remserv,nothing,1
+776,alarm,lochouse,watch,share,insight,1
+776,tv,opauto,cohvac,locally,nothing,1
+776,tv,preshouse,micro,share,opti,1
+776,refr,alert,corefri,share,nothing,1
+776,light,lochouse,locsens,remserv,reco,1
+776,secu,preshouse,colight,locally,insight,1

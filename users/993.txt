@@ -1,0 +1,12 @@
+993,secu,alert,cohvac,locally,reco,1
+993,refr,lochouse,cowash,remserv,opti,0
+993,hvac,opauto,colight,remserv,insight,0
+993,tv,lochouse,cosecu,locally,opti,0
+993,secu,lochouse,micro,share,nothing,0
+993,assis,opauto,coalarm,share,opti,0
+993,light,preshouse,cotv,remserv,nothing,1
+993,tv,alert,locsens,share,insight,0
+993,wash,alert,coassis,remserv,reco,0
+993,alarm,opauto,corefri,locally,insight,0
+993,alarm,preshouse,cam,share,reco,0
+993,assis,preshouse,watch,locally,nothing,1

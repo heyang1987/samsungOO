@@ -1,0 +1,12 @@
+2005,hvac,alert,micro,remserv,opti,1
+2005,tv,opauto,cotv,locally,nothing,1
+2005,refr,alert,coassis,share,nothing,1
+2005,tv,preshouse,cohvac,share,opti,0
+2005,assis,opauto,corefri,remserv,nothing,1
+2005,light,lochouse,cosecu,remserv,reco,1
+2005,secu,preshouse,locsens,locally,insight,1
+2005,secu,opauto,colight,share,reco,0
+2005,alarm,alert,coalarm,locally,opti,1
+2005,refr,lochouse,cam,locally,reco,1
+2005,wash,preshouse,watch,remserv,insight,1
+2005,alarm,lochouse,cowash,share,insight,0

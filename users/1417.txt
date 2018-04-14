@@ -1,0 +1,12 @@
+1417,secu,alert,micro,share,opti,1
+1417,wash,opauto,corefri,share,nothing,0
+1417,assis,alert,coalarm,remserv,insight,1
+1417,light,opauto,cotv,remserv,opti,1
+1417,hvac,alert,colight,locally,insight,1
+1417,refr,preshouse,watch,share,insight,0
+1417,secu,lochouse,cohvac,locally,nothing,1
+1417,refr,opauto,cowash,locally,opti,0
+1417,tv,preshouse,locsens,remserv,reco,1
+1417,wash,preshouse,coassis,locally,reco,1
+1417,hvac,lochouse,cosecu,share,reco,1
+1417,alarm,lochouse,cam,remserv,nothing,1

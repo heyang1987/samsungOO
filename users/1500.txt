@@ -1,0 +1,12 @@
+1500,hvac,alert,cosecu,remserv,nothing,1
+1500,light,opauto,cohvac,share,insight,0
+1500,alarm,preshouse,cam,remserv,opti,0
+1500,secu,lochouse,micro,remserv,insight,0
+1500,assis,lochouse,coalarm,locally,insight,0
+1500,wash,alert,coassis,locally,nothing,1
+1500,light,preshouse,cotv,locally,opti,1
+1500,wash,lochouse,corefri,share,opti,0
+1500,refr,opauto,watch,remserv,reco,1
+1500,tv,preshouse,colight,share,nothing,0
+1500,tv,opauto,locsens,locally,reco,1
+1500,assis,alert,cowash,share,reco,1

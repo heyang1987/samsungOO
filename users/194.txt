@@ -1,0 +1,12 @@
+194,assis,alert,colight,share,reco,0
+194,wash,alert,cotv,locally,nothing,0
+194,secu,lochouse,watch,remserv,insight,0
+194,light,opauto,cowash,share,insight,0
+194,hvac,alert,corefri,remserv,nothing,0
+194,wash,lochouse,cohvac,share,opti,0
+194,alarm,preshouse,micro,remserv,opti,1
+194,refr,opauto,cosecu,remserv,reco,0
+194,assis,lochouse,locsens,locally,insight,1
+194,tv,opauto,cam,locally,reco,0
+194,tv,preshouse,coassis,share,nothing,0
+194,light,preshouse,coalarm,locally,opti,1

@@ -1,0 +1,12 @@
+2019,alarm,preshouse,locsens,remserv,opti,0
+2019,assis,lochouse,cotv,locally,insight,0
+2019,tv,opauto,coalarm,locally,reco,1
+2019,refr,opauto,micro,remserv,reco,1
+2019,wash,lochouse,cosecu,share,opti,1
+2019,hvac,alert,watch,remserv,nothing,1
+2019,tv,preshouse,cowash,share,nothing,1
+2019,secu,lochouse,cam,remserv,insight,1
+2019,assis,alert,cohvac,share,reco,1
+2019,wash,alert,colight,locally,nothing,0
+2019,light,opauto,corefri,share,insight,1
+2019,light,preshouse,coassis,locally,opti,1

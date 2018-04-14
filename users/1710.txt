@@ -1,0 +1,12 @@
+1710,tv,alert,locsens,locally,insight,0
+1710,assis,preshouse,cowash,share,insight,0
+1710,alarm,preshouse,cam,locally,reco,0
+1710,light,lochouse,cotv,locally,nothing,1
+1710,wash,lochouse,corefri,remserv,nothing,0
+1710,alarm,opauto,coassis,share,nothing,0
+1710,secu,opauto,micro,remserv,opti,1
+1710,refr,alert,watch,remserv,insight,1
+1710,light,alert,cohvac,share,opti,1
+1710,tv,lochouse,colight,share,reco,0
+1710,assis,opauto,coalarm,locally,opti,1
+1710,hvac,preshouse,cosecu,remserv,reco,0

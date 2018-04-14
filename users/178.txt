@@ -1,0 +1,12 @@
+178,hvac,lochouse,cotv,locally,opti,1
+178,assis,lochouse,cam,remserv,opti,0
+178,light,lochouse,colight,share,nothing,0
+178,alarm,alert,watch,remserv,reco,0
+178,secu,preshouse,cosecu,remserv,nothing,0
+178,refr,preshouse,coassis,locally,nothing,1
+178,wash,opauto,coalarm,locally,insight,1
+178,hvac,alert,cohvac,share,insight,0
+178,wash,preshouse,cowash,share,reco,0
+178,light,alert,locsens,locally,reco,1
+178,refr,opauto,corefri,share,opti,0
+178,tv,opauto,micro,remserv,insight,1

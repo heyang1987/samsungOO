@@ -1,0 +1,12 @@
+640,refr,alert,cosecu,share,opti,0
+640,hvac,preshouse,corefri,share,insight,0
+640,wash,alert,cotv,locally,insight,1
+640,light,preshouse,coalarm,locally,reco,0
+640,tv,alert,cam,remserv,insight,0
+640,wash,lochouse,cohvac,share,reco,0
+640,light,opauto,cowash,share,nothing,1
+640,alarm,preshouse,micro,remserv,reco,0
+640,secu,lochouse,watch,remserv,nothing,1
+640,assis,opauto,locsens,remserv,opti,1
+640,refr,lochouse,colight,locally,nothing,1
+640,hvac,opauto,coassis,locally,opti,1

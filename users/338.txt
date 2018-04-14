@@ -1,0 +1,12 @@
+338,light,lochouse,locsens,remserv,reco,1
+338,hvac,alert,cotv,remserv,opti,0
+338,secu,preshouse,colight,locally,insight,1
+338,alarm,lochouse,watch,share,insight,0
+338,refr,lochouse,coassis,locally,reco,0
+338,secu,opauto,cosecu,share,reco,0
+338,assis,opauto,cam,remserv,nothing,0
+338,alarm,alert,cowash,locally,opti,0
+338,tv,opauto,cohvac,locally,nothing,0
+338,tv,preshouse,micro,share,opti,0
+338,refr,alert,corefri,share,nothing,0
+338,wash,preshouse,coalarm,remserv,insight,1

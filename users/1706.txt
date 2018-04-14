@@ -1,0 +1,12 @@
+1706,refr,preshouse,coassis,locally,opti,1
+1706,refr,opauto,corefri,share,insight,1
+1706,wash,preshouse,cowash,share,nothing,1
+1706,assis,lochouse,cam,remserv,insight,1
+1706,alarm,alert,watch,remserv,nothing,1
+1706,hvac,lochouse,cotv,locally,insight,1
+1706,light,preshouse,locsens,remserv,opti,1
+1706,hvac,alert,cohvac,share,reco,1
+1706,tv,opauto,micro,remserv,reco,1
+1706,secu,lochouse,cosecu,share,opti,1
+1706,secu,alert,colight,locally,nothing,1
+1706,wash,opauto,coalarm,locally,reco,1

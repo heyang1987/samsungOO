@@ -1,0 +1,12 @@
+1912,refr,opauto,cowash,remserv,nothing,1
+1912,hvac,opauto,locsens,locally,nothing,0
+1912,light,opauto,cotv,share,reco,1
+1912,wash,lochouse,coassis,share,insight,0
+1912,secu,lochouse,cohvac,remserv,reco,0
+1912,assis,alert,coalarm,share,nothing,1
+1912,hvac,preshouse,colight,share,opti,0
+1912,tv,alert,cosecu,remserv,opti,0
+1912,assis,lochouse,watch,locally,reco,0
+1912,light,preshouse,micro,locally,insight,0
+1912,alarm,preshouse,corefri,remserv,insight,0
+1912,wash,alert,cam,locally,opti,0

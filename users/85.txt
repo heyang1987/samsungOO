@@ -1,0 +1,12 @@
+85,wash,lochouse,coalarm,share,insight,0
+85,refr,opauto,coassis,remserv,nothing,0
+85,assis,lochouse,corefri,locally,reco,1
+85,secu,lochouse,colight,remserv,reco,0
+85,assis,alert,cam,share,nothing,0
+85,tv,alert,cohvac,remserv,opti,0
+85,alarm,preshouse,cowash,remserv,insight,0
+85,hvac,opauto,micro,locally,nothing,0
+85,wash,alert,watch,locally,opti,0
+85,hvac,preshouse,cotv,share,opti,0
+85,light,preshouse,cosecu,locally,insight,1
+85,light,opauto,locsens,share,reco,0

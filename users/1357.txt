@@ -1,0 +1,12 @@
+1357,hvac,opauto,colight,share,opti,1
+1357,secu,alert,cohvac,remserv,reco,0
+1357,tv,lochouse,cosecu,remserv,opti,1
+1357,hvac,preshouse,locsens,locally,nothing,1
+1357,assis,alert,watch,locally,reco,1
+1357,light,preshouse,cotv,share,reco,1
+1357,light,opauto,micro,locally,insight,1
+1357,wash,lochouse,cam,locally,opti,0
+1357,refr,preshouse,cowash,remserv,nothing,0
+1357,assis,lochouse,coalarm,share,nothing,1
+1357,wash,alert,coassis,share,insight,0
+1357,alarm,opauto,corefri,remserv,insight,0

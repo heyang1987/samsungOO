@@ -1,0 +1,12 @@
+712,tv,preshouse,cohvac,share,nothing,0
+712,tv,opauto,cotv,locally,reco,1
+712,assis,alert,corefri,share,reco,1
+712,wash,alert,cowash,locally,nothing,0
+712,assis,lochouse,coassis,locally,insight,1
+712,hvac,alert,micro,remserv,nothing,1
+712,light,preshouse,colight,locally,opti,1
+712,alarm,preshouse,coalarm,remserv,opti,1
+712,refr,opauto,cam,remserv,reco,0
+712,light,opauto,cosecu,share,insight,0
+712,secu,lochouse,locsens,remserv,insight,1
+712,wash,lochouse,watch,share,opti,0

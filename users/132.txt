@@ -1,0 +1,12 @@
+132,wash,lochouse,cotv,remserv,opti,0
+132,hvac,alert,coassis,locally,reco,0
+132,tv,preshouse,cam,remserv,nothing,0
+132,refr,preshouse,cosecu,share,reco,0
+132,hvac,lochouse,corefri,share,nothing,0
+132,assis,alert,locsens,remserv,reco,0
+132,alarm,preshouse,cohvac,locally,nothing,0
+132,alarm,opauto,micro,share,opti,0
+132,secu,lochouse,cowash,locally,opti,0
+132,secu,alert,watch,share,insight,0
+132,light,opauto,coalarm,remserv,insight,0
+132,refr,opauto,colight,locally,insight,0

@@ -1,0 +1,12 @@
+1632,hvac,alert,cohvac,remserv,insight,1
+1632,assis,alert,coassis,share,opti,0
+1632,light,lochouse,colight,remserv,nothing,0
+1632,wash,preshouse,cowash,remserv,reco,0
+1632,assis,lochouse,cam,locally,nothing,0
+1632,alarm,alert,watch,locally,insight,1
+1632,refr,opauto,corefri,remserv,opti,1
+1632,tv,preshouse,cotv,share,insight,0
+1632,tv,opauto,micro,locally,opti,0
+1632,secu,preshouse,cosecu,locally,reco,0
+1632,alarm,lochouse,coalarm,share,reco,0
+1632,secu,opauto,locsens,share,nothing,0

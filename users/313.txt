@@ -1,0 +1,12 @@
+313,wash,opauto,cowash,remserv,reco,1
+313,alarm,lochouse,watch,locally,insight,1
+313,tv,opauto,cotv,share,insight,0
+313,secu,preshouse,locsens,share,nothing,0
+313,tv,preshouse,micro,locally,opti,1
+313,assis,lochouse,coassis,share,opti,0
+313,hvac,lochouse,cohvac,remserv,insight,1
+313,assis,alert,cam,locally,nothing,1
+313,secu,opauto,cosecu,locally,reco,1
+313,refr,preshouse,corefri,remserv,opti,0
+313,alarm,alert,coalarm,share,reco,0
+313,light,alert,colight,remserv,nothing,0

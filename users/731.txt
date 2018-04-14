@@ -1,0 +1,12 @@
+731,alarm,opauto,coassis,share,opti,1
+731,refr,opauto,watch,locally,insight,1
+731,alarm,preshouse,cam,locally,nothing,0
+731,refr,preshouse,coalarm,share,reco,0
+731,hvac,lochouse,locsens,share,nothing,0
+731,tv,preshouse,colight,remserv,nothing,0
+731,secu,lochouse,micro,locally,opti,1
+731,light,opauto,cohvac,remserv,insight,1
+731,hvac,alert,cosecu,locally,reco,0
+731,assis,alert,cowash,remserv,reco,1
+731,wash,lochouse,corefri,remserv,opti,0
+731,secu,alert,cotv,share,insight,0

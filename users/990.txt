@@ -1,0 +1,12 @@
+990,wash,preshouse,watch,remserv,insight,0
+990,tv,opauto,cotv,locally,nothing,1
+990,secu,opauto,colight,share,reco,1
+990,light,lochouse,cosecu,remserv,reco,0
+990,hvac,alert,micro,remserv,opti,1
+990,secu,preshouse,locsens,locally,insight,0
+990,alarm,alert,coalarm,locally,opti,1
+990,assis,opauto,corefri,remserv,nothing,1
+990,refr,lochouse,cam,locally,reco,0
+990,tv,preshouse,cohvac,share,opti,0
+990,refr,alert,coassis,share,nothing,1
+990,alarm,lochouse,cowash,share,insight,0

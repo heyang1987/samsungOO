@@ -1,0 +1,12 @@
+1675,assis,alert,coalarm,locally,opti,1
+1675,wash,opauto,corefri,remserv,nothing,0
+1675,alarm,lochouse,cam,locally,reco,0
+1675,secu,alert,micro,remserv,opti,0
+1675,assis,lochouse,cowash,share,insight,0
+1675,tv,opauto,colight,share,reco,1
+1675,hvac,lochouse,cosecu,remserv,reco,1
+1675,light,opauto,cotv,locally,nothing,0
+1675,light,preshouse,cohvac,share,opti,0
+1675,refr,preshouse,watch,remserv,insight,0
+1675,tv,preshouse,locsens,locally,insight,1
+1675,alarm,alert,coassis,share,nothing,1

@@ -1,0 +1,12 @@
+552,light,alert,cowash,locally,nothing,1
+552,tv,alert,corefri,share,reco,0
+552,wash,alert,micro,remserv,nothing,1
+552,light,lochouse,watch,share,opti,1
+552,secu,preshouse,coalarm,remserv,opti,1
+552,refr,lochouse,locsens,remserv,insight,0
+552,assis,preshouse,colight,locally,opti,1
+552,tv,lochouse,coassis,locally,insight,0
+552,alarm,opauto,cotv,locally,reco,1
+552,alarm,preshouse,cohvac,share,nothing,0
+552,hvac,opauto,cam,remserv,reco,1
+552,assis,opauto,cosecu,share,insight,1

@@ -1,0 +1,12 @@
+1046,refr,preshouse,cosecu,share,insight,1
+1046,secu,alert,watch,share,opti,1
+1046,assis,alert,locsens,remserv,insight,1
+1046,light,opauto,coalarm,remserv,opti,1
+1046,hvac,lochouse,corefri,share,reco,1
+1046,alarm,lochouse,micro,remserv,nothing,1
+1046,wash,preshouse,cotv,locally,reco,1
+1046,secu,lochouse,cowash,locally,nothing,1
+1046,hvac,alert,coassis,locally,insight,1
+1046,tv,preshouse,cam,remserv,reco,0
+1046,refr,opauto,colight,locally,opti,0
+1046,wash,opauto,cohvac,share,nothing,0

@@ -1,0 +1,12 @@
+2039,light,opauto,coassis,remserv,insight,0
+2039,alarm,opauto,locsens,share,opti,0
+2039,alarm,preshouse,cosecu,locally,nothing,0
+2039,secu,alert,cam,share,insight,0
+2039,refr,opauto,cohvac,locally,insight,1
+2039,wash,lochouse,colight,remserv,opti,0
+2039,hvac,alert,cowash,locally,reco,0
+2039,hvac,lochouse,watch,share,nothing,0
+2039,refr,preshouse,micro,share,reco,0
+2039,secu,lochouse,corefri,locally,opti,0
+2039,tv,preshouse,coalarm,remserv,nothing,0
+2039,assis,alert,cotv,remserv,reco,1

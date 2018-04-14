@@ -1,0 +1,12 @@
+511,assis,alert,watch,share,opti,0
+511,light,lochouse,micro,remserv,nothing,1
+511,hvac,alert,locsens,remserv,insight,0
+511,secu,preshouse,cotv,locally,reco,1
+511,assis,lochouse,cowash,locally,nothing,0
+511,secu,opauto,cohvac,share,nothing,0
+511,wash,preshouse,cam,remserv,reco,0
+511,tv,opauto,colight,locally,opti,0
+511,refr,opauto,coalarm,remserv,opti,0
+511,alarm,lochouse,corefri,share,reco,0
+511,tv,preshouse,cosecu,share,insight,0
+511,alarm,alert,coassis,locally,insight,1

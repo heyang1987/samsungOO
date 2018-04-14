@@ -1,0 +1,12 @@
+1083,alarm,alert,locsens,remserv,nothing,0
+1083,wash,opauto,colight,locally,reco,1
+1083,secu,lochouse,cam,share,opti,1
+1083,secu,alert,corefri,locally,nothing,1
+1083,refr,opauto,micro,share,insight,0
+1083,tv,opauto,coalarm,remserv,reco,1
+1083,hvac,lochouse,cowash,locally,insight,1
+1083,refr,preshouse,cohvac,locally,opti,1
+1083,hvac,alert,watch,share,reco,0
+1083,light,preshouse,coassis,remserv,opti,1
+1083,assis,lochouse,cotv,remserv,insight,1
+1083,wash,preshouse,cosecu,share,nothing,0

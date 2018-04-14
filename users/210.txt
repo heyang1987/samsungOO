@@ -1,0 +1,12 @@
+210,alarm,preshouse,watch,locally,reco,1
+210,alarm,opauto,coalarm,share,nothing,0
+210,wash,lochouse,cowash,remserv,nothing,0
+210,hvac,preshouse,cohvac,remserv,reco,1
+210,secu,opauto,cosecu,remserv,opti,1
+210,light,lochouse,locsens,locally,nothing,1
+210,tv,alert,micro,locally,insight,1
+210,refr,alert,corefri,remserv,insight,1
+210,light,alert,colight,share,opti,1
+210,assis,preshouse,coassis,share,insight,0
+210,tv,lochouse,cotv,share,reco,0
+210,assis,opauto,cam,locally,opti,0

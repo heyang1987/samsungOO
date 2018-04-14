@@ -1,0 +1,12 @@
+709,tv,lochouse,coassis,locally,nothing,0
+709,assis,lochouse,cosecu,remserv,nothing,0
+709,light,preshouse,watch,remserv,reco,0
+709,secu,alert,coalarm,locally,insight,0
+709,refr,opauto,colight,share,nothing,0
+709,refr,preshouse,locsens,locally,reco,0
+709,alarm,preshouse,cohvac,share,insight,0
+709,hvac,opauto,cam,remserv,opti,0
+709,wash,alert,micro,remserv,insight,0
+709,tv,alert,corefri,share,opti,0
+709,alarm,opauto,cotv,locally,opti,0
+709,secu,lochouse,cowash,share,reco,0

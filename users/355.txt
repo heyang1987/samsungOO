@@ -1,0 +1,12 @@
+355,wash,lochouse,cam,locally,nothing,1
+355,light,preshouse,cotv,share,insight,0
+355,hvac,lochouse,colight,remserv,nothing,1
+355,alarm,opauto,corefri,remserv,opti,1
+355,assis,alert,watch,locally,insight,1
+355,wash,alert,coassis,share,opti,0
+355,assis,lochouse,coalarm,share,reco,0
+355,refr,preshouse,cowash,remserv,reco,0
+355,tv,opauto,locsens,share,nothing,0
+355,tv,preshouse,cosecu,locally,reco,1
+355,secu,alert,cohvac,remserv,insight,1
+355,light,opauto,micro,locally,opti,1

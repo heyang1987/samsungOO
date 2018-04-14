@@ -1,0 +1,12 @@
+1838,wash,preshouse,corefri,locally,reco,0
+1838,hvac,lochouse,locsens,share,reco,1
+1838,hvac,alert,cosecu,locally,insight,1
+1838,light,opauto,cohvac,remserv,opti,1
+1838,assis,alert,cowash,remserv,insight,0
+1838,alarm,lochouse,coassis,remserv,nothing,1
+1838,refr,preshouse,coalarm,share,insight,0
+1838,secu,lochouse,micro,locally,nothing,1
+1838,wash,opauto,cam,share,nothing,0
+1838,secu,alert,cotv,share,opti,0
+1838,tv,preshouse,colight,remserv,reco,1
+1838,refr,opauto,watch,locally,opti,1

@@ -1,0 +1,12 @@
+1712,refr,lochouse,cohvac,locally,opti,1
+1712,secu,preshouse,corefri,locally,nothing,1
+1712,wash,alert,colight,locally,reco,1
+1712,refr,alert,micro,share,insight,1
+1712,hvac,opauto,cowash,locally,insight,1
+1712,light,lochouse,coassis,remserv,opti,1
+1712,wash,lochouse,cosecu,share,nothing,1
+1712,assis,opauto,cotv,remserv,insight,1
+1712,hvac,preshouse,watch,share,reco,1
+1712,tv,alert,coalarm,remserv,reco,1
+1712,alarm,preshouse,locsens,remserv,nothing,1
+1712,secu,opauto,cam,share,opti,1

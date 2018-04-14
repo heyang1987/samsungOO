@@ -1,0 +1,12 @@
+1217,light,preshouse,locsens,share,opti,1
+1217,alarm,alert,watch,share,nothing,1
+1217,assis,lochouse,cam,share,insight,1
+1217,wash,opauto,coalarm,remserv,nothing,1
+1217,light,opauto,cosecu,locally,nothing,1
+1217,assis,alert,corefri,locally,opti,1
+1217,secu,alert,colight,remserv,opti,1
+1217,tv,opauto,micro,share,reco,1
+1217,tv,preshouse,cohvac,locally,insight,1
+1217,hvac,lochouse,cotv,remserv,reco,1
+1217,alarm,lochouse,cowash,locally,reco,0
+1217,refr,preshouse,coassis,remserv,insight,0

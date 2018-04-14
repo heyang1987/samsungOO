@@ -1,0 +1,12 @@
+1783,secu,lochouse,corefri,locally,nothing,1
+1783,refr,opauto,cohvac,locally,opti,1
+1783,assis,alert,cotv,remserv,insight,1
+1783,wash,preshouse,colight,locally,reco,1
+1783,secu,alert,cam,share,opti,0
+1783,hvac,alert,cowash,locally,insight,1
+1783,hvac,lochouse,watch,share,reco,0
+1783,alarm,lochouse,locsens,remserv,nothing,1
+1783,wash,opauto,cosecu,share,nothing,0
+1783,tv,preshouse,coalarm,remserv,reco,0
+1783,refr,preshouse,micro,share,insight,0
+1783,light,opauto,coassis,remserv,opti,1

@@ -1,0 +1,12 @@
+124,hvac,opauto,cosecu,locally,reco,1
+124,tv,alert,colight,remserv,nothing,0
+124,alarm,alert,cam,locally,nothing,0
+124,refr,alert,coalarm,share,reco,0
+124,refr,lochouse,watch,locally,insight,1
+124,alarm,lochouse,coassis,share,opti,0
+124,secu,opauto,cotv,share,insight,0
+124,assis,opauto,cowash,remserv,reco,1
+124,wash,preshouse,corefri,remserv,opti,1
+124,hvac,preshouse,locsens,share,nothing,0
+124,secu,preshouse,micro,locally,opti,1
+124,light,lochouse,cohvac,remserv,insight,1

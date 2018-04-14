@@ -1,0 +1,12 @@
+297,refr,alert,cowash,locally,reco,0
+297,tv,opauto,locsens,share,opti,0
+297,alarm,alert,cam,share,insight,0
+297,refr,lochouse,watch,share,nothing,0
+297,tv,preshouse,cosecu,locally,nothing,0
+297,wash,opauto,coassis,remserv,insight,0
+297,secu,opauto,cohvac,locally,insight,0
+297,hvac,lochouse,colight,remserv,opti,0
+297,alarm,lochouse,corefri,locally,opti,0
+297,secu,preshouse,micro,share,reco,0
+297,light,alert,cotv,remserv,reco,0
+297,assis,preshouse,coalarm,remserv,nothing,0

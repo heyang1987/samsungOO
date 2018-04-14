@@ -1,0 +1,12 @@
+961,secu,alert,cam,remserv,insight,1
+961,wash,alert,cosecu,share,opti,0
+961,hvac,lochouse,watch,remserv,nothing,0
+961,tv,preshouse,coalarm,locally,reco,1
+961,light,preshouse,corefri,share,insight,1
+961,alarm,opauto,locsens,remserv,opti,1
+961,assis,lochouse,cohvac,share,reco,1
+961,refr,preshouse,micro,remserv,reco,1
+961,tv,opauto,cowash,share,nothing,1
+961,light,opauto,coassis,locally,opti,1
+961,assis,alert,cotv,locally,insight,1
+961,wash,lochouse,colight,locally,nothing,0

@@ -1,0 +1,12 @@
+1036,tv,lochouse,micro,share,opti,0
+1036,alarm,opauto,watch,share,insight,1
+1036,secu,lochouse,colight,locally,insight,0
+1036,alarm,preshouse,cowash,locally,opti,1
+1036,assis,alert,cam,remserv,nothing,0
+1036,hvac,preshouse,cotv,remserv,opti,1
+1036,refr,preshouse,corefri,share,nothing,0
+1036,refr,opauto,coassis,locally,reco,1
+1036,light,opauto,locsens,remserv,reco,1
+1036,wash,lochouse,coalarm,remserv,insight,0
+1036,tv,alert,cohvac,locally,nothing,1
+1036,secu,alert,cosecu,share,reco,0

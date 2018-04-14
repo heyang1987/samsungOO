@@ -1,0 +1,12 @@
+1866,light,opauto,cam,share,nothing,1
+1866,secu,lochouse,coassis,remserv,nothing,1
+1866,assis,opauto,cohvac,remserv,opti,1
+1866,tv,alert,cowash,remserv,insight,1
+1866,wash,alert,cosecu,locally,insight,1
+1866,hvac,preshouse,coalarm,share,insight,1
+1866,refr,alert,cotv,share,opti,1
+1866,refr,lochouse,micro,locally,nothing,1
+1866,alarm,preshouse,colight,remserv,reco,1
+1866,hvac,opauto,watch,locally,opti,1
+1866,light,preshouse,corefri,locally,reco,1
+1866,wash,lochouse,locsens,share,reco,1

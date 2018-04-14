@@ -1,0 +1,12 @@
+1442,wash,opauto,watch,share,nothing,1
+1442,hvac,lochouse,micro,share,reco,1
+1442,refr,opauto,corefri,locally,opti,1
+1442,tv,preshouse,cotv,remserv,reco,1
+1442,secu,lochouse,cosecu,locally,nothing,1
+1442,secu,alert,locsens,share,opti,1
+1442,alarm,lochouse,coalarm,remserv,nothing,1
+1442,refr,preshouse,cam,share,insight,1
+1442,wash,preshouse,cowash,locally,reco,1
+1442,light,opauto,colight,remserv,opti,1
+1442,hvac,alert,cohvac,locally,insight,1
+1442,assis,alert,coassis,remserv,insight,1

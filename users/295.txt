@@ -1,0 +1,12 @@
+295,tv,lochouse,colight,locally,insight,1
+295,refr,lochouse,coalarm,remserv,insight,0
+295,wash,alert,cam,remserv,nothing,1
+295,tv,alert,cosecu,share,reco,1
+295,secu,preshouse,cotv,remserv,opti,1
+295,assis,preshouse,cowash,locally,opti,1
+295,light,lochouse,micro,share,opti,1
+295,light,alert,cohvac,locally,nothing,1
+295,alarm,opauto,coassis,locally,reco,1
+295,hvac,opauto,locsens,remserv,reco,1
+295,assis,opauto,watch,share,insight,0
+295,alarm,preshouse,corefri,share,nothing,1

@@ -1,0 +1,12 @@
+489,light,preshouse,coalarm,share,insight,0
+489,tv,preshouse,corefri,locally,reco,0
+489,alarm,opauto,cohvac,remserv,opti,1
+489,tv,opauto,cam,share,nothing,0
+489,secu,alert,cowash,remserv,insight,0
+489,assis,lochouse,locsens,share,reco,0
+489,wash,lochouse,micro,locally,nothing,0
+489,wash,alert,cotv,share,opti,0
+489,hvac,lochouse,coassis,remserv,nothing,0
+489,refr,preshouse,colight,remserv,reco,0
+489,light,opauto,watch,locally,opti,1
+489,assis,alert,cosecu,locally,insight,0

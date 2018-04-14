@@ -1,0 +1,12 @@
+1486,light,lochouse,coassis,remserv,reco,1
+1486,tv,opauto,watch,locally,nothing,1
+1486,hvac,alert,cowash,remserv,opti,0
+1486,secu,opauto,cam,share,reco,0
+1486,refr,alert,micro,share,nothing,1
+1486,refr,lochouse,cohvac,locally,reco,0
+1486,tv,preshouse,coalarm,share,opti,0
+1486,alarm,alert,cosecu,locally,opti,0
+1486,assis,opauto,cotv,remserv,nothing,1
+1486,secu,preshouse,corefri,locally,insight,1
+1486,alarm,lochouse,locsens,share,insight,0
+1486,wash,preshouse,colight,remserv,insight,0

@@ -1,0 +1,12 @@
+296,wash,lochouse,corefri,locally,opti,1
+296,alarm,opauto,coassis,remserv,insight,1
+296,assis,alert,cowash,locally,reco,1
+296,secu,alert,cotv,remserv,reco,1
+296,tv,lochouse,colight,remserv,opti,1
+296,assis,lochouse,watch,share,nothing,1
+296,wash,alert,cam,share,insight,1
+296,light,opauto,cohvac,locally,insight,1
+296,refr,preshouse,coalarm,remserv,nothing,1
+296,hvac,opauto,locsens,share,opti,1
+296,light,preshouse,micro,share,reco,1
+296,hvac,preshouse,cosecu,locally,nothing,1

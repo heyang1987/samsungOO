@@ -1,0 +1,12 @@
+1994,wash,preshouse,cam,remserv,nothing,1
+1994,alarm,alert,coassis,locally,reco,1
+1994,refr,opauto,coalarm,remserv,insight,1
+1994,tv,opauto,colight,locally,insight,1
+1994,hvac,alert,locsens,remserv,reco,1
+1994,assis,alert,watch,share,insight,1
+1994,assis,lochouse,cowash,locally,opti,1
+1994,light,opauto,micro,share,opti,1
+1994,secu,lochouse,cotv,remserv,opti,1
+1994,light,preshouse,cohvac,locally,nothing,1
+1994,tv,preshouse,cosecu,share,reco,1
+1994,alarm,lochouse,corefri,share,nothing,0

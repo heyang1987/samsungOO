@@ -1,0 +1,12 @@
+1873,refr,lochouse,micro,remserv,insight,0
+1873,alarm,opauto,locsens,locally,reco,0
+1873,assis,opauto,cohvac,share,insight,1
+1873,tv,lochouse,coalarm,locally,insight,0
+1873,wash,alert,cosecu,remserv,nothing,1
+1873,light,lochouse,corefri,share,opti,1
+1873,alarm,preshouse,colight,share,nothing,0
+1873,secu,preshouse,cam,remserv,opti,1
+1873,assis,preshouse,cotv,locally,opti,1
+1873,tv,alert,cowash,share,reco,0
+1873,light,alert,coassis,locally,nothing,1
+1873,hvac,opauto,watch,remserv,reco,1

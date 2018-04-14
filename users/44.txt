@@ -1,0 +1,12 @@
+44,hvac,lochouse,locsens,share,opti,1
+44,secu,opauto,cotv,remserv,reco,1
+44,assis,preshouse,watch,share,nothing,1
+44,light,alert,micro,share,reco,1
+44,tv,preshouse,colight,remserv,opti,1
+44,assis,opauto,cowash,locally,reco,1
+44,refr,alert,coalarm,remserv,nothing,1
+44,hvac,alert,cosecu,locally,nothing,0
+44,wash,opauto,cam,share,insight,1
+44,light,lochouse,cohvac,locally,insight,1
+44,alarm,lochouse,coassis,remserv,insight,1
+44,wash,preshouse,corefri,locally,opti,1

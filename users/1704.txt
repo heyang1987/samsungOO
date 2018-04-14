@@ -1,0 +1,12 @@
+1704,refr,alert,micro,share,insight,0
+1704,wash,alert,colight,locally,reco,0
+1704,tv,alert,coalarm,remserv,reco,1
+1704,hvac,opauto,cowash,locally,insight,0
+1704,hvac,preshouse,watch,share,reco,0
+1704,assis,opauto,cotv,remserv,insight,0
+1704,secu,opauto,cam,share,opti,1
+1704,alarm,preshouse,locsens,remserv,nothing,0
+1704,secu,preshouse,corefri,locally,nothing,0
+1704,light,lochouse,coassis,remserv,opti,0
+1704,refr,lochouse,cohvac,locally,opti,0
+1704,wash,lochouse,cosecu,share,nothing,0

@@ -1,0 +1,12 @@
+193,alarm,alert,coassis,locally,reco,0
+193,assis,lochouse,cowash,locally,opti,0
+193,refr,opauto,coalarm,remserv,insight,0
+193,alarm,lochouse,corefri,share,nothing,0
+193,wash,preshouse,cam,remserv,nothing,0
+193,light,preshouse,cohvac,locally,nothing,0
+193,light,opauto,micro,share,opti,0
+193,assis,alert,watch,share,insight,0
+193,secu,lochouse,cotv,remserv,opti,0
+193,hvac,alert,locsens,remserv,reco,0
+193,tv,opauto,colight,locally,insight,0
+193,tv,preshouse,cosecu,share,reco,0

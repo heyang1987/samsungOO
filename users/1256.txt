@@ -1,0 +1,12 @@
+1256,light,lochouse,micro,remserv,insight,0
+1256,alarm,alert,coassis,locally,nothing,0
+1256,hvac,opauto,locsens,locally,reco,1
+1256,secu,opauto,cohvac,share,insight,0
+1256,assis,opauto,watch,remserv,reco,0
+1256,refr,lochouse,coalarm,locally,insight,0
+1256,refr,alert,cowash,share,reco,0
+1256,wash,preshouse,cam,remserv,opti,0
+1256,alarm,lochouse,corefri,share,opti,0
+1256,secu,preshouse,cotv,locally,opti,1
+1256,hvac,preshouse,colight,share,nothing,0
+1256,tv,alert,cosecu,remserv,nothing,1

@@ -1,0 +1,12 @@
+1844,hvac,preshouse,cosecu,share,insight,0
+1844,refr,lochouse,cowash,locally,nothing,0
+1844,light,preshouse,cotv,locally,reco,0
+1844,secu,lochouse,micro,remserv,nothing,0
+1844,wash,lochouse,corefri,share,reco,0
+1844,assis,opauto,coalarm,remserv,opti,1
+1844,light,opauto,cohvac,share,nothing,0
+1844,wash,alert,coassis,locally,insight,1
+1844,alarm,preshouse,cam,remserv,reco,0
+1844,tv,alert,locsens,remserv,insight,1
+1844,refr,alert,watch,share,opti,0
+1844,hvac,opauto,colight,locally,opti,1

@@ -1,0 +1,12 @@
+1019,light,lochouse,corefri,share,nothing,1
+1019,tv,opauto,coalarm,remserv,insight,1
+1019,light,alert,coassis,locally,reco,1
+1019,alarm,alert,locsens,remserv,reco,1
+1019,assis,lochouse,cotv,remserv,opti,1
+1019,hvac,lochouse,cowash,locally,opti,1
+1019,refr,opauto,micro,share,opti,1
+1019,wash,preshouse,cosecu,share,reco,0
+1019,refr,preshouse,cohvac,locally,nothing,1
+1019,wash,opauto,colight,locally,insight,1
+1019,secu,preshouse,cam,remserv,nothing,1
+1019,hvac,alert,watch,share,insight,0

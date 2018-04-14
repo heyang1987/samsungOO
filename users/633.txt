@@ -1,0 +1,12 @@
+633,tv,opauto,cosecu,remserv,opti,0
+633,hvac,lochouse,locsens,locally,nothing,0
+633,wash,preshouse,coassis,share,insight,0
+633,light,lochouse,cotv,share,reco,0
+633,wash,opauto,cam,locally,opti,0
+633,assis,opauto,coalarm,share,nothing,0
+633,light,alert,micro,locally,insight,0
+633,hvac,alert,colight,share,opti,0
+633,assis,preshouse,watch,locally,reco,0
+633,refr,lochouse,cowash,remserv,nothing,0
+633,alarm,alert,corefri,remserv,insight,0
+633,secu,preshouse,cohvac,remserv,reco,0

@@ -1,0 +1,12 @@
+656,alarm,opauto,cosecu,remserv,opti,1
+656,secu,alert,corefri,remserv,insight,1
+656,wash,alert,colight,share,opti,1
+656,tv,opauto,coalarm,share,nothing,1
+656,tv,preshouse,watch,locally,reco,1
+656,refr,preshouse,cohvac,remserv,reco,1
+656,assis,lochouse,cotv,share,reco,1
+656,hvac,lochouse,cowash,remserv,nothing,1
+656,assis,alert,micro,locally,insight,1
+656,light,preshouse,coassis,share,insight,1
+656,light,opauto,cam,locally,opti,1
+656,wash,lochouse,locsens,locally,nothing,1

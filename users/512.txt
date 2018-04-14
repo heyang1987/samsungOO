@@ -1,0 +1,12 @@
+512,tv,opauto,coassis,remserv,insight,0
+512,hvac,lochouse,corefri,locally,opti,1
+512,hvac,alert,cam,share,insight,0
+512,refr,preshouse,cosecu,locally,nothing,1
+512,secu,preshouse,coalarm,remserv,nothing,1
+512,refr,opauto,locsens,share,opti,0
+512,light,lochouse,watch,share,nothing,0
+512,light,alert,cowash,locally,reco,0
+512,wash,preshouse,micro,share,reco,0
+512,alarm,alert,cotv,remserv,reco,0
+512,wash,opauto,cohvac,locally,insight,1
+512,assis,lochouse,colight,remserv,opti,0

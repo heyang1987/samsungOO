@@ -1,0 +1,12 @@
+421,secu,lochouse,watch,locally,nothing,1
+421,hvac,lochouse,cam,share,reco,0
+421,refr,opauto,cosecu,locally,opti,1
+421,wash,opauto,micro,share,nothing,0
+421,tv,preshouse,coassis,remserv,reco,0
+421,hvac,alert,corefri,locally,insight,1
+421,light,opauto,cowash,remserv,opti,0
+421,refr,preshouse,locsens,share,insight,0
+421,assis,alert,colight,remserv,insight,1
+421,secu,alert,coalarm,share,opti,0
+421,alarm,lochouse,cotv,remserv,nothing,0
+421,wash,preshouse,cohvac,locally,reco,0

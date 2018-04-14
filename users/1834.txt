@@ -1,0 +1,12 @@
+1834,light,lochouse,micro,remserv,opti,1
+1834,secu,preshouse,cotv,locally,nothing,1
+1834,tv,alert,cosecu,remserv,reco,1
+1834,refr,alert,cowash,share,insight,0
+1834,refr,lochouse,coalarm,locally,opti,0
+1834,alarm,preshouse,corefri,remserv,nothing,0
+1834,hvac,opauto,locsens,locally,insight,1
+1834,secu,opauto,cohvac,share,opti,0
+1834,assis,opauto,watch,remserv,insight,1
+1834,wash,alert,cam,locally,reco,1
+1834,hvac,preshouse,colight,share,reco,1
+1834,wash,lochouse,coassis,share,nothing,1

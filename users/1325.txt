@@ -1,0 +1,12 @@
+1325,tv,opauto,cotv,remserv,nothing,0
+1325,refr,opauto,cam,share,reco,0
+1325,secu,alert,cosecu,locally,opti,1
+1325,alarm,preshouse,coalarm,share,opti,0
+1325,hvac,alert,micro,share,nothing,0
+1325,refr,preshouse,corefri,locally,insight,0
+1325,light,preshouse,colight,remserv,insight,1
+1325,secu,lochouse,locsens,share,insight,0
+1325,assis,lochouse,coassis,remserv,reco,1
+1325,alarm,opauto,watch,locally,nothing,1
+1325,wash,alert,cowash,remserv,opti,1
+1325,hvac,lochouse,cohvac,locally,reco,1

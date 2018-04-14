@@ -1,0 +1,12 @@
+725,alarm,lochouse,watch,remserv,reco,0
+725,secu,opauto,cosecu,remserv,nothing,1
+725,refr,preshouse,corefri,share,opti,0
+725,tv,preshouse,micro,remserv,insight,0
+725,assis,alert,cam,remserv,opti,0
+725,hvac,alert,cotv,locally,opti,0
+725,wash,preshouse,coalarm,locally,insight,1
+725,light,lochouse,locsens,locally,reco,1
+725,refr,opauto,coassis,locally,nothing,1
+725,hvac,lochouse,cohvac,share,insight,0
+725,wash,opauto,cowash,share,reco,1
+725,light,alert,colight,share,nothing,0

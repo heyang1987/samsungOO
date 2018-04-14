@@ -1,0 +1,12 @@
+694,refr,alert,cosecu,locally,nothing,1
+694,hvac,preshouse,corefri,locally,opti,1
+694,wash,alert,micro,share,reco,0
+694,secu,alert,coalarm,remserv,nothing,1
+694,tv,lochouse,coassis,remserv,insight,0
+694,refr,lochouse,locsens,share,opti,1
+694,wash,lochouse,cohvac,locally,insight,1
+694,light,preshouse,watch,share,nothing,1
+694,light,opauto,cowash,locally,reco,0
+694,hvac,opauto,cam,share,insight,1
+694,alarm,opauto,cotv,remserv,reco,1
+694,assis,preshouse,colight,remserv,opti,1

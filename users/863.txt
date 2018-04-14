@@ -1,0 +1,12 @@
+863,wash,lochouse,micro,locally,nothing,0
+863,light,preshouse,coalarm,share,insight,1
+863,secu,alert,cowash,remserv,insight,1
+863,light,opauto,watch,locally,opti,1
+863,tv,opauto,cam,share,nothing,0
+863,assis,lochouse,locsens,share,reco,0
+863,wash,alert,cotv,share,opti,0
+863,alarm,opauto,cohvac,remserv,opti,0
+863,tv,preshouse,corefri,locally,reco,1
+863,hvac,lochouse,coassis,remserv,nothing,1
+863,assis,alert,cosecu,locally,insight,1
+863,refr,preshouse,colight,remserv,reco,0

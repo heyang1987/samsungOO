@@ -1,0 +1,12 @@
+463,light,alert,colight,remserv,nothing,0
+463,alarm,lochouse,watch,locally,insight,1
+463,secu,preshouse,locsens,share,nothing,0
+463,assis,alert,cam,locally,nothing,0
+463,refr,preshouse,corefri,remserv,opti,0
+463,hvac,lochouse,cohvac,remserv,insight,0
+463,assis,lochouse,coassis,share,opti,0
+463,secu,opauto,cosecu,locally,reco,0
+463,alarm,alert,coalarm,share,reco,0
+463,tv,opauto,cotv,share,insight,0
+463,tv,preshouse,micro,locally,opti,0
+463,wash,opauto,cowash,remserv,reco,1

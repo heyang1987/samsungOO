@@ -1,0 +1,12 @@
+894,assis,alert,micro,share,reco,0
+894,tv,preshouse,watch,share,nothing,0
+894,assis,lochouse,cohvac,locally,insight,0
+894,secu,lochouse,coassis,remserv,insight,0
+894,refr,opauto,cotv,remserv,reco,0
+894,alarm,preshouse,colight,remserv,opti,0
+894,light,opauto,cam,share,insight,0
+894,tv,opauto,cowash,locally,reco,0
+894,light,preshouse,corefri,locally,opti,1
+894,hvac,alert,coalarm,remserv,nothing,0
+894,wash,lochouse,locsens,share,opti,0
+894,wash,alert,cosecu,locally,nothing,0

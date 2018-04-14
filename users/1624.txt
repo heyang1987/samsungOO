@@ -1,0 +1,12 @@
+1624,assis,preshouse,colight,locally,nothing,1
+1624,tv,lochouse,coassis,locally,opti,0
+1624,light,preshouse,watch,remserv,nothing,0
+1624,refr,lochouse,locsens,remserv,opti,0
+1624,secu,lochouse,cowash,share,nothing,0
+1624,wash,alert,micro,remserv,reco,1
+1624,alarm,opauto,cotv,locally,insight,1
+1624,secu,alert,coalarm,locally,reco,0
+1624,alarm,preshouse,cohvac,share,reco,0
+1624,tv,alert,corefri,share,insight,0
+1624,assis,opauto,cosecu,share,opti,0
+1624,hvac,opauto,cam,remserv,insight,0

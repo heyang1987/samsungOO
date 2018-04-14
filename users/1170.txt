@@ -1,0 +1,12 @@
+1170,alarm,lochouse,cam,locally,insight,0
+1170,assis,alert,coalarm,locally,nothing,1
+1170,secu,preshouse,cotv,share,nothing,0
+1170,wash,opauto,corefri,remserv,reco,0
+1170,tv,preshouse,locsens,locally,opti,0
+1170,assis,lochouse,cowash,share,opti,0
+1170,hvac,lochouse,cosecu,remserv,insight,1
+1170,refr,preshouse,watch,remserv,opti,0
+1170,secu,opauto,micro,locally,reco,0
+1170,light,alert,cohvac,remserv,nothing,1
+1170,alarm,alert,coassis,share,reco,0
+1170,tv,opauto,colight,share,insight,0

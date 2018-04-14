@@ -1,0 +1,12 @@
+583,alarm,lochouse,coalarm,locally,opti,1
+583,tv,opauto,cohvac,share,opti,0
+583,refr,lochouse,coassis,share,nothing,0
+583,alarm,alert,cowash,share,insight,1
+583,tv,preshouse,cotv,locally,nothing,0
+583,refr,alert,cam,locally,reco,0
+583,secu,opauto,locsens,locally,insight,1
+583,assis,preshouse,corefri,remserv,nothing,1
+583,hvac,lochouse,micro,remserv,opti,1
+583,secu,preshouse,colight,share,reco,0
+583,light,alert,cosecu,remserv,reco,0
+583,wash,opauto,watch,remserv,insight,0

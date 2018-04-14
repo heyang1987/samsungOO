@@ -1,0 +1,12 @@
+233,wash,preshouse,colight,share,nothing,0
+233,refr,opauto,cohvac,share,insight,1
+233,assis,lochouse,micro,remserv,insight,1
+233,tv,opauto,watch,remserv,reco,1
+233,secu,alert,coassis,locally,nothing,1
+233,light,preshouse,cam,remserv,opti,0
+233,alarm,alert,cosecu,remserv,nothing,1
+233,wash,opauto,locsens,locally,reco,0
+233,secu,lochouse,corefri,share,opti,0
+233,hvac,alert,cowash,share,reco,0
+233,hvac,lochouse,coalarm,locally,insight,1
+233,refr,preshouse,cotv,locally,opti,0

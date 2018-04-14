@@ -1,0 +1,12 @@
+738,tv,preshouse,cotv,remserv,opti,0
+738,assis,preshouse,corefri,share,nothing,0
+738,wash,opauto,watch,share,insight,0
+738,secu,opauto,locsens,remserv,reco,1
+738,refr,alert,cam,remserv,nothing,1
+738,light,alert,cosecu,share,reco,0
+738,hvac,lochouse,micro,share,opti,0
+738,assis,opauto,coassis,locally,reco,1
+738,light,lochouse,colight,locally,insight,1
+738,wash,preshouse,cowash,locally,opti,1
+738,alarm,lochouse,coalarm,remserv,insight,1
+738,hvac,alert,cohvac,locally,nothing,0

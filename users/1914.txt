@@ -1,0 +1,12 @@
+1914,hvac,preshouse,coalarm,remserv,reco,1
+1914,secu,opauto,coassis,remserv,opti,1
+1914,alarm,preshouse,colight,locally,reco,1
+1914,alarm,opauto,cosecu,share,nothing,0
+1914,assis,opauto,cohvac,locally,opti,1
+1914,light,alert,cam,share,opti,0
+1914,tv,lochouse,watch,share,reco,0
+1914,refr,alert,cotv,remserv,insight,1
+1914,wash,lochouse,locsens,remserv,nothing,0
+1914,light,lochouse,corefri,locally,nothing,0
+1914,assis,preshouse,micro,share,insight,0
+1914,tv,alert,cowash,locally,insight,0

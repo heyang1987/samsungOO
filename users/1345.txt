@@ -1,0 +1,12 @@
+1345,light,opauto,cowash,remserv,nothing,1
+1345,alarm,preshouse,micro,locally,insight,1
+1345,assis,preshouse,colight,share,opti,1
+1345,wash,lochouse,cohvac,remserv,reco,1
+1345,assis,opauto,locsens,locally,nothing,1
+1345,refr,alert,cosecu,remserv,opti,1
+1345,hvac,preshouse,corefri,remserv,insight,1
+1345,secu,lochouse,watch,locally,reco,1
+1345,tv,lochouse,coassis,share,insight,1
+1345,tv,alert,cam,locally,opti,1
+1345,alarm,opauto,cotv,share,reco,1
+1345,secu,alert,coalarm,share,nothing,1

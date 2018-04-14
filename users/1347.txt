@@ -1,0 +1,12 @@
+1347,tv,opauto,watch,remserv,nothing,1
+1347,wash,alert,locsens,remserv,opti,1
+1347,alarm,opauto,colight,locally,nothing,0
+1347,refr,opauto,cohvac,share,reco,1
+1347,hvac,alert,cowash,share,nothing,1
+1347,assis,lochouse,micro,remserv,reco,0
+1347,secu,lochouse,corefri,share,insight,1
+1347,refr,preshouse,cotv,locally,insight,1
+1347,light,preshouse,cam,remserv,insight,1
+1347,hvac,lochouse,coalarm,locally,reco,1
+1347,alarm,preshouse,cosecu,share,opti,1
+1347,secu,alert,coassis,locally,opti,1

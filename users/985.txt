@@ -1,0 +1,12 @@
+985,secu,alert,cosecu,remserv,opti,1
+985,tv,opauto,cotv,share,reco,1
+985,wash,opauto,cowash,remserv,nothing,0
+985,alarm,lochouse,watch,locally,reco,1
+985,assis,alert,cam,locally,opti,1
+985,tv,preshouse,micro,locally,insight,1
+985,alarm,alert,coalarm,share,nothing,0
+985,assis,lochouse,coassis,share,insight,0
+985,light,preshouse,colight,share,opti,0
+985,refr,preshouse,corefri,remserv,insight,1
+985,light,opauto,locsens,locally,nothing,1
+985,hvac,lochouse,cohvac,remserv,reco,0

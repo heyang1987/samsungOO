@@ -1,0 +1,12 @@
+680,wash,lochouse,coalarm,remserv,opti,1
+680,hvac,alert,cotv,locally,reco,1
+680,assis,alert,cam,remserv,reco,1
+680,hvac,lochouse,cohvac,share,nothing,1
+680,secu,lochouse,colight,locally,opti,1
+680,tv,preshouse,micro,remserv,nothing,0
+680,refr,preshouse,corefri,share,reco,0
+680,alarm,preshouse,cowash,locally,nothing,1
+680,secu,alert,cosecu,share,insight,0
+680,alarm,opauto,watch,share,opti,1
+680,refr,opauto,coassis,locally,insight,1
+680,light,opauto,locsens,remserv,insight,1

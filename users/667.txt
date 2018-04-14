@@ -1,0 +1,12 @@
+667,assis,preshouse,cotv,locally,insight,0
+667,refr,lochouse,micro,remserv,reco,1
+667,secu,preshouse,cam,remserv,insight,1
+667,tv,alert,cowash,share,nothing,0
+667,light,lochouse,corefri,share,insight,0
+667,light,alert,coassis,locally,opti,1
+667,wash,preshouse,cosecu,share,opti,0
+667,assis,opauto,cohvac,share,reco,0
+667,tv,lochouse,coalarm,locally,reco,1
+667,hvac,opauto,watch,remserv,nothing,1
+667,alarm,alert,locsens,remserv,opti,0
+667,wash,opauto,colight,locally,nothing,1

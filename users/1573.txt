@@ -1,0 +1,12 @@
+1573,wash,preshouse,cosecu,locally,nothing,0
+1573,alarm,lochouse,colight,remserv,opti,0
+1573,wash,opauto,locsens,share,opti,1
+1573,light,alert,cam,share,insight,1
+1573,assis,preshouse,micro,share,reco,1
+1573,assis,opauto,cohvac,locally,insight,1
+1573,refr,alert,cotv,remserv,reco,1
+1573,hvac,preshouse,coalarm,remserv,nothing,1
+1573,tv,alert,cowash,locally,reco,1
+1573,light,lochouse,corefri,locally,opti,0
+1573,tv,lochouse,watch,share,nothing,1
+1573,secu,opauto,coassis,remserv,insight,1

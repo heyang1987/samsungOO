@@ -1,0 +1,12 @@
+1291,wash,opauto,cotv,share,opti,0
+1291,assis,opauto,cosecu,locally,insight,1
+1291,refr,alert,colight,remserv,reco,0
+1291,light,alert,coalarm,share,insight,0
+1291,alarm,lochouse,cohvac,remserv,opti,0
+1291,light,lochouse,watch,locally,opti,1
+1291,secu,opauto,cowash,remserv,insight,0
+1291,wash,preshouse,micro,locally,nothing,0
+1291,tv,alert,corefri,locally,reco,1
+1291,hvac,preshouse,coassis,remserv,nothing,0
+1291,assis,preshouse,locsens,share,reco,0
+1291,tv,lochouse,cam,share,nothing,0

@@ -1,0 +1,12 @@
+103,light,lochouse,colight,locally,insight,1
+103,assis,preshouse,corefri,share,nothing,0
+103,alarm,lochouse,coalarm,remserv,insight,0
+103,wash,preshouse,cowash,locally,opti,1
+103,refr,alert,cam,remserv,nothing,1
+103,hvac,alert,cohvac,locally,nothing,1
+103,tv,preshouse,cotv,remserv,opti,0
+103,hvac,lochouse,micro,share,opti,0
+103,secu,opauto,locsens,remserv,reco,1
+103,assis,opauto,coassis,locally,reco,0
+103,light,alert,cosecu,share,reco,1
+103,wash,opauto,watch,share,insight,1

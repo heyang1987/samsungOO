@@ -1,0 +1,12 @@
+1274,assis,lochouse,watch,locally,insight,0
+1274,wash,alert,cam,locally,nothing,0
+1274,tv,preshouse,locsens,share,nothing,0
+1274,assis,alert,coalarm,share,reco,0
+1274,hvac,alert,colight,remserv,nothing,1
+1274,secu,lochouse,cohvac,remserv,insight,1
+1274,alarm,preshouse,corefri,remserv,opti,0
+1274,tv,opauto,cosecu,locally,reco,0
+1274,light,opauto,cotv,share,insight,0
+1274,refr,opauto,cowash,remserv,reco,0
+1274,light,preshouse,micro,locally,opti,1
+1274,wash,lochouse,coassis,share,opti,0

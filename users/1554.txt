@@ -1,0 +1,12 @@
+1554,refr,alert,cotv,remserv,nothing,1
+1554,secu,opauto,coassis,remserv,reco,0
+1554,hvac,alert,watch,locally,nothing,1
+1554,tv,preshouse,cowash,remserv,opti,0
+1554,assis,opauto,cohvac,locally,reco,0
+1554,assis,preshouse,micro,share,nothing,0
+1554,wash,preshouse,cosecu,locally,opti,1
+1554,alarm,lochouse,colight,remserv,insight,1
+1554,light,alert,cam,share,reco,0
+1554,hvac,lochouse,coalarm,share,opti,1
+1554,light,lochouse,corefri,locally,insight,1
+1554,wash,opauto,locsens,share,insight,0

@@ -1,0 +1,12 @@
+314,light,preshouse,cohvac,share,insight,0
+314,hvac,lochouse,cosecu,remserv,nothing,1
+314,light,opauto,cotv,locally,opti,0
+314,assis,alert,coalarm,locally,insight,1
+314,assis,lochouse,cowash,share,reco,0
+314,wash,lochouse,coassis,locally,nothing,0
+314,tv,preshouse,locsens,locally,reco,0
+314,wash,alert,corefri,share,opti,0
+314,alarm,opauto,cam,remserv,opti,0
+314,secu,alert,micro,remserv,insight,1
+314,refr,preshouse,watch,remserv,reco,1
+314,tv,opauto,colight,share,nothing,0

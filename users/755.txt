@@ -1,0 +1,12 @@
+755,alarm,preshouse,coalarm,locally,opti,1
+755,secu,alert,colight,share,reco,0
+755,assis,alert,corefri,remserv,nothing,1
+755,alarm,opauto,cowash,share,insight,0
+755,refr,opauto,cam,locally,reco,0
+755,refr,preshouse,coassis,share,nothing,0
+755,tv,lochouse,cohvac,share,opti,1
+755,wash,lochouse,watch,remserv,insight,0
+755,hvac,preshouse,micro,remserv,opti,1
+755,secu,lochouse,locsens,locally,insight,1
+755,tv,alert,cotv,locally,nothing,1
+755,light,opauto,cosecu,remserv,reco,1

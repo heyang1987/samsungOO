@@ -1,0 +1,12 @@
+1839,alarm,lochouse,cotv,share,reco,0
+1839,wash,preshouse,cohvac,remserv,reco,0
+1839,secu,preshouse,watch,locally,reco,0
+1839,assis,lochouse,locsens,locally,nothing,0
+1839,alarm,alert,micro,locally,insight,0
+1839,light,lochouse,cowash,remserv,nothing,0
+1839,tv,opauto,cam,locally,opti,0
+1839,assis,alert,colight,share,opti,0
+1839,refr,opauto,cosecu,remserv,opti,0
+1839,hvac,alert,corefri,remserv,insight,0
+1839,secu,opauto,coalarm,share,nothing,0
+1839,tv,preshouse,coassis,share,insight,0

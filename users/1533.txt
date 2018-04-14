@@ -1,0 +1,12 @@
+1533,tv,opauto,cowash,remserv,opti,0
+1533,light,alert,corefri,locally,insight,1
+1533,wash,preshouse,locsens,share,insight,0
+1533,light,lochouse,cam,share,reco,0
+1533,hvac,lochouse,watch,locally,nothing,1
+1533,refr,lochouse,cotv,remserv,nothing,0
+1533,hvac,alert,coalarm,share,opti,0
+1533,alarm,alert,colight,remserv,insight,0
+1533,assis,preshouse,cohvac,locally,reco,1
+1533,assis,opauto,micro,share,nothing,0
+1533,secu,preshouse,coassis,remserv,reco,0
+1533,wash,opauto,cosecu,locally,opti,1

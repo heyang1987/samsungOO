@@ -1,0 +1,12 @@
+1267,assis,alert,colight,remserv,reco,1
+1267,light,opauto,cowash,remserv,insight,1
+1267,alarm,preshouse,micro,locally,nothing,1
+1267,refr,opauto,cosecu,locally,insight,1
+1267,refr,preshouse,locsens,share,reco,1
+1267,alarm,opauto,cotv,share,opti,1
+1267,hvac,lochouse,cam,share,nothing,1
+1267,wash,lochouse,cohvac,remserv,opti,1
+1267,hvac,alert,corefri,locally,reco,1
+1267,tv,preshouse,coassis,remserv,nothing,1
+1267,secu,alert,coalarm,share,insight,1
+1267,secu,lochouse,watch,locally,opti,1

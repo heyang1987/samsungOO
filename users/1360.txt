@@ -1,0 +1,12 @@
+1360,assis,alert,cosecu,share,opti,0
+1360,wash,preshouse,micro,remserv,reco,0
+1360,assis,lochouse,colight,locally,nothing,1
+1360,tv,preshouse,corefri,share,insight,0
+1360,secu,preshouse,coalarm,locally,reco,1
+1360,alarm,lochouse,cohvac,share,reco,0
+1360,refr,opauto,locsens,remserv,opti,0
+1360,hvac,alert,cam,remserv,insight,0
+1360,alarm,alert,cotv,locally,insight,1
+1360,tv,opauto,coassis,locally,opti,1
+1360,secu,opauto,cowash,share,nothing,0
+1360,light,lochouse,watch,remserv,nothing,0

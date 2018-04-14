@@ -1,0 +1,12 @@
+577,refr,opauto,cohvac,locally,opti,1
+577,wash,preshouse,colight,locally,reco,1
+577,hvac,lochouse,watch,share,reco,0
+577,hvac,alert,cowash,locally,insight,1
+577,light,opauto,coassis,remserv,opti,1
+577,wash,opauto,cosecu,share,nothing,1
+577,tv,preshouse,coalarm,remserv,reco,1
+577,refr,preshouse,micro,share,insight,0
+577,secu,lochouse,corefri,locally,nothing,0
+577,secu,alert,cam,share,opti,0
+577,assis,alert,cotv,remserv,insight,1
+577,alarm,lochouse,locsens,remserv,nothing,0

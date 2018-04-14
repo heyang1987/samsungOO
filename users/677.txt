@@ -1,0 +1,12 @@
+677,wash,opauto,coassis,locally,opti,1
+677,alarm,alert,cam,remserv,insight,0
+677,refr,lochouse,watch,remserv,nothing,0
+677,secu,preshouse,micro,remserv,reco,0
+677,light,lochouse,cohvac,share,reco,1
+677,assis,opauto,cowash,share,nothing,1
+677,light,alert,cotv,locally,insight,1
+677,tv,opauto,locsens,remserv,opti,1
+677,hvac,lochouse,colight,locally,nothing,1
+677,wash,preshouse,corefri,share,insight,1
+677,assis,preshouse,coalarm,locally,reco,1
+677,hvac,alert,cosecu,share,opti,1

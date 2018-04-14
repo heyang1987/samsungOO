@@ -1,0 +1,12 @@
+496,light,preshouse,coassis,locally,opti,1
+496,light,opauto,corefri,share,insight,1
+496,alarm,preshouse,locsens,remserv,opti,1
+496,wash,alert,colight,locally,nothing,1
+496,tv,opauto,coalarm,locally,reco,1
+496,hvac,alert,watch,remserv,nothing,1
+496,assis,lochouse,cotv,locally,insight,1
+496,wash,lochouse,cosecu,share,opti,1
+496,assis,alert,cohvac,share,reco,1
+496,secu,lochouse,cam,remserv,insight,1
+496,tv,preshouse,cowash,share,nothing,1
+496,refr,opauto,micro,remserv,reco,1

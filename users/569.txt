@@ -1,0 +1,12 @@
+569,assis,preshouse,corefri,locally,opti,1
+569,assis,opauto,cam,share,insight,0
+569,alarm,preshouse,watch,share,nothing,0
+569,tv,alert,micro,share,reco,0
+569,wash,alert,coalarm,remserv,nothing,1
+569,alarm,opauto,cowash,locally,reco,1
+569,refr,lochouse,coassis,remserv,insight,1
+569,secu,preshouse,colight,remserv,opti,1
+569,tv,lochouse,cohvac,locally,insight,1
+569,light,lochouse,locsens,share,opti,0
+569,hvac,opauto,cotv,remserv,reco,0
+569,light,alert,cosecu,locally,nothing,1

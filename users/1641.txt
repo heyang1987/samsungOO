@@ -1,0 +1,12 @@
+1641,wash,lochouse,colight,remserv,insight,0
+1641,secu,alert,cam,share,reco,1
+1641,alarm,opauto,locsens,share,insight,1
+1641,light,opauto,coassis,remserv,reco,1
+1641,secu,lochouse,corefri,locally,insight,0
+1641,hvac,preshouse,cowash,remserv,opti,1
+1641,assis,alert,cotv,remserv,nothing,1
+1641,refr,preshouse,micro,share,nothing,0
+1641,alarm,preshouse,cosecu,locally,opti,1
+1641,refr,opauto,cohvac,locally,reco,1
+1641,tv,lochouse,coalarm,share,opti,1
+1641,tv,alert,watch,locally,nothing,1

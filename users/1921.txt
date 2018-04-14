@@ -1,0 +1,12 @@
+1921,wash,lochouse,corefri,share,opti,1
+1921,wash,alert,coassis,locally,nothing,1
+1921,light,preshouse,cotv,locally,opti,1
+1921,light,opauto,cohvac,share,insight,1
+1921,assis,lochouse,coalarm,locally,insight,1
+1921,alarm,preshouse,cam,remserv,opti,0
+1921,hvac,alert,cosecu,remserv,nothing,0
+1921,refr,opauto,watch,remserv,reco,0
+1921,tv,preshouse,colight,share,nothing,1
+1921,tv,opauto,locsens,locally,reco,0
+1921,assis,alert,cowash,share,reco,1
+1921,secu,lochouse,micro,remserv,insight,0

@@ -1,0 +1,12 @@
+588,assis,preshouse,cotv,share,reco,0
+588,refr,alert,cohvac,remserv,reco,1
+588,tv,alert,watch,locally,reco,1
+588,light,lochouse,cam,locally,opti,1
+588,secu,opauto,corefri,remserv,insight,0
+588,alarm,lochouse,cosecu,remserv,opti,1
+588,light,alert,coassis,share,insight,0
+588,wash,preshouse,locsens,locally,nothing,1
+588,hvac,preshouse,cowash,remserv,nothing,0
+588,wash,opauto,colight,share,opti,0
+588,assis,opauto,micro,locally,insight,1
+588,tv,lochouse,coalarm,share,nothing,0

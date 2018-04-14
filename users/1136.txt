@@ -1,0 +1,12 @@
+1136,light,preshouse,watch,locally,reco,1
+1136,wash,lochouse,cotv,share,reco,1
+1136,tv,alert,corefri,remserv,insight,1
+1136,hvac,preshouse,coassis,share,insight,1
+1136,wash,alert,micro,locally,insight,0
+1136,hvac,opauto,cam,locally,opti,1
+1136,light,opauto,coalarm,share,nothing,1
+1136,secu,lochouse,cowash,remserv,nothing,1
+1136,assis,opauto,cosecu,remserv,opti,1
+1136,alarm,preshouse,cohvac,remserv,reco,1
+1136,refr,lochouse,locsens,locally,nothing,1
+1136,refr,alert,colight,share,opti,0

@@ -1,0 +1,12 @@
+753,refr,preshouse,cosecu,share,reco,0
+753,assis,alert,locsens,remserv,reco,1
+753,alarm,opauto,micro,share,opti,0
+753,hvac,alert,coassis,locally,reco,1
+753,hvac,lochouse,corefri,share,nothing,0
+753,tv,preshouse,cam,remserv,nothing,0
+753,wash,lochouse,cotv,remserv,opti,1
+753,secu,alert,watch,share,insight,1
+753,refr,opauto,colight,locally,insight,1
+753,light,opauto,coalarm,remserv,insight,1
+753,secu,lochouse,cowash,locally,opti,0
+753,alarm,preshouse,cohvac,locally,nothing,1

@@ -1,0 +1,12 @@
+26,assis,preshouse,watch,locally,nothing,1
+26,secu,alert,cohvac,locally,reco,0
+26,tv,alert,locsens,share,insight,0
+26,wash,alert,coassis,remserv,reco,1
+26,refr,lochouse,cowash,remserv,opti,0
+26,assis,opauto,coalarm,share,opti,0
+26,alarm,preshouse,cam,share,reco,0
+26,secu,lochouse,micro,share,nothing,0
+26,light,preshouse,cotv,remserv,nothing,0
+26,alarm,opauto,corefri,locally,insight,0
+26,tv,lochouse,cosecu,locally,opti,1
+26,hvac,opauto,colight,remserv,insight,0

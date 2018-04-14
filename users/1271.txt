@@ -1,0 +1,12 @@
+1271,hvac,preshouse,coassis,locally,opti,1
+1271,assis,preshouse,locsens,remserv,opti,1
+1271,hvac,opauto,corefri,share,insight,0
+1271,light,opauto,coalarm,locally,reco,1
+1271,secu,alert,watch,remserv,nothing,1
+1271,refr,alert,colight,locally,nothing,1
+1271,wash,alert,cohvac,share,reco,0
+1271,wash,lochouse,cotv,locally,insight,1
+1271,refr,lochouse,cosecu,share,opti,0
+1271,light,preshouse,cowash,share,nothing,0
+1271,alarm,opauto,micro,remserv,reco,1
+1271,tv,lochouse,cam,remserv,insight,1

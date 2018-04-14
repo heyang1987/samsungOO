@@ -1,0 +1,12 @@
+205,secu,alert,cosecu,remserv,reco,0
+205,wash,alert,cowash,share,insight,0
+205,hvac,preshouse,cotv,locally,nothing,1
+205,light,opauto,locsens,locally,insight,1
+205,assis,lochouse,coassis,share,nothing,1
+205,light,preshouse,colight,share,reco,0
+205,wash,lochouse,coalarm,locally,opti,1
+205,assis,alert,cam,locally,reco,0
+205,alarm,opauto,watch,remserv,insight,1
+205,tv,lochouse,micro,remserv,opti,0
+205,hvac,opauto,cohvac,share,opti,1
+205,refr,preshouse,corefri,remserv,nothing,0

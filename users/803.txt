@@ -1,0 +1,12 @@
+803,refr,lochouse,cosecu,remserv,reco,0
+803,wash,preshouse,cohvac,share,opti,1
+803,assis,opauto,colight,share,reco,1
+803,wash,opauto,cotv,locally,nothing,0
+803,light,lochouse,cowash,share,insight,1
+803,light,alert,coalarm,locally,opti,0
+803,hvac,opauto,corefri,remserv,nothing,0
+803,alarm,alert,micro,remserv,opti,1
+803,secu,preshouse,watch,remserv,insight,1
+803,tv,alert,coassis,share,nothing,1
+803,tv,lochouse,cam,locally,reco,0
+803,assis,preshouse,locsens,locally,insight,1

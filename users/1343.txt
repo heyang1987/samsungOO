@@ -1,0 +1,12 @@
+1343,secu,opauto,watch,share,nothing,1
+1343,alarm,alert,cohvac,locally,insight,1
+1343,wash,preshouse,cotv,remserv,reco,1
+1343,alarm,lochouse,micro,share,reco,1
+1343,hvac,alert,coassis,remserv,insight,1
+1343,tv,opauto,corefri,locally,opti,1
+1343,assis,alert,locsens,share,opti,1
+1343,tv,preshouse,cam,share,insight,1
+1343,light,lochouse,coalarm,remserv,nothing,1
+1343,refr,opauto,colight,remserv,opti,1
+1343,assis,lochouse,cosecu,locally,nothing,1
+1343,secu,preshouse,cowash,locally,reco,1

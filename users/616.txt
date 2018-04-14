@@ -1,0 +1,12 @@
+616,refr,alert,corefri,share,opti,1
+616,light,opauto,colight,share,nothing,1
+616,wash,alert,coalarm,locally,insight,1
+616,refr,lochouse,coassis,locally,nothing,0
+616,hvac,opauto,cotv,locally,opti,0
+616,assis,opauto,cam,remserv,opti,1
+616,hvac,preshouse,cohvac,share,insight,1
+616,tv,alert,micro,remserv,insight,1
+616,alarm,preshouse,watch,remserv,reco,0
+616,secu,lochouse,cosecu,remserv,nothing,1
+616,light,preshouse,locsens,locally,reco,1
+616,wash,lochouse,cowash,share,reco,0

@@ -1,0 +1,12 @@
+213,hvac,preshouse,coassis,locally,reco,1
+213,wash,opauto,cotv,remserv,opti,1
+213,light,alert,coalarm,remserv,insight,1
+213,secu,preshouse,watch,share,insight,1
+213,hvac,opauto,corefri,share,nothing,1
+213,alarm,lochouse,cohvac,locally,nothing,1
+213,refr,lochouse,cosecu,share,reco,0
+213,refr,alert,colight,locally,insight,1
+213,assis,preshouse,locsens,remserv,reco,0
+213,secu,opauto,cowash,locally,opti,1
+213,alarm,alert,micro,share,opti,1
+213,tv,lochouse,cam,remserv,nothing,0

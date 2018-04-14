@@ -1,0 +1,12 @@
+1826,light,alert,colight,remserv,nothing,0
+1826,assis,lochouse,coassis,share,opti,0
+1826,hvac,lochouse,cohvac,remserv,insight,0
+1826,wash,opauto,cowash,remserv,reco,0
+1826,alarm,alert,coalarm,share,reco,0
+1826,tv,opauto,cotv,share,insight,0
+1826,secu,preshouse,locsens,share,nothing,0
+1826,secu,opauto,cosecu,locally,reco,0
+1826,alarm,lochouse,watch,locally,insight,0
+1826,assis,alert,cam,locally,nothing,0
+1826,tv,preshouse,micro,locally,opti,0
+1826,refr,preshouse,corefri,remserv,opti,0

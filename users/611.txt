@@ -1,0 +1,12 @@
+611,light,opauto,cosecu,remserv,opti,0
+611,secu,lochouse,locsens,locally,nothing,0
+611,tv,preshouse,cohvac,remserv,reco,0
+611,wash,preshouse,watch,locally,reco,0
+611,refr,opauto,cam,locally,opti,1
+611,hvac,alert,micro,locally,insight,1
+611,wash,opauto,coalarm,share,nothing,0
+611,assis,alert,corefri,remserv,insight,0
+611,refr,preshouse,coassis,share,insight,0
+611,secu,alert,colight,share,opti,0
+611,alarm,lochouse,cowash,remserv,nothing,0
+611,hvac,lochouse,cotv,share,reco,0

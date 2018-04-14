@@ -1,0 +1,12 @@
+1894,light,preshouse,cotv,remserv,opti,0
+1894,alarm,alert,cam,remserv,nothing,0
+1894,assis,lochouse,coalarm,remserv,insight,0
+1894,secu,lochouse,micro,share,opti,1
+1894,secu,preshouse,cohvac,locally,nothing,1
+1894,tv,opauto,locsens,remserv,reco,1
+1894,refr,opauto,watch,share,insight,0
+1894,wash,preshouse,corefri,share,nothing,0
+1894,hvac,opauto,colight,locally,insight,1
+1894,refr,lochouse,cowash,locally,opti,0
+1894,wash,alert,coassis,locally,reco,1
+1894,hvac,alert,cosecu,share,reco,0

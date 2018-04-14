@@ -1,0 +1,12 @@
+1476,tv,alert,colight,locally,insight,0
+1476,tv,lochouse,cosecu,share,reco,0
+1476,hvac,preshouse,locsens,remserv,reco,0
+1476,assis,opauto,cowash,locally,opti,1
+1476,wash,lochouse,cam,remserv,nothing,0
+1476,light,lochouse,cohvac,locally,nothing,1
+1476,alarm,preshouse,coassis,locally,reco,0
+1476,secu,opauto,cotv,remserv,opti,0
+1476,alarm,opauto,corefri,share,nothing,0
+1476,light,alert,micro,share,opti,0
+1476,assis,preshouse,watch,share,insight,0
+1476,refr,alert,coalarm,remserv,insight,0

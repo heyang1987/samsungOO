@@ -1,0 +1,12 @@
+762,alarm,lochouse,coalarm,remserv,reco,0
+762,refr,opauto,corefri,locally,nothing,1
+762,tv,preshouse,cotv,remserv,insight,0
+762,hvac,lochouse,micro,share,insight,0
+762,assis,alert,coassis,remserv,opti,1
+762,hvac,alert,cohvac,locally,opti,1
+762,refr,preshouse,cam,share,opti,0
+762,light,alert,cosecu,share,nothing,0
+762,wash,opauto,watch,share,reco,0
+762,wash,preshouse,cowash,locally,insight,0
+762,secu,opauto,locsens,remserv,nothing,1
+762,light,lochouse,colight,locally,reco,0

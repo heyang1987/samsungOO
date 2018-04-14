@@ -1,0 +1,12 @@
+1187,tv,alert,watch,remserv,reco,1
+1187,light,lochouse,cam,remserv,opti,1
+1187,hvac,opauto,coalarm,locally,insight,1
+1187,assis,opauto,micro,remserv,insight,1
+1187,refr,alert,cohvac,share,insight,0
+1187,refr,lochouse,cotv,locally,opti,1
+1187,hvac,preshouse,cowash,share,reco,0
+1187,secu,preshouse,coassis,locally,nothing,1
+1187,secu,opauto,corefri,share,opti,0
+1187,wash,alert,locsens,locally,reco,1
+1187,alarm,preshouse,cosecu,remserv,nothing,0
+1187,wash,lochouse,colight,share,nothing,0

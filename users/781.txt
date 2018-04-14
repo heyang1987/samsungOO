@@ -1,0 +1,12 @@
+781,hvac,lochouse,coalarm,remserv,opti,1
+781,secu,preshouse,corefri,share,reco,1
+781,tv,preshouse,cowash,locally,nothing,0
+781,tv,opauto,watch,share,opti,1
+781,alarm,alert,cosecu,share,insight,1
+781,refr,alert,cotv,locally,reco,0
+781,wash,opauto,locsens,remserv,insight,1
+781,assis,preshouse,micro,remserv,nothing,1
+781,secu,opauto,coassis,locally,insight,1
+781,refr,lochouse,cohvac,share,nothing,0
+781,light,alert,cam,remserv,reco,0
+781,alarm,lochouse,colight,locally,opti,1

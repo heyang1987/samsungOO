@@ -1,0 +1,12 @@
+87,light,alert,locsens,locally,opti,0
+87,assis,preshouse,cam,locally,insight,0
+87,wash,preshouse,cowash,share,opti,0
+87,wash,opauto,coalarm,locally,nothing,1
+87,secu,preshouse,cosecu,remserv,insight,0
+87,light,lochouse,colight,share,insight,0
+87,hvac,opauto,cohvac,remserv,nothing,0
+87,alarm,alert,watch,remserv,opti,1
+87,tv,lochouse,micro,locally,reco,0
+87,refr,lochouse,corefri,remserv,reco,0
+87,assis,opauto,coassis,share,reco,0
+87,tv,alert,cotv,share,nothing,0

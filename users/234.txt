@@ -1,0 +1,12 @@
+234,wash,alert,cohvac,remserv,nothing,1
+234,assis,preshouse,locsens,locally,opti,1
+234,tv,alert,coassis,share,reco,0
+234,alarm,preshouse,cotv,share,nothing,0
+234,light,lochouse,cowash,share,opti,1
+234,alarm,opauto,micro,locally,reco,1
+234,secu,preshouse,watch,remserv,opti,1
+234,light,alert,coalarm,locally,nothing,1
+234,assis,opauto,colight,share,insight,1
+234,hvac,opauto,corefri,remserv,reco,1
+234,tv,lochouse,cam,locally,insight,0
+234,refr,lochouse,cosecu,remserv,insight,0

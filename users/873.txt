@@ -1,0 +1,12 @@
+873,hvac,alert,cam,locally,insight,0
+873,secu,lochouse,coalarm,locally,nothing,0
+873,secu,alert,cowash,share,opti,0
+873,alarm,lochouse,cohvac,remserv,nothing,1
+873,light,opauto,watch,remserv,opti,1
+873,wash,preshouse,micro,locally,reco,1
+873,refr,opauto,locsens,locally,opti,1
+873,assis,alert,cosecu,remserv,insight,1
+873,wash,opauto,cotv,share,nothing,0
+873,tv,preshouse,corefri,remserv,reco,0
+873,refr,preshouse,colight,share,insight,1
+873,hvac,lochouse,coassis,share,reco,1

@@ -1,0 +1,12 @@
+153,secu,alert,cam,locally,reco,1
+153,secu,lochouse,coassis,share,nothing,0
+153,alarm,opauto,locsens,locally,insight,1
+153,light,preshouse,corefri,remserv,nothing,0
+153,assis,preshouse,cotv,locally,nothing,0
+153,tv,alert,cowash,share,insight,0
+153,alarm,preshouse,colight,share,reco,0
+153,assis,opauto,cohvac,share,opti,0
+153,refr,lochouse,micro,remserv,opti,0
+153,wash,alert,cosecu,remserv,reco,0
+153,hvac,opauto,watch,remserv,insight,1
+153,tv,lochouse,coalarm,locally,opti,1

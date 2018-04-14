@@ -1,0 +1,12 @@
+119,refr,opauto,watch,share,nothing,1
+119,refr,preshouse,cowash,locally,reco,0
+119,wash,alert,coassis,remserv,insight,1
+119,assis,lochouse,coalarm,remserv,nothing,0
+119,light,preshouse,cotv,remserv,reco,1
+119,secu,lochouse,micro,share,reco,0
+119,tv,lochouse,cosecu,locally,nothing,1
+119,tv,alert,locsens,share,opti,1
+119,hvac,opauto,colight,remserv,opti,1
+119,alarm,opauto,corefri,locally,opti,1
+119,secu,alert,cohvac,locally,insight,1
+119,alarm,preshouse,cam,share,insight,0

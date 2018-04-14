@@ -1,0 +1,12 @@
+311,assis,alert,cowash,locally,nothing,1
+311,assis,lochouse,watch,share,opti,0
+311,tv,preshouse,colight,locally,opti,1
+311,tv,opauto,cosecu,share,insight,0
+311,secu,preshouse,cohvac,share,nothing,0
+311,alarm,lochouse,coassis,locally,insight,0
+311,light,alert,micro,remserv,nothing,0
+311,refr,preshouse,coalarm,remserv,opti,0
+311,alarm,alert,corefri,share,reco,0
+311,wash,opauto,cam,remserv,reco,0
+311,secu,opauto,cotv,locally,reco,0
+311,hvac,lochouse,locsens,remserv,insight,0

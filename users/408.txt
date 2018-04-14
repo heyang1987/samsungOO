@@ -1,0 +1,12 @@
+408,tv,lochouse,cosecu,share,reco,0
+408,tv,alert,colight,locally,insight,1
+408,wash,lochouse,cam,remserv,nothing,0
+408,hvac,preshouse,locsens,remserv,reco,0
+408,secu,opauto,cotv,remserv,opti,1
+408,assis,opauto,cowash,locally,opti,1
+408,alarm,opauto,corefri,share,nothing,0
+408,assis,preshouse,watch,share,insight,0
+408,light,alert,micro,share,opti,0
+408,alarm,preshouse,coassis,locally,reco,1
+408,light,lochouse,cohvac,locally,nothing,1
+408,refr,alert,coalarm,remserv,insight,1

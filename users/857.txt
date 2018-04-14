@@ -1,0 +1,12 @@
+857,alarm,alert,watch,share,opti,0
+857,wash,opauto,coalarm,remserv,opti,1
+857,secu,preshouse,cosecu,share,insight,0
+857,light,alert,locsens,remserv,insight,1
+857,tv,lochouse,micro,remserv,nothing,0
+857,refr,alert,coassis,locally,insight,1
+857,assis,preshouse,cam,remserv,reco,0
+857,alarm,lochouse,cowash,locally,nothing,1
+857,secu,opauto,colight,locally,opti,1
+857,hvac,preshouse,cotv,locally,reco,0
+857,hvac,opauto,cohvac,share,nothing,0
+857,refr,lochouse,corefri,share,reco,0

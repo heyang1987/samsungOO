@@ -1,0 +1,12 @@
+585,alarm,opauto,cotv,locally,insight,1
+585,secu,lochouse,cowash,share,nothing,1
+585,wash,alert,micro,remserv,reco,1
+585,refr,lochouse,locsens,remserv,opti,1
+585,hvac,opauto,cam,remserv,insight,1
+585,tv,lochouse,coassis,locally,opti,1
+585,secu,alert,coalarm,locally,reco,1
+585,assis,preshouse,colight,locally,nothing,1
+585,alarm,preshouse,cohvac,share,reco,1
+585,light,preshouse,watch,remserv,nothing,1
+585,tv,alert,corefri,share,insight,1
+585,assis,opauto,cosecu,share,opti,1

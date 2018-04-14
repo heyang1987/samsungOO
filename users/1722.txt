@@ -1,0 +1,12 @@
+1722,hvac,alert,corefri,locally,insight,1
+1722,refr,opauto,cosecu,locally,opti,1
+1722,wash,opauto,micro,share,nothing,0
+1722,secu,lochouse,watch,locally,nothing,1
+1722,light,opauto,cowash,remserv,opti,0
+1722,hvac,lochouse,cam,share,reco,1
+1722,refr,preshouse,locsens,share,insight,0
+1722,wash,preshouse,cohvac,locally,reco,0
+1722,tv,preshouse,coassis,remserv,reco,1
+1722,secu,alert,coalarm,share,opti,1
+1722,alarm,lochouse,cotv,remserv,nothing,0
+1722,assis,alert,colight,remserv,insight,0

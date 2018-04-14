@@ -1,0 +1,12 @@
+1966,light,alert,locsens,locally,opti,0
+1966,secu,preshouse,cosecu,remserv,insight,1
+1966,light,lochouse,colight,share,insight,0
+1966,hvac,opauto,cohvac,remserv,nothing,0
+1966,tv,alert,cotv,share,nothing,1
+1966,alarm,alert,watch,remserv,opti,0
+1966,refr,lochouse,corefri,remserv,reco,1
+1966,wash,preshouse,cowash,share,opti,0
+1966,tv,lochouse,micro,locally,reco,0
+1966,assis,opauto,coassis,share,reco,0
+1966,assis,preshouse,cam,locally,insight,1
+1966,wash,opauto,coalarm,locally,nothing,0

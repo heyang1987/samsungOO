@@ -1,0 +1,12 @@
+280,secu,preshouse,cowash,remserv,reco,1
+280,hvac,alert,coassis,share,opti,0
+280,hvac,lochouse,cam,locally,nothing,0
+280,wash,preshouse,cotv,share,insight,0
+280,light,lochouse,coalarm,share,reco,1
+280,assis,opauto,locsens,share,nothing,0
+280,tv,opauto,corefri,remserv,opti,1
+280,alarm,alert,cohvac,remserv,insight,1
+280,refr,lochouse,colight,remserv,nothing,1
+280,light,alert,watch,locally,insight,1
+280,assis,preshouse,cosecu,locally,reco,0
+280,wash,opauto,micro,locally,opti,1

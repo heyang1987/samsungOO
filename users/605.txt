@@ -1,0 +1,12 @@
+605,refr,alert,watch,share,opti,1
+605,light,opauto,cohvac,share,nothing,1
+605,wash,alert,coassis,locally,insight,1
+605,assis,opauto,coalarm,remserv,opti,0
+605,tv,alert,locsens,remserv,insight,0
+605,alarm,preshouse,cam,remserv,reco,0
+605,wash,lochouse,corefri,share,reco,0
+605,light,preshouse,cotv,locally,reco,1
+605,hvac,preshouse,cosecu,share,insight,1
+605,secu,lochouse,micro,remserv,nothing,0
+605,hvac,opauto,colight,locally,opti,1
+605,refr,lochouse,cowash,locally,nothing,0

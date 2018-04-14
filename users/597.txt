@@ -1,0 +1,12 @@
+597,assis,preshouse,micro,locally,insight,1
+597,hvac,opauto,cowash,remserv,nothing,1
+597,refr,lochouse,cohvac,remserv,reco,1
+597,tv,alert,coalarm,share,nothing,0
+597,tv,lochouse,watch,locally,reco,1
+597,assis,opauto,cotv,share,reco,0
+597,alarm,alert,cosecu,remserv,opti,1
+597,light,lochouse,coassis,share,insight,0
+597,secu,preshouse,corefri,remserv,insight,1
+597,light,alert,cam,locally,opti,1
+597,wash,preshouse,colight,share,opti,0
+597,wash,opauto,locsens,locally,nothing,1

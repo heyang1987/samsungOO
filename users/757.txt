@@ -1,0 +1,12 @@
+757,alarm,alert,cotv,locally,nothing,1
+757,refr,alert,colight,share,reco,0
+757,secu,opauto,cowash,share,insight,0
+757,assis,opauto,cosecu,remserv,reco,1
+757,hvac,opauto,cam,locally,reco,0
+757,hvac,preshouse,coassis,share,nothing,0
+757,secu,preshouse,coalarm,locally,opti,1
+757,alarm,lochouse,cohvac,share,opti,0
+757,refr,lochouse,locsens,locally,insight,1
+757,light,lochouse,watch,remserv,insight,1
+757,tv,alert,corefri,remserv,nothing,1
+757,wash,preshouse,micro,remserv,opti,1

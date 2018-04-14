@@ -1,0 +1,12 @@
+149,tv,lochouse,cotv,locally,opti,0
+149,assis,opauto,corefri,share,opti,0
+149,hvac,opauto,micro,remserv,insight,0
+149,secu,lochouse,colight,share,nothing,0
+149,tv,alert,cohvac,share,insight,0
+149,wash,alert,watch,remserv,reco,0
+149,secu,alert,locsens,locally,reco,0
+149,alarm,opauto,coalarm,locally,insight,0
+149,light,preshouse,cosecu,remserv,nothing,0
+149,alarm,preshouse,cowash,share,reco,0
+149,refr,lochouse,cam,remserv,opti,0
+149,assis,preshouse,coassis,locally,nothing,0

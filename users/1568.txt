@@ -1,0 +1,12 @@
+1568,hvac,opauto,micro,locally,opti,0
+1568,refr,lochouse,cam,locally,nothing,0
+1568,hvac,preshouse,cotv,share,insight,0
+1568,assis,opauto,corefri,remserv,opti,0
+1568,refr,alert,coassis,share,opti,0
+1568,wash,alert,watch,locally,insight,0
+1568,light,opauto,locsens,share,nothing,0
+1568,light,preshouse,cosecu,locally,reco,0
+1568,secu,lochouse,colight,remserv,nothing,0
+1568,wash,lochouse,coalarm,share,reco,0
+1568,alarm,preshouse,cowash,remserv,reco,0
+1568,tv,alert,cohvac,remserv,insight,0

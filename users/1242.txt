@@ -1,0 +1,12 @@
+1242,hvac,opauto,micro,locally,reco,0
+1242,hvac,preshouse,cotv,share,nothing,0
+1242,alarm,alert,coalarm,locally,nothing,0
+1242,wash,preshouse,watch,remserv,opti,0
+1242,alarm,lochouse,cowash,share,opti,0
+1242,refr,alert,coassis,share,reco,0
+1242,refr,lochouse,cam,locally,insight,0
+1242,assis,opauto,corefri,remserv,reco,0
+1242,light,lochouse,cosecu,remserv,insight,0
+1242,secu,preshouse,locsens,locally,opti,0
+1242,secu,opauto,colight,share,insight,0
+1242,tv,alert,cohvac,remserv,nothing,0

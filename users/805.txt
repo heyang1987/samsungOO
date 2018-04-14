@@ -1,0 +1,12 @@
+805,wash,lochouse,micro,remserv,opti,1
+805,alarm,opauto,cohvac,share,opti,1
+805,refr,opauto,locsens,locally,insight,1
+805,refr,preshouse,colight,share,reco,1
+805,secu,alert,cowash,share,insight,1
+805,secu,lochouse,coalarm,locally,opti,1
+805,light,opauto,watch,remserv,insight,1
+805,hvac,alert,cam,locally,reco,1
+805,assis,alert,cosecu,remserv,reco,1
+805,alarm,preshouse,cotv,locally,nothing,1
+805,hvac,lochouse,coassis,share,nothing,1
+805,tv,preshouse,corefri,remserv,nothing,1

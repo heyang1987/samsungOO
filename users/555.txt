@@ -1,0 +1,12 @@
+555,secu,preshouse,locsens,share,opti,0
+555,assis,preshouse,coassis,remserv,insight,0
+555,tv,lochouse,cotv,remserv,reco,0
+555,light,alert,colight,remserv,opti,0
+555,hvac,preshouse,cohvac,locally,insight,0
+555,wash,alert,watch,share,nothing,0
+555,hvac,opauto,micro,share,reco,0
+555,refr,alert,corefri,locally,opti,0
+555,alarm,opauto,coalarm,remserv,nothing,0
+555,wash,lochouse,cowash,locally,reco,0
+555,secu,opauto,cosecu,locally,nothing,0
+555,refr,lochouse,cam,share,insight,0

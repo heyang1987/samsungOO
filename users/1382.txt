@@ -1,0 +1,12 @@
+1382,refr,alert,colight,remserv,nothing,1
+1382,alarm,lochouse,cohvac,remserv,insight,0
+1382,wash,opauto,cotv,share,insight,0
+1382,secu,opauto,cowash,remserv,reco,0
+1382,assis,opauto,cosecu,locally,reco,0
+1382,light,lochouse,watch,locally,insight,1
+1382,assis,preshouse,locsens,share,nothing,0
+1382,hvac,lochouse,coassis,share,opti,0
+1382,wash,preshouse,micro,locally,opti,0
+1382,tv,preshouse,corefri,remserv,opti,0
+1382,hvac,alert,cam,locally,nothing,0
+1382,light,alert,coalarm,share,reco,0

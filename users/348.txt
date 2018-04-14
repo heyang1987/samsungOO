@@ -1,0 +1,12 @@
+348,alarm,lochouse,micro,remserv,reco,0
+348,light,alert,cowash,share,nothing,1
+348,wash,opauto,cohvac,share,reco,1
+348,refr,preshouse,cosecu,share,opti,0
+348,secu,opauto,watch,remserv,nothing,1
+348,hvac,lochouse,corefri,share,insight,1
+348,refr,opauto,colight,locally,nothing,1
+348,hvac,alert,coassis,locally,opti,1
+348,wash,preshouse,cotv,locally,insight,0
+348,light,lochouse,coalarm,locally,reco,0
+348,assis,alert,locsens,remserv,opti,1
+348,tv,preshouse,cam,remserv,insight,1

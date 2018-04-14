@@ -1,0 +1,12 @@
+1319,hvac,lochouse,colight,share,reco,1
+1319,alarm,lochouse,corefri,remserv,nothing,0
+1319,secu,alert,cohvac,share,opti,1
+1319,refr,opauto,coalarm,locally,opti,1
+1319,secu,lochouse,cotv,locally,nothing,1
+1319,light,opauto,micro,remserv,opti,1
+1319,tv,preshouse,cosecu,remserv,reco,1
+1319,assis,alert,watch,remserv,insight,1
+1319,wash,opauto,coassis,share,nothing,1
+1319,wash,preshouse,cam,locally,reco,0
+1319,refr,preshouse,cowash,share,insight,1
+1319,hvac,alert,locsens,locally,insight,1

@@ -1,0 +1,12 @@
+636,refr,opauto,coalarm,locally,reco,0
+636,alarm,preshouse,coassis,locally,opti,0
+636,tv,lochouse,cosecu,share,opti,0
+636,wash,lochouse,cam,remserv,insight,1
+636,light,opauto,micro,remserv,reco,0
+636,tv,alert,colight,locally,nothing,0
+636,refr,preshouse,cowash,share,nothing,0
+636,hvac,preshouse,locsens,remserv,opti,0
+636,secu,lochouse,cotv,locally,insight,1
+636,secu,alert,cohvac,share,reco,0
+636,assis,alert,watch,remserv,nothing,1
+636,alarm,opauto,corefri,share,insight,0

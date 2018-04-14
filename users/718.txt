@@ -1,0 +1,12 @@
+718,hvac,preshouse,cowash,share,insight,0
+718,alarm,preshouse,cosecu,remserv,reco,0
+718,light,preshouse,cam,locally,reco,0
+718,wash,alert,locsens,locally,insight,1
+718,hvac,opauto,coalarm,locally,opti,1
+718,light,opauto,coassis,share,nothing,0
+718,assis,opauto,micro,remserv,opti,0
+718,secu,lochouse,corefri,remserv,nothing,0
+718,tv,alert,watch,remserv,insight,1
+718,wash,lochouse,colight,share,reco,0
+718,refr,lochouse,cotv,locally,nothing,0
+718,refr,alert,cohvac,share,opti,0

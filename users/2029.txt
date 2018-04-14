@@ -1,0 +1,12 @@
+2029,hvac,preshouse,cosecu,share,opti,1
+2029,secu,lochouse,micro,remserv,reco,0
+2029,light,opauto,cohvac,share,reco,1
+2029,assis,alert,cowash,share,nothing,1
+2029,hvac,opauto,colight,locally,nothing,1
+2029,refr,opauto,watch,remserv,nothing,1
+2029,tv,alert,locsens,remserv,opti,0
+2029,wash,lochouse,corefri,share,insight,0
+2029,wash,alert,coassis,locally,opti,1
+2029,assis,lochouse,coalarm,locally,reco,1
+2029,alarm,preshouse,cam,remserv,insight,0
+2029,light,preshouse,cotv,locally,insight,0

@@ -1,0 +1,12 @@
+1744,tv,opauto,micro,locally,reco,1
+1744,wash,lochouse,cowash,share,opti,1
+1744,light,preshouse,locsens,locally,opti,1
+1744,hvac,alert,cohvac,remserv,nothing,1
+1744,alarm,preshouse,watch,remserv,opti,0
+1744,light,opauto,colight,share,insight,1
+1744,wash,alert,coalarm,locally,nothing,1
+1744,tv,preshouse,cotv,share,nothing,0
+1744,assis,lochouse,cam,locally,insight,0
+1744,assis,alert,coassis,share,reco,0
+1744,secu,lochouse,cosecu,remserv,insight,1
+1744,refr,opauto,corefri,remserv,reco,1

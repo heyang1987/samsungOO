@@ -1,0 +1,12 @@
+175,secu,preshouse,coalarm,locally,nothing,1
+175,refr,alert,colight,share,insight,0
+175,secu,opauto,cowash,share,opti,1
+175,hvac,preshouse,coassis,share,reco,0
+175,light,lochouse,watch,remserv,opti,1
+175,tv,alert,corefri,remserv,reco,1
+175,refr,lochouse,locsens,locally,opti,0
+175,assis,opauto,cosecu,remserv,insight,1
+175,wash,alert,micro,locally,reco,1
+175,hvac,opauto,cam,locally,insight,1
+175,alarm,preshouse,cohvac,remserv,nothing,0
+175,wash,lochouse,cotv,share,nothing,0

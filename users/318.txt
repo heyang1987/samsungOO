@@ -1,0 +1,12 @@
+318,secu,preshouse,coalarm,share,opti,0
+318,hvac,preshouse,corefri,locally,insight,1
+318,light,alert,cowash,remserv,opti,1
+318,alarm,opauto,cotv,remserv,nothing,0
+318,secu,opauto,watch,locally,nothing,1
+318,wash,lochouse,cohvac,locally,reco,1
+318,tv,lochouse,coassis,remserv,reco,1
+318,refr,alert,cosecu,locally,opti,1
+318,refr,lochouse,locsens,share,insight,0
+318,wash,alert,micro,share,nothing,1
+318,hvac,opauto,cam,share,reco,0
+318,assis,preshouse,colight,remserv,insight,1

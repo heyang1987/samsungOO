@@ -1,0 +1,12 @@
+889,hvac,preshouse,watch,share,nothing,1
+889,hvac,opauto,cowash,locally,reco,1
+889,secu,preshouse,corefri,locally,opti,1
+889,secu,opauto,cam,share,insight,0
+889,refr,lochouse,cohvac,locally,insight,0
+889,wash,preshouse,colight,remserv,opti,1
+889,alarm,alert,cosecu,locally,nothing,1
+889,assis,opauto,cotv,remserv,reco,1
+889,refr,alert,micro,share,reco,0
+889,alarm,lochouse,locsens,share,opti,0
+889,light,lochouse,coassis,remserv,insight,0
+889,tv,alert,coalarm,remserv,nothing,1

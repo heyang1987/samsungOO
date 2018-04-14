@@ -1,0 +1,12 @@
+1733,wash,preshouse,colight,locally,insight,1
+1733,hvac,alert,cowash,locally,opti,0
+1733,assis,alert,cotv,remserv,opti,0
+1733,refr,preshouse,micro,share,opti,0
+1733,hvac,lochouse,watch,share,insight,0
+1733,refr,opauto,cohvac,locally,nothing,1
+1733,wash,opauto,cosecu,share,reco,0
+1733,light,lochouse,coassis,locally,reco,1
+1733,alarm,lochouse,locsens,remserv,reco,1
+1733,light,alert,corefri,share,nothing,1
+1733,secu,opauto,cam,remserv,nothing,1
+1733,tv,preshouse,coalarm,remserv,insight,0

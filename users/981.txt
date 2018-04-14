@@ -1,0 +1,12 @@
+981,refr,preshouse,colight,locally,nothing,0
+981,wash,preshouse,cohvac,share,reco,0
+981,tv,opauto,cam,remserv,insight,0
+981,wash,opauto,cotv,locally,insight,1
+981,light,lochouse,cowash,share,nothing,0
+981,hvac,lochouse,coassis,locally,opti,1
+981,light,alert,coalarm,locally,reco,1
+981,refr,opauto,cosecu,share,opti,0
+981,hvac,alert,corefri,share,insight,0
+981,alarm,alert,micro,remserv,reco,1
+981,secu,preshouse,watch,remserv,nothing,1
+981,assis,lochouse,locsens,remserv,opti,1

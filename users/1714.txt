@@ -1,0 +1,12 @@
+1714,refr,lochouse,coassis,remserv,opti,1
+1714,tv,alert,micro,share,insight,0
+1714,assis,opauto,cam,share,opti,0
+1714,hvac,opauto,cotv,remserv,insight,1
+1714,assis,preshouse,corefri,locally,nothing,1
+1714,secu,alert,colight,locally,reco,1
+1714,alarm,preshouse,watch,share,reco,0
+1714,tv,lochouse,cohvac,locally,opti,1
+1714,wash,alert,coalarm,remserv,reco,1
+1714,light,preshouse,locsens,remserv,nothing,0
+1714,secu,lochouse,cosecu,share,nothing,0
+1714,alarm,opauto,cowash,locally,insight,1

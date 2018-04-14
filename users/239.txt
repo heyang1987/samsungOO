@@ -1,0 +1,12 @@
+239,secu,alert,locsens,share,nothing,1
+239,assis,preshouse,coassis,share,opti,1
+239,light,opauto,colight,remserv,nothing,1
+239,refr,alert,corefri,remserv,opti,1
+239,tv,alert,micro,locally,opti,0
+239,secu,lochouse,cosecu,locally,reco,1
+239,alarm,opauto,coalarm,share,reco,1
+239,tv,lochouse,cotv,share,insight,1
+239,wash,lochouse,cowash,remserv,reco,0
+239,alarm,preshouse,watch,locally,insight,1
+239,assis,opauto,cam,locally,nothing,1
+239,hvac,preshouse,cohvac,remserv,insight,1

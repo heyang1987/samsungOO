@@ -1,0 +1,12 @@
+822,refr,lochouse,watch,share,insight,1
+822,secu,preshouse,micro,share,opti,1
+822,hvac,opauto,cosecu,share,reco,0
+822,tv,lochouse,locsens,remserv,reco,1
+822,assis,preshouse,coalarm,remserv,insight,1
+822,light,alert,cotv,remserv,opti,1
+822,wash,alert,corefri,share,nothing,1
+822,hvac,preshouse,colight,locally,insight,1
+822,secu,opauto,cohvac,locally,nothing,1
+822,refr,alert,cowash,locally,opti,0
+822,wash,lochouse,coassis,locally,reco,0
+822,alarm,opauto,cam,remserv,nothing,0

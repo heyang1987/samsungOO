@@ -1,0 +1,12 @@
+774,light,alert,cosecu,locally,insight,0
+774,alarm,alert,cowash,remserv,insight,1
+774,tv,opauto,cohvac,remserv,opti,1
+774,wash,opauto,watch,locally,opti,1
+774,wash,preshouse,coalarm,share,insight,1
+774,secu,preshouse,colight,remserv,reco,0
+774,hvac,alert,cotv,share,opti,0
+774,hvac,lochouse,micro,locally,nothing,0
+774,light,lochouse,locsens,share,reco,0
+774,assis,opauto,cam,share,nothing,0
+774,refr,lochouse,coassis,remserv,nothing,0
+774,assis,preshouse,corefri,locally,reco,0

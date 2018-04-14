@@ -1,0 +1,12 @@
+1891,assis,alert,colight,share,opti,1
+1891,assis,lochouse,locsens,locally,nothing,0
+1891,refr,opauto,cosecu,remserv,opti,0
+1891,alarm,lochouse,cotv,share,reco,0
+1891,light,lochouse,cowash,remserv,nothing,1
+1891,tv,preshouse,coassis,share,insight,1
+1891,tv,opauto,cam,locally,opti,0
+1891,alarm,alert,micro,locally,insight,0
+1891,wash,preshouse,cohvac,remserv,reco,0
+1891,secu,preshouse,watch,locally,reco,0
+1891,hvac,alert,corefri,remserv,insight,0
+1891,secu,opauto,coalarm,share,nothing,0

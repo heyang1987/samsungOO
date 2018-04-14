@@ -1,0 +1,12 @@
+876,wash,opauto,cowash,remserv,nothing,1
+876,hvac,lochouse,cohvac,remserv,reco,0
+876,alarm,lochouse,watch,locally,reco,0
+876,tv,opauto,cotv,share,reco,0
+876,refr,preshouse,corefri,remserv,insight,0
+876,assis,alert,cam,locally,opti,1
+876,light,preshouse,colight,share,opti,0
+876,secu,alert,cosecu,remserv,opti,1
+876,alarm,alert,coalarm,share,nothing,0
+876,light,opauto,locsens,locally,nothing,1
+876,tv,preshouse,micro,locally,insight,1
+876,assis,lochouse,coassis,share,insight,0

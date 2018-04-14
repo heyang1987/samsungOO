@@ -1,0 +1,12 @@
+1537,refr,alert,cam,share,opti,0
+1537,secu,lochouse,locsens,remserv,nothing,1
+1537,refr,lochouse,corefri,locally,nothing,0
+1537,tv,alert,cotv,remserv,insight,0
+1537,light,preshouse,colight,locally,reco,0
+1537,light,opauto,cosecu,share,nothing,0
+1537,alarm,preshouse,coalarm,remserv,reco,0
+1537,assis,opauto,coassis,remserv,opti,1
+1537,wash,alert,cowash,locally,insight,0
+1537,wash,lochouse,watch,share,reco,0
+1537,hvac,opauto,cohvac,locally,opti,1
+1537,hvac,preshouse,micro,share,insight,0

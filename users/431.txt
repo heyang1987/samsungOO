@@ -1,0 +1,12 @@
+431,assis,opauto,cotv,share,nothing,1
+431,wash,preshouse,colight,share,insight,0
+431,hvac,lochouse,coalarm,locally,nothing,1
+431,alarm,alert,cosecu,remserv,insight,1
+431,hvac,alert,cowash,share,opti,0
+431,tv,opauto,watch,remserv,opti,1
+431,light,alert,cam,locally,insight,0
+431,refr,lochouse,cohvac,remserv,nothing,0
+431,secu,preshouse,corefri,remserv,reco,1
+431,light,lochouse,coassis,share,reco,1
+431,assis,preshouse,micro,locally,reco,1
+431,wash,opauto,locsens,locally,opti,0

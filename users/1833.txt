@@ -1,0 +1,12 @@
+1833,refr,alert,cotv,share,reco,1
+1833,alarm,alert,locsens,locally,nothing,0
+1833,secu,opauto,coassis,share,insight,0
+1833,secu,preshouse,cam,locally,opti,1
+1833,tv,alert,cowash,remserv,nothing,1
+1833,hvac,opauto,watch,locally,reco,0
+1833,refr,lochouse,micro,locally,insight,0
+1833,wash,preshouse,cosecu,remserv,opti,0
+1833,hvac,preshouse,coalarm,share,nothing,1
+1833,assis,opauto,cohvac,remserv,reco,0
+1833,alarm,lochouse,colight,share,opti,0
+1833,light,lochouse,corefri,remserv,insight,0

@@ -1,0 +1,12 @@
+952,secu,preshouse,coalarm,share,reco,1
+952,wash,opauto,cohvac,remserv,insight,1
+952,alarm,lochouse,micro,locally,opti,1
+952,assis,preshouse,colight,remserv,nothing,1
+952,refr,alert,cosecu,locally,reco,1
+952,refr,lochouse,locsens,share,nothing,1
+952,tv,preshouse,cam,locally,nothing,1
+952,tv,opauto,coassis,share,opti,1
+952,light,alert,cowash,remserv,reco,1
+952,secu,opauto,watch,locally,insight,1
+952,alarm,alert,cotv,share,insight,1
+952,hvac,lochouse,corefri,remserv,opti,1

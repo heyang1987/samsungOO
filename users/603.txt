@@ -1,0 +1,12 @@
+603,refr,lochouse,cam,share,nothing,0
+603,secu,opauto,cosecu,locally,insight,1
+603,tv,opauto,cotv,share,opti,0
+603,refr,alert,corefri,locally,reco,1
+603,alarm,lochouse,watch,locally,opti,1
+603,light,alert,colight,remserv,reco,1
+603,alarm,alert,coalarm,share,insight,0
+603,wash,opauto,cowash,remserv,insight,1
+603,secu,preshouse,locsens,share,reco,0
+603,hvac,lochouse,cohvac,remserv,opti,1
+603,tv,preshouse,micro,locally,nothing,0
+603,assis,preshouse,coassis,remserv,nothing,0

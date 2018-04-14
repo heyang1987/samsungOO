@@ -1,0 +1,12 @@
+1492,secu,alert,coassis,locally,insight,1
+1492,alarm,opauto,colight,locally,opti,1
+1492,alarm,preshouse,cosecu,share,insight,1
+1492,tv,lochouse,cowash,locally,nothing,0
+1492,secu,lochouse,corefri,share,reco,0
+1492,light,preshouse,cam,remserv,reco,1
+1492,hvac,opauto,coalarm,remserv,opti,1
+1492,refr,preshouse,cotv,locally,reco,1
+1492,assis,lochouse,micro,remserv,nothing,1
+1492,refr,opauto,cohvac,share,nothing,0
+1492,wash,alert,locsens,remserv,insight,1
+1492,tv,alert,watch,share,opti,0

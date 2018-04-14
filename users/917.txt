@@ -1,0 +1,12 @@
+917,tv,alert,cam,remserv,opti,0
+917,assis,alert,colight,share,nothing,0
+917,hvac,opauto,coassis,locally,nothing,1
+917,alarm,preshouse,micro,remserv,insight,0
+917,hvac,preshouse,corefri,share,opti,1
+917,light,opauto,cowash,share,reco,0
+917,light,preshouse,coalarm,locally,insight,1
+917,wash,alert,cotv,locally,opti,1
+917,secu,lochouse,watch,remserv,reco,1
+917,wash,lochouse,cohvac,share,insight,0
+917,assis,lochouse,locsens,locally,reco,1
+917,refr,opauto,cosecu,remserv,nothing,0

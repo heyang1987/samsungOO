@@ -1,0 +1,12 @@
+1738,assis,lochouse,colight,remserv,nothing,0
+1738,refr,preshouse,cosecu,locally,reco,0
+1738,tv,lochouse,cam,locally,nothing,0
+1738,secu,lochouse,coalarm,share,reco,0
+1738,alarm,preshouse,cotv,share,insight,0
+1738,alarm,opauto,micro,locally,opti,1
+1738,secu,alert,watch,locally,insight,1
+1738,light,preshouse,cowash,remserv,reco,0
+1738,refr,opauto,locsens,share,nothing,0
+1738,hvac,opauto,corefri,remserv,opti,1
+1738,wash,alert,cohvac,remserv,insight,0
+1738,tv,alert,coassis,share,opti,0

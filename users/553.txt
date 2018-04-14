@@ -1,0 +1,12 @@
+553,secu,lochouse,cotv,share,nothing,0
+553,wash,alert,corefri,remserv,reco,0
+553,light,preshouse,cohvac,remserv,nothing,1
+553,secu,alert,micro,locally,reco,1
+553,tv,alert,colight,share,insight,0
+553,refr,lochouse,watch,remserv,opti,0
+553,assis,preshouse,coalarm,locally,nothing,1
+553,alarm,preshouse,coassis,share,reco,0
+553,hvac,opauto,cosecu,remserv,insight,1
+553,tv,lochouse,locsens,locally,opti,1
+553,assis,opauto,cowash,share,opti,0
+553,alarm,opauto,cam,locally,insight,1

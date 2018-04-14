@@ -1,0 +1,12 @@
+2024,refr,alert,locsens,remserv,insight,0
+2024,light,opauto,watch,share,opti,0
+2024,secu,opauto,coalarm,remserv,opti,0
+2024,hvac,preshouse,cam,remserv,reco,0
+2024,tv,preshouse,corefri,share,reco,0
+2024,wash,lochouse,micro,remserv,nothing,0
+2024,tv,alert,coassis,locally,insight,1
+2024,assis,alert,cosecu,share,insight,0
+2024,light,lochouse,cowash,locally,nothing,0
+2024,assis,opauto,colight,locally,opti,0
+2024,alarm,lochouse,cohvac,share,nothing,1
+2024,alarm,preshouse,cotv,locally,reco,1

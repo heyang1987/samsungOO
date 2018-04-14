@@ -1,0 +1,12 @@
+651,secu,opauto,cohvac,share,nothing,1
+651,hvac,alert,locsens,remserv,insight,0
+651,assis,lochouse,cowash,locally,nothing,1
+651,wash,preshouse,cam,remserv,reco,1
+651,secu,preshouse,cotv,locally,reco,1
+651,alarm,lochouse,corefri,share,reco,1
+651,tv,opauto,colight,locally,opti,1
+651,tv,preshouse,cosecu,share,insight,1
+651,light,lochouse,micro,remserv,nothing,1
+651,assis,alert,watch,share,opti,1
+651,refr,opauto,coalarm,remserv,opti,1
+651,alarm,alert,coassis,locally,insight,1

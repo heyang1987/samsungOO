@@ -1,0 +1,12 @@
+398,light,alert,cotv,share,nothing,1
+398,alarm,lochouse,corefri,remserv,reco,1
+398,hvac,alert,locsens,locally,opti,1
+398,wash,preshouse,cam,locally,insight,1
+398,assis,alert,watch,remserv,opti,1
+398,refr,preshouse,cowash,share,opti,1
+398,hvac,lochouse,colight,share,insight,1
+398,wash,opauto,coassis,share,reco,1
+398,tv,preshouse,cosecu,remserv,insight,1
+398,light,lochouse,micro,locally,reco,1
+398,refr,opauto,coalarm,locally,nothing,1
+398,secu,opauto,cohvac,remserv,nothing,1

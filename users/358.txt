@@ -1,0 +1,12 @@
+358,alarm,alert,cohvac,locally,insight,1
+358,secu,preshouse,cowash,locally,reco,0
+358,secu,opauto,watch,share,nothing,0
+358,refr,opauto,colight,remserv,opti,0
+358,assis,lochouse,cosecu,locally,nothing,1
+358,tv,opauto,corefri,locally,opti,0
+358,assis,alert,locsens,share,opti,0
+358,alarm,lochouse,micro,share,reco,0
+358,hvac,alert,coassis,remserv,insight,1
+358,wash,preshouse,cotv,remserv,reco,0
+358,light,lochouse,coalarm,remserv,nothing,0
+358,tv,preshouse,cam,share,insight,0

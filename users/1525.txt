@@ -1,0 +1,12 @@
+1525,hvac,lochouse,cowash,locally,opti,0
+1525,hvac,alert,watch,share,insight,1
+1525,assis,lochouse,cotv,remserv,opti,1
+1525,wash,opauto,colight,locally,insight,1
+1525,secu,preshouse,cam,remserv,nothing,1
+1525,light,lochouse,corefri,share,nothing,1
+1525,tv,opauto,coalarm,remserv,insight,1
+1525,wash,preshouse,cosecu,share,reco,0
+1525,refr,opauto,micro,share,opti,0
+1525,refr,preshouse,cohvac,locally,nothing,1
+1525,light,alert,coassis,locally,reco,1
+1525,alarm,alert,locsens,remserv,reco,1

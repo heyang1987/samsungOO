@@ -1,0 +1,12 @@
+1333,wash,alert,cohvac,remserv,opti,1
+1333,light,preshouse,cowash,remserv,insight,1
+1333,secu,lochouse,coalarm,share,insight,0
+1333,assis,lochouse,colight,remserv,reco,1
+1333,secu,alert,watch,locally,opti,0
+1333,hvac,lochouse,corefri,locally,reco,0
+1333,refr,preshouse,cosecu,locally,insight,0
+1333,hvac,alert,cam,share,nothing,0
+1333,refr,opauto,locsens,share,reco,0
+1333,alarm,preshouse,cotv,share,opti,0
+1333,alarm,opauto,micro,locally,nothing,0
+1333,tv,opauto,coassis,remserv,nothing,1

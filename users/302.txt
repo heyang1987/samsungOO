@@ -1,0 +1,12 @@
+302,secu,alert,cotv,remserv,insight,0
+302,wash,alert,cam,share,opti,0
+302,light,opauto,cohvac,locally,opti,1
+302,light,preshouse,micro,share,insight,1
+302,hvac,lochouse,locsens,remserv,nothing,1
+302,assis,alert,cowash,locally,insight,1
+302,alarm,opauto,coassis,remserv,opti,0
+302,refr,preshouse,coalarm,remserv,reco,0
+302,assis,lochouse,watch,share,reco,0
+302,tv,preshouse,colight,locally,reco,0
+302,wash,lochouse,corefri,locally,nothing,0
+302,tv,opauto,cosecu,share,nothing,0

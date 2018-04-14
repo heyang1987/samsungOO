@@ -1,0 +1,12 @@
+1474,assis,alert,corefri,share,opti,1
+1474,secu,opauto,colight,share,nothing,0
+1474,assis,lochouse,coassis,locally,nothing,1
+1474,secu,preshouse,locsens,locally,reco,1
+1474,light,lochouse,cosecu,remserv,nothing,1
+1474,tv,preshouse,cohvac,share,insight,0
+1474,wash,preshouse,watch,remserv,reco,0
+1474,tv,opauto,cotv,locally,opti,1
+1474,refr,opauto,cam,remserv,opti,1
+1474,alarm,alert,coalarm,locally,insight,1
+1474,alarm,lochouse,cowash,share,reco,0
+1474,hvac,alert,micro,remserv,insight,1

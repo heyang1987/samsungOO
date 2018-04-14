@@ -1,0 +1,12 @@
+848,refr,lochouse,micro,locally,nothing,1
+848,light,preshouse,corefri,locally,reco,1
+848,hvac,opauto,watch,locally,opti,1
+848,alarm,preshouse,colight,remserv,reco,1
+848,light,opauto,cam,share,nothing,1
+848,refr,alert,cotv,share,opti,1
+848,wash,lochouse,locsens,share,reco,1
+848,hvac,preshouse,coalarm,share,insight,1
+848,tv,alert,cowash,remserv,insight,1
+848,assis,opauto,cohvac,remserv,opti,1
+848,wash,alert,cosecu,locally,insight,1
+848,secu,lochouse,coassis,remserv,nothing,1

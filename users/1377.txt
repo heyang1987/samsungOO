@@ -1,0 +1,12 @@
+1377,secu,preshouse,coassis,share,nothing,0
+1377,tv,preshouse,coalarm,locally,opti,0
+1377,assis,alert,cotv,locally,nothing,0
+1377,secu,opauto,cam,locally,reco,1
+1377,assis,lochouse,cohvac,share,opti,1
+1377,alarm,lochouse,locsens,locally,insight,0
+1377,light,alert,corefri,remserv,nothing,1
+1377,alarm,alert,colight,share,reco,0
+1377,hvac,lochouse,watch,remserv,insight,0
+1377,tv,opauto,cowash,share,insight,0
+1377,wash,opauto,cosecu,remserv,reco,0
+1377,refr,preshouse,micro,remserv,opti,1

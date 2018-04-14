@@ -1,0 +1,12 @@
+1719,tv,preshouse,cotv,remserv,nothing,1
+1719,hvac,lochouse,micro,share,nothing,0
+1719,refr,preshouse,cam,share,reco,0
+1719,assis,alert,coassis,remserv,reco,0
+1719,light,opauto,colight,remserv,insight,1
+1719,alarm,preshouse,watch,locally,nothing,1
+1719,alarm,opauto,coalarm,share,opti,1
+1719,refr,opauto,corefri,locally,insight,1
+1719,hvac,alert,cohvac,locally,reco,0
+1719,wash,lochouse,cowash,remserv,opti,1
+1719,secu,alert,locsens,share,insight,1
+1719,secu,lochouse,cosecu,locally,opti,1

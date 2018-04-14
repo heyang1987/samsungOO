@@ -1,0 +1,12 @@
+1213,tv,preshouse,colight,locally,opti,1
+1213,hvac,lochouse,locsens,remserv,insight,1
+1213,refr,preshouse,coalarm,remserv,opti,1
+1213,assis,lochouse,watch,share,opti,0
+1213,assis,alert,cowash,locally,nothing,1
+1213,alarm,alert,corefri,share,reco,1
+1213,tv,opauto,cosecu,share,insight,0
+1213,light,alert,micro,remserv,nothing,0
+1213,alarm,lochouse,coassis,locally,insight,1
+1213,secu,preshouse,cohvac,share,nothing,0
+1213,secu,opauto,cotv,locally,reco,0
+1213,wash,opauto,cam,remserv,reco,1

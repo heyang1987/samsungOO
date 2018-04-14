@@ -1,0 +1,12 @@
+222,secu,alert,cowash,locally,opti,1
+222,alarm,opauto,cohvac,locally,nothing,1
+222,assis,lochouse,locsens,remserv,reco,0
+222,refr,opauto,cosecu,share,reco,0
+222,light,preshouse,coalarm,remserv,insight,0
+222,hvac,alert,corefri,share,nothing,0
+222,tv,opauto,cam,remserv,nothing,0
+222,wash,alert,cotv,remserv,opti,0
+222,refr,preshouse,colight,locally,insight,1
+222,hvac,lochouse,coassis,locally,reco,1
+222,alarm,preshouse,micro,share,opti,0
+222,secu,lochouse,watch,share,insight,0

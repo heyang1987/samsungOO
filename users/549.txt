@@ -1,0 +1,12 @@
+549,hvac,alert,coassis,remserv,nothing,0
+549,tv,preshouse,cam,share,nothing,0
+549,tv,opauto,corefri,locally,reco,0
+549,secu,lochouse,cowash,remserv,insight,0
+549,wash,lochouse,cotv,share,opti,0
+549,light,opauto,coalarm,share,insight,1
+549,assis,alert,locsens,share,reco,0
+549,refr,opauto,colight,remserv,reco,0
+549,light,preshouse,watch,locally,opti,1
+549,assis,lochouse,cosecu,locally,insight,1
+549,alarm,preshouse,cohvac,remserv,opti,1
+549,wash,alert,micro,locally,nothing,0

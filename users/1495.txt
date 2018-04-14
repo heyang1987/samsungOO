@@ -1,0 +1,12 @@
+1495,alarm,preshouse,coalarm,locally,nothing,1
+1495,hvac,lochouse,cotv,share,nothing,1
+1495,wash,lochouse,watch,remserv,opti,1
+1495,light,opauto,cosecu,remserv,insight,1
+1495,refr,opauto,cam,locally,insight,1
+1495,assis,alert,corefri,remserv,reco,1
+1495,refr,preshouse,coassis,share,reco,1
+1495,secu,alert,colight,share,insight,0
+1495,secu,lochouse,locsens,locally,opti,1
+1495,alarm,opauto,cowash,share,opti,1
+1495,tv,preshouse,cohvac,remserv,nothing,1
+1495,hvac,alert,micro,locally,reco,1

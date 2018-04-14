@@ -1,0 +1,12 @@
+473,secu,opauto,cotv,remserv,opti,0
+473,tv,alert,colight,locally,insight,1
+473,assis,preshouse,watch,share,insight,1
+473,tv,lochouse,cosecu,share,reco,1
+473,refr,alert,coalarm,remserv,insight,1
+473,wash,lochouse,cam,remserv,nothing,0
+473,alarm,preshouse,coassis,locally,reco,1
+473,alarm,opauto,corefri,share,nothing,0
+473,hvac,preshouse,locsens,remserv,reco,0
+473,light,lochouse,cohvac,locally,nothing,1
+473,light,alert,micro,share,opti,0
+473,assis,opauto,cowash,locally,opti,1

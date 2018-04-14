@@ -1,0 +1,12 @@
+438,alarm,preshouse,colight,remserv,insight,0
+438,light,preshouse,corefri,locally,insight,0
+438,refr,opauto,cotv,remserv,nothing,0
+438,wash,lochouse,locsens,share,insight,0
+438,assis,alert,micro,share,nothing,0
+438,assis,lochouse,cohvac,locally,reco,0
+438,hvac,opauto,watch,locally,nothing,1
+438,light,opauto,cam,share,reco,0
+438,hvac,preshouse,coalarm,share,opti,0
+438,wash,alert,cosecu,locally,opti,0
+438,secu,lochouse,coassis,remserv,reco,0
+438,tv,alert,cowash,remserv,opti,0

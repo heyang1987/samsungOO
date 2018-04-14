@@ -1,0 +1,12 @@
+1329,wash,lochouse,locsens,remserv,nothing,1
+1329,assis,preshouse,micro,share,insight,1
+1329,assis,opauto,cohvac,locally,opti,1
+1329,tv,lochouse,watch,share,reco,1
+1329,refr,alert,cotv,remserv,insight,1
+1329,hvac,preshouse,coalarm,remserv,reco,1
+1329,tv,alert,cowash,locally,insight,1
+1329,alarm,opauto,cosecu,share,nothing,1
+1329,light,lochouse,corefri,locally,nothing,1
+1329,light,alert,cam,share,opti,1
+1329,secu,opauto,coassis,remserv,opti,1
+1329,alarm,preshouse,colight,locally,reco,1

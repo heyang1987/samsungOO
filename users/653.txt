@@ -1,0 +1,12 @@
+653,refr,lochouse,cam,locally,nothing,1
+653,light,opauto,locsens,share,nothing,1
+653,refr,alert,coassis,share,opti,1
+653,wash,lochouse,coalarm,share,reco,1
+653,light,preshouse,cosecu,locally,reco,1
+653,assis,opauto,corefri,remserv,opti,1
+653,tv,alert,cohvac,remserv,insight,1
+653,secu,lochouse,colight,remserv,nothing,1
+653,alarm,preshouse,cowash,remserv,reco,1
+653,wash,alert,watch,locally,insight,1
+653,hvac,preshouse,cotv,share,insight,1
+653,hvac,opauto,micro,locally,opti,1

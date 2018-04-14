@@ -1,0 +1,12 @@
+1586,assis,preshouse,coassis,remserv,opti,1
+1586,light,opauto,colight,locally,reco,1
+1586,secu,alert,locsens,remserv,nothing,1
+1586,wash,alert,watch,share,reco,1
+1586,alarm,opauto,coalarm,remserv,reco,1
+1586,hvac,preshouse,cohvac,locally,opti,1
+1586,light,preshouse,cosecu,share,nothing,1
+1586,refr,lochouse,cam,share,opti,1
+1586,hvac,opauto,micro,share,insight,1
+1586,refr,alert,corefri,locally,nothing,1
+1586,wash,lochouse,cowash,locally,insight,1
+1586,tv,lochouse,cotv,remserv,insight,1

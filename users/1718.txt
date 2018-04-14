@@ -1,0 +1,12 @@
+1718,tv,lochouse,cohvac,share,reco,1
+1718,alarm,preshouse,coalarm,locally,reco,1
+1718,refr,alert,cam,remserv,insight,1
+1718,tv,alert,cotv,locally,insight,1
+1718,light,alert,cosecu,share,opti,1
+1718,hvac,preshouse,micro,remserv,reco,0
+1718,alarm,opauto,cowash,share,nothing,0
+1718,secu,opauto,locsens,remserv,opti,1
+1718,light,lochouse,colight,locally,nothing,1
+1718,wash,lochouse,watch,remserv,nothing,0
+1718,assis,preshouse,corefri,share,insight,0
+1718,assis,opauto,coassis,locally,opti,0

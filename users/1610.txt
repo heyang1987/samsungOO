@@ -1,0 +1,12 @@
+1610,tv,lochouse,coassis,share,reco,0
+1610,assis,preshouse,colight,share,insight,1
+1610,light,lochouse,coalarm,locally,nothing,0
+1610,assis,opauto,locsens,locally,opti,1
+1610,alarm,opauto,cotv,share,nothing,0
+1610,wash,lochouse,cohvac,remserv,nothing,0
+1610,alarm,preshouse,micro,locally,reco,0
+1610,tv,alert,cam,locally,insight,1
+1610,secu,opauto,watch,remserv,opti,1
+1610,light,alert,cowash,share,opti,1
+1610,refr,alert,cosecu,remserv,insight,0
+1610,hvac,preshouse,corefri,remserv,reco,1

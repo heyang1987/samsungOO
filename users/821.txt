@@ -1,0 +1,12 @@
+821,secu,lochouse,cowash,locally,nothing,0
+821,light,opauto,coalarm,remserv,opti,1
+821,wash,opauto,cohvac,share,nothing,0
+821,tv,preshouse,cam,remserv,reco,0
+821,assis,alert,locsens,remserv,insight,1
+821,wash,preshouse,cotv,locally,reco,1
+821,alarm,lochouse,micro,remserv,nothing,0
+821,hvac,lochouse,corefri,share,reco,0
+821,refr,opauto,colight,locally,opti,1
+821,hvac,alert,coassis,locally,insight,1
+821,secu,alert,watch,share,opti,0
+821,refr,preshouse,cosecu,share,insight,0

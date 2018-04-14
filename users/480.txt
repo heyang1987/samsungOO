@@ -1,0 +1,12 @@
+480,tv,opauto,cosecu,remserv,reco,1
+480,hvac,lochouse,locsens,locally,insight,1
+480,hvac,alert,colight,share,reco,1
+480,assis,lochouse,watch,remserv,insight,1
+480,secu,alert,cotv,locally,nothing,1
+480,secu,lochouse,cohvac,share,opti,1
+480,refr,opauto,cowash,share,insight,1
+480,wash,preshouse,coassis,share,nothing,1
+480,light,preshouse,micro,remserv,opti,1
+480,refr,preshouse,coalarm,locally,opti,1
+480,wash,opauto,cam,locally,reco,1
+480,alarm,alert,corefri,remserv,nothing,1

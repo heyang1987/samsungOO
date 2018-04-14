@@ -1,0 +1,12 @@
+1137,refr,preshouse,cohvac,locally,reco,1
+1137,light,preshouse,coassis,remserv,reco,1
+1137,refr,opauto,micro,share,nothing,0
+1137,alarm,opauto,cosecu,locally,opti,1
+1137,hvac,opauto,cowash,remserv,opti,0
+1137,tv,alert,coalarm,share,opti,0
+1137,assis,lochouse,cotv,remserv,nothing,0
+1137,wash,alert,colight,remserv,insight,0
+1137,alarm,preshouse,locsens,share,insight,0
+1137,secu,alert,corefri,locally,insight,0
+1137,secu,lochouse,cam,share,reco,0
+1137,tv,lochouse,watch,locally,nothing,1

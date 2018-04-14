@@ -1,0 +1,12 @@
+1392,secu,opauto,corefri,remserv,reco,0
+1392,hvac,lochouse,cowash,share,opti,0
+1392,light,lochouse,cam,locally,insight,0
+1392,tv,preshouse,watch,remserv,opti,0
+1392,alarm,lochouse,cosecu,remserv,insight,0
+1392,wash,preshouse,locsens,locally,opti,0
+1392,wash,opauto,colight,share,insight,0
+1392,refr,alert,cohvac,remserv,nothing,1
+1392,hvac,alert,coalarm,locally,nothing,0
+1392,assis,preshouse,cotv,share,nothing,0
+1392,assis,opauto,micro,locally,reco,0
+1392,light,alert,coassis,share,reco,0

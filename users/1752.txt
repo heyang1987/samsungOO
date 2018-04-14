@@ -1,0 +1,12 @@
+1752,light,lochouse,watch,remserv,opti,1
+1752,hvac,opauto,cam,locally,insight,1
+1752,hvac,preshouse,coassis,share,reco,0
+1752,tv,alert,corefri,remserv,reco,1
+1752,secu,opauto,cowash,share,opti,1
+1752,assis,opauto,cosecu,remserv,insight,0
+1752,secu,preshouse,coalarm,locally,nothing,0
+1752,wash,lochouse,cotv,share,nothing,1
+1752,refr,alert,colight,share,insight,1
+1752,refr,lochouse,locsens,locally,opti,1
+1752,wash,alert,micro,locally,reco,1
+1752,alarm,preshouse,cohvac,remserv,nothing,0

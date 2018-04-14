@@ -1,0 +1,12 @@
+1924,secu,lochouse,cotv,share,reco,0
+1924,tv,alert,colight,share,opti,0
+1924,alarm,preshouse,coassis,share,insight,0
+1924,assis,lochouse,cowash,remserv,nothing,0
+1924,hvac,opauto,cosecu,remserv,opti,1
+1924,alarm,opauto,cam,locally,opti,1
+1924,refr,opauto,coalarm,share,nothing,0
+1924,wash,alert,corefri,remserv,insight,1
+1924,refr,preshouse,watch,locally,reco,1
+1924,secu,alert,micro,locally,insight,1
+1924,light,preshouse,cohvac,remserv,reco,1
+1924,tv,lochouse,locsens,locally,nothing,1

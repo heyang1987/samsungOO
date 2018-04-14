@@ -1,0 +1,12 @@
+1857,wash,preshouse,locsens,locally,opti,1
+1857,hvac,alert,coalarm,locally,nothing,1
+1857,wash,opauto,colight,share,insight,0
+1857,tv,preshouse,watch,remserv,opti,1
+1857,alarm,lochouse,cosecu,remserv,insight,0
+1857,refr,alert,cohvac,remserv,nothing,1
+1857,secu,opauto,corefri,remserv,reco,0
+1857,light,alert,coassis,share,reco,0
+1857,hvac,lochouse,cowash,share,opti,0
+1857,assis,opauto,micro,locally,reco,1
+1857,light,lochouse,cam,locally,insight,1
+1857,assis,preshouse,cotv,share,nothing,0

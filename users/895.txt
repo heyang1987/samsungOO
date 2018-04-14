@@ -1,0 +1,12 @@
+895,secu,preshouse,cam,share,opti,0
+895,assis,preshouse,cotv,remserv,insight,0
+895,wash,lochouse,colight,locally,reco,1
+895,hvac,preshouse,cowash,locally,insight,0
+895,secu,opauto,corefri,locally,nothing,1
+895,tv,lochouse,coalarm,remserv,reco,0
+895,light,alert,coassis,remserv,opti,1
+895,refr,alert,cohvac,locally,opti,0
+895,wash,alert,cosecu,share,nothing,1
+895,refr,lochouse,micro,share,insight,0
+895,hvac,opauto,watch,share,reco,1
+895,alarm,opauto,locsens,remserv,nothing,0

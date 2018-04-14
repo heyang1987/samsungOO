@@ -1,0 +1,12 @@
+1403,refr,preshouse,watch,locally,insight,0
+1403,alarm,opauto,cam,locally,nothing,0
+1403,hvac,lochouse,cosecu,locally,reco,0
+1403,refr,opauto,coalarm,share,reco,0
+1403,hvac,alert,locsens,share,nothing,0
+1403,alarm,preshouse,coassis,share,opti,0
+1403,light,preshouse,cohvac,remserv,insight,0
+1403,tv,opauto,colight,remserv,nothing,0
+1403,wash,alert,corefri,remserv,opti,0
+1403,secu,alert,micro,locally,opti,0
+1403,assis,lochouse,cowash,remserv,reco,0
+1403,secu,lochouse,cotv,share,insight,0

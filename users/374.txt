@@ -1,0 +1,12 @@
+374,hvac,lochouse,coassis,locally,insight,0
+374,light,preshouse,coalarm,remserv,opti,0
+374,alarm,alert,micro,remserv,nothing,0
+374,secu,lochouse,watch,share,opti,0
+374,wash,opauto,cotv,locally,reco,0
+374,assis,lochouse,locsens,remserv,insight,0
+374,wash,preshouse,cohvac,share,nothing,0
+374,refr,preshouse,colight,locally,opti,0
+374,hvac,alert,corefri,share,reco,0
+374,refr,opauto,cosecu,share,insight,0
+374,tv,opauto,cam,remserv,reco,0
+374,secu,alert,cowash,locally,nothing,0

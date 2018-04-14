@@ -1,0 +1,12 @@
+1235,wash,alert,coassis,share,insight,1
+1235,light,preshouse,cotv,share,reco,1
+1235,tv,lochouse,cosecu,remserv,opti,0
+1235,secu,alert,cohvac,remserv,reco,0
+1235,alarm,opauto,corefri,remserv,insight,0
+1235,hvac,preshouse,locsens,locally,nothing,1
+1235,hvac,opauto,colight,share,opti,1
+1235,refr,preshouse,cowash,remserv,nothing,0
+1235,light,opauto,micro,locally,insight,1
+1235,assis,lochouse,coalarm,share,nothing,0
+1235,assis,alert,watch,locally,reco,1
+1235,wash,lochouse,cam,locally,opti,0

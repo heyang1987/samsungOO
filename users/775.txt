@@ -1,0 +1,12 @@
+775,tv,opauto,corefri,share,nothing,0
+775,wash,alert,micro,share,opti,1
+775,secu,alert,coalarm,remserv,insight,1
+775,assis,lochouse,cosecu,share,reco,0
+775,light,opauto,cowash,locally,opti,0
+775,light,preshouse,watch,share,insight,0
+775,assis,alert,colight,locally,insight,1
+775,tv,preshouse,coassis,locally,reco,1
+775,alarm,opauto,cotv,remserv,opti,1
+775,hvac,lochouse,cam,remserv,nothing,1
+775,wash,lochouse,cohvac,locally,nothing,0
+775,refr,preshouse,locsens,remserv,reco,0

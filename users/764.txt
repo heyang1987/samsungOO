@@ -1,0 +1,12 @@
+764,wash,preshouse,cam,share,opti,0
+764,assis,opauto,watch,share,reco,1
+764,light,alert,cohvac,locally,opti,1
+764,refr,lochouse,coalarm,remserv,reco,0
+764,assis,preshouse,cowash,locally,insight,0
+764,wash,opauto,corefri,locally,nothing,0
+764,light,lochouse,micro,share,insight,0
+764,tv,lochouse,colight,locally,reco,0
+764,tv,alert,cosecu,share,nothing,1
+764,secu,preshouse,cotv,remserv,insight,1
+764,alarm,alert,coassis,remserv,opti,0
+764,hvac,opauto,locsens,remserv,nothing,1

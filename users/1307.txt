@@ -1,0 +1,12 @@
+1307,refr,alert,corefri,share,reco,1
+1307,assis,opauto,cam,remserv,reco,1
+1307,secu,preshouse,colight,locally,opti,0
+1307,alarm,alert,cowash,locally,nothing,0
+1307,secu,opauto,cosecu,share,insight,0
+1307,alarm,lochouse,watch,share,opti,0
+1307,hvac,opauto,cotv,locally,reco,0
+1307,wash,preshouse,coalarm,remserv,opti,0
+1307,refr,lochouse,coassis,locally,insight,0
+1307,hvac,preshouse,cohvac,share,nothing,0
+1307,light,lochouse,locsens,remserv,insight,0
+1307,tv,alert,micro,remserv,nothing,0

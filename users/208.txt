@@ -1,0 +1,12 @@
+208,secu,preshouse,watch,locally,insight,1
+208,light,lochouse,cowash,remserv,reco,1
+208,alarm,lochouse,cotv,share,insight,1
+208,refr,lochouse,cosecu,locally,reco,1
+208,tv,preshouse,coassis,share,opti,1
+208,tv,opauto,cam,locally,nothing,0
+208,hvac,alert,corefri,remserv,opti,1
+208,wash,preshouse,cohvac,remserv,insight,0
+208,refr,alert,locsens,share,nothing,0
+208,secu,opauto,coalarm,share,reco,0
+208,assis,opauto,colight,remserv,nothing,0
+208,alarm,alert,micro,locally,opti,1

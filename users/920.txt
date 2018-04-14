@@ -1,0 +1,12 @@
+920,alarm,preshouse,locsens,locally,insight,1
+920,secu,lochouse,cam,locally,reco,0
+920,hvac,preshouse,watch,remserv,insight,0
+920,secu,alert,coassis,share,nothing,0
+920,refr,alert,micro,remserv,opti,1
+920,wash,lochouse,cosecu,remserv,reco,0
+920,tv,lochouse,cowash,share,insight,0
+920,light,opauto,corefri,remserv,nothing,1
+920,assis,preshouse,cohvac,share,opti,0
+920,alarm,opauto,colight,share,reco,0
+920,tv,alert,coalarm,locally,opti,1
+920,assis,opauto,cotv,locally,nothing,1

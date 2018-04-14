@@ -1,0 +1,12 @@
+1551,light,lochouse,locsens,locally,insight,1
+1551,hvac,lochouse,cohvac,share,opti,0
+1551,assis,preshouse,coassis,share,nothing,1
+1551,secu,opauto,cosecu,remserv,reco,1
+1551,wash,preshouse,coalarm,locally,opti,1
+1551,refr,alert,corefri,remserv,nothing,1
+1551,tv,preshouse,micro,remserv,opti,1
+1551,alarm,lochouse,watch,remserv,insight,0
+1551,light,alert,colight,share,reco,0
+1551,wash,opauto,cowash,share,insight,0
+1551,hvac,alert,cotv,locally,nothing,1
+1551,assis,opauto,cam,locally,reco,1

@@ -1,0 +1,12 @@
+1113,refr,opauto,cosecu,share,insight,0
+1113,wash,preshouse,cohvac,share,nothing,1
+1113,hvac,lochouse,coassis,locally,insight,1
+1113,tv,opauto,cam,remserv,reco,1
+1113,alarm,alert,micro,remserv,nothing,1
+1113,wash,opauto,cotv,locally,reco,1
+1113,light,preshouse,coalarm,remserv,opti,1
+1113,refr,preshouse,colight,locally,opti,1
+1113,assis,lochouse,locsens,remserv,insight,1
+1113,secu,alert,cowash,locally,nothing,1
+1113,secu,lochouse,watch,share,opti,1
+1113,hvac,alert,corefri,share,reco,1

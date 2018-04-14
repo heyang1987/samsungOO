@@ -1,0 +1,12 @@
+1958,secu,opauto,cosecu,share,reco,0
+1958,light,lochouse,locsens,remserv,reco,0
+1958,alarm,lochouse,watch,share,insight,1
+1958,refr,alert,corefri,share,nothing,0
+1958,refr,lochouse,coassis,locally,reco,0
+1958,wash,preshouse,coalarm,remserv,insight,0
+1958,secu,preshouse,colight,locally,insight,1
+1958,assis,opauto,cam,remserv,nothing,0
+1958,hvac,alert,cotv,remserv,opti,0
+1958,tv,opauto,cohvac,locally,nothing,1
+1958,alarm,alert,cowash,locally,opti,0
+1958,tv,preshouse,micro,share,opti,0

@@ -1,0 +1,12 @@
+382,refr,alert,colight,remserv,reco,1
+382,tv,lochouse,cam,share,nothing,0
+382,tv,alert,corefri,locally,reco,1
+382,wash,opauto,cotv,share,opti,0
+382,alarm,lochouse,cohvac,remserv,opti,1
+382,hvac,preshouse,coassis,remserv,nothing,0
+382,light,lochouse,watch,locally,opti,1
+382,wash,preshouse,micro,locally,nothing,0
+382,secu,opauto,cowash,remserv,insight,1
+382,assis,preshouse,locsens,share,reco,0
+382,light,alert,coalarm,share,insight,0
+382,assis,opauto,cosecu,locally,insight,0

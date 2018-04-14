@@ -1,0 +1,12 @@
+309,assis,lochouse,coalarm,locally,nothing,1
+309,light,lochouse,cohvac,remserv,nothing,0
+309,secu,opauto,cotv,share,nothing,0
+309,refr,opauto,watch,remserv,opti,0
+309,assis,alert,cowash,share,opti,0
+309,wash,preshouse,corefri,remserv,reco,0
+309,tv,opauto,locsens,locally,opti,1
+309,secu,preshouse,micro,locally,reco,0
+309,alarm,lochouse,coassis,share,reco,0
+309,hvac,alert,cosecu,remserv,insight,1
+309,tv,preshouse,colight,share,insight,0
+309,alarm,alert,cam,locally,insight,1

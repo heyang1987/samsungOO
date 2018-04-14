@@ -1,0 +1,12 @@
+849,wash,lochouse,colight,locally,opti,0
+849,refr,preshouse,micro,remserv,nothing,0
+849,hvac,opauto,watch,share,opti,0
+849,secu,alert,cam,remserv,reco,0
+849,hvac,preshouse,cowash,locally,nothing,0
+849,assis,lochouse,cohvac,share,nothing,0
+849,light,opauto,coassis,locally,insight,0
+849,alarm,opauto,locsens,remserv,insight,0
+849,wash,alert,cosecu,share,insight,0
+849,assis,alert,cotv,locally,reco,0
+849,tv,lochouse,coalarm,remserv,opti,0
+849,light,preshouse,corefri,share,reco,0

@@ -1,0 +1,12 @@
+517,wash,preshouse,cotv,locally,opti,0
+517,alarm,lochouse,micro,remserv,insight,0
+517,refr,alert,cosecu,remserv,nothing,0
+517,hvac,alert,coassis,locally,nothing,1
+517,wash,opauto,cohvac,share,insight,0
+517,tv,preshouse,cam,remserv,opti,0
+517,hvac,lochouse,corefri,share,opti,0
+517,assis,opauto,locsens,locally,reco,0
+517,light,alert,cowash,share,reco,0
+517,assis,preshouse,colight,share,nothing,1
+517,secu,opauto,watch,remserv,reco,1
+517,light,lochouse,coalarm,locally,insight,0

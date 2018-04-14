@@ -1,0 +1,12 @@
+1932,alarm,lochouse,corefri,locally,opti,0
+1932,wash,opauto,coassis,remserv,insight,0
+1932,alarm,alert,cam,share,insight,0
+1932,secu,preshouse,micro,share,reco,1
+1932,light,alert,cotv,remserv,reco,1
+1932,refr,alert,cowash,locally,reco,0
+1932,refr,lochouse,watch,share,nothing,0
+1932,assis,preshouse,coalarm,remserv,nothing,1
+1932,tv,opauto,locsens,share,opti,0
+1932,hvac,lochouse,colight,remserv,opti,1
+1932,secu,opauto,cohvac,locally,insight,1
+1932,tv,preshouse,cosecu,locally,nothing,1

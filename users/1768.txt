@@ -1,0 +1,12 @@
+1768,wash,alert,coalarm,remserv,reco,1
+1768,refr,lochouse,coassis,remserv,opti,0
+1768,tv,lochouse,cohvac,locally,opti,1
+1768,assis,opauto,cam,share,opti,0
+1768,hvac,opauto,cotv,remserv,insight,1
+1768,light,preshouse,locsens,remserv,nothing,1
+1768,secu,alert,colight,locally,reco,1
+1768,alarm,opauto,cowash,locally,insight,1
+1768,secu,lochouse,cosecu,share,nothing,1
+1768,tv,alert,micro,share,insight,0
+1768,alarm,preshouse,watch,share,reco,1
+1768,assis,preshouse,corefri,locally,nothing,0

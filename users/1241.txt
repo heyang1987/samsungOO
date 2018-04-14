@@ -1,0 +1,12 @@
+1241,tv,lochouse,cowash,share,reco,0
+1241,assis,preshouse,cohvac,share,insight,0
+1241,light,lochouse,coassis,locally,nothing,1
+1241,light,alert,corefri,share,opti,1
+1241,assis,opauto,cotv,locally,opti,1
+1241,secu,opauto,cam,remserv,opti,1
+1241,refr,alert,micro,remserv,insight,0
+1241,alarm,preshouse,locsens,locally,reco,0
+1241,alarm,opauto,colight,share,nothing,0
+1241,hvac,preshouse,watch,remserv,reco,0
+1241,tv,alert,coalarm,locally,insight,1
+1241,wash,lochouse,cosecu,remserv,nothing,0

@@ -1,0 +1,12 @@
+1510,secu,opauto,cam,share,reco,1
+1510,alarm,lochouse,locsens,share,insight,1
+1510,wash,preshouse,colight,remserv,insight,1
+1510,light,lochouse,coassis,remserv,reco,0
+1510,hvac,alert,cowash,remserv,opti,1
+1510,tv,preshouse,coalarm,share,opti,1
+1510,refr,lochouse,cohvac,locally,reco,0
+1510,alarm,alert,cosecu,locally,opti,1
+1510,assis,opauto,cotv,remserv,nothing,1
+1510,refr,alert,micro,share,nothing,0
+1510,tv,opauto,watch,locally,nothing,1
+1510,secu,preshouse,corefri,locally,insight,1

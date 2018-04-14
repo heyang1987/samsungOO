@@ -1,0 +1,12 @@
+698,hvac,preshouse,micro,locally,opti,0
+698,refr,lochouse,coassis,share,opti,0
+698,tv,lochouse,cohvac,remserv,insight,0
+698,secu,alert,colight,remserv,nothing,0
+698,light,opauto,cosecu,locally,reco,0
+698,assis,preshouse,corefri,remserv,opti,0
+698,wash,lochouse,watch,locally,insight,0
+698,light,preshouse,locsens,share,nothing,0
+698,refr,alert,cam,locally,nothing,0
+698,hvac,opauto,cotv,share,insight,0
+698,alarm,opauto,cowash,remserv,reco,0
+698,wash,alert,coalarm,share,reco,0

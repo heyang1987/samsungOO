@@ -1,0 +1,12 @@
+914,tv,alert,cosecu,remserv,reco,1
+914,light,lochouse,micro,remserv,opti,1
+914,refr,lochouse,coalarm,locally,opti,0
+914,assis,opauto,watch,remserv,insight,1
+914,secu,opauto,cohvac,share,opti,1
+914,hvac,opauto,locsens,locally,insight,1
+914,secu,preshouse,cotv,locally,nothing,1
+914,wash,alert,cam,locally,reco,0
+914,hvac,preshouse,colight,share,reco,0
+914,alarm,preshouse,corefri,remserv,nothing,0
+914,refr,alert,cowash,share,insight,0
+914,wash,lochouse,coassis,share,nothing,0

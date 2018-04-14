@@ -1,0 +1,12 @@
+921,light,lochouse,cohvac,remserv,opti,1
+921,wash,alert,corefri,locally,reco,0
+921,assis,opauto,cowash,remserv,insight,1
+921,tv,alert,colight,remserv,reco,1
+921,hvac,preshouse,locsens,share,reco,1
+921,refr,alert,coalarm,share,insight,1
+921,wash,lochouse,cam,share,nothing,0
+921,hvac,opauto,cosecu,locally,insight,1
+921,alarm,preshouse,coassis,remserv,nothing,1
+921,secu,opauto,cotv,share,opti,0
+921,secu,preshouse,micro,locally,nothing,1
+921,refr,lochouse,watch,locally,opti,0

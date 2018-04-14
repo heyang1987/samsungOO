@@ -1,0 +1,12 @@
+129,wash,alert,cosecu,remserv,insight,0
+129,light,preshouse,corefri,remserv,reco,1
+129,refr,opauto,cotv,share,nothing,0
+129,assis,lochouse,cohvac,remserv,nothing,1
+129,alarm,preshouse,colight,share,insight,1
+129,secu,lochouse,coassis,share,reco,0
+129,tv,lochouse,coalarm,locally,nothing,0
+129,refr,preshouse,micro,locally,reco,0
+129,alarm,opauto,locsens,locally,opti,1
+129,secu,alert,cam,locally,insight,1
+129,tv,alert,cowash,share,opti,0
+129,hvac,opauto,watch,remserv,opti,1

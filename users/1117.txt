@@ -1,0 +1,12 @@
+1117,light,preshouse,corefri,share,insight,1
+1117,tv,opauto,cowash,share,nothing,0
+1117,light,opauto,coassis,locally,opti,1
+1117,wash,alert,cosecu,share,opti,1
+1117,refr,preshouse,micro,remserv,reco,0
+1117,assis,alert,cotv,locally,insight,0
+1117,secu,alert,cam,remserv,insight,1
+1117,assis,lochouse,cohvac,share,reco,0
+1117,hvac,lochouse,watch,remserv,nothing,0
+1117,wash,lochouse,colight,locally,nothing,0
+1117,tv,preshouse,coalarm,locally,reco,0
+1117,alarm,opauto,locsens,remserv,opti,0

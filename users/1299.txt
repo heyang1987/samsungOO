@@ -1,0 +1,12 @@
+1299,assis,opauto,locsens,share,opti,0
+1299,wash,alert,cotv,remserv,reco,1
+1299,tv,alert,cam,share,insight,0
+1299,alarm,preshouse,micro,share,reco,0
+1299,assis,preshouse,cosecu,locally,nothing,1
+1299,tv,lochouse,corefri,locally,opti,0
+1299,secu,alert,cowash,locally,reco,1
+1299,refr,lochouse,colight,remserv,opti,0
+1299,hvac,opauto,coassis,remserv,insight,1
+1299,light,preshouse,coalarm,remserv,nothing,1
+1299,alarm,opauto,cohvac,locally,insight,1
+1299,secu,lochouse,watch,share,nothing,0

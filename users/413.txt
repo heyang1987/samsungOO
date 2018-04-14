@@ -1,0 +1,12 @@
+413,light,opauto,cotv,share,reco,0
+413,tv,alert,cosecu,remserv,opti,1
+413,assis,alert,coalarm,share,nothing,0
+413,refr,opauto,cowash,remserv,nothing,1
+413,wash,lochouse,coassis,share,insight,0
+413,assis,lochouse,watch,locally,reco,0
+413,hvac,preshouse,colight,share,opti,0
+413,wash,alert,cam,locally,opti,1
+413,alarm,preshouse,corefri,remserv,insight,1
+413,secu,lochouse,cohvac,remserv,reco,0
+413,light,preshouse,micro,locally,insight,1
+413,hvac,opauto,locsens,locally,nothing,1

@@ -1,0 +1,12 @@
+248,wash,lochouse,cam,locally,opti,0
+248,refr,preshouse,cowash,remserv,nothing,0
+248,secu,alert,cohvac,remserv,reco,0
+248,tv,lochouse,cosecu,remserv,opti,1
+248,light,opauto,micro,locally,insight,1
+248,light,preshouse,cotv,share,reco,0
+248,assis,lochouse,coalarm,share,nothing,0
+248,hvac,opauto,colight,share,opti,1
+248,wash,alert,coassis,share,insight,1
+248,assis,alert,watch,locally,reco,1
+248,hvac,preshouse,locsens,locally,nothing,1
+248,alarm,opauto,corefri,remserv,insight,0

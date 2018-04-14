@@ -1,0 +1,12 @@
+173,light,opauto,colight,locally,insight,1
+173,hvac,opauto,micro,share,opti,0
+173,refr,preshouse,cam,remserv,nothing,0
+173,secu,alert,locsens,remserv,reco,1
+173,wash,alert,watch,share,insight,0
+173,assis,lochouse,corefri,share,nothing,0
+173,tv,lochouse,cotv,remserv,opti,1
+173,wash,lochouse,cowash,locally,opti,0
+173,alarm,opauto,coalarm,remserv,insight,0
+173,assis,alert,coassis,locally,reco,1
+173,hvac,preshouse,cohvac,locally,nothing,1
+173,light,preshouse,cosecu,share,reco,1

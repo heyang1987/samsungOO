@@ -1,0 +1,12 @@
+306,assis,preshouse,locsens,share,insight,0
+306,tv,alert,corefri,locally,insight,1
+306,wash,lochouse,cotv,remserv,nothing,1
+306,alarm,opauto,micro,share,nothing,0
+306,light,alert,coalarm,share,opti,0
+306,tv,lochouse,cam,share,reco,0
+306,light,lochouse,watch,locally,nothing,1
+306,secu,opauto,cowash,remserv,opti,1
+306,refr,alert,colight,remserv,insight,1
+306,hvac,preshouse,coassis,remserv,reco,1
+306,assis,opauto,cosecu,locally,opti,1
+306,alarm,preshouse,cohvac,locally,reco,1

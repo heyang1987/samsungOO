@@ -1,0 +1,12 @@
+746,alarm,preshouse,watch,share,nothing,0
+746,hvac,opauto,cotv,remserv,reco,0
+746,assis,opauto,cam,share,insight,0
+746,tv,alert,micro,share,reco,0
+746,refr,lochouse,coassis,remserv,insight,0
+746,wash,alert,coalarm,remserv,nothing,0
+746,light,alert,cosecu,locally,nothing,1
+746,secu,preshouse,colight,remserv,opti,1
+746,assis,preshouse,corefri,locally,opti,1
+746,alarm,opauto,cowash,locally,reco,0
+746,tv,lochouse,cohvac,locally,insight,1
+746,light,lochouse,locsens,share,opti,0

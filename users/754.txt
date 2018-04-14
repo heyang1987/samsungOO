@@ -1,0 +1,12 @@
+754,assis,alert,cohvac,share,opti,0
+754,wash,preshouse,cosecu,remserv,reco,0
+754,tv,preshouse,cowash,share,insight,0
+754,secu,opauto,coassis,share,nothing,1
+754,light,lochouse,corefri,remserv,nothing,0
+754,hvac,alert,watch,remserv,insight,1
+754,refr,opauto,micro,remserv,opti,0
+754,tv,opauto,coalarm,locally,opti,0
+754,alarm,alert,locsens,locally,insight,0
+754,assis,lochouse,cotv,locally,nothing,0
+754,alarm,lochouse,colight,share,reco,0
+754,secu,preshouse,cam,locally,reco,1

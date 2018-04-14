@@ -1,0 +1,12 @@
+242,tv,opauto,cosecu,locally,opti,1
+242,hvac,alert,colight,remserv,insight,1
+242,tv,preshouse,locsens,share,insight,0
+242,secu,opauto,micro,share,nothing,0
+242,refr,opauto,cowash,remserv,opti,1
+242,secu,preshouse,cohvac,locally,reco,1
+242,alarm,lochouse,cam,share,reco,0
+242,assis,alert,coalarm,share,opti,0
+242,wash,preshouse,coassis,remserv,reco,1
+242,alarm,alert,corefri,locally,insight,1
+242,light,lochouse,cotv,remserv,nothing,0
+242,assis,lochouse,watch,locally,nothing,1

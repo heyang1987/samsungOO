@@ -1,0 +1,12 @@
+1615,secu,opauto,corefri,remserv,insight,1
+1615,assis,opauto,micro,locally,insight,1
+1615,tv,lochouse,coalarm,share,nothing,0
+1615,assis,preshouse,cotv,share,reco,0
+1615,alarm,lochouse,cosecu,remserv,opti,1
+1615,refr,alert,cohvac,remserv,reco,1
+1615,light,lochouse,cam,locally,opti,1
+1615,wash,opauto,colight,share,opti,0
+1615,tv,alert,watch,locally,reco,1
+1615,wash,preshouse,locsens,locally,nothing,1
+1615,light,alert,coassis,share,insight,0
+1615,hvac,preshouse,cowash,remserv,nothing,1

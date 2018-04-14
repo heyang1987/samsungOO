@@ -1,0 +1,12 @@
+116,hvac,alert,cosecu,share,reco,1
+116,light,preshouse,cotv,remserv,opti,1
+116,refr,opauto,watch,share,insight,1
+116,assis,lochouse,coalarm,remserv,insight,1
+116,secu,alert,cohvac,locally,nothing,1
+116,tv,opauto,locsens,remserv,reco,1
+116,secu,lochouse,micro,share,opti,1
+116,wash,preshouse,corefri,share,nothing,1
+116,refr,preshouse,cowash,locally,opti,1
+116,alarm,alert,cam,remserv,nothing,1
+116,hvac,lochouse,colight,locally,insight,1
+116,wash,opauto,coassis,locally,reco,1

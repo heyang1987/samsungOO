@@ -1,0 +1,12 @@
+1493,wash,preshouse,cosecu,share,insight,0
+1493,assis,opauto,cohvac,share,nothing,1
+1493,light,lochouse,corefri,share,reco,0
+1493,tv,opauto,coalarm,remserv,opti,0
+1493,assis,preshouse,cotv,locally,reco,0
+1493,hvac,lochouse,cowash,locally,nothing,0
+1493,refr,lochouse,micro,remserv,nothing,0
+1493,wash,opauto,colight,locally,opti,0
+1493,alarm,alert,locsens,remserv,insight,0
+1493,hvac,alert,watch,share,opti,0
+1493,secu,preshouse,cam,remserv,reco,0
+1493,light,alert,coassis,locally,insight,0

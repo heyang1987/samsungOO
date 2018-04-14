@@ -1,0 +1,12 @@
+53,tv,opauto,micro,share,opti,1
+53,hvac,lochouse,cotv,remserv,opti,0
+53,light,alert,locsens,remserv,reco,0
+53,secu,opauto,colight,locally,insight,1
+53,secu,preshouse,cosecu,share,reco,0
+53,refr,lochouse,corefri,share,nothing,0
+53,alarm,lochouse,cowash,locally,opti,0
+53,alarm,alert,watch,share,insight,0
+53,tv,preshouse,cohvac,locally,nothing,0
+53,wash,opauto,coalarm,remserv,insight,0
+53,assis,preshouse,cam,remserv,nothing,1
+53,refr,alert,coassis,locally,reco,0

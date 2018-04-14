@@ -1,0 +1,12 @@
+328,light,opauto,coassis,remserv,insight,1
+328,alarm,opauto,locsens,share,opti,0
+328,alarm,preshouse,cosecu,locally,nothing,1
+328,secu,alert,cam,share,insight,0
+328,refr,opauto,cohvac,locally,insight,1
+328,wash,lochouse,colight,remserv,opti,1
+328,hvac,alert,cowash,locally,reco,1
+328,hvac,lochouse,watch,share,nothing,0
+328,refr,preshouse,micro,share,reco,0
+328,secu,lochouse,corefri,locally,opti,1
+328,tv,preshouse,coalarm,remserv,nothing,1
+328,assis,alert,cotv,remserv,reco,1

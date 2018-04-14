@@ -1,0 +1,12 @@
+1107,assis,opauto,locsens,remserv,reco,0
+1107,light,lochouse,coalarm,remserv,insight,0
+1107,hvac,preshouse,corefri,share,nothing,0
+1107,refr,alert,cosecu,share,reco,0
+1107,secu,preshouse,cowash,locally,opti,1
+1107,alarm,alert,cohvac,locally,nothing,1
+1107,secu,opauto,watch,share,insight,0
+1107,refr,lochouse,colight,locally,insight,1
+1107,alarm,lochouse,micro,share,opti,0
+1107,wash,preshouse,cotv,remserv,opti,0
+1107,hvac,opauto,coassis,locally,reco,0
+1107,tv,alert,cam,remserv,nothing,0

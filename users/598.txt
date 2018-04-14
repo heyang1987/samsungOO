@@ -1,0 +1,12 @@
+598,secu,preshouse,cowash,share,opti,1
+598,light,alert,watch,remserv,opti,1
+598,wash,alert,cotv,share,nothing,0
+598,secu,opauto,coalarm,locally,nothing,1
+598,assis,preshouse,cosecu,remserv,insight,1
+598,tv,lochouse,corefri,remserv,reco,1
+598,hvac,preshouse,cam,locally,insight,1
+598,refr,alert,locsens,locally,opti,1
+598,alarm,opauto,cohvac,remserv,nothing,1
+598,refr,lochouse,colight,share,insight,0
+598,wash,lochouse,micro,locally,reco,1
+598,hvac,opauto,coassis,share,reco,1

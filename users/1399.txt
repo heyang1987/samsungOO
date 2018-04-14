@@ -1,0 +1,12 @@
+1399,secu,opauto,cowash,remserv,reco,1
+1399,light,alert,coalarm,share,reco,0
+1399,wash,preshouse,micro,locally,opti,0
+1399,assis,opauto,cosecu,locally,reco,1
+1399,refr,alert,colight,remserv,nothing,1
+1399,hvac,alert,cam,locally,nothing,1
+1399,hvac,lochouse,coassis,share,opti,1
+1399,alarm,lochouse,cohvac,remserv,insight,0
+1399,wash,opauto,cotv,share,insight,0
+1399,assis,preshouse,locsens,share,nothing,0
+1399,light,lochouse,watch,locally,insight,1
+1399,tv,preshouse,corefri,remserv,opti,1

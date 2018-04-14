@@ -1,0 +1,12 @@
+950,assis,lochouse,cam,share,insight,0
+950,wash,opauto,coalarm,remserv,nothing,0
+950,alarm,lochouse,cowash,locally,reco,0
+950,refr,preshouse,coassis,remserv,insight,0
+950,light,preshouse,locsens,share,opti,0
+950,light,opauto,cosecu,locally,nothing,1
+950,alarm,alert,watch,share,nothing,0
+950,tv,opauto,micro,share,reco,0
+950,tv,preshouse,cohvac,locally,insight,0
+950,assis,alert,corefri,locally,opti,0
+950,hvac,lochouse,cotv,remserv,reco,0
+950,secu,alert,colight,remserv,opti,1

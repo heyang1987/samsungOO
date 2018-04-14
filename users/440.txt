@@ -1,0 +1,12 @@
+440,light,preshouse,watch,share,opti,0
+440,alarm,alert,cohvac,share,nothing,0
+440,assis,alert,colight,locally,opti,1
+440,tv,preshouse,coassis,locally,insight,1
+440,hvac,lochouse,cam,remserv,reco,0
+440,secu,alert,coalarm,remserv,opti,0
+440,assis,lochouse,cosecu,share,insight,0
+440,refr,preshouse,locsens,remserv,insight,0
+440,wash,opauto,micro,remserv,nothing,1
+440,alarm,lochouse,cotv,locally,reco,0
+440,tv,opauto,corefri,share,reco,0
+440,light,opauto,cowash,locally,nothing,0

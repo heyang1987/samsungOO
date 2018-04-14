@@ -1,0 +1,12 @@
+2035,refr,opauto,cowash,share,insight,1
+2035,wash,preshouse,coassis,share,nothing,0
+2035,assis,lochouse,watch,remserv,insight,0
+2035,secu,lochouse,cohvac,share,opti,0
+2035,wash,opauto,cam,locally,reco,1
+2035,hvac,alert,colight,share,reco,0
+2035,tv,opauto,cosecu,remserv,reco,1
+2035,refr,preshouse,coalarm,locally,opti,1
+2035,secu,alert,cotv,locally,nothing,1
+2035,light,preshouse,micro,remserv,opti,0
+2035,hvac,lochouse,locsens,locally,insight,0
+2035,alarm,alert,corefri,remserv,nothing,0

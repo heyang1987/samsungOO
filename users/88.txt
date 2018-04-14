@@ -1,0 +1,12 @@
+88,secu,alert,cam,share,insight,0
+88,wash,lochouse,colight,remserv,opti,0
+88,light,opauto,coassis,remserv,insight,0
+88,alarm,preshouse,cosecu,locally,nothing,0
+88,hvac,alert,cowash,locally,reco,0
+88,secu,lochouse,corefri,locally,opti,0
+88,refr,preshouse,micro,share,reco,0
+88,tv,preshouse,coalarm,remserv,nothing,0
+88,refr,opauto,cohvac,locally,insight,0
+88,assis,alert,cotv,remserv,reco,0
+88,alarm,opauto,locsens,share,opti,0
+88,hvac,lochouse,watch,share,nothing,0

@@ -1,0 +1,12 @@
+520,tv,preshouse,cam,locally,nothing,1
+520,alarm,lochouse,micro,locally,opti,1
+520,secu,opauto,watch,locally,insight,1
+520,secu,preshouse,coalarm,share,reco,0
+520,hvac,lochouse,corefri,remserv,opti,1
+520,refr,alert,cosecu,locally,reco,0
+520,assis,preshouse,colight,remserv,nothing,1
+520,alarm,alert,cotv,share,insight,0
+520,light,alert,cowash,remserv,reco,0
+520,wash,opauto,cohvac,remserv,insight,0
+520,tv,opauto,coassis,share,opti,0
+520,refr,lochouse,locsens,share,nothing,0

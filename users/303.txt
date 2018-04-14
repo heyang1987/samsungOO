@@ -1,0 +1,12 @@
+303,refr,opauto,cohvac,locally,nothing,0
+303,assis,alert,cotv,remserv,opti,0
+303,wash,opauto,cosecu,share,reco,0
+303,light,lochouse,coassis,locally,reco,0
+303,light,alert,corefri,share,nothing,0
+303,hvac,lochouse,watch,share,insight,0
+303,tv,preshouse,coalarm,remserv,insight,0
+303,wash,preshouse,colight,locally,insight,0
+303,refr,preshouse,micro,share,opti,0
+303,hvac,alert,cowash,locally,opti,0
+303,secu,opauto,cam,remserv,nothing,0
+303,alarm,lochouse,locsens,remserv,reco,0

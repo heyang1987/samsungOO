@@ -1,0 +1,12 @@
+1836,alarm,preshouse,coalarm,remserv,reco,0
+1836,wash,lochouse,watch,share,reco,0
+1836,assis,opauto,coassis,remserv,opti,1
+1836,light,opauto,cosecu,share,nothing,1
+1836,tv,alert,cotv,remserv,insight,1
+1836,refr,lochouse,corefri,locally,nothing,0
+1836,secu,lochouse,locsens,remserv,nothing,1
+1836,light,preshouse,colight,locally,reco,1
+1836,refr,alert,cam,share,opti,1
+1836,wash,alert,cowash,locally,insight,1
+1836,hvac,opauto,cohvac,locally,opti,1
+1836,hvac,preshouse,micro,share,insight,1

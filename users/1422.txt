@@ -1,0 +1,12 @@
+1422,assis,opauto,colight,locally,reco,1
+1422,secu,opauto,coalarm,remserv,reco,1
+1422,tv,preshouse,coassis,remserv,opti,1
+1422,alarm,lochouse,cotv,remserv,insight,1
+1422,light,lochouse,cowash,locally,insight,1
+1422,assis,preshouse,cosecu,share,nothing,1
+1422,refr,alert,locsens,remserv,nothing,1
+1422,wash,preshouse,cohvac,locally,opti,1
+1422,wash,opauto,micro,share,insight,1
+1422,light,alert,watch,share,reco,1
+1422,hvac,alert,corefri,locally,nothing,1
+1422,hvac,lochouse,cam,share,opti,0
