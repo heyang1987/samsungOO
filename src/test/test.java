@@ -17,28 +17,19 @@ public class test {
 
 	public static void main(String[] args) throws Exception {
         
-        arffFunctions.generateArff(constantVar.cluster1_2, "docs/samsung_header.txt", "model1.arff");
-        arffFunctions.generateArff(constantVar.cluster2_2, "docs/samsung_header.txt", "model2.arff");
+        arffFunctions.generateArff(constantVar.cluster436_10_1, "docs/samsung_header.txt", "model436_10_1.arff");
+        arffFunctions.generateArff(constantVar.cluster436_10_2, "docs/samsung_header.txt", "model436_10_2.arff");
 
-        DataSource source1 = new DataSource("docs/model1.arff");
-        DataSource source2 = new DataSource("docs/model2.arff");
+        DataSource source1 = new DataSource("docs/model436_10_1.arff");
+        DataSource source2 = new DataSource("docs/model436_10_2.arff");
         DataSource source3 = new DataSource("docs/model_multi.arff");
 
         Instances data1 = source1.getDataSet();
         Instances data2 = source2.getDataSet();
         Instances test = source3.getDataSet();
         
-//        for (double cf = 0.25; cf > 0; cf = cf - 0.01) {
-//        	FilteredClassifier cls = wekaFunctions.trainWithOption(data2, cf);
-//        	String clsString = cls.getClassifier().toString();
-//            //System.out.println(cls);
-//            String str = clsString.substring(clsString.length()-4, clsString.length()-1).replaceAll(".*[^\\d](?=(\\d+))","");           
-//            int treeSize = Integer.parseInt(str);
-//        	double Array1Accuracy = wekaFunctions.evalCrossValidation(cls, data2);
-//        	System.out.println(cf+"\t"+treeSize+"\t"+Array1Accuracy);
-//        }
-        FilteredClassifier cls1 = wekaFunctions.trainWithOption(data1, 0.01);
-        FilteredClassifier cls2 = wekaFunctions.trainWithOption(data2, 0.01);
+        FilteredClassifier cls1 = wekaFunctions.trainWithOption(data1, 0.25);
+        FilteredClassifier cls2 = wekaFunctions.trainWithOption(data2, 0.25);
         //System.out.println(cls1);
         //System.out.println(cls2);
         
@@ -58,27 +49,27 @@ public class test {
             	array2 = wekaFunctions.merge(array2, singleUserInstances);
         }
         
-        TextToFile("docs/model1new.arff",array1.toString());
-        TextToFile("docs/model2new.arff",array2.toString());
+        TextToFile("docs/model436_10_1new.arff",array1.toString());
+        TextToFile("docs/model436_10_2new.arff",array2.toString());
         //TextToFile("docs/model3new.arff",array3.toString());
+        
+        java.text.DecimalFormat   df   =new   java.text.DecimalFormat("0.00");
         for (double cf = 0.25; cf > 0; cf = cf - 0.01) {
-			FilteredClassifier cls = wekaFunctions.trainWithOption(array1, cf);
-			String clsString = cls.getClassifier().toString();
+			FilteredClassifier cls1new = wekaFunctions.trainWithOption(array1, cf);
+			String clsString1 = cls1new.getClassifier().toString();
 			//System.out.println(cls);
-			String str = clsString.substring(clsString.length()-4, clsString.length()-1).replaceAll(".*[^\\d](?=(\\d+))","");           
-			int treeSize = Integer.parseInt(str);
-			double Array1Accuracy = wekaFunctions.evalCrossValidation(cls, array1);
-			System.out.println(cf+"\t"+treeSize+"\t"+Array1Accuracy);
-        }
-        System.out.println();
-        for (double cf = 0.25; cf > 0; cf = cf - 0.01) {
-			FilteredClassifier cls = wekaFunctions.trainWithOption(array2, cf);
-			String clsString = cls.getClassifier().toString();
+			String str1 = clsString1.substring(clsString1.length()-4, clsString1.length()-1).replaceAll(".*[^\\d](?=(\\d+))","");           
+			int treeSize1 = Integer.parseInt(str1);
+			double Array1Accuracy1 = wekaFunctions.evalCrossValidation(cls1new, array1);
+
+
+			FilteredClassifier cls2new = wekaFunctions.trainWithOption(array2, cf);
+			String clsString2 = cls2new.getClassifier().toString();
 			//System.out.println(cls);
-			String str = clsString.substring(clsString.length()-4, clsString.length()-1).replaceAll(".*[^\\d](?=(\\d+))","");           
-			int treeSize = Integer.parseInt(str);
-			double Array1Accuracy = wekaFunctions.evalCrossValidation(cls, array2);
-			System.out.println(cf+"\t"+treeSize+"\t"+Array1Accuracy);
+			String str2 = clsString2.substring(clsString2.length()-4, clsString2.length()-1).replaceAll(".*[^\\d](?=(\\d+))","");           
+			int treeSize2 = Integer.parseInt(str2);
+			double Array1Accuracy2 = wekaFunctions.evalCrossValidation(cls2new, array2);
+			System.out.println(df.format(cf)+"\t"+treeSize1+"\t"+Array1Accuracy1+"\t"+treeSize2+"\t"+Array1Accuracy2+"\t"+(Array1Accuracy1*array1.numInstances()+Array1Accuracy2*array2.numInstances())/(array1.numInstances()+array2.numInstances()));
         }
         
 

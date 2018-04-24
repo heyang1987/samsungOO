@@ -24,7 +24,7 @@ public class Samsung {
     public static Instances noArrayInstances;
     public static Instances yesArrayInstances;
     public static Instances mulArrayInstances;
-    public static ArrayList<Instances> multiInstanceArray = new ArrayList<>(); 
+    public static ArrayList<Instances> multiInstanceArray = new ArrayList<>();
     public static String t1="N0 [label=\"0";
     public static String t2="N0 [label=\"1";
 
@@ -48,7 +48,7 @@ public class Samsung {
             //int userID = (int)allusers.instance(i).value(0);
             Instances singleUserInstances = new Instances(allusers, i, 12);
             
-            FilteredClassifier cls = wekaFunctions.train(singleUserInstances); // train
+            FilteredClassifier cls = wekaFunctions.trainWithOption(singleUserInstances, 0.25); // train
 //            double accuracy =  wekaFunctions.eval(cls, singleUserInstances,singleUserInstances); // eval
 //            System.out.println("User #:" +userID);
 //            System.out.println("Classifier :" +fc);
