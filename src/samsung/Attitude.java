@@ -10,7 +10,6 @@ import weka.core.converters.ConverterUtils.DataSource;
 public class Attitude {
 
     public static int classIndex = -1;
-    public static Random random = new Random();
 	
 	public static void main(String[] args) throws Exception {
 		String[] cf;
@@ -41,7 +40,9 @@ public class Attitude {
 		cf[23] = "0.24";
 		cf[24] = "0.25";
 		
-        DataSource source = new DataSource("docs/6Cluster.arff");
+        //DataSource source = new DataSource("docs/5Cluster.arff");
+        //DataSource source = new DataSource("docs/samsungNoSid.arff");
+        DataSource source = new DataSource("docs/Framing0.arff");
         Instances allusers=source.getDataSet();
         if (allusers.classIndex() == -1)
             classIndex=allusers.numAttributes()-1;
@@ -50,11 +51,12 @@ public class Attitude {
         int i = 0;
         for (i=0; i<25; i++) {
 	        Classifier fc = trainWithOption(allusers, cf[i]);
-	        System.out.println(fc);
 	        String cls = fc.toString();
 	        int treeSize = Integer.parseInt( cls.substring(cls.length()-4, cls.length()-1).replaceAll(".*[^\\d](?=(\\d+))","") );
-	        double accuracy = eval(fc, allusers, allusers);
-	        System.out.println("&5"+"\t&"+cf[i]+"\t&"+treeSize+"\t&"+(double)Math.round(accuracy*100)/100+" \\\\ \\cline{2-5}" );
+	        //double accuracy = eval(fc, allusers, allusers);
+	        double accuracy = evalCrossValidation(fc, allusers);
+	        System.out.println(cf[i]+"\t"+treeSize+"\t"+(double)Math.round(accuracy*100)/100 );
+	        System.out.println(fc);
 		}
 	}
 	
@@ -87,7 +89,7 @@ public class Attitude {
 	public static double evalCrossValidation(Classifier cls, Instances data) throws Exception
 	{
 		data.setClassIndex((data.numAttributes()-1));
-		//Random random = new Random();
+		Random random = new Random();
 		Evaluation eval = new Evaluation(data);
 		eval.crossValidateModel(cls, data, 10, random);
 		return eval.pctCorrect();
@@ -96,7 +98,7 @@ public class Attitude {
     public static double selfCVEval(Instances data) throws Exception
 	{
 	    data.setClassIndex((data.numAttributes()-1));
-	    //Random random = new Random();
+	    Random random = new Random();
 	    Evaluation eval = new Evaluation(data);
 	    eval.crossValidateModel(new J48(), data, 10, random);
 	    return eval.pctCorrect();

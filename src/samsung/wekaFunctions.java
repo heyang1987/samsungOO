@@ -19,7 +19,7 @@ public class wekaFunctions {
         rm.setAttributeIndices("1");  // REMOVING ID ATTRIBUTE AS THAT WON'T BE INPUT TO THE CLASSIFIER
         String[] options = new String[2];
     	options[0] = "-C";
-    	options[1] = "0.1";
+    	options[1] = "0.25";
         // classifier
         J48 j48 = new J48();
         j48.setOptions(options);
@@ -99,6 +99,30 @@ public class wekaFunctions {
         return cls;
     }
 
+    public static FilteredClassifier trainWithOption(Instances train, String cf) throws Exception
+	{
+        Remove rm = new Remove();
+        String[] options = new String[2];
+    	options[0] = "-C";
+    	options[1] = cf;
+    	
+    	// REMOVING ID ATTRIBUTE AS THAT WON'T BE INPUT TO THE CLASSIFIER
+        rm.setAttributeIndices("1"); 
+        
+        // classifier
+        J48 j48 = new J48();
+        j48.setOptions(options);
+        // using an unpruned J48
+        //j48.setUnpruned(true);        
+        // meta-classifier
+        
+        FilteredClassifier cls = new FilteredClassifier();
+        cls.setFilter(rm);
+        cls.setClassifier(j48);
+        train.setClassIndex((train.numAttributes()-1));
+        cls.buildClassifier(train);
+        return cls;
+    }
         
     public static double trainSelfEval(Instances data) throws Exception
 	{
