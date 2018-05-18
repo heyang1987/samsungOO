@@ -74,7 +74,14 @@ public class Fit2Array {
 //					"Array2's accuracy: " + Array2Accuracy);
 			Instances data1Backup = new Instances(data1);  //BACKUPS HAVE BEEN MADE JUST IN CASE WE NEED TO PUT IT BACK IN THE SAME ARRAY
 			Instances data2Backup = new Instances(data2);
-			//System.out.println("data1Backup: "+data1Backup.size()/12);
+			ArrayList<Integer> data1Id = new ArrayList<>();
+			ArrayList<Integer> data2Id = new ArrayList<>();
+			for (int i=0; i<data1.numInstances();i=i+12){
+				data1Id.add((int)data1.instance(i).value(0));
+			}
+			for (int i=0; i<data2.numInstances();i=i+12){
+				data2Id.add((int)data2.instance(i).value(0));
+			}
 			lastAccuracy1 = Array1Accuracy;
 			lastAccuracy2 = Array2Accuracy;
             data1.clear();
@@ -82,19 +89,27 @@ public class Fit2Array {
 	
             for (int i = 0; i < allusers.numInstances(); i = i + 12) {
                 Instances user = new Instances(allusers, i, 12);
+                int userID = (int)allusers.instance(i).value(0);
 
                 accuracy1 = eval(fc1, data1Backup, user);
                 accuracy2 = eval(fc2, data2Backup, user);
-                if (accuracy1 >= accuracy2){
+                if (accuracy1 > accuracy2){
                 	data1 = merge(data1, user);
                 }
                 else if (accuracy1 < accuracy2) {
                 	data2 = merge(data2, user);
                 }
+                else if (accuracy1 == accuracy2) {
+                	if (data1Id.contains(userID)){
+                		data1 = merge(data1, user);
+                	}
+                	else
+                		data2 = merge(data2, user);
+                }
             }
             //System.out.println("data1: "+data1.size()/12);
 			if ( data1.size()==data1Backup.size() && lastAccuracy1 == Array1Accuracy && lastAccuracy2 == Array2Accuracy){
-				double accuracy = (data1.numInstances()/12*Array1Accuracy + data2.numInstances()/12*Array2Accuracy)/1133;
+				double accuracy = (data1.numInstances()*Array1Accuracy + data2.numInstances()*Array2Accuracy)/(data1.numInstances()+data2.numInstances());
 				//System.out.println("*****************************************************************************");
 				//System.out.println("Arrays converged within " + expTimes + " iterations");
 				System.out.println("Cur Accuracy: " +  accuracy);
@@ -214,7 +229,7 @@ public class Fit2Array {
 		cf[23] = "0.24";
 		cf[24] = "0.25";
 		
-        DataSource source = new DataSource("docs/samsung.arff");
+        DataSource source = new DataSource("docs/framing2SID.arff");
         allusers=source.getDataSet();
         if (allusers.classIndex() == -1)
             allusers.setClassIndex(allusers.numAttributes()-1);
@@ -228,19 +243,19 @@ public class Fit2Array {
         
         int i = 0;
 
-        for (i=1; i<25; i++) {
-        	String strFilename = "./docs/2_"+cf[i]+".txt";
+        for (i=0; i<25; i++) {
+        	String strFilename = "./docs/framing2_2_"+cf[i]+".txt";
         	System.out.println(strFilename);
             try {
             	File fileText = new File(strFilename);    
     	    	FileWriter fileWriter = new FileWriter(fileText);
-				for (int j = 0; j < 100; j++){
+				for (int j = 0; j < 200; j++){
 		            System.out.println("Round "+(j+1)+":");
 		            converge(cf[i]);
 				}
 				System.out.println("*****************************************************************************");
 				System.out.println(cf[i]+ "\tFinal Statistics:\n");
-				System.out.println("maxfc1:\n"+maxFc1+"maxfc2:\n"+maxFc2);
+				System.out.println("maxfc1:\n"+maxFc1.getClassifier().toString()+"maxfc2:\n"+maxFc2.getClassifier().toString());
 				System.out.println("Array1's size: " +  finalArray1Size + "\t" + "accuracy: " + finalAccuracy1);
 				System.out.println("Array2's size: " +  finalArray2Size + "\t" + "accuracy: " + finalAccuracy2);
 				System.out.println("Max Correct Percentage: " +  maxCorrectPercentage);
