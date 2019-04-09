@@ -11,7 +11,7 @@ import weka.core.converters.ConverterUtils.DataSource;
 
 public class Agglo3 {
     
-    public static int classIndex = 0;
+    public static int classIndex = -1;
     public static int count_no;
     public static int count_yes;
     public static int count_multi;
@@ -23,35 +23,35 @@ public class Agglo3 {
     public static String t2="N0 [label=\"1";
 
     public static void main(String[] args) throws Exception {
-		String[] cf;
-		cf = new String[25];
-		cf[0] = "0.01";
-		cf[1] = "0.02";
-		cf[2] = "0.03";
-		cf[3] = "0.04";
-		cf[4] = "0.05";
-		cf[5] = "0.06";
-		cf[6] = "0.07";
-		cf[7] = "0.08";
-		cf[8] = "0.09";
-		cf[9] = "0.10";
-		cf[10] = "0.11";
-		cf[11] = "0.12";
-		cf[12] = "0.13";
-		cf[13] = "0.14";
-		cf[14] = "0.15";
-		cf[15] = "0.16";
-		cf[16] = "0.17";
-		cf[17] = "0.18";
-		cf[18] = "0.19";
-		cf[19] = "0.20";
-		cf[20] = "0.21";
-		cf[21] = "0.22";
-		cf[22] = "0.23";
-		cf[23] = "0.24";
-		cf[24] = "0.25";
-               
-		DataSource source = new DataSource("docs/samsungNoSid.arff");
+        String[] cf;
+        cf = new String[25];
+        cf[0] = "0.01";
+        cf[1] = "0.02";
+        cf[2] = "0.03";
+        cf[3] = "0.04";
+        cf[4] = "0.05";
+        cf[5] = "0.06";
+        cf[6] = "0.07";
+        cf[7] = "0.08";
+        cf[8] = "0.09";
+        cf[9] = "0.10";
+        cf[10] = "0.11";
+        cf[11] = "0.12";
+        cf[12] = "0.13";
+        cf[13] = "0.14";
+        cf[14] = "0.15";
+        cf[15] = "0.16";
+        cf[16] = "0.17";
+        cf[17] = "0.18";
+        cf[18] = "0.19";
+        cf[19] = "0.20";
+        cf[20] = "0.21";
+        cf[21] = "0.22";
+        cf[22] = "0.23";
+        cf[23] = "0.24";
+        cf[24] = "0.25";
+
+        DataSource source = new DataSource("docs/samsungNoSid.arff");
         Instances allusers=source.getDataSet();
         if (allusers.classIndex() == -1)
             classIndex=allusers.numAttributes()-1;

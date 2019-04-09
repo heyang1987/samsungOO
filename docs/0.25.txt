@@ -1,0 +1,188 @@
+0.25	Final Statistics:
+J48 pruned tree
+------------------
+
+cstore = share: 0 (2460.0/994.0)
+cstore = remserv: 1 (2460.0/587.0)
+cstore = locally: 1 (2460.0/466.0)
+
+Number of Leaves  : 	3
+
+Size of the tree : 	4
+J48 pruned tree
+------------------
+
+cstore = share: 0 (2072.0/276.0)
+cstore = remserv: 0 (2072.0/425.0)
+cstore = locally
+|   whatf = coalarm
+|   |   whof = assis: 1 (25.0/5.0)
+|   |   whof = tv: 0 (20.0/7.0)
+|   |   whof = hvac: 0 (22.0/9.0)
+|   |   whof = wash
+|   |   |   purposef = preshouse: 1 (2.0)
+|   |   |   purposef = lochouse: 0 (6.0/2.0)
+|   |   |   purposef = opauto: 1 (3.0)
+|   |   |   purposef = alert: 0 (6.0)
+|   |   whof = secu: 0 (21.0/6.0)
+|   |   whof = refr
+|   |   |   purposef = preshouse: 1 (6.0/1.0)
+|   |   |   purposef = lochouse: 0 (6.0)
+|   |   |   purposef = opauto: 0 (6.0/3.0)
+|   |   |   purposef = alert: 1 (9.0/3.0)
+|   |   whof = light
+|   |   |   caction = reco: 0 (6.0/1.0)
+|   |   |   caction = nothing: 1 (2.0)
+|   |   |   caction = opti: 1 (7.0/2.0)
+|   |   |   caction = insight
+|   |   |   |   purposef = preshouse: 1 (3.0/1.0)
+|   |   |   |   purposef = lochouse: 0 (3.0)
+|   |   |   |   purposef = opauto: 0 (0.0)
+|   |   |   |   purposef = alert: 1 (2.0)
+|   |   whof = alarm: 0 (23.0/7.0)
+|   whatf = locsens
+|   |   whof = assis
+|   |   |   caction = reco: 0 (8.0/3.0)
+|   |   |   caction = nothing: 0 (6.0/2.0)
+|   |   |   caction = opti: 0 (2.0/1.0)
+|   |   |   caction = insight: 1 (7.0/1.0)
+|   |   whof = tv: 0 (24.0/5.0)
+|   |   whof = hvac: 1 (25.0/7.0)
+|   |   whof = wash: 0 (18.0/4.0)
+|   |   whof = secu
+|   |   |   purposef = preshouse: 0 (4.0/2.0)
+|   |   |   purposef = lochouse: 0 (4.0/1.0)
+|   |   |   purposef = opauto: 1 (10.0/2.0)
+|   |   |   purposef = alert: 0 (6.0/2.0)
+|   |   whof = refr
+|   |   |   purposef = preshouse: 0 (8.0/2.0)
+|   |   |   purposef = lochouse: 1 (1.0)
+|   |   |   purposef = opauto: 1 (4.0)
+|   |   |   purposef = alert: 0 (3.0)
+|   |   whof = light: 1 (13.0/4.0)
+|   |   whof = alarm: 0 (23.0/8.0)
+|   whatf = colight
+|   |   caction = reco: 0 (41.0/9.0)
+|   |   caction = nothing: 1 (45.0/16.0)
+|   |   caction = opti: 0 (49.0/21.0)
+|   |   caction = insight: 1 (43.0/20.0)
+|   whatf = coassis
+|   |   purposef = preshouse: 0 (32.0/10.0)
+|   |   purposef = lochouse: 0 (52.0/17.0)
+|   |   purposef = opauto
+|   |   |   caction = reco: 0 (8.0/1.0)
+|   |   |   caction = nothing: 1 (15.0/3.0)
+|   |   |   caction = opti: 1 (13.0/1.0)
+|   |   |   caction = insight: 0 (13.0/5.0)
+|   |   purposef = alert: 1 (52.0/24.0)
+|   whatf = cohvac
+|   |   whof = assis: 1 (14.0/5.0)
+|   |   whof = tv: 0 (19.0/4.0)
+|   |   whof = hvac: 1 (22.0/10.0)
+|   |   whof = wash: 0 (21.0/6.0)
+|   |   whof = secu
+|   |   |   purposef = preshouse: 1 (6.0/2.0)
+|   |   |   purposef = lochouse: 0 (3.0)
+|   |   |   purposef = opauto: 1 (7.0/2.0)
+|   |   |   purposef = alert: 0 (7.0/3.0)
+|   |   whof = refr
+|   |   |   purposef = preshouse: 1 (4.0/1.0)
+|   |   |   purposef = lochouse: 0 (4.0)
+|   |   |   purposef = opauto: 1 (7.0/2.0)
+|   |   |   purposef = alert: 0 (7.0)
+|   |   whof = light
+|   |   |   purposef = preshouse: 0 (4.0/1.0)
+|   |   |   purposef = lochouse: 1 (7.0)
+|   |   |   purposef = opauto: 0 (7.0/3.0)
+|   |   |   purposef = alert: 0 (5.0/1.0)
+|   |   whof = alarm
+|   |   |   purposef = preshouse: 0 (4.0/1.0)
+|   |   |   purposef = lochouse: 0 (5.0/1.0)
+|   |   |   purposef = opauto: 1 (6.0/2.0)
+|   |   |   purposef = alert: 1 (9.0/1.0)
+|   whatf = cowash: 0 (176.0/48.0)
+|   whatf = micro: 0 (160.0/43.0)
+|   whatf = cotv
+|   |   caction = reco: 0 (49.0/6.0)
+|   |   caction = nothing: 0 (48.0/18.0)
+|   |   caction = opti
+|   |   |   whof = assis: 1 (7.0/3.0)
+|   |   |   whof = tv: 0 (5.0/1.0)
+|   |   |   whof = hvac: 0 (6.0/2.0)
+|   |   |   whof = wash
+|   |   |   |   purposef = preshouse: 0 (3.0)
+|   |   |   |   purposef = lochouse: 0 (0.0)
+|   |   |   |   purposef = opauto: 0 (2.0/1.0)
+|   |   |   |   purposef = alert: 1 (3.0)
+|   |   |   whof = secu: 1 (8.0/2.0)
+|   |   |   whof = refr: 0 (3.0)
+|   |   |   whof = light: 1 (5.0)
+|   |   |   whof = alarm: 0 (6.0/1.0)
+|   |   caction = insight
+|   |   |   purposef = preshouse: 0 (13.0/2.0)
+|   |   |   purposef = lochouse: 1 (5.0/1.0)
+|   |   |   purposef = opauto
+|   |   |   |   whof = assis: 1 (1.0)
+|   |   |   |   whof = tv: 0 (0.0)
+|   |   |   |   whof = hvac: 0 (3.0)
+|   |   |   |   whof = wash: 0 (2.0/1.0)
+|   |   |   |   whof = secu: 0 (3.0/1.0)
+|   |   |   |   whof = refr: 0 (1.0)
+|   |   |   |   whof = light: 1 (2.0)
+|   |   |   |   whof = alarm: 1 (2.0)
+|   |   |   purposef = alert: 1 (13.0/3.0)
+|   whatf = watch
+|   |   whof = assis
+|   |   |   purposef = preshouse
+|   |   |   |   caction = reco: 0 (1.0)
+|   |   |   |   caction = nothing: 1 (3.0)
+|   |   |   |   caction = opti: 0 (3.0)
+|   |   |   |   caction = insight: 1 (3.0)
+|   |   |   purposef = lochouse: 0 (4.0/1.0)
+|   |   |   purposef = opauto: 1 (3.0)
+|   |   |   purposef = alert: 1 (8.0/2.0)
+|   |   whof = tv
+|   |   |   caction = reco: 0 (2.0)
+|   |   |   caction = nothing: 1 (5.0)
+|   |   |   caction = opti: 0 (5.0/2.0)
+|   |   |   caction = insight: 1 (5.0/2.0)
+|   |   whof = hvac: 0 (22.0/8.0)
+|   |   whof = wash: 0 (22.0/6.0)
+|   |   whof = secu
+|   |   |   caction = reco: 0 (6.0)
+|   |   |   caction = nothing: 1 (5.0/1.0)
+|   |   |   caction = opti: 0 (3.0)
+|   |   |   caction = insight: 1 (5.0/1.0)
+|   |   whof = refr: 0 (17.0/4.0)
+|   |   whof = light: 1 (22.0/5.0)
+|   |   whof = alarm: 1 (20.0/7.0)
+|   whatf = corefri: 0 (166.0/46.0)
+|   whatf = cam: 0 (167.0/35.0)
+|   whatf = cosecu
+|   |   whof = assis: 1 (22.0/8.0)
+|   |   whof = tv: 0 (24.0/6.0)
+|   |   whof = hvac: 1 (20.0/8.0)
+|   |   whof = wash: 0 (21.0/2.0)
+|   |   whof = secu
+|   |   |   caction = reco: 0 (8.0/1.0)
+|   |   |   caction = nothing: 0 (6.0/3.0)
+|   |   |   caction = opti: 1 (6.0/1.0)
+|   |   |   caction = insight: 0 (5.0/1.0)
+|   |   whof = refr
+|   |   |   purposef = preshouse: 0 (4.0/2.0)
+|   |   |   purposef = lochouse: 0 (4.0/1.0)
+|   |   |   purposef = opauto: 1 (5.0/1.0)
+|   |   |   purposef = alert: 0 (6.0/1.0)
+|   |   whof = light
+|   |   |   purposef = preshouse: 0 (6.0/3.0)
+|   |   |   purposef = lochouse: 0 (4.0)
+|   |   |   purposef = opauto: 1 (6.0/1.0)
+|   |   |   purposef = alert: 0 (6.0/1.0)
+|   |   whof = alarm: 0 (21.0/6.0)
+
+Number of Leaves  : 	135
+
+Size of the tree : 	168
+Array1's size: 615	accuracy: 72.26287262872629
+Array2's size: 518	accuracy: 79.68146718146718
+Max Correct Percentage: 75.65460429538099

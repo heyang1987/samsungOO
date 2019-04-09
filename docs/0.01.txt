@@ -1,0 +1,21 @@
+0.01	Final Statistics:
+J48 pruned tree
+------------------
+: 0 (5784.0/1281.0)
+
+Number of Leaves  : 	1
+
+Size of the tree : 	1
+J48 pruned tree
+------------------
+
+cstore = share: 0 (2604.0/1031.0)
+cstore = remserv: 1 (2604.0/680.0)
+cstore = locally: 1 (2604.0/485.0)
+
+Number of Leaves  : 	3
+
+Size of the tree : 	4
+Array1's size: 482	accuracy: 77.85269709543569
+Array2's size: 651	accuracy: 71.88940092165899
+Max Correct Percentage: 74.42630185348632

@@ -3,6 +3,7 @@ package samsung;
 import java.util.Random;
 
 import weka.classifiers.Evaluation;
+import weka.classifiers.functions.MultilayerPerceptron;
 import weka.classifiers.meta.FilteredClassifier;
 import weka.classifiers.trees.J48;
 import weka.core.Attribute;
@@ -126,26 +127,77 @@ public class wekaFunctions {
         
     public static double trainSelfEval(Instances data) throws Exception
 	{
-            if (data.classIndex() == -1)
-                data.setClassIndex((data.numAttributes()-1));
+        data.setClassIndex((data.numAttributes()-1));
 
-            FilteredClassifier cls = getFilteredClassifier();
-            cls.buildClassifier(data);
-            // evaluation
-            Evaluation eval = new Evaluation(data);
-            eval.evaluateModel(cls, data);
-            return eval.pctCorrect();
+        FilteredClassifier cls = getFilteredClassifier();
+        cls.buildClassifier(data);
+        // evaluation
+        Evaluation eval = new Evaluation(data);
+        eval.evaluateModel(cls, data);
+        System.out.println(cls);
+        return eval.pctCorrect();
+	}
+    
+    public static double trainSelfCVEval(Instances data) throws Exception
+	{
+        data.setClassIndex((data.numAttributes()-1));
+
+        FilteredClassifier cls = getFilteredClassifier();
+        cls.buildClassifier(data);
+        // evaluation
+        Evaluation eval = new Evaluation(data);
+        eval.crossValidateModel(cls, data, 10, new Random(1));
+        System.out.println(cls);
+        return eval.pctCorrect();
 	}
         
     public static double selfCVEval(Instances data) throws Exception
 	{
-            data.setClassIndex((data.numAttributes()-1));
+        data.setClassIndex((data.numAttributes()-1));
 
-            FilteredClassifier cls = getFilteredClassifier();
-            Evaluation eval = new Evaluation(data);
-            eval.crossValidateModel(cls, data, 10, new Random(1));
-            return eval.pctCorrect();
+        FilteredClassifier cls = getFilteredClassifier();
+        Evaluation eval = new Evaluation(data);
+        eval.crossValidateModel(cls, data, 10, new Random(1));
+        System.out.println(cls);
+        return eval.pctCorrect();
 	}
+    
+        
+    private static FilteredClassifier getFilteredMLPClassifier() throws Exception
+    {
+        Remove rm = new Remove();  	
+        rm.setAttributeIndices("1");  // REMOVING ID ATTRIBUTE AS THAT WON'T BE INPUT TO THE CLASSIFIER
+
+        // classifier
+        MultilayerPerceptron mlp = new MultilayerPerceptron();
+        //Setting Parameters
+        mlp.setLearningRate(0.1);
+        mlp.setMomentum(0.2); // Momentum
+        mlp.setTrainingTime(10); // Training Time or Epoch
+        mlp.setHiddenLayers("3");
+        FilteredClassifier cls = new FilteredClassifier();
+        cls.setFilter(rm);
+        cls.setClassifier(mlp);
+        return cls;
+    }
+    
+    public static FilteredClassifier mlpCls (Instances train) throws Exception{
+        train.setClassIndex((train.numAttributes()-1));
+        FilteredClassifier mlp = getFilteredMLPClassifier();
+        mlp.buildClassifier(train);
+        return mlp;
+    }
+    
+    public static double mlp10foldCV (Instances train) throws Exception{
+        train.setClassIndex((train.numAttributes()-1));
+        FilteredClassifier mlp = getFilteredMLPClassifier();
+        mlp.buildClassifier(train);
+        Evaluation eval = new Evaluation(train);
+        //eval.evaluateModel(mlp, train);
+        eval.crossValidateModel(mlp, train, 10, new Random(1)); // 10-fold
+        System.out.println(eval.toSummaryString()); //Summary of Training
+        return eval.pctCorrect(); //Printing Training Mean root squared Error
+    }
 	
 	public static double eval(FilteredClassifier fc, Instances train, Instances test)  throws Exception
 	{

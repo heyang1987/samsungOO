@@ -29,6 +29,8 @@ public class Fit2Array {
 	public static double finalAccuracy1 = 0;
 	public static double finalAccuracy2 = 0;
 	public static Instances allusers;
+        public static Instances finalData1;
+        public static Instances finalData2;
 
 	public static void converge(String cf) throws Exception {
 		double Array1Accuracy = 0;
@@ -122,6 +124,8 @@ public class Fit2Array {
 					finalArray2Size = data2.numInstances()/12;
 					finalAccuracy1 = Array1Accuracy;
 					finalAccuracy2 = Array2Accuracy;
+                                        finalData1 = data1;
+                                        finalData2 = data2;
 				}
 				System.out.println("Max Accuracy: " +  maxCorrectPercentage);
 				break;
@@ -133,7 +137,8 @@ public class Fit2Array {
 	}
 
     public static FilteredClassifier train(Instances train, String cf) throws Exception
-	{
+    {
+        //System.out.println(train);
         Remove rm = new Remove();
         String[] options = new String[2];
     	options[0] = "-C";
@@ -229,7 +234,8 @@ public class Fit2Array {
 		cf[23] = "0.24";
 		cf[24] = "0.25";
 		
-        DataSource source = new DataSource("docs/framing2SID.arff");
+        //DataSource source = new DataSource("docs/framing2SID.arff");
+        DataSource source = new DataSource("docs/samsung.arff");
         allusers=source.getDataSet();
         if (allusers.classIndex() == -1)
             allusers.setClassIndex(allusers.numAttributes()-1);
@@ -243,32 +249,41 @@ public class Fit2Array {
         
         int i = 0;
 
-        for (i=0; i<25; i++) {
-        	String strFilename = "./docs/framing2_2_"+cf[i]+".txt";
+        for (i=0; i<1; i++) {
+        	//String strFilename = "./docs/framing2_2_"+cf[i]+".txt";
+            String strFilename = "./docs/"+cf[i]+".txt";
         	System.out.println(strFilename);
             try {
             	File fileText = new File(strFilename);    
     	    	FileWriter fileWriter = new FileWriter(fileText);
-				for (int j = 0; j < 200; j++){
-		            System.out.println("Round "+(j+1)+":");
-		            converge(cf[i]);
-				}
-				System.out.println("*****************************************************************************");
-				System.out.println(cf[i]+ "\tFinal Statistics:\n");
-				System.out.println("maxfc1:\n"+maxFc1.getClassifier().toString()+"maxfc2:\n"+maxFc2.getClassifier().toString());
-				System.out.println("Array1's size: " +  finalArray1Size + "\t" + "accuracy: " + finalAccuracy1);
-				System.out.println("Array2's size: " +  finalArray2Size + "\t" + "accuracy: " + finalAccuracy2);
-				System.out.println("Max Correct Percentage: " +  maxCorrectPercentage);
-				System.out.println("*****************************************************************************");
-				fileWriter.write(cf[i] + "\tFinal Statistics:\n");
-				fileWriter.write(maxFc1.getClassifier().toString()+maxFc2.getClassifier().toString());
-				fileWriter.write("Array1's size: " +  finalArray1Size + "\t" + "accuracy: " + finalAccuracy1 +"\n");
-				fileWriter.write("Array2's size: " +  finalArray2Size + "\t" + "accuracy: " + finalAccuracy2 +"\n");
-				fileWriter.write("Max Correct Percentage: " +  maxCorrectPercentage);
-				fileWriter.close(); 
-	        }
-            catch (IOException e)  
-    	    {  
+                for (int j = 0; j < 200; j++){
+                    System.out.println("Round "+(j+1)+":");
+                    converge(cf[i]);
+                }
+                System.out.println("*****************************************************************************");
+                System.out.println(cf[i]+ "\tFinal Statistics:\n");
+                System.out.println("maxfc1:\n"+maxFc1.getClassifier().toString()+"maxfc2:\n"+maxFc2.getClassifier().toString());
+                System.out.println("Array1's size: " +  finalArray1Size + "\t" + "accuracy: " + finalAccuracy1);
+                System.out.println("Array2's size: " +  finalArray2Size + "\t" + "accuracy: " + finalAccuracy2);
+                System.out.println("Max Correct Percentage: " +  maxCorrectPercentage);
+                System.out.println("*****************************************************************************");
+                fileWriter.write(cf[i] + "\tFinal Statistics:\n");
+                fileWriter.write(maxFc1.getClassifier().toString()+maxFc2.getClassifier().toString());
+                fileWriter.write("Array1's size: " +  finalArray1Size + "\t" + "accuracy: " + finalAccuracy1 +"\n");
+                fileWriter.write("Array2's size: " +  finalArray2Size + "\t" + "accuracy: " + finalAccuracy2 +"\n");
+                fileWriter.write("Max Correct Percentage: " +  maxCorrectPercentage);
+                fileWriter.close(); 
+
+                BufferedWriter writer1 = new BufferedWriter(new FileWriter("./docs/data/Fit2profile1_0.01.arff"));
+                writer1.write(finalData1.toString());
+                writer1.flush();
+                writer1.close();
+                BufferedWriter writer2 = new BufferedWriter(new FileWriter("./docs/data/Fit2profile2_0.01.arff"));
+                writer2.write(finalData2.toString());
+                writer2.flush();
+                writer2.close();
+	    }
+            catch (IOException e){  
     	      e.printStackTrace();  
     	    }
         }
