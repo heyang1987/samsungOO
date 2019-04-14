@@ -58,14 +58,16 @@ public class Fit2ArrayWithExecutorServiceMLP {
  
 		}
 		System.out.println("\nFinished all threads");
-        BufferedWriter writer1 = new BufferedWriter(new FileWriter("./docs/data/MLPFit2profile1.arff"));
-        writer1.write(finalData1.toString());
-        writer1.flush();
-        writer1.close();
-        BufferedWriter writer2 = new BufferedWriter(new FileWriter("./docs/data/MLPFit2profile2.arff"));
-        writer2.write(finalData2.toString());
-        writer2.flush();
-        writer2.close();
+        try (BufferedWriter writer1 = new BufferedWriter(new FileWriter("./docs/data/MLPFit2profile1.arff"))) {
+            writer1.write(finalData1.toString());
+            writer1.flush();
+            writer1.close();
+        }
+        try (BufferedWriter writer2 = new BufferedWriter(new FileWriter("./docs/data/MLPFit2profile2.arff"))) {
+            writer2.write(finalData2.toString());
+            writer2.flush();
+            writer2.close();
+        }
 	}
  
 	public static class MyRunnable implements Runnable {
@@ -108,14 +110,6 @@ public class Fit2ArrayWithExecutorServiceMLP {
                     System.out.println("Thread "+ t.getId() +" Iteration: " + expTimes);
                     Instances data1Backup = new Instances(data1);  //BACKUPS HAVE BEEN MADE JUST IN CASE WE NEED TO PUT IT BACK IN THE SAME ARRAY
                     Instances data2Backup = new Instances(data2);
-                    ArrayList<Integer> data1Id = new ArrayList<>();
-                    ArrayList<Integer> data2Id = new ArrayList<>();
-                    for (int i=0; i<data1.numInstances();i=i+12){
-                        data1Id.add((int)data1.instance(i).value(0));
-                    }
-                    for (int i=0; i<data2.numInstances();i=i+12){
-                        data2Id.add((int)data2.instance(i).value(0));
-                    }
                     lastAccuracy1 = Array1Accuracy;
                     lastAccuracy2 = Array2Accuracy;
                     data1.clear();
@@ -134,7 +128,7 @@ public class Fit2ArrayWithExecutorServiceMLP {
                             data2 = merge(data2, user);
                         }
                         else if (accuracy1 == accuracy2) {
-                            if (data1Id.contains(userID)){
+                            if (data1Backup.contains(user.instance(0))){
                                 data1 = merge(data1, user);
                             }
                             else
