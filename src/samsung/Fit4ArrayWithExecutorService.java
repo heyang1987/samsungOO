@@ -78,7 +78,7 @@ public class Fit4ArrayWithExecutorService {
             writer2.close();
             CSVSaver s2 = new CSVSaver();
             s2.setFile(new File("./docs/data/Fit4profile2_"+cf+".csv"));
-            s2.setInstances(finalData1);
+            s2.setInstances(finalData2);
             s2.setFieldSeparator(",");
             s2.writeBatch();
         }
@@ -89,18 +89,18 @@ public class Fit4ArrayWithExecutorService {
             writer3.close();
             CSVSaver s3 = new CSVSaver();
             s3.setFile(new File("./docs/data/Fit4profile3_"+cf+".csv"));
-            s3.setInstances(finalData1);
+            s3.setInstances(finalData3);
             s3.setFieldSeparator(",");
             s3.writeBatch();
         }
         try (BufferedWriter writer4 = new BufferedWriter(
                 new FileWriter("./docs/data/Fit4profile4_"+cf+".arff"))) {
-            writer4.write(finalData3.toString());
+            writer4.write(finalData4.toString());
             writer4.flush();
             writer4.close();
             CSVSaver s4 = new CSVSaver();
             s4.setFile(new File("./docs/data/Fit4profile4_"+cf+".csv"));
-            s4.setInstances(finalData1);
+            s4.setInstances(finalData4);
             s4.setFieldSeparator(",");
             s4.writeBatch();
         }
@@ -176,55 +176,155 @@ public class Fit4ArrayWithExecutorService {
                         Instances user = new Instances(allusers, i, 12);
                         //int userId = (int)user.instance(0).value(0);
                         
-                        accuracyArray[0] = eval(fc1, data1Backup, user);
-                        accuracyArray[1] = eval(fc2, data2Backup, user);
-                        accuracyArray[2] = eval(fc3, data3Backup, user);
-                        accuracyArray[3] = eval(fc4, data3Backup, user);
+                        accuracy1 = eval(fc1, data1Backup, user);
+                        accuracy2 = eval(fc2, data2Backup, user);
+                        accuracy3 = eval(fc3, data3Backup, user);
+                        accuracy4 = eval(fc4, data3Backup, user);
                         
-                        double max = accuracyArray[0];
-                        int index = 0;
-                        for(int j = 0; j < 4; j++)
-                        {
-                            if(max < accuracyArray[j])
+                        
+                        if (Math.max(accuracy1, accuracy2) > Math.max(accuracy3, accuracy4)){
+                            if (accuracy1 > accuracy2)
+                                data1 = merge(data1, user);
+                            else if (accuracy1 < accuracy2)
+                                data2 = merge(data2, user);
+                            else if (accuracy1 == accuracy2)
                             {
-                                max = accuracyArray[j];
-                                index = j;
+                                //System.out.println(user.get(0));
+                                if (data1Backup.contains(userId)) {
+                                    //System.out.println("In 1");
+                                    data1 = merge(data1, user);
+                                }
+                                else if (data2Backup.contains(userId)) {
+                                    //System.out.println("In 2");
+                                    data2 = merge(data2, user);
+                                }
+                                else {
+                                    Random randomNum = new Random();
+                                    if (randomNum.nextInt() % 2 == 0)
+                                        data1 = merge(data1, user);
+                                    else
+                                        data2 = merge(data2, user);
+                                }
                             }
                         }
-                        
-                        if (data1Backup.contains(user.instance(0)) 
-                                && accuracyArray[0] == max) {
-                            data1 = merge(data1, user);              		
+                        else if (Math.max(accuracy1, accuracy2) < Math.max(accuracy3, accuracy4)){
+                            if (accuracy3 > accuracy4)
+                                data3 = merge(data3, user);
+                            else if (accuracy3 < accuracy4)
+                                data4 = merge(data4, user);
+                            else if (accuracy3 == accuracy4)
+                            {
+                                if (data3Backup.contains(userId)) {
+                                    //System.out.println("In 3");
+                                    data3 = merge(data3, user);
+                                }
+                                else if (data4Backup.contains(userId)) {
+                                    //System.out.println("In 4");
+                                    data4 = merge(data4, user);
+                                }
+                                else {
+                                    Random randomNum = new Random();
+                                    if (randomNum.nextInt() % 2 == 0)
+                                        data3 = merge(data3, user);
+                                    else
+                                        data4 = merge(data4, user);
+                                }
+                            }
                         }
-                        else if (data2Backup.contains(user.instance(0)) 
-                                && accuracyArray[1] == max) {
-                            data2 = merge(data2, user);              		
+                        else if (Math.max(accuracy1, accuracy4) > Math.max(accuracy2, accuracy3)){
+                            if (accuracy1 > accuracy4)
+                                data1 = merge(data1, user);
+                            else if (accuracy1 < accuracy4)
+                                data4 = merge(data4, user);
+                            else if (accuracy1 == accuracy4)
+                            {
+                                if (data1Backup.contains(userId)) {
+                                    //System.out.println("In 1");
+                                    data1 = merge(data1, user);
+                                }
+                                else if (data4Backup.contains(userId)) {
+                                    //System.out.println("In 4");
+                                    data4 = merge(data4, user);
+                                }
+                                else {
+                                    Random randomNum = new Random();
+                                    if (randomNum.nextInt() % 2 == 0)
+                                        data1 = merge(data1, user);
+                                    else
+                                        data4 = merge(data4, user);
+                                }
+                            }
                         }
-                        else if (data3Backup.contains(user.instance(0)) 
-                                && accuracyArray[2] == max) {
-                            data3 = merge(data3, user);              		
+                        else if (Math.max(accuracy1, accuracy4) < Math.max(accuracy2, accuracy3)){
+                            if (accuracy2 > accuracy3)
+                                data2 = merge(data2, user);
+                            else if (accuracy2 < accuracy3)
+                                data3 = merge(data3, user);
+                            else if (accuracy2 == accuracy3)
+                            {
+                                if (data2Backup.contains(userId)) {
+                                    //System.out.println("In 2");
+                                    data2 = merge(data2, user);
+                                }
+                                else if (data3Backup.contains(userId)) {
+                                    //System.out.println("In 3");
+                                    data3 = merge(data3, user);
+                                }
+                                else {
+                                    Random randomNum = new Random();
+                                    if (randomNum.nextInt() % 2 == 0)
+                                        data2 = merge(data2, user);
+                                    else
+                                        data3 = merge(data3, user);
+                                }
+                            }
                         }
-                        else if (data4Backup.contains(user.instance(0)) 
-                                && accuracyArray[3] == max) {
-                            data4 = merge(data4, user);              		
+                        else if (Math.max(accuracy1, accuracy3) >= Math.max(accuracy2, accuracy4)){
+                            if (accuracy1 > accuracy3)
+                                data1 = merge(data1, user);
+                            else if (accuracy1 < accuracy3)
+                                data3 = merge(data3, user);
+                            else if (accuracy1 == accuracy3)
+                            {
+                                if (data1Backup.contains(userId)) {
+                                    //System.out.println("In 1");
+                                    data1 = merge(data1, user);
+                                }
+                                else if (data3Backup.contains(userId)) {
+                                    //System.out.println("In 3");
+                                    data3 = merge(data3, user);
+                                }
+                                else {
+                                    Random randomNum = new Random();
+                                    if (randomNum.nextInt() % 2 == 0)
+                                        data1 = merge(data1, user);
+                                    else
+                                        data3 = merge(data3, user);
+                                }
+                            }
                         }
-                        else {
-                            switch (index) {
-                                case 0:
-                                    data1 = merge(data1, user); 
-                                    break;
-                                case 1:
-                                    data2 = merge(data2, user); 
-                                    break;
-                                case 2:
-                                    data3 = merge(data3, user); 
-                                    break;
-                                case 3:
-                                    data4 = merge(data4, user); 
-                                    break;
-                                default:
-                                    System.out.println("Switch Error!");
-                                    break;
+                        else if (Math.max(accuracy1, accuracy3) < Math.max(accuracy2, accuracy4)){
+                            if (accuracy2 > accuracy4)
+                                data2 = merge(data2, user);
+                            else if (accuracy2 < accuracy4)
+                                data4 = merge(data4, user);
+                            else if (accuracy2 == accuracy4)
+                            {
+                                if (data2Backup.contains(userId)) {
+                                    //System.out.println("In 2");
+                                    data2 = merge(data2, user);
+                                }
+                                else if (data4Backup.contains(userId)) {
+                                    //System.out.println("In 4");
+                                    data4 = merge(data4, user);
+                                }
+                                else {
+                                    Random randomNum = new Random();
+                                    if (randomNum.nextInt() % 2 == 0)
+                                        data2 = merge(data2, user);
+                                    else
+                                        data4 = merge(data4, user);
+                                }
                             }
                         }
                     }

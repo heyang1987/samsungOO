@@ -2,12 +2,14 @@ package samsung;
 
 import java.util.ArrayList;
 import java.util.Collections;
+import static samsung.wekaFunctions.selfCVEval;
 
 import weka.classifiers.Classifier;
 import weka.classifiers.meta.FilteredClassifier;
 import weka.classifiers.trees.J48;
 import weka.core.Instances;
 import weka.core.converters.ConverterUtils.DataSource;
+import static samsung.wekaFunctions.trainWithOption;
 
 public class Agglo3 {
     
@@ -51,7 +53,7 @@ public class Agglo3 {
         cf[23] = "0.24";
         cf[24] = "0.25";
 
-        DataSource source = new DataSource("docs/samsungNoSid.arff");
+        DataSource source = new DataSource("docs/samsung.arff");
         Instances allusers=source.getDataSet();
         if (allusers.classIndex() == -1)
             classIndex=allusers.numAttributes()-1;
@@ -65,7 +67,7 @@ public class Agglo3 {
             //int userID = (int)allusers.instance(i).value(0);
             Instances singleUserInstances = new Instances(allusers, i, 12);
             
-            J48 cls = trainWithOption(singleUserInstances, cf[24]);
+            FilteredClassifier cls = trainWithOption(singleUserInstances, 0.25);
 
             //cls.graph() store this in a string and use string functions to parse it; put in if conditions to determine the clusters
             if(cls.graph().contains(t1)){
@@ -87,8 +89,8 @@ public class Agglo3 {
         System.out.println("'YES' node trees: " + count_yes);
         System.out.println("Multi-node trees: " + count_multi);
         
-        double accuracyNo = Attitude.selfCVEval(noArrayInstances);
-        double accuracyYes = Attitude.selfCVEval(yesArrayInstances);
+        double accuracyNo = selfCVEval(noArrayInstances);
+        double accuracyYes = selfCVEval(yesArrayInstances);
         
 
         System.out.println("noArray's accuracy is: " + accuracyNo);
@@ -101,7 +103,7 @@ public class Agglo3 {
         System.out.println(mulArrayInstances.numInstances()/12);
 
         for (int i=0; i<25; i++) {
-	        J48 fc = trainWithOption(mulArrayInstances, cf[i]);
+	        FilteredClassifier fc = trainWithOption(mulArrayInstances, cf[i]);
 	        String cls = fc.toString();
 	        int treeSize = Integer.parseInt( cls.substring(cls.length()-4, cls.length()-1).replaceAll(".*[^\\d](?=(\\d+))","") );
 	        //double accuracy = eval(fc, allusers, allusers);
@@ -113,25 +115,5 @@ public class Agglo3 {
 	        System.out.println();
 	        System.out.println();
 		}
-        
     }
-    
-    public static J48 trainWithOption(Instances train, String cf) throws Exception
-	{
-    	train.setClassIndex((train.numAttributes()-1));
-    	
-        String[] options = new String[2];
-    	options[0] = "-C";
-    	options[1] = cf;
-        
-    	//Init classifier
-    	//Classifier cls = new J48();
-    	J48 j48 = new J48();
-        j48.setOptions(options);
-    	j48.buildClassifier(train);
-    	//cls.buildClassifier(train);
-        return j48;
-    }
-
-
 }
